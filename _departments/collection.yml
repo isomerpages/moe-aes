@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Character & Citizenship Education (CCE).md
       - CCE/.keep
