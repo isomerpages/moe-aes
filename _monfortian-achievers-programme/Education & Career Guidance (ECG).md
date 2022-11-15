@@ -43,3 +43,28 @@ At secondary schools, the focus is on exploration; to help students understand t
   </tr>
 </tbody>
 </table>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Cesson Programme
+----------------
+
+The Cesson programme is an AES signature programme with a series of different activities specially designed to prepare our Secondary 4 and 5 students for the future. The name Cesson originated from the Cesson Bridge in France where our founder, St. Louis Marie de Montfort, started his 300km journey to Paris for his theological studies on foot. 
+
+The objectives of the Cesson programme are to develop AssumptionKnights to be:
+
+*   self-awareness about personal interests, abilities and career aspirations
+*   understanding in the various education pathways ahead, so as to make informed decisions
+*   skills that will help students in their education and career path
+
+AES ECG Website
+---------------
+
+Find out more about the various education pathways, admission criteria, tips on preparing for interviews for Early Admission Exercise (EAE) by visiting our [AES ECG Website](https://sites.google.com/moe.edu.sg/aescceresources/guidance-modules/education-and-career?authuser=0)!
+
+  
+
+To find out about upcoming ECG events, visit this [page](https://go.gov.sg/ecg-whats-happening)!
+
+Useful Links for Academic Pathways Exploration
+----------------------------------------------
