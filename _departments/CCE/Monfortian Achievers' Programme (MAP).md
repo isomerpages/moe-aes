@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pasted%20image%200.png)" alt="Goals of CCE 2021" style="width:80%;">  
+<body><img src="/images/pasted%20image%200.png" alt="Goals of CCE 2021" style="width:80%;">  
   
 </body>
 
@@ -41,8 +41,16 @@ MAP @ AES
 The MAP curriculum integrates the 6 content areas of CCE 2021, **Sexuality Education (SEd)**, **Education and Career Guidance (ECG)**, **Cyber-wellness (CW)**, **National Education**, **Family Education** and **Mental Health**. Also, school-initiatives such as Study skills, pro-social skills and Montfortian Ethos are included. 
 
   
-
-![MAP.png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/CCE/MAP.png)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/MAP.png" alt="MAP @ AES" style="width:50%;">  
+  
+</body>
 
 These 3 big ideas: **Identity, Relationships** and **Choices**, are interconnected and impact one another.
 
