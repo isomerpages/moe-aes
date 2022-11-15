@@ -186,7 +186,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cherminate%201.jpeg)" alt="Cherminate" style="width:70%;">  
+<body><img src="/images/Cherminate%201.jpeg" alt="Cherminate" style="width:70%;">  
   
 </body>
 
@@ -199,11 +199,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cherminate%202.jpeg)" alt="Cherminate" style="width:70%;">  
+<body><img src="/images/Cherminate%202.jpeg" alt="Cherminate" style="width:70%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;">The Cher-minator constantly keeps the precious seedling within sight, giving it only the best.</p>
 
 <style>  
 img {  
@@ -212,11 +212,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+<body><img src="/images/Cherminate%203.jpeg" alt="Cherminate" style="width:70%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;">Day or night, the Cher-minator cares for the seedling and protects it.</p>
 
 <style>  
 img {  
@@ -225,11 +225,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+<body><img src="/images/Cherminate%204.jpeg" alt="Cherminate" style="width:70%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;">Patiently and lovingly, the Cher-minator continues to stand by the budding plant's side as it matures.</p>
 
 <style>  
 img {  
@@ -238,9 +238,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+<body><img src="/images/Cherminate%205.jpeg" alt="Cherminate" style="width:70%;">  
   
 </body>
 
 <p style="text-align:center;">Everyday, the Cher-minator showers the plant with love, passing knowledge on to it.<br>Before long, the flowers bloom, the plant has finally matured, ready to conquer the world.<br><br>
 <em>Students ask, teachers answer!</em><br>Our student posted questions and student leaders asked our teachers, so that we get to <br>know our Assumption Teachers a little bit more than the subjects that they teach!</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pb8oVsTtAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
