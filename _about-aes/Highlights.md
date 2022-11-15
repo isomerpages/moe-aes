@@ -262,6 +262,26 @@ This year’s NDP theme, ‘Together A Stronger Singapore’ is a rallying call 
 
 As a school, this year’s celebration aims to unite AssumptionKnights to contribute in their individual ways, and collectively achieve a common goal, to show that we can be stronger as one, when we work together.
 
-<p style="text-align:center;">LMAOO</p>
+<p style="text-align:center;">AES Staff Virtual Choir - Home</p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/kPuwHgu2gio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Red Cross Youths - Fun Facts about Singapore</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/chgcxJTdAn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">National Cadet Corps (Sea) - Road Names in Singapore</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qL5RxMJXTHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">National Police Cadet Corps - State Flag</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1c6Ouc3k0u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Girl Guides - National Anthem and Pledge</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3sQHbMx42uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Combined Uniform Groups - National Day Observance Ceremony Parade March-In</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/usIFZeVPWU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
