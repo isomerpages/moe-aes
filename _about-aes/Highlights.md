@@ -56,3 +56,29 @@ July 2021
 This year, we invited some of our staff to share their experiences when serving NS. Some have also shared their experiences as parents, when their sons served NS.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/od3f-oNw2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**<u>Racial Harmony Day - Common Spaces, Connected Communities</u>**
+
+  
+
+Made of hexagonal cells, a honeycomb is built by honey bees to contain larvae and store honey & pollen. The hexagonal shape of the cells give the honeycomb added strength, and allow the cells to be connected easily – Connected communities.
+
+  
+
+Hence our AssumptionKnights designed their own honeycombs and we have joined some of their work together to form our AES Honeycomb!
+
+![Our AES Honeycomb](/images/July%2012.jpeg)
+
+![Our AES Honeycomb](/images/Our%20AES%20Honeycomb_2.jpg)
+
+![our AES Honeycomb](/images/July%209.jpeg)
+
+Back by popular demand, the Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure. 
+
+  
+
+Here are some of the submissions:
+
+![Coffee of my Eye](/images/July%208.jpeg)
+
+![Sec 1 AssumptionKnights](/images/July%207.jpeg)
