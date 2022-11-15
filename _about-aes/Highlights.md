@@ -155,3 +155,93 @@ Our AssumptionKnights have contributed in their own ways, by creating posters an
 Wei Yang, Qijun, Lucas, Ernest and Paven from 2/2, 2020.</em>
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-3qEZUE8B24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+October 2020
+------------
+
+Coming Soon!  
+
+September 2020
+--------------
+
+<p style="text-align:center;"><em><strong>Teachers’ Day - Cher-minate!</strong></em></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Dental</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Everyday, the Cher-minator showers the plant with love, passing knowledge on to it.<br>Before long, the flowers bloom, the plant has finally matured, ready to conquer the world.<br><br>
+<em>Students ask, teachers answer!</em><br>Our student posted questions and student leaders asked our teachers, so that we get to <br>know our Assumption Teachers a little bit more than the subjects that they teach!</p>
+
