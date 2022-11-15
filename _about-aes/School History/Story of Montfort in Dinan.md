@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dinan.jpeg" alt="Story of Montfort in Dinan" style="width:50%;">  
+<body><img src="/images/Dinan.jpeg" alt="Story of Montfort in Dinan" style="width:65%;">  
   
 </body>
 
