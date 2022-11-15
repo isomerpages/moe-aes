@@ -26,27 +26,27 @@ This year’s NDP theme is ‘Together Our Singapore Spirit’ 
 
 <p style="text-align:center;">AES Wave</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VZsWi5Z5P3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">AES @ TeamSG</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/KvePT4nE8AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">Red Cross Youths - Spirit of Resilience</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/0PRrD-__sBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">National Cadet Corps (Sea) - Spirit of Resilience</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eP1MeAKqfhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">National Police Cadet Corps - Spirit of Resilience and Hope</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N8eFKHTm_jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">Girl Guides - Spirit of Unity</p>
 
-<p style="text-align:center;">lmao</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-E5tFwYKyEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 July 2021
 ---------
