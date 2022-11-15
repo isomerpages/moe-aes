@@ -33,3 +33,13 @@ Students research on environmental messages, attended briefing by NEA and NWCDC,
 ![Sec 3 VIA - Intergenerational Bonding & Sec 4 VIA - Students’ Initiated VIA](/images/Sec%203%20VIA%20-%20Intergenerational%20Bonding%20&%20Sec%204%20VIA%20-%20Students%20Initiated%20VIA_1.jpg)
 
 ![Sec 3 VIA - Intergenerational Bonding & Sec 4 VIA - Students’ Initiated VIA](/images/Sec%203%20VIA%20-%20Intergenerational%20Bonding%20&%20Sec%204%20VIA%20-%20Students%20Initiated%20VIA_2.jpg)
+
+During the school’s REAL (Real, Engaging and Authentic Learning) Programme, some of the students underwent learning journey to Science Centre for dialogue with seniors to understand more about the ageing. All the students also went through an ageing simulation to understand how it feels like to be a senior citizen and empathise with them. This helps the students in their planning of activities to befriend residents of the various homes. 
+
+  
+
+The students carried out the games, songs and activities that were planned for the various homes, including Ren Ci Hospital.  
+
+  
+
+At Sec 4, from the VIA experience the students acquired over the 3 years, students then apply their skills to embark on projects of other causes of their choice.
