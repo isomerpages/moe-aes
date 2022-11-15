@@ -248,3 +248,20 @@ img {
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pb8oVsTtAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p style="text-align:center;">Appreciation to our teachers<br>Our AssumptionKnights and parents from the Parents’ Support Group have prepared<br>this wonderful video montage to thank our teachers for their selfless contributions.</p>
+
+August 2020
+-----------
+
+**<u>National Day Celebration - Together, A Stronger Singapore</u>**
+
+  
+
+This year’s NDP theme, ‘Together A Stronger Singapore’ is a rallying call for Singaporeans to play their part to push forward and determine Singapore’s future, in spite of the difficulties and crises.
+
+  
+
+As a school, this year’s celebration aims to unite AssumptionKnights to contribute in their individual ways, and collectively achieve a common goal, to show that we can be stronger as one, when we work together.
+
+<p style="text-align:center;">LMAOO</p>
+
+<p style="text-align:center;">LMAOOO</p>
