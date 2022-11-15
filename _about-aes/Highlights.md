@@ -47,3 +47,12 @@ This year’s NDP theme is ‘Together Our Singapore Spirit’ 
 <p style="text-align:center;">Girl Guides - Spirit of Unity</p>
 
 <p style="text-align:center;">lmao</iframe></p>
+
+July 2021
+---------
+
+**<u>NS Engagement / SAF Day 2021</u>**
+
+This year, we invited some of our staff to share their experiences when serving NS. Some have also shared their experiences as parents, when their sons served NS.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/od3f-oNw2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
