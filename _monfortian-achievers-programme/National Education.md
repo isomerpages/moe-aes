@@ -44,3 +44,22 @@ The festivities kicked off with the AES Uniformed Groups and Symphonic Band marc
 The highlights of the day’s celebrations were the carnival and the Assumptionknight Challenge! Students and staff had the opportunity to experience nostalgic memories by trying their hands at traditional games as well as enjoying local snacks such as kacang putih and biscuit piring wafer! Enthralling acts such as the performances by our Dance Ensemble and ELDDS, as well as splendid performances by our Show Choir and Band, were just some of the other highlights of the day. The celebrations ended on a high note as the school came together to sing classic National Day songs.
 
 These festivities were held to provide platforms for Assumptionknights to rediscover and share their experiences and memories of living in Singapore which coincide with this year’s theme, ‘Our Singapore’. It commemorates Singapore’s bicentennial birthday and allows us to tell our Singapore story from past to present. We must acknowledge that our youths are the pioneers of the future, and together we must collectively own the future of Singapore.
+
+![National Day Celebrations 2019](/images/National%20Day%20Celebrations%202019_1.jpg)
+
+![National Day Celebrations 2019](/images/National%20Day%20Celebrations%202019_2.jpg)
+
+![National Day Celebrations 2019](/images/National%20Day%20Celebrations%202019_3.jpg)
+
+![National Day Celebrations 2019](/images/National%20Day%20Celebrations%202019_4.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IMG_1638.jpeg" alt="National Day Celebrations 2019" style="width:50%;">  
+  
+</body>
