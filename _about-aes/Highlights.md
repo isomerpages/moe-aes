@@ -146,3 +146,10 @@ img {
 <body><img src="/images/QR%20Code.png" alt="QR Code" style="width:30%;">  
   
 </body>
+
+Our AssumptionKnights have contributed in their own ways, by creating posters and videos to raise awareness of this fund-raising event.
+
+  
+
+<em>Boys’ Town Virtual Flag Day video by our AssumptionKnights<br>
+Wei Yang, Qijun, Lucas, Ernest and Paven from 2/2, 2020.</em>
