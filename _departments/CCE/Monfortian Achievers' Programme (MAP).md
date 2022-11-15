@@ -63,3 +63,9 @@ The packages revolve around the 3 big ideas and how they affect one another. Stu
   
 
 We, at Assumption English School, are committed to ensuring that both academic excellence and character development are equally important to help our students succeed in life.
+
+### [Education & Career Guidance (ECG)](/departments/cce/monfortian-achievers-programme-map/education-n-career-guidance-ecg/)
+
+### [Cyberwellness](/departments/cce/monfortian-achievers-programme-map/cyberwellness/)
+
+### [Sexuality Education](/departments/cce/monfortian-achievers-programme-map/sexuality-education/)
