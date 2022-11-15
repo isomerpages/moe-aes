@@ -135,3 +135,14 @@ The proceeds from the Flag Day will be channelled to help children and youth-in-
 
   
 You can go to [https://www.giving.sg/boys-town/virtualflagday2020](https://www.giving.sg/boys-town/virtualflagday2020) or scan the QR code.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/QR%20Code.png" alt="QR Code" style="width:30%;">  
+  
+</body>
