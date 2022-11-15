@@ -246,3 +246,5 @@ img {
 <em>Students ask, teachers answer!</em><br>Our student posted questions and student leaders asked our teachers, so that we get to <br>know our Assumption Teachers a little bit more than the subjects that they teach!</p>
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pb8oVsTtAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Appreciation to our teachers<br>Our AssumptionKnights and parents from the Parents’ Support Group have prepared<br>this wonderful video montage to thank our teachers for their selfless contributions.</p>
