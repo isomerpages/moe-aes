@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Edusave Character Award 2022.md
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/.keep
