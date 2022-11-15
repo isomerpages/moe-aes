@@ -21,7 +21,7 @@ Labor Omnia Vincit <br>
 AssumptionKnights Unite!
 
   
-#### Mr Benjamin Kwok
+<h4><em>Mr Benjamin Kwok</em></h4>
 
 _Principal_ <br>
 Assumption English School
