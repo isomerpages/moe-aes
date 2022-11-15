@@ -82,3 +82,5 @@ Here are some of the submissions:
 ![Coffee of my Eye](/images/July%208.jpeg)
 
 ![Sec 1 AssumptionKnights](/images/July%207.jpeg)
+
+![Sec 2 AssumptionKnights](/images/July%206.jpeg)
