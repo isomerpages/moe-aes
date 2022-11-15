@@ -2,5 +2,6 @@ collections:
   monfortian-achievers-programme:
     output: true
     order:
+      - Sexuality Education.md
       - National Education.md
       - Pro Social Skills.md
