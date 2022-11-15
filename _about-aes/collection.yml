@@ -2,6 +2,7 @@ collections:
   about-aes:
     output: true
     order:
+      - Assumption's Identity/Motto and Crest.md
       - Assumption's Identity/School Song.md
       - Assumption's Identity/.keep
       - School History/School History.md
