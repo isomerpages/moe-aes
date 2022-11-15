@@ -1,4 +1,5 @@
 collections:
   monfortian-achievers-programme:
     output: true
-    order: []
+    order:
+      - Pro Social Skills.md
