@@ -18,10 +18,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
-
   
 
   
@@ -29,7 +28,6 @@ img {
 By 1955, Boys' Town English School was established as a single session, full school with classes from Primary One to Secondary Four. In 1955, the School presented its first batch of students for the School Certificate Examination.
 
   
-
 <style>  
 img {  
   display: block;  
@@ -37,11 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
-
-  
 
 In 1973, the Secondary section of CHIJ Bukit Timah merged with Boys’ Town English School and the school became a Co-educational Catholic mission School.
 
@@ -50,7 +46,6 @@ In 1973, the Secondary section of CHIJ Bukit Timah merged with Boys’ Town Engl
 The School took on the name of Assumption English School in honour of our Lady, Mother Mary, the Patroness of the Brothers of St Gabriel.
 
   
-
 <style>  
 img {  
   display: block;  
@@ -58,10 +53,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
-
   
 
 The school progressed rapidly and in 1989, the school authorities decided to upgrade the facilities to better meet the demands of education for the new millennium.
@@ -70,8 +64,6 @@ The school progressed rapidly and in 1989, the school authorities decided to upg
 
 In December 1992, the Primary Section of the school closed and the students were absorbed by St. Anthony's Primary School.
 
-  
-
 <style>  
 img {  
   display: block;  
@@ -79,10 +71,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
-
   
 
 Building of the new school building started in 1993.
@@ -99,7 +90,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
 
@@ -114,6 +105,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
   
 </body>
