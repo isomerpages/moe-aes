@@ -2,6 +2,7 @@ collections:
   about-aes:
     output: true
     order:
+      - School History/Montfort Brothers of St Gabriel.md
       - School History/Story of Montfort in Dinan.md
       - School History/.keep
       - Montfortian Education Charter.md
