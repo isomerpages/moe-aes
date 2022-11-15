@@ -14,4 +14,4 @@ third_nav_title: Assumption's Identity
 <strong>S</strong>ense of Responsibility<br>
 <strong>T</strong>rust</p>
 
-<p style="text-align:center;">Education is a journey of self-discovery where students discover their talents, clarify their values and form their moral compass.<br>AES creates an ethos that cares and challenges our AssumptionKnights to become Learners and Leaders who demonstrate<br><em>Fortitude</em>,<em>Mastery</em> and <em>Charity</em>.</p>
+<p style="text-align:center;">Education is a journey of self-discovery where students discover their talents, clarify their values and form their moral compass.<br>AES creates an ethos that cares and challenges our AssumptionKnights to become Learners and Leaders who demonstrate<br><em>Fortitude</em>, <em>Mastery</em> and <em>Charity</em>.</p>
