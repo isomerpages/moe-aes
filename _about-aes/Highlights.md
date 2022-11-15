@@ -173,11 +173,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Theme.png" alt="Cherminate Theme" style="width:80%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;">According to the theme, our student leaders designed and prepared meaningful invitation cards to invite teachers for the occasion.</p>
 
 <style>  
 img {  
@@ -186,11 +186,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+<body><img src="![](/images/Cherminate%201.jpeg)" alt="Cherminate" style="width:70%;">  
   
 </body>
 
-<p style="text-align:center;">Dental</p>
+<p style="text-align:center;">We Cher-minators received the Sec 1 students, just like how a gardener lovingly sows his seeds in a pot, eager to watch them grow.</p>
 
 <style>  
 img {  
@@ -199,7 +199,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Cherminate" style="width:70%;">  
+<body><img src="![](/images/Cherminate%202.jpeg)" alt="Cherminate" style="width:70%;">  
   
 </body>
 
@@ -244,4 +244,3 @@ img {
 
 <p style="text-align:center;">Everyday, the Cher-minator showers the plant with love, passing knowledge on to it.<br>Before long, the flowers bloom, the plant has finally matured, ready to conquer the world.<br><br>
 <em>Students ask, teachers answer!</em><br>Our student posted questions and student leaders asked our teachers, so that we get to <br>know our Assumption Teachers a little bit more than the subjects that they teach!</p>
-
