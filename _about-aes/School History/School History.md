@@ -18,7 +18,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
+<body><img src="![](/images/image%201.png)" alt="School History" style="width:75%;">  
   
 </body>
   
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School History" style="width:75%;">  
+<body><img src="![](/images/image%202.png)" alt="School History" style="width:75%;">  
   
 </body>
 
