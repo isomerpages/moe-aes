@@ -90,3 +90,7 @@ Here are some of the submissions:
 ![Sec 3 AssumptionKnights](/images/July%204.jpeg)
 
 ![Sec 3 AssumptionKnights](/images/July%203.jpeg)
+
+![Our graduating AssumptionKnights](/images/July%202.jpeg)
+
+![Our graduating AssumptionKnights](/images/July%201.jpeg)
