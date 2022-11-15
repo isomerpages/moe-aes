@@ -9,18 +9,20 @@ third_nav_title: School Management Committee
 
 <p style="text-align:center;"><strong>Name of Organisation:</strong> Assumption English School <br><br><strong>Address:</strong> 622 Upper Bukit Timah Road<br>Singapore 678117</p>
 
+----
+
 <p style="text-align:center;"><strong>Name of Contact Person:</strong> Ms Tay Mei Xia <br><br><strong>Telephone No:</strong> 65729100 <br><br><strong>Fax No:</strong> 67636560 <br><br><strong>Email Address:</strong>  aes@moe.edu.sg  <br><br><strong>Website Address:</strong> <a href="https://assumptionenglish.moe.edu.sg/">https://assumptionenglish.moe.edu.sg</a></p>
+
+----
   
 
-  
-**Charity Status****IPC Status**   Assumption English School is an Exempt Charity  
-Year of Establishment : 1953  
-UEN No : T07GS7002H  Education Central Fund, **Specific Membership –  
-(Prime Project And Indoor Sports Hall – School Building Project)**  
-Effective Date : 01 Jan 2021 to 31 Dec 2022  
-  
-A Member of Education Central Fund, General Membership  
-Date: NA  
+<p style="text-align:center;"><strong>Charity Status</strong><br><br>Assumption English School is an Exempt Charity<br>Year of Establishment : 1953<br>UEN No : T07GS7002H</p>
+
+----
+
+<p style="text-align:center;"><strong>IPC Status</strong><br><br>  Education Central Fund, <sub style="color:blue">Specific Membership –  <br>
+(Prime Project And Indoor Sports Hall – School Building Project)</sub><br>Effective Date : 01 Jan 2021 to 31 Dec 2022 <br><br>A Member of Education Central Fund, General Membership<br>Date: NA</p>
+
 **Objectives:**  
 Assumption English School is a government-aided school founded by the Montfort Brothers of St. Gabriel. The school is one of the seven Gabrielite institutions in Singapore and many others in 33 countries worldwide. The school subscribes to the Montfortian Education Charter which serves as a guide to 'form enlightened and harmonious persons committed to a just and fraternal world'. Thus the school's  philosophy is that 'We believe that Education is a journey of Self Discovery where students discover their talents, clarify their values & form their moral compass.' The school creates an ethos that cares and challenges our students to become Learners and Leaders who demonstrate Fortitude, Mastery and Charity. The school motto, Labor Omnia Vincit, sums it up clearly - our students will, through work, achieve success.  
   
