@@ -285,3 +285,47 @@ As a school, this year’s celebration aims to unite AssumptionKnights to contri
 <p style="text-align:center;">Combined Uniform Groups - National Day Observance Ceremony Parade March-In</p>
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/usIFZeVPWU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+July 2020
+---------
+
+**<u>Youth Day Celebration - Power of YOUth</u>**
+
+  
+
+As part of the Youth Day celebrations this year, the Student Council organised a Social Influencer contest for AssumptionKnights to take part in. Each class had to bring forth issues concerning youth and our society that resonate with them most by creating campaign posters and videos to rally support for their cause.
+
+By harnessing social media for a good cause, we hope to show just how powerful the voices of our AES youths can be.
+
+  
+
+Here are some of the winning submissions:
+
+<p style="text-align:center;">Sec 1 - Class 1/5 - Giving ex-offenders a second chance</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Power%20of%20Youth%20-%20Class%202-6.png" alt="Sec 1 - Class 1/5 - Giving ex-offenders a second chance" style="width:70%;">  
+  
+</body>
+
+<p style="text-align:center;">Sec 2 - Class 2/6 - Spreading kindness through friendship</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/7kp4-AcYIA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Sec 3 - Class 3/4 - Standing up against family violence</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/iqHB3skrffY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Sec 4 & 5 - Class 5/1 - Raising awareness for mental health</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/utJJIFIULZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center;">Best Film - Class 3/3 - Raising awareness about the dangers of smoking among youths</p>
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/_PmLptB6w9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
