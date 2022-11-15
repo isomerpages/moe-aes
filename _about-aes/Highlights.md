@@ -329,3 +329,79 @@ img {
 <p style="text-align:center;">Best Film - Class 3/3 - Raising awareness about the dangers of smoking among youths</p>
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/_PmLptB6w9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+**<u>Racial Harmony Day - Multicultural Singapore</u>**
+
+The Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure. Here are some of the submissions:
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/Teacher%20Ms%20Cryst%20Tan.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/1-1%20Constance.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/1-5%20Yi%20Ting.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/1-6%20Emilia.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/3-4%20Khairynn.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body>
+<img src="![](/images/5-1%20Hong%20Yan.jpeg)" alt="Racial Harmony Day - Multicultural Singapore" style="width:60%;">  
+  
+</body>
