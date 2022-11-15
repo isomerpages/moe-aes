@@ -94,3 +94,44 @@ Here are some of the submissions:
 ![Our graduating AssumptionKnights](/images/July%202.jpeg)
 
 ![Our graduating AssumptionKnights](/images/July%201.jpeg)
+
+Virtual Open House 2020
+-----------------------
+
+  
+Our Virtual Open House will be on YouTube Live on the following days:  
+
+  
+
+*   **Thursday, 26 November:** [https://youtu.be/EkzcNoxpae0](https://youtu.be/EkzcNoxpae0)  
+      
+    
+*   **Friday, 27 November:** [https://youtu.be/LfJaudHFG3c](https://youtu.be/LfJaudHFG3c)  
+      
+    
+*   **Saturday, 28 November (AM session):**  
+      
+    
+*   **Saturday, 28 November (PM session):**  
+      
+    
+*   **Monday, 30 November:**
+
+  
+
+For more information, please head over to our microsite: <br>
+**[https://sites.google.com/moe.edu.sg/aes-openhouse20/home](https://sites.google.com/moe.edu.sg/aes-openhouse20/home)**
+
+November 2020
+-------------
+
+**<u>Boys’ Town Virtual Flag Day 2020</u>**
+
+Every year, AssumptionKnights join this event to raise funds and give back to society. Unfortunately, we are unable to continue streets collection this year due to the Covid-19 situation. Instead, Boys’ Town Flag Day 2020 will continue on online platforms. We appeal to parents to support by donating and sharing the Boys’ Town Virtual Flag Day 2020 Giving.sg campaign with friends and family members.
+
+  
+
+The proceeds from the Flag Day will be channelled to help children and youth-in-need become socially integrated, responsible and contributing members of society.
+
+  
+You can go to [https://www.giving.sg/boys-town/virtualflagday2020](https://www.giving.sg/boys-town/virtualflagday2020) or scan the QR code.
