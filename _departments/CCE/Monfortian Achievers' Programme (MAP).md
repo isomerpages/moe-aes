@@ -48,7 +48,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MAP.png" alt="MAP @ AES" style="width:50%;">  
+<body><img src="/images/MAP.png" alt="MAP @ AES" style="width:65%;">  
   
 </body>
 
