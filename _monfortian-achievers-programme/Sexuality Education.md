@@ -119,11 +119,11 @@ Growing Years (GY) Programme:
 
   
 
-11.  Parents who wish to opt their children out of the **Montfortian Achievers Programme (MAP) – Sexuality Education** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/CCE/Letter%20to%20Principal%20Sexuality%20Opt-Out%20letter%202022%20for%20website.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office before the start of the Sexuality Education Lesson.
+11.  Parents who wish to opt their children out of the **Montfortian Achievers Programme (MAP) – Sexuality Education** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Letter%20to%20Principal%20Sexuality%20Opt-Out%20letter%202022%20for%20website.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office before the start of the Sexuality Education Lesson.
 
   
 
-12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/CCE/eTeens%20Parents%20Opt-out%20Form%20Sec%202022%20for%20website.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 15/02/2021.
+12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022%20for%20website.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 15/02/2021.
 
   
 
@@ -134,11 +134,9 @@ Growing Years (GY) Programme:
 14.  Parents who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.
 
   
-Opt-Out Forms
-----------------
+### Opt-Out Forms
 
   
 
-Click [here](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/CCE/eTeens%20Parents%20Opt-out%20Form%20Sec%202022%20for%20website.pdf) to download **eTeens 2021 Opt-Out Form**
-
-Click [here](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/CCE/Letter%20to%20Principal%20Sexuality%20Opt-Out%20letter%202022%20for%20website.pdf) to download **MAP-Sexuality Education 2021 Opt-Out Form**
+Click [here](/files/eTeens%20Parents%20Opt-out%20Form%20Sec%202022%20for%20website.pdf) to download **eTeens 2021 Opt-Out Form** <br>
+Click [here](/files/Letter%20to%20Principal%20Sexuality%20Opt-Out%20letter%202022%20for%20website.pdf) to download **MAP-Sexuality Education 2021 Opt-Out Form**
