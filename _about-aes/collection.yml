@@ -2,4 +2,5 @@ collections:
   about-aes:
     output: true
     order:
+      - Contact Us.md
       - Highlights.md
