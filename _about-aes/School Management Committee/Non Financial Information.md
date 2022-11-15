@@ -9,13 +9,7 @@ third_nav_title: School Management Committee
 
 <p style="text-align:center;"><strong>Name of Organisation:</strong> Assumption English School <br><br><strong>Address:</strong> 622 Upper Bukit Timah Road<br>Singapore 678117</p>
 
-
-**Name of Contact Person:** Ms Tay Mei Xia  
-  
-**Telephone No:** 65729100  
-**Fax No:** 67636560  
-**Email Address:** aes@moe.edu.sg  
-**Website Address:** [](https://assumptionenglish.moe.edu.sg/)[https://assumptionenglish.moe.edu.sg](https://assumptionenglish.moe.edu.sg/)  
+<p style="text-align:center;"><strong>Name of Contact Person:</strong> Ms Tay Mei Xia <br><br><strong>Telephone No:</strong> 65729100 <br><br><strong>Fax No:</strong> 67636560 <br><br><strong>Email Address:</strong>  aes@moe.edu.sg  <br><br><strong>Website Address:</strong> <a href="https://assumptionenglish.moe.edu.sg/">https://assumptionenglish.moe.edu.sg</a></p>
   
 
   
