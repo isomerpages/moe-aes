@@ -2,5 +2,6 @@ collections:
   value-in-action:
     output: true
     order:
+      - Boys' Town Flag Day.md
       - St Gabriel's Foundation Flag Day.md
       - Level VIA.md
