@@ -84,3 +84,9 @@ Here are some of the submissions:
 ![Sec 1 AssumptionKnights](/images/July%207.jpeg)
 
 ![Sec 2 AssumptionKnights](/images/July%206.jpeg)
+
+![Sec 2 AssumptionKnights](/images/July%205.jpeg)
+
+![Sec 3 AssumptionKnights](/images/July%204.jpeg)
+
+![Sec 3 AssumptionKnights](/images/July%203.jpeg)
