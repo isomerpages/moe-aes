@@ -92,33 +92,10 @@ Growing Years (GY) Programme:
 
 <p style="text-align:center;"> <strong>SECONDARY 5</strong></p>
 
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives  
-At the end of the lesson, students will be able to:  
-  
-** | **TIME PERIOD** |
-| --- | --- | --- | --- |
-| Respectful Relationships and Safety | 1  
-(60 mins) | 
-  
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1071px; height: 324px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(221, 221, 221); color: rgb(102, 102, 102); border: 1px solid rgb(170, 170, 170); width: 216px;"><b style="margin: 0px; outline: 0px; padding: 0px; color: rgb(88, 89, 91); background-color: rgb(204, 204, 204);">UNIT</b></th><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(221, 221, 221); color: rgb(102, 102, 102); border: 1px solid rgb(170, 170, 170); width: 111px;"><b style="margin: 0px; outline: 0px; padding: 0px; color: rgb(88, 89, 91); background-color: rgb(204, 204, 204);">LESSONS / DURATION</b></th><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(221, 221, 221); color: rgb(102, 102, 102); border: 1px solid rgb(170, 170, 170); width: 617px;"><b style="margin: 0px; outline: 0px; padding: 0px; color: rgb(88, 89, 91); background-color: rgb(204, 204, 204);">Lesson Objectives<br style="margin: 0px; outline: 0px; padding: 0px;">At the end of the lesson, students will be able to:<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></th><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(221, 221, 221); color: rgb(102, 102, 102); border: 1px solid rgb(170, 170, 170); width: 126px;"><b style="margin: 0px; outline: 0px; padding: 0px; color: rgb(88, 89, 91); background-color: rgb(204, 204, 204);">TIME PERIOD</b></th></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Respectful Relationships&nbsp;<span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">and Safety</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">1<br style="margin: 0px; outline: 0px; padding: 0px;">(60 mins)</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
-*   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.  
-      
-    
+### eTeens Programme
 
-*   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.   
-      
-    
-*   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.  
-      
-    
-
- |   
- |
-
-eTeens Programme
-----------------
-
-  
 
 8.   eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
@@ -134,8 +111,7 @@ eTeens Programme
 
   
   
-Information for Parents
------------------------------
+### Information for Parents
 
   
 
