@@ -69,3 +69,7 @@ We, at Assumption English School, are committed to ensuring that both academic e
 ### [Cyberwellness](/departments/cce/monfortian-achievers-programme-map/cyberwellness/)
 
 ### [Sexuality Education](/departments/cce/monfortian-achievers-programme-map/sexuality-education/)
+
+### [National Education](/departments/cce/monfortian-achievers-programme-map/national-education/)
+
+### [Pro Social Skills](/departments/cce/monfortian-achievers-programme-map/pro-social-skills/)
