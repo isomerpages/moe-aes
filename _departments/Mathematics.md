@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mathematics" style="width:70%;">  
+<body><img src="![](/images/Lesson-probability%20game.jpeg)" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
