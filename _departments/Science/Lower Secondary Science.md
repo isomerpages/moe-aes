@@ -15,12 +15,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Lower Secondary Science" style="width:80%;">  
+<body><img src="![](/images/Lower%20Sec%20Sci.png)" alt="Lower Secondary Science" style="width:80%;">  
   
 </body>
-<br>
 
-  
 
 ### Creative Science Innovations / Investigations (CSI)
 
@@ -47,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Experimentation stage" style="width:80%;">  
+<body><img src="![](/images/Section%201-1.jpeg)" alt="Experimentation stage" style="width:80%;">  
   
 </body>
 <br>
