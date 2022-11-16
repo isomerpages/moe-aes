@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
+      - Science/Science.md
       - Science/Lower Secondary Science.md
       - Science/Science Experiential Projects (SEP).md
       - Science/Young Scientists Programme (YSP).md
       - Science/AES Learning Festival.md
       - Science/Science Read.md
-      - Science/Science.md
-      - Science/.keep
       - Humanities.md
       - Craft & Technology.md
       - Physical Education (PE).md
