@@ -121,20 +121,17 @@ The Secondary One students took a virtual trip to the National Museum of Singapo
 
   
 
-Sec 1 HI Stages 1 & 2:
-
+Sec 1 HI Stages 1 & 2: <br>
 [https://sites.google.com/moe.edu.sg/aessec1hi2019/home](https://sites.google.com/moe.edu.sg/aessec1hi2019/home)
 
   
 
-Sec 2 HI Stage 3:
-
+Sec 2 HI Stage 3: <br>
 [https://sites.google.com/moe.edu.sg/aessec1histage32020/home](https://sites.google.com/moe.edu.sg/aessec1histage32020/home)
 
   
 
-End Product website:
-
+End Product website: <br>
 [https://sites.google.com/moe.edu.sg/aes-sec-1-history-2020/home/historical-investigation?authuser=0](https://sites.google.com/moe.edu.sg/aes-sec-1-history-2020/home/historical-investigation?authuser=0)
 
   
@@ -143,6 +140,65 @@ The Secondary Two students investigated what life was like during the Japanese O
 
   
 
-Sec 2 HI Website:
-
+Sec 2 HI Website: <br>
 [https://sites.google.com/moe.edu.sg/aessec2hi2019/home?authuser=1](https://sites.google.com/moe.edu.sg/aessec2hi2019/home?authuser=1)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+  
+</body>
+<br>
