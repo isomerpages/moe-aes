@@ -116,7 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/timed%20practice.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/timed%20practice.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -130,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/All%20Spore%20Maths%20Comp-Lower%20Sec%20NA%20NT.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/All%20Spore%20Maths%20Comp-Lower%20Sec%20NA%20NT.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -144,7 +144,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/All%20Spore%20Maths%20Comp-Upper%20Sec%20NA1.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/All%20Spore%20Maths%20Comp-Upper%20Sec%20NA1.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -158,7 +158,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Fest%202%20-%20What%20do%20numbers%20mean.png)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Learning%20Fest%202%20-%20What%20do%20numbers%20mean.png" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -172,7 +172,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Fest%201%20-%20Getting%20close.png)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Learning%20Fest%201%20-%20Getting%20close.png" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -186,7 +186,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Fest%205%20-%20How%20do%20all%20these%20add%20up.png)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Learning%20Fest%205%20-%20How%20do%20all%20these%20add%20up.png" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -200,7 +200,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Fest%206%20-%20I%20think%20we%20have%20got%20it.png)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Learning%20Fest%206%20-%20I%20think%20we%20have%20got%20it.png" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
