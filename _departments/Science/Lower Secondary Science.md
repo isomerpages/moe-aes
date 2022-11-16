@@ -36,12 +36,7 @@ The following reflection is done by a students at the end of the CSI Project:
 
 _“I think that this project enable students to think more into real life situations and problems relating to the outside world. It also encourages me to think outside the box. Like how we are related to Singapore’s increased amount of food wastage. During this kind of lessons, I realized and discover my love for science.”_
 
-  
-
-**AES CSI WEBSITE:** 
-
-**[](https://aescsi.wixsite.com/website)[https://aescsi.wixsite.com/website](https://aescsi.wixsite.com/website)** 
-
+<p style="text-align:center;"> <strong>AES CSI WEBSITE:<br><a href="https://aescsi.wixsite.com/website">https://aescsi.wixsite.com/website</a></strong></p>
 
 <p style="text-align:center;"> <strong>Experimentation stage:</strong></p>
 
