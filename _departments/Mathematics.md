@@ -20,7 +20,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mathematics_1.jpg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Mathematics_1.jpg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mathematics_2.jpg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Mathematics_2.jpg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -44,7 +44,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/20200228_095448_Burst01.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/20200228_095448_Burst01.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mathematics_4.jpg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Mathematics_4.jpg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Mathematics_5.jpg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Mathematics_5.jpg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Lesson-find%20vol%20of%20marble.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Lesson-find%20vol%20of%20marble.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Lesson-probability%20game.jpeg)" alt="Mathematics" style="width:70%;">  
+<body><img src="/images/Lesson-probability%20game.jpeg" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
