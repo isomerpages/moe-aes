@@ -156,7 +156,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-12.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -168,7 +168,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-13.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -180,7 +180,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-14.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -192,7 +192,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-15.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -208,7 +208,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="AES Learning Festival" style="width:75%;">  
+<body><img src="![](/images/Section%203-1-16.jpg)" alt="AES Learning Festival" style="width:75%;">  
   
 </body>
 <br>
@@ -222,7 +222,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="AES Learning Festival" style="width:75%;">  
+<body><img src="![](/images/Section%203-1-17.jpg)" alt="AES Learning Festival" style="width:75%;">  
   
 </body>
 <br>
@@ -238,7 +238,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Youth Science Ambassador Program" style="width:75%;">  
+<body><img src="![](/images/Section%203-2-18.jpg)" alt="Youth Science Ambassador Program" style="width:75%;">  
   
 </body>
 <br>
@@ -254,7 +254,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="HCI Science Projects Competition" style="width:75%;">  
+<body><img src="![](/images/Section%203-3-19.png)" alt="HCI Science Projects Competition" style="width:75%;">  
   
 </body>
 <br>
