@@ -14,10 +14,10 @@ third_nav_title: Science
 ### Career Guidance
 
 [Cool Jobs People with a taste for Chemistry](/files/Cool%20Jobs%20People%20with%20a%20taste%20for%20Chemistry.pdf)
-[Crime Scene Investigators](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Crime%20Scene%20Investigators.pdf)  
-[Engineers in the world](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Engineers%20in%20the%20world.pdf)  
-[Famous scientists](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Famous%20scientists.pdf)  
-[Women scientists around the world](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Women%20scientists%20around%20the%20world.pdf)  
+[Crime Scene Investigators](/files/Crime%20Scene%20Investigators.pdf)
+[Engineers in the world](/files/Engineers%20in%20the%20world.pdf)
+[Famous scientists](/files/Famous%20scientists.pdf)
+[Women scientists around the world](/files/Women%20scientists%20around%20the%20world.pdf)
 
 ### Interesting Facts in Biology
 
