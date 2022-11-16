@@ -43,3 +43,87 @@ img {
   
 </body>
 <br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+  
+</body>
+<br>
