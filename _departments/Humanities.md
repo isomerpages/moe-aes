@@ -341,7 +341,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+<body><img src="![](/images/2EN%20Post%20Exam%203.jpeg)" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
   
 </body>
 <br>
