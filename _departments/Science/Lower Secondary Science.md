@@ -22,8 +22,7 @@ img {
 
   
 
-Creative Science Innovations / Investigations (CSI)
----------------------------------------------------
+### Creative Science Innovations / Investigations (CSI)
 
   
 
@@ -49,22 +48,88 @@ _“I think that this project enable students to think more into real life situa
 
   
 
-![Section 1-1.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Section%201-1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Experimentation stage" style="width:80%;">  
+  
+</body>
+<br>
 
-![Section 1-2.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Section%201-2.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="Experimentation stage" style="width:80%;">  
+  
+</body>
+<br>
 
 **CSI Science Poster stage:**
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="CSI Science Poster stage" style="width:80%;">  
   
+</body>
+<br>
 
-![Section 1-3.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Section%201-3.jpg)  
-
-![Sci Dept 1.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Sci%20Dept%201.jpg)  
-
-![Sci Dept 2.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Sci%20Dept%202.jpg)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="CSI Science Poster stage" style="width:80%;">  
   
-![Sci Dept 3.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Sci%20Dept%203.jpg)
+</body>
+<br>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="CSI Science Poster stage" style="width:80%;">  
   
-![Sci Dept 4.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Section%201_%20Lower%20Secondary%20Science%20Photos/Sci%20Dept%204.jpg)
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="CSI Science Poster stage" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="CSI Science Poster stage" style="width:80%;">  
+  
+</body>
+<br>
