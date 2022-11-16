@@ -42,11 +42,8 @@ _“I think that this project enable students to think more into real life situa
 
 **[](https://aescsi.wixsite.com/website)[https://aescsi.wixsite.com/website](https://aescsi.wixsite.com/website)** 
 
-  
 
-**Experimentation stage:**
-
-  
+<p style="text-align:center;"> <strong>Experimentation stage:</strong></p>
 
 <style>  
 img {  
@@ -72,7 +69,7 @@ img {
 </body>
 <br>
 
-**CSI Science Poster stage:**
+<p style="text-align:center;"> <strong>CSI Science Poster stage:</strong></p>
 
 <style>  
 img {  
