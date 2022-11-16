@@ -15,7 +15,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Lower%20Sec%20Sci.png)" alt="Lower Secondary Science" style="width:80%;">  
+<body><img src="/images/Lower%20Sec%20Sci.png" alt="Lower Secondary Science" style="width:80%;">  
   
 </body>
 
@@ -45,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%201-1.jpeg)" alt="Experimentation stage" style="width:80%;">  
+<body><img src="/images/Section%201-1.jpeg" alt="Experimentation stage" style="width:80%;">  
   
 </body>
 <br>
@@ -57,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%201-2.jpeg)" alt="Experimentation stage" style="width:80%;">  
+<body><img src="/images/Section%201-2.jpeg" alt="Experimentation stage" style="width:80%;">  
   
 </body>
 <br>
@@ -71,7 +71,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%201-3.jpeg)" alt="CSI Science Poster stage" style="width:80%;">  
+<body><img src="/images/Section%201-3.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
 </body>
 <br>
@@ -83,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sci%20Dept%201.jpeg)" alt="CSI Science Poster stage" style="width:80%;">  
+<body><img src="/images/Sci%20Dept%201.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
 </body>
 <br>
@@ -95,7 +95,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sci%20Dept%202.jpeg)" alt="CSI Science Poster stage" style="width:80%;">  
+<body><img src="/images/Sci%20Dept%202.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
 </body>
 <br>
@@ -107,7 +107,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sci%20Dept%203.jpeg)" alt="CSI Science Poster stage" style="width:80%;">  
+<body><img src="/images/Sci%20Dept%203.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
 </body>
 <br>
@@ -119,7 +119,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sci%20Dept%204.jpeg)" alt="CSI Science Poster stage" style="width:80%;">  
+<body><img src="/images/Sci%20Dept%204.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
 </body>
 <br>
