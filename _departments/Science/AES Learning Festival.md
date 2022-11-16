@@ -107,7 +107,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-1.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -119,20 +119,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
-  
-</body>
-<br>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-2.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -145,7 +132,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-3.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -158,7 +145,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-4.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -171,7 +158,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-5.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -184,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-6.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
@@ -197,7 +184,20 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="A Mass Amazing Race" style="width:75%;">  
+<body><img src="![](/images/Section%204-2-7.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
+  
+</body>
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Section%204-2-8.jpg)" alt="A Mass Amazing Race" style="width:75%;">  
   
 </body>
 <br>
