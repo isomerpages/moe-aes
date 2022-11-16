@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%203-1.jpeg)" alt="Unity Science Innovation Challenge 2019" style="width:75%;">  
+<body><img src="/images/Section%203-1.jpeg" alt="Unity Science Innovation Challenge 2019" style="width:75%;">  
   
 </body>
 
@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%203-1.jpeg" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-2.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -48,7 +48,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-3.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-4.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-5.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-6.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -96,7 +96,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-7.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-8.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -120,7 +120,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-9.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -132,7 +132,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-10.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
@@ -144,7 +144,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
+<body><img src="![](/images/Section%203-11.jpeg)" alt="Cluster West 6 Science Enrichment Day" style="width:75%;">  
   
 </body>
 <br>
