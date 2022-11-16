@@ -37,7 +37,30 @@ Despite not being able to venture out of school due to COVID-19 precautionary me
   
 
 In Geography, the Secondary One and Two students were able to meaningfully examine the rainforest environments and housing estates in western parts of Singapore through the use of satellite imagery tools, such as Google Earth and Google Maps.
-
   
 
 The authenticity of the fieldwork experiences was not compromised as the Secondary One students conducted their mini Geographical Investigation on the uses of green spaces in their neighbourhoods. Similarly, the Secondary Two students collaborated on digital platforms to propose improvements to a community space, in lieu of the safe distancing measures in this ‘new normal’.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+  
+</body>
+<br>
