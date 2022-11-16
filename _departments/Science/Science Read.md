@@ -6,8 +6,8 @@ third_nav_title: Science
 ---
 ### Special Editions
 
-[The Magic Of Science](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/AES%20Science%20Festivals/Science%20Festival%202017.pdf)  
-[Science Is Everywhere](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/AES%20Science%20Festivals/Science%20Festival%202018.pdf)   
+[The Magic Of Science](/files/Science%20Festival%202017.pdf)
+[Science Is Everywhere](/files/Science%20Festival%202018.pdf) 
 
 ### Current Affairs
 
