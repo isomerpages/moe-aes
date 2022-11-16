@@ -107,7 +107,7 @@ img {
 </body>
 <br>
 
-<p style="text-align:center;">Learning Probability using Games<br>There is also regular and timed practice to develop computational, estimation, reasoning and algebraic manipulation skills and weekly Booster Programmes to support lower progress students from Secondary 1 to 4.</p>
+<p style="text-align:center;">Learning Probability using Games<br><br>There is also regular and timed practice to develop computational, estimation, reasoning and algebraic manipulation skills and weekly Booster Programmes to support lower progress students from Secondary 1 to 4.</p>
 
 <style>  
 img {  
@@ -116,12 +116,24 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mathematics" style="width:70%;">  
+<body><img src="![](/images/timed%20practice.jpeg)" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
 
 <p style="text-align:center;">There are external competitions to stretch the more mathematically-inclined students.</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/All%20Spore%20Maths%20Comp-Lower%20Sec%20NA%20NT.jpeg)" alt="Mathematics" style="width:70%;">  
+  
+</body>
+<br>
 
 <p style="text-align:center;">Lower N(A) and N(T) team: QUIZON CHRIS GERARD of Sec 2/3, WOON RUO QI of Sec 2/5,  KEZIA JUNGLE GAN SHANEN of Sec 2/4, WONGPITAKROJ WUTTIWAT of Sec 2/4 and NICHOLAS GOH of Sec 2/5</p>
 
