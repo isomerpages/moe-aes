@@ -119,3 +119,6 @@ Timothy Lee Mun Lok (class 4/1 of 2019) reflected back on his 3-year journey in 
   
 
 _“I feel that the Young Scientists Programme (YSP) enables me to discover science outside of the textbook. I feel that the main event of my YSP journey is the Hwa Chong Institution Sabbatical programmes. It helped YSP students like me realise how science is applied outside of school and examinations. We learnt plenty of knowledge from different professionals. Aside from science, I learnt leadership and communication skills. When I started off as a member in Secondary 2, I was already seen as a "science leader". This is because we organised events and generated interesting science articles for the school as one YSP family. I definitely enjoyed being in YSP and I hope future YSP students will enjoy their experience in YSP like I did.”_
+
+
+### [Our Young Scientist Program Journey in 2019](/departments/science/young-scientists-programme-ysp/our-young-scientist-program-journey-in-2019/)
