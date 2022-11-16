@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-1.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-1.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -51,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-2.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-2.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-3.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-3.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-4.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-4.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-5.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-5.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -99,7 +99,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-6.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-6.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -111,7 +111,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-7.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-7.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
@@ -123,7 +123,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Section%202-8.jpeg)" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<body><img src="/images/Section%202-8.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
 </body>
 <br>
