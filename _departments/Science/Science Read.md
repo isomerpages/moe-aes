@@ -30,12 +30,12 @@ third_nav_title: Science
 [Diffusion of gases](/files/Diffusion%20of%20gases.pdf)
 [Eating right](/files/Eating%20right.pdf)
 [Exercise](/files/Exercise.pdf)
-[Sleep and health](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Human%20Body/Sleep%20and%20health.pdf)  
-[Yawning](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Human%20Body/Yawning.pdf)  
+[Sleep and health](/files/Sleep%20and%20health.pdf) 
+[Yawning](/files/Yawning.pdf)
 
 ### Interesting Facts in Chemistry
 
-[Carbon monoxide poisoning](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Carbon%20monoxide%20poisoning.pdf)  
+[Carbon monoxide poisoning](/files/Carbon%20monoxide%20poisoning.pdf)
 [Hot Air Balloons](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Hot%20Air%20Balloons.pdf)  
 [Making Waste Work for Us](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Making%20Waste%20Work%20for%20Us.pdf)  
 [Periodic Table - new elements](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Periodic%20Table%20_%20new%20elements.pdf)  
