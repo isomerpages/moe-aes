@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Humanities.md
       - Craft & Technology.md
       - Physical Education (PE).md
