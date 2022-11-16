@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Humanities" style="width:80%;">  
+<body><img src="![](/images/Humanities%20Dept%202021.jpg)" alt="Humanities" style="width:80%;">  
   
 </body>
 
@@ -48,7 +48,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<body><img src="![](/images/Sec%201%20GI%20-%20Collecting%20fallen%20leaves%20to%20observe%20adaptation%20features%20in%20real%20life.jpeg)" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<body><img src="![](/images/Sec%201%20GI%20-%20Printing%20of%20leaf%20imprint%20and%20making%20annotations%20of%20observations.jpeg)" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 </body>
 <br>
