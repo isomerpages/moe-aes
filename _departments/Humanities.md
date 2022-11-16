@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20GI%201.jpeg)" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -92,7 +92,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20GI%202.jpeg)" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20GI%203.jpeg)" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 </body>
 <br>
