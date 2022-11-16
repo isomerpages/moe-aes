@@ -27,6 +27,54 @@ Art is offered as an elective of the school’s Upper Secondary coursework progr
 
 The Art unit infuses Art Inquiry Based Model to ensure students are able to experience authentic and creative learning opportunities. Students regularly participate in art activities and competitions while others showcase their talents in various exhibitions and school projects.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Art" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Art" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Art" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Art" style="width:80%;">  
+  
+</body>
+<br>
+
 
 Design & Technology
 -------------------
@@ -35,6 +83,54 @@ Design & Technology
 
 D&T is offered as an elective of the school’s Upper Secondary coursework program for Express, Normal Academic and Technical streams. The D&T Unit aims to make learning fun, develop students’ thinking skills, and nurture creativity. D&T is focused on students’ expression of thoughts and daring them to be more inquisitive, vocal and reflective.  Focus is made in areas of design communication, ideation, development and decision-making. They are trained to continuously be critical of their work and seek better alternatives, frequently reviewing and evaluating their decisions throughout the design process.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Design & Technology" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Design & Technology" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Design & Technology" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Design & Technology" style="width:80%;">  
+  
+</body>
+<br>
+
 Nutrition Food Science
 ----------------------
 
@@ -42,3 +138,50 @@ Nutrition Food Science
 
 Food & Nutrition (F&N) is offered as an elective of the school’s Upper Secondary coursework program for both Express and Normal Academic streams. The NFS Unit aims to make students to be more discerning and self-directed in learning with trending food issues such as food wastage, healthier eating and innovation. Students participate in cooking competitions and attend food innovation workshops.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+  
+</body>
+<br>
