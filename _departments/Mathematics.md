@@ -144,7 +144,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mathematics" style="width:70%;">  
+<body><img src="![](/images/All%20Spore%20Maths%20Comp-Upper%20Sec%20NA1.jpeg)" alt="Mathematics" style="width:70%;">  
   
 </body>
 <br>
