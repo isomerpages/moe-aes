@@ -202,3 +202,95 @@ img {
   
 </body>
 <br>
+
+**Upper Secondary Humanities**
+
+  
+
+The Upper Secondary Humanities focused on getting  students to deepen their knowledge on the impact of the weather in their environment in Geography, empathise with the different groups of people who lived during Hitler’s rule in History and also to evaluate if the lower income groups have sufficient support in Social Studies.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+  
+</body>
+<br>
