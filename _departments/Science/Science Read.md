@@ -6,14 +6,14 @@ third_nav_title: Science
 ---
 ### Special Editions
 
-[The Magic Of Science](/files/Science%20Festival%202017.pdf)
+[The Magic Of Science](/files/Science%20Festival%202017.pdf)<br>
 [Science Is Everywhere](/files/Science%20Festival%202018.pdf) 
 
 ### Current Affairs
 
 ### Career Guidance
 
-[Cool Jobs People with a taste for Chemistry](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Cool%20Jobs%20People%20with%20a%20taste%20for%20Chemistry.pdf)  
+[Cool Jobs People with a taste for Chemistry](/files/Cool%20Jobs%20People%20with%20a%20taste%20for%20Chemistry.pdf)
 [Crime Scene Investigators](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Crime%20Scene%20Investigators.pdf)  
 [Engineers in the world](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Engineers%20in%20the%20world.pdf)  
 [Famous scientists](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Career%20Guidance/Famous%20scientists.pdf)  
