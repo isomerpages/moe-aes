@@ -294,3 +294,66 @@ img {
   
 </body>
 <br>
+
+**NT Social Studies**
+
+  
+
+Students learn about national identity, living in a diverse society, financial literacy and caring for society. They apply what they learn through various performance tasks, exhibiting their creativity.
+
+  
+
+**Post-Exam Humanities Workshop for Secondary 2s** <br>
+**\- Exploring the Past, Present and Future of Public Housing in Singapore**
+
+  
+
+AssumptionKnights went through various station activities to discover the history and development of public housing in Singapore (History) and observe the characteristics of modern day HDB flats (Geography). Besides viewing still images and explanatory videos put up by the teachers, participants got the opportunity to put on VR goggles, experiencing first-hand how it may feel like to be inside a cramped living space [(“Life in a Coffin Home”)](https://www.youtube.com/watch?v=bhIQjyBrmwI) and around unhygienic living conditions [(“Dharavi Life 360VR”)](https://youtu.be/tOAvffXyRAs). After the immersive sensory experiences, AssumptionKnights were invited to envision their ideal housing types in view of current day housing challenges due to population growth and rising sea levels. The result? Creative floating homes and multi-purpose buildings with integrated uses to overcome scarce land space.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+  
+</body>
+<br>
