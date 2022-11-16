@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Science Read.md
       - Science/Science.md
       - Science/.keep
       - Humanities.md
