@@ -79,7 +79,7 @@ img {
 
 <p style="text-align:center;">What is the surface area of a sphere?</p>
 
-<p style="text-align:center;">Using a pair of vernier calipers to find the diameter of a marble so as to find its volume.</p>
+
 
 <style>  
 img {  
@@ -93,9 +93,7 @@ img {
 </body>
 <br>
 
-<p style="text-align:center;">Learning Probability using Games<br>There is also regular and timed practice to develop computational, estimation, reasoning and algebraic manipulation skills and weekly Booster Programmes to support lower progress students from Secondary 1 to 4.</p>
-
-<p style="text-align:center;">There are external competitions to stretch the more mathematically-inclined students.</p>
+<p style="text-align:center;">Using a pair of vernier calipers to find the diameter of a marble so as to find its volume.</p>
 
 <style>  
 img {  
@@ -108,6 +106,22 @@ img {
   
 </body>
 <br>
+
+<p style="text-align:center;">Learning Probability using Games<br>There is also regular and timed practice to develop computational, estimation, reasoning and algebraic manipulation skills and weekly Booster Programmes to support lower progress students from Secondary 1 to 4.</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mathematics" style="width:70%;">  
+  
+</body>
+<br>
+
+<p style="text-align:center;">There are external competitions to stretch the more mathematically-inclined students.</p>
 
 <p style="text-align:center;">Lower N(A) and N(T) team: QUIZON CHRIS GERARD of Sec 2/3, WOON RUO QI of Sec 2/5,  KEZIA JUNGLE GAN SHANEN of Sec 2/4, WONGPITAKROJ WUTTIWAT of Sec 2/4 and NICHOLAS GOH of Sec 2/5</p>
 
