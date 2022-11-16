@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Young Scientists Programme (YSP).md
       - Science/AES Learning Festival.md
       - Science/Science Read.md
       - Science/Science.md
