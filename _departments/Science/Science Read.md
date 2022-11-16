@@ -36,16 +36,15 @@ third_nav_title: Science
 ### Interesting Facts in Chemistry
 
 [Carbon monoxide poisoning](/files/Carbon%20monoxide%20poisoning.pdf)
-[Hot Air Balloons](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Hot%20Air%20Balloons.pdf)  
-[Making Waste Work for Us](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Making%20Waste%20Work%20for%20Us.pdf)  
-[Periodic Table - new elements](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/Periodic%20Table%20_%20new%20elements.pdf)  
-[The Chemistry behind the Taiwan Waterpark tragedy](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Chemistry/The%20Chemistry%20behind%20the%20Taiwan%20Waterpark%20tragedy.pdf)  
-[Antioxidants in our body](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Food%20chemistry/Antioxidants%20in%20our%20body.pdf)  
-[Cheerios floating on milk](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Food%20chemistry/Cheerios%20floating%20on%20milk.pdf)  
-[Designer Food](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Food%20chemistry/Designer%20Food.pdf)  
-[Diffusion of gases](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Food%20chemistry/Diffusion%20of%20gases.pdf)  
-[Salt in our body](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Food%20chemistry/Salt%20in%20our%20body.pdf)  
-
+[Hot Air Balloons](/files/Hot%20Air%20Balloons.pdf)  
+[Making Waste Work for Us](/files/Making%20Waste%20Work%20for%20Us.pdf)
+[Periodic Table - new elements](/files/Periodic%20Table%20_%20new%20elements.pdf)
+[The Chemistry behind the Taiwan Waterpark tragedy](/files/The%20Chemistry%20behind%20the%20Taiwan%20Waterpark%20tragedy.pdf)
+[Antioxidants in our body](/files/Antioxidants%20in%20our%20body.pdf)
+[Cheerios floating on milk](/files/Cheerios%20floating%20on%20milk.pdf) 
+[Designer Food](/files/Designer%20Food.pdf)
+[Diffusion of gases](/files/Diffusion%20of%20gases.pdf)
+[Salt in our body](/files/Salt%20in%20our%20body.pdf)
 ### Interesting Facts in Physics
 
 [Clear, stretchy sensor could lead to wearable electronics](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Physics/Clear,%20stretchy%20sensor%20could%20lead%20to%20wearable%20electronics.pdf)  
