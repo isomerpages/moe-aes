@@ -52,6 +52,7 @@ img {
   
 </body>
 <br>
+<p style="text-align:center;">Sec 1 GI - Collecting fallen leaves to observe adaptation features in real life</p>
 
 <style>  
 img {  
@@ -64,3 +65,84 @@ img {
   
 </body>
 <br>
+<p style="text-align:center;">Sec 1 GI - Printing of leaf imprint and making annotations of observations</p>
+
+On the other hand, History came “alive” for the Lower Secondary students when they “visited” museums virtually on their devices. The Secondary One students examined the lives of the immigrants from the early 1900s through a virtual museum created by the teachers, discovering the contributions and challenges of the early immigrants in Singapore. The immersive first-person virtual views of the artefacts and exhibits also enabled the Secondary Two students to better understand the Japanese Occupation, and to empathise with the suffering that ensued.  
+
+  
+
+“It seems like I was physically viewing the museum exhibits at the former Ford Factory. I learnt about the British’s surrender to the Japanese during World War 2.” \- He Xinliyi (Leo), Sec 2 student (2021)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+  
+</body>
+<br>
+
+**Lower Secondary Historical Investigation**
+
+  
+
+Using the Inquiry Model, students reviewed and collected artefacts through websites created to answer the inquiry questions posed. 
+
+  
+
+The Secondary One students took a virtual trip to the National Museum of Singapore (NMS)  to see what life was like in Singapore before 1942. The team of teachers created a website for the students to collect relevant artefacts while navigating through their SLS lessons. After which, the students were broken up into groups to create an artefact using platforms of their choice to present their perspectives of life in Singapore before 1942. 
+
+  
+
+Sec 1 HI Stages 1 & 2:
+
+[https://sites.google.com/moe.edu.sg/aessec1hi2019/home](https://sites.google.com/moe.edu.sg/aessec1hi2019/home)
+
+  
+
+Sec 2 HI Stage 3:
+
+[https://sites.google.com/moe.edu.sg/aessec1histage32020/home](https://sites.google.com/moe.edu.sg/aessec1histage32020/home)
+
+  
+
+End Product website:
+
+[https://sites.google.com/moe.edu.sg/aes-sec-1-history-2020/home/historical-investigation?authuser=0](https://sites.google.com/moe.edu.sg/aes-sec-1-history-2020/home/historical-investigation?authuser=0)
+
+  
+
+The Secondary Two students investigated what life was like during the Japanese Occupation on 8 March. As the museum trip was cancelled, the teachers recreated this experience by converting two rooms in school. Artefacts were put up, the rooms were decorated to simulate what a Japanese Occupation could be like, so that the students could empathise and understand life during that time. Students also used the iPads downloaded with the learning journey app to help them navigate through the artefacts.
+
+  
+
+Sec 2 HI Website:
+
+[https://sites.google.com/moe.edu.sg/aessec2hi2019/home?authuser=1](https://sites.google.com/moe.edu.sg/aessec2hi2019/home?authuser=1)
