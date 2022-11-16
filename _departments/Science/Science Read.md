@@ -21,10 +21,10 @@ third_nav_title: Science
 
 ### Interesting Facts in Biology
 
-[11 Body Parts Grown in the Lab](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Biology/11%20Body%20Parts%20Grown%20in%20the%20Lab.pdf)  
-[A painless patch that can control diabetes without injections](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Biology/A%20painless%20patch%20that%20can%20control%20diabetes%20without%20injections.pdf)  
-[Cells](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Biology/Cells.pdf)  
-[Stem Cells - Cloning](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Biology/Stem%20Cells%20-%20Cloning.pdf)  
+[11 Body Parts Grown in the Lab](/files/11%20Body%20Parts%20Grown%20in%20the%20Lab.pdf)
+[A painless patch that can control diabetes without injections](/files/A%20painless%20patch%20that%20can%20control%20diabetes%20without%20injections.pdf)
+[Cells](/files/Cells.pdf) 
+[Stem Cells - Cloning](/files/Stem%20Cells%20-%20Cloning.pdf) 
 [The Science of Tears](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Departments/Science/Science%20Read/Interesting%20facts%20in%20Biology/The%20Science%20of%20Tears.pdf)  
 [Blood donation](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Human%20Body/Blood%20donation.pdf)  
 [Diffusion of gases](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Human%20Body/Diffusion%20of%20gases.pdf)  
