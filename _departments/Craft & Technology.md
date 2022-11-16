@@ -169,7 +169,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="![](/images/NFS3.jpeg)" alt="Nutrition Food Science" style="width:80%;">  
   
 </body>
 <br>
@@ -181,7 +181,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="![](/images/NFS4.jpeg)" alt="Nutrition Food Science" style="width:80%;">  
   
 </body>
 <br>
