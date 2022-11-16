@@ -216,7 +216,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+<body><img src="![](/images/S3%20HI%201.jpeg)" alt="Upper Secondary Humanities" style="width:80%;">  
   
 </body>
 <br>
@@ -229,7 +229,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+<body><img src="![](/images/S3%20HI%202.jpeg)" alt="Upper Secondary Humanities" style="width:80%;">  
   
 </body>
 <br>
@@ -242,7 +242,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+<body><img src="![](/images/S3%20HI%203.jpeg)" alt="Upper Secondary Humanities" style="width:80%;">  
   
 </body>
 <br>
@@ -254,7 +254,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Upper Secondary Humanities" style="width:80%;">  
+<body><img src="![](/images/S3%20HI%204.jpeg)" alt="Upper Secondary Humanities" style="width:80%;">  
   
 </body>
 <br>
