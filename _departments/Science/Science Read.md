@@ -54,7 +54,7 @@ third_nav_title: Science
 [Scientists slow the speed of light](/files/Scientists%20slow%20the%20speed%20of%20light.pdf)<br>
 [What is energy](/files/What%20is%20energy.pdf) <br>
 [Mission Space Jump](/files/Mission%20Space%20Jump.pdf)<br>
-[Super blue blood moon](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Departments/Science/Science%20Read/Astronomy/Super%20blue%20blood%20moon.pdf)<br>
+[Super blue blood moon](/files/Super%20blue%20blood%20moon.pdf)<br>
 [The Twelve Greatest Challenges For Space Exploration](/files/The%20Twelve%20Greatest%20Challenges%20For%20Space%20Exploration.pdf)<br>
 [What do Astronauts Eat In Space](/files/What%20do%20Astronauts%20Eat%20In%20Space.pdf)<br>
 [What is our galaxy all about](/files/What%20is%20our%20galaxy%20all%20about.pdf)<br>
