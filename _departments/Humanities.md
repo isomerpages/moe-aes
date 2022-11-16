@@ -150,7 +150,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20HI%201.jpeg)" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -162,7 +162,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20HI%202.jpeg)" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -174,7 +174,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20HI%203.jpeg)" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -186,7 +186,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20HI%204.jpeg)" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
 </body>
 <br>
@@ -198,7 +198,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<body><img src="![](/images/S2%20HI%205.jpeg)" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
 </body>
 <br>
