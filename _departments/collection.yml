@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Lower Secondary Science.md
       - Science/Science Experiential Projects (SEP).md
       - Science/Young Scientists Programme (YSP).md
       - Science/AES Learning Festival.md
