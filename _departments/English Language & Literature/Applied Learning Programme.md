@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/02%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="/images/02%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 <br>
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/03%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="/images/03%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 <br>
@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/04%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/05%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="/images/05%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -122,7 +122,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/06%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="/images/06%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -134,7 +134,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/07%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="/images/07%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -149,7 +149,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/08%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="/images/08%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -171,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/11%20Debate.jpeg)" alt="Inter-Class Debate Championships" style="width:70%;">  
+<body><img src="/images/11%20Debate.jpeg" alt="Inter-Class Debate Championships" style="width:70%;">  
   
 </body>
 <br>
@@ -183,7 +183,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/12%20Debate.jpeg)" alt="Inter-Class Debate Championships" style="width:70%;">  
+<body><img src="/images/12%20Debate.jpeg" alt="Inter-Class Debate Championships" style="width:70%;">  
   
 </body>
 <br>
@@ -198,7 +198,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/13%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="/images/13%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -210,7 +210,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/14%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="/images/14%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -224,7 +224,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/15%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="/images/15%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -236,7 +236,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/16%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="/images/16%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -248,7 +248,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/17%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="/images/17%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
