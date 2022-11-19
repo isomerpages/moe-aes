@@ -293,7 +293,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/whole%20sch%20lo%20hei.jpeg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
