@@ -184,3 +184,52 @@ img {
 </body>
 <br>
 
+Mother Tongue Fortnight 2020
+----------------------------
+
+**Theme : Stories. Movies. Songs.**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5nwp{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:top}
+.tg .tg-3jjr{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ddmb{background-color:#E31D3C;color:#FFFCFD;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ddmb"><span style="color:#FFFCFD;background-color:#E31D3C">Theme</span></th>
+    <th class="tg-ddmb"><span style="color:#FFFCFD;background-color:#E31D3C">Programme</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">Stories</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">MTL Fortnight Learning Immersive Trails</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">Stories</span></td>
+    <td class="tg-5nwp"><span style="color:#222">Daily News Read - MTL Special Edition</span><br><span style="color:#222">(in Chinese, Malay, Tamil, Tagalog &amp; Korean)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">Movies</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD"> Local MT Short Film Appreciation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD">Songs</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD"> Music &amp; Dance Exposure : Dondang Sayang Through the Ages</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD"> Songs</span></td>
+    <td class="tg-3jjr"><span style="color:#222;background-color:#FFFCFD"> Local MT Song Dedications : An Appreciation for My Teacher in MT</span></td>
+  </tr>
+</tbody>
+</table>
+
+Through our flagship MTL Fortnight Learning Immersive Trails Programme. Assumptionknights either visited various cultural heritage sites or attended interactive enrichment workshops and used their new knowledge and experience to apply the language skills learnt concurrently in the classroom to share their experiences through their performance task assessment projects.
+
+Another highlight this year was the “Packing Love, Sharing Abundance” Food Donation Drive Values-in-Action activity where our compassionate and generous Assumptionknights donated food items and created handmade food hampers that were presented to selected households in Senja-Cashew. 
