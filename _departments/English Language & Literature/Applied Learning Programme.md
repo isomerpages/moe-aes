@@ -157,3 +157,26 @@ img {
 **Inter-Class Debate Championships** <br>
 Year after year, upper secondary AssumptionKnights pit their wit and eloquence against one another on a variety of topics.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+  
+</body>
+<br>
