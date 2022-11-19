@@ -198,7 +198,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="![](/images/13%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -210,7 +210,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="![](/images/14%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -224,7 +224,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="![](/images/15%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
