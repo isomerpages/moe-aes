@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="![](/images/02%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 <br>
@@ -75,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="![](/images/03%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 <br>
@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="![](/images/04%20Sec%203%20SPEAK.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 
