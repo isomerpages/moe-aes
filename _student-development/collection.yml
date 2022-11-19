@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - Guidance and Counselling Unit/School Student Health Advisor.md
-      - Guidance and Counselling Unit/Guidance and Counselling Unit.md
       - Guidance and Counselling Unit/.keep
+      - Guidance and Counselling Unit/Guidance and Counselling Unit.md
+      - Guidance and Counselling Unit/School Student Health Advisor.md
       - GABRIEL Programme.md
       - Learning for Life Programme (LLP).md
