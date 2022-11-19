@@ -253,7 +253,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/31dd71b2-a88e-492f-a3e8-3c2df8321493.jpeg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
@@ -265,7 +265,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/Mother%20Tongue%20Fortnight%202020.jpg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
@@ -279,7 +279,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/renci%20guest.jpeg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
