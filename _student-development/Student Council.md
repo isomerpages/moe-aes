@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/student%20councillors%20i1.jpeg)" alt="Student Council" style="width:75%;">  
+<body><img src="/images/student%20councillors%20i1.jpeg" alt="Student Council" style="width:75%;">  
   
 </body>
 <br>
@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/student%20councillors%202.jpeg)" alt="Student Council" style="width:75%;">  
+<body><img src="/images/student%20councillors%202.jpeg" alt="Student Council" style="width:75%;">  
   
 </body>
 
@@ -30,25 +30,21 @@ img {
 
 A vibrant community of respected leaders who lead with humility and serve with compassion.
 
-###   
-Our Mission
+###   Our Mission
 
 To develop confident and compassionate leaders who are able to lead self and others in the service of their peers and community.
 
-###   
-Our Motto
+###   Our Motto
 
 Leading with Humility, Serving with Compassion
 
-###   
-Teachers-in-charge:
+###   Teachers-in-charge:
 
 Ms Lim Zi Xin
 
 Ms Han HuiXuan, Dilys  
 
-###   
-Student Council Executive Committee 2020-2021
+###   Student Council Executive Committee 2020-2021
 
 President: Lee Jun Qi, Jase
 
@@ -78,8 +74,7 @@ Deputy Head of Publicity and Communications: Resterio Pauline Caryl Marbella 
 
   
 
-Major Events
-------------
+## Major Events
 
   
 
