@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/GABRIEL%20Prog.png)" alt="GABRIEL Programme" style=“width:80%;“>  
+<body><img src="/images/GABRIEL%20Prog.png" alt="GABRIEL Programme" style=“width:65%;“>  
   
 </body>
 <br>
@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/GABRIEL%20PROGRAMME.jpg)" alt="GABRIEL Programme" style="width:80%;">  
+<body><img src="/images/GABRIEL%20PROGRAMME.jpg" alt="GABRIEL Programme" style="width:80%;">  
   
 </body>
 <br>
@@ -46,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/GABRIEL%20Programme_2.jpg)" alt="About GABRIEL Programme" style="width:80%;">  
+<body><img src="/images/GABRIEL%20Programme_2.jpg" alt="About GABRIEL Programme" style="width:80%;">  
   
 </body>
 <br>
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Gab7.png)" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<body><img src="/images/Gab7.png" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
 </body>
 <br>
@@ -82,7 +82,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/GABRIEL%20Programme%20June%20Holidays_1.jpg)" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<body><img src="/images/GABRIEL%20Programme%20June%20Holidays_1.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
 </body>
 <br>
@@ -94,7 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/GABRIEL%20Programme%20June%20Holidays_2.jpg)" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<body><img src="/images/GABRIEL%20Programme%20June%20Holidays_2.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
 </body>
 <br>
