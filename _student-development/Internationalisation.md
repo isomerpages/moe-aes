@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Thailand%201.jpeg)" alt="Thailand" style="width:75%;">  
+<body><img src="/images/Thailand%201.jpeg" alt="Thailand" style="width:75%;">  
   
 </body>
 <br>
@@ -51,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Thailand%202.jpeg)" alt="Thailand" style="width:75%;">  
+<body><img src="/images/Thailand%202.jpeg" alt="Thailand" style="width:75%;">  
   
 </body>
 <br>
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Thailand%203.jpeg)" alt="Thailand" style="width:75%;">  
+<body><img src="/images/Thailand%203.jpeg" alt="Thailand" style="width:75%;">  
   
 </body>
 <br>
@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Vietnam%201.png)" alt="Vietnam" style="width:75%;">  
+<body><img src="/images/Vietnam%201.png" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -96,7 +96,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Vietnam%202%20Large.png)" alt="Vietnam" style="width:75%;">  
+<body><img src="/images/Vietnam%202%20Large.png" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Vietnam%203%20Large.png)" alt="Vietnam" style="width:75%;">  
+<body><img src="/images/Vietnam%203%20Large.png" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -130,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cambodia%201.jpeg)" alt="Cambodia" style="width:75%;">  
+<body><img src="/images/Cambodia%201.jpeg" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -142,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cambodia%202.jpeg)" alt="Cambodia" style="width:75%;">  
+<body><img src="/images/Cambodia%202.jpeg" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -154,7 +154,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cambodia%203.jpeg)" alt="Cambodia" style="width:75%;">  
+<body><img src="/images/Cambodia%203.jpeg" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -166,7 +166,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cambodia%204.jpeg)" alt="Cambodia" style="width:75%;">  
+<body><img src="/images/Cambodia%204.jpeg" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -196,7 +196,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_1.jpeg)" alt="Our student host interacting with our guest from St Joseph Junior School, Jakarta." style="width:75%;">  
+<body><img src="/images/Inbound%20Cultural%20Exchange%20Programme_1.jpeg" alt="Our student host interacting with our guest from St Joseph Junior School, Jakarta." style="width:75%;">  
   
 </body>
 <p style="text-align:center;">Our student host interacting with our guest from St Joseph Junior School, Jakarta.</p>
@@ -209,7 +209,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_2.jpg)" alt="A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme." style="width:75%;">  
+<body><img src="/images/Inbound%20Cultural%20Exchange%20Programme_2.jpg" alt="A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme." style="width:75%;">  
   
 </body>
 <p style="text-align:center;">A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme.</p>
@@ -222,7 +222,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_3.jpeg)" alt="A group photo with our guests from Jakarta and Japan to mark the end of their visit." style="width:75%;">  
+<body><img src="/images/Inbound%20Cultural%20Exchange%20Programme_3.jpeg" alt="A group photo with our guests from Jakarta and Japan to mark the end of their visit." style="width:75%;">  
   
 </body>
 <p style="text-align:center;">A group photo with our guests from Jakarta and Japan to mark the end of their visit.</p>
@@ -250,7 +250,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_1.jpeg)" alt="Secondary 2NT students" style="width:75%;">  
+<body><img src="/images/Secondary%202%20Overseas%20Level%20Camp_1.jpeg" alt="Secondary 2NT students" style="width:75%;">  
   
 </body>
 <p style="text-align:center;">Secondary 2NT students</p>
@@ -263,7 +263,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_2.jpeg)" alt="Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house." style="width:75%;">  
+<body><img src="/images/Secondary%202%20Overseas%20Level%20Camp_2.jpeg" alt="Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house." style="width:75%;">  
   
 </body>
 <p style="text-align:center;">Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house.</p>
@@ -276,7 +276,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_3.jpeg)" alt="Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin." style="width:75%;">  
+<body><img src="/images/Secondary%202%20Overseas%20Level%20Camp_3.jpeg" alt="Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin." style="width:75%;">  
   
 </body>
 <p style="text-align:center;">Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin.</p>
