@@ -6,6 +6,18 @@ description: ""
 **MTL Department Objectives:** <br>
 To develop students who are confident and proficient users of their Mother Tongue Language, who appreciate the value of learning the language and knowing about our Asian culture and heritage.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/mother%20tongue%20language%20department%20i.jpeg" alt="Mother Tongue Language Department 2019" style="width:70%;">  
+  
+</body>
+<br>
+
 Flagship Programmes
 -------------------
 
@@ -34,7 +46,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S1%20CL%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -46,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S1%20ML%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -58,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S2%20CL%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -70,7 +82,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S2%20ML%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -82,7 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S3%20CL%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -94,7 +106,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/S3%20ML%20LJ.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -106,7 +118,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/Raja%20Sehari%20S45.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -118,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
+<body><img src="![](/images/dining%20etiquette%20s45.jpeg)" alt="MTL Fortnight Learning Immersive Trails (LIT) Programme" style="width:70%;">  
   
 </body>
 
