@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Thailand" style="width:75%;">  
+<body><img src="![](/images/Thailand%201.jpeg)" alt="Thailand" style="width:75%;">  
   
 </body>
 <br>
@@ -51,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Thailand" style="width:75%;">  
+<body><img src="![](/images/Thailand%202.jpeg)" alt="Thailand" style="width:75%;">  
   
 </body>
 <br>
