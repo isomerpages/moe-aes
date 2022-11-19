@@ -180,3 +180,105 @@ img {
   
 </body>
 <br>
+
+In 2019, Team 4/4 (Opposition) emerged champions after presenting compelling views on the motion “This House would abolish the racial quotas for HDBs.”
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+  
+</body>
+<br>
+
+**Emcee Development Programme** <br>
+AssumptionKnights in Tier 2 are given opportunities to host various school events and functions.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+  
+</body>
+<br>
+
+In 2019, Ms Vernetta Lopez, an alumni of the school, hosted the inaugural Emcee Development Workshop. She provided our budding emcees with useful tips on speaking and presenting to a live audience!
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+  
+</body>
+<br>
+
+**External Competitions** <br>
+Selected AssumptionKnights represent the school in external competitions. These include oratorical contests such as the ACJC Orator’s Trophy and the YMCA Plain English Speaking Awards, as well as the National Schools Literature Festival.
+
+  
+
+Our AssumptionKnights, Gueverra Allon Benedict Cruz and Pena Isabelle Armie Barzaga, were semi-finalists at the 34th YMCA Plain English Speaking Awards (PESA) 2021 and the ACJC Orator's Trophy respectively. Watch their speeches here!
+
+<p style="text-align:center;">LMAOOO</p>
+
+<p style="text-align:center;">LMAOOO</p>
