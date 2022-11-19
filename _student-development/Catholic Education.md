@@ -18,7 +18,7 @@ Programmes:
 
   
 
-Praise and worship sessions are held during these weekly sessions for the Catholic students.  Speakers are occasionally invited to share their faith journey.
+Praise and worship sessions are held during these weekly sessions for the Catholic students.&nbsp; Speakers are occasionally invited to share their faith journey.
 
   
 
@@ -40,7 +40,7 @@ Other events planned for students include:
 
   
 
-Young Montfortian Associates (YMA), a co-curricular activity (CCA) started in 2019, is a group of youths in our school who live, share and promote the spirituality of a total commitment to Jesus through Mary.  YMA is a compulsory second CCA for all new Secondary 1 Catholic students. (both pictures as below)
+Young Montfortian Associates (YMA), a co-curricular activity (CCA) started in 2019, is a group of youths in our school who live, share and promote the spirituality of a total commitment to Jesus through Mary.&nbsp; YMA is a compulsory second CCA for all new Secondary 1 Catholic students. (both pictures as below)
 
   
 
@@ -49,3 +49,5 @@ Our Catholic students are given opportunities to use their talents to serve God 
   
 
 We ask for the intercession of our Lady of Assumption and pray that St Louis Marie de Montfort will continue to watch over us and guide us each day so that we may bring glory to God in all the work that we do!
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScs4YF2IRN20QSRMKuxsZx2SZepIOgIUefCX2F2GVEa4yDrpAqRXMMzwe_E8FlIiQY9dIZpmggivjb/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
