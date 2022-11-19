@@ -98,3 +98,62 @@ SPEAK Tier 2
 
 **Poetry Showdown** <br>
 Lower secondary AssumptionKnights prove their mettle as poets and performers in an online form in 2020. Watch the highlights here.
+
+<p style="text-align:center;">LMAOOO</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+<br>
+
+The theme for 2019’s Poetry Showdown was “My Hero”.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+<br>
+
+The winning poem “The Mighty Mrs Lum” was presented by poet, Aegon Tan, and his team from Class 1/1.
+
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+<br>
+
+**Inter-Class Debate Championships** <br>
+Year after year, upper secondary AssumptionKnights pit their wit and eloquence against one another on a variety of topics.
+
