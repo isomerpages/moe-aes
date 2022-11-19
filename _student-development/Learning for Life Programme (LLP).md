@@ -85,9 +85,42 @@ As a further extension to the programme, the students can host seniors from our 
 
 <img src="/images/Le%20Jardin%20Anglais.png"  
 style="width:75%">
+**Le Jardin Anglais**
+
+**Rance** <br>
+Rance is a famous river into the ancient town of Dinan. On the route down the river towards Dinan, the journey will pass by Bizeux Rock with a statue of the Virgin Mary. As an environmentally-friendly town, there is a crossing of the lock of the Barrage de la Rance which is an EDF tidal power station that uses the resources of the strong tides rushing into the estuary to produce electricity.
+
+  
+
+As part of the school’s LLP, a water-featured pond was developed to provide a learning space and platform for our students to <u>learn to serve</u> the school by taking care of the pond and leading through sharing of their knowledge with their peers and juniors. It also aims to nurture and challenge our students to become leaders in taking charge of the school environment and taking responsibilities in contributing to others’ learning through sharing.
+
+  
+
+The pond would also allow students to co-construct part of the eco features, which would cultivate greater sense of ownership and servant leadership in our students.
+
+  
+
+As a further extension to the programme, we will be including a hydroelectric system for the water-featured pond.
 
 <img src="/images/River%20Rance_France.png"  
 style="width:75%">
+**River Rance, France**
+
+  
+
+  
+
+**Ignite Hub**
+
+  
+
+For this new Ignite Hub, it will be a versatile venue that resembles a “Makerspace” for Assumptionknights to ignite their creativity and curiosity as they learn more about everyday Science phenomenon. We wanted it to be a sustainable project that can benefit many batches of the Assumptionknights as a common Science learning experience in their 4 – 5 years in AES. The Ignite Hub will be managed by the Young Scientists and student leaders.
+
+  
+
+  
+
+#### 3-Tiered Leadership Framework
 
 <style>  
 img {  
