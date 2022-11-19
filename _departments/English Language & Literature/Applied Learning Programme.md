@@ -122,7 +122,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="![](/images/06%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -134,7 +134,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="![](/images/07%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
@@ -149,7 +149,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Poetry Showdown" style="width:70%;">  
+<body><img src="![](/images/08%20Poetry%20Showdown.jpeg)" alt="Poetry Showdown" style="width:70%;">  
   
 </body>
 <br>
