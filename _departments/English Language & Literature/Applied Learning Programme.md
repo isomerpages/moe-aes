@@ -33,21 +33,21 @@ SPEAK Tier 1
 **Secondary 1: SPEAK Accurately** <br>
 Secondary One students learn to pronounce and articulate clearly through a series of learning tasks. They record voice-overs for the narrator and characters of their book trailer projects. Click on the following videos to watch their projects!
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VIerY1wU42M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/AqWWeIkTYEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/c4dRobmymLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 **Secondary 2: SPEAK Confidently**
 
 Secondary Two students take on roles as news anchors and reporters to produce newscasts, gaining confidence in the process of rehearsing and filming. View their work by clicking on the following videos!
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/olNhHVKvNs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gfwv61b9DAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/puRgfPb9fEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 At this level, all students are also given the opportunity to read the news to the entire student body, sharing their opinions on current affairs.
 
