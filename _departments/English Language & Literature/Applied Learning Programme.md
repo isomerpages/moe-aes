@@ -260,6 +260,6 @@ Selected AssumptionKnights represent the school in external competitions. These 
 
 Our AssumptionKnights, Gueverra Allon Benedict Cruz and Pena Isabelle Armie Barzaga, were semi-finalists at the 34th YMCA Plain English Speaking Awards (PESA) 2021 and the ACJC Orator's Trophy respectively. Watch their speeches here!
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RYzGsqfkZhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IoIdSyJhL2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
