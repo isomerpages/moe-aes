@@ -253,6 +253,7 @@ img {
 <body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_1.jpeg)" alt="Secondary 2NT students" style="width:75%;">  
   
 </body>
+<p style="text-align:center;">Secondary 2NT students</p>
 <br>
 
 <style>  
@@ -262,9 +263,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house." style="width:75%;">  
+<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_2.jpeg)" alt="Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house." style="width:75%;">  
   
 </body>
+<p style="text-align:center;">Secondary 2NA students went to Negeri Sembilan and visited Seremban culture Complex. At there, the students get to see the unique structure of the houses and  experience eating in the Minang’s house.</p>
 <br>
 
 <style>  
@@ -274,7 +276,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin." style="width:75%;">  
+<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_3.jpeg)" alt="Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin." style="width:75%;">  
   
 </body>
+<p style="text-align:center;">Secondary 2E students were welcomed warmly by the local school during their visit to Kota Tinggi. Students also learnt to cook Rempeyek, a local Malay cracker, played the kompang as well as basket weaving at Kampung Teminin.</p>
 <br>
