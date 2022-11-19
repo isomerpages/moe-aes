@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Guidance and Counselling Unit.md
       - GABRIEL Programme.md
       - Learning for Life Programme (LLP).md
