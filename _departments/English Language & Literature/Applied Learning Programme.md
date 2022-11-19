@@ -63,6 +63,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image.png" alt="English Language and Literature Programme" style="width:70%;">  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
