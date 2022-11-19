@@ -171,6 +171,24 @@ img {
 </body>
 <br>
 
+Inbound Cultural Exchange Programme
+-----------------------------------
+
+  
+
+Students are also given the opportunity to host our student guests when they visited our school for an exchange programme. This year, Assumption English School is honoured to host guests from
+
+*   Hebei Shi Da Fu Zhong (Middle) School, China
+*   Assumption College, Lampang
+*   Assumption College, Samutprakarn
+*   Montfort College, Chiangmai
+*   Kinda Junior High School, Osaka
+*   St Joseph Junior High School, Jakarta
+
+  
+
+Through this Inbound Cultural Exchange Programme, we hope to cultivate the sense of responsibility and ownership of making the hosting experience a meaningful one for themselves and their guests. By being the ambassador of the school and nation, we would like Assumptionknights to demonstrate the use of social-awareness and interpersonal skills to establish and maintain positive relationships with their guests.
+
 <style>  
 img {  
   display: block;  
@@ -178,9 +196,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Our student host interacting with our guest from St Joseph Junior School, Jakarta." style="width:75%;">  
+<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_1.jpeg)" alt="Our student host interacting with our guest from St Joseph Junior School, Jakarta." style="width:75%;">  
   
 </body>
+<p style="text-align:center;">Our student host interacting with our guest from St Joseph Junior School, Jakarta.</p>
 <br>
 
 <style>  
@@ -190,9 +209,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme." style="width:75%;">  
+<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_2.jpg)" alt="A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme." style="width:75%;">  
   
 </body>
+<p style="text-align:center;">A group photo of our Thailand guests with our Principal, Mr Kwok after their culture presentation during our assembly programme.</p>
 <br>
 
 <style>  
@@ -202,10 +222,26 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="A group photo with our guests from Jakarta and Japan to mark the end of their visit." style="width:75%;">  
+<body><img src="![](/images/Inbound%20Cultural%20Exchange%20Programme_3.jpeg)" alt="A group photo with our guests from Jakarta and Japan to mark the end of their visit." style="width:75%;">  
   
 </body>
+<p style="text-align:center;">A group photo with our guests from Jakarta and Japan to mark the end of their visit.</p>
 <br>
+
+Secondary 2 Overseas Level Camp
+-------------------------------
+
+  
+
+This year, our secondary 2 cohort went across the causeway for their 3D2N level camp!
+
+  
+
+The camp aims to achieve the following objectives:
+
+*   Students are able foster a stronger sense of school identity by building a meaningful and lasting class spirit.
+*   Students are able to interact, share experiences with the locals, and increase their exposure to other cultural practices.
+*   Students are able to develop confidence and familiarity with the outdoors as well as appreciation for nature.
 
 <style>  
 img {  
@@ -214,7 +250,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 2NT students" style="width:75%;">  
+<body><img src="![](/images/Secondary%202%20Overseas%20Level%20Camp_1.jpeg)" alt="Secondary 2NT students" style="width:75%;">  
   
 </body>
 <br>
