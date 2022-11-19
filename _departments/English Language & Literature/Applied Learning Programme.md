@@ -99,7 +99,7 @@ SPEAK Tier 2
 **Poetry Showdown** <br>
 Lower secondary AssumptionKnights prove their mettle as poets and performers in an online form in 2020. Watch the highlights here.
 
-<p style="text-align:center;">LMAOOO</p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/i7oKucyfAfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <style>  
 img {  
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<body><img src="![](/images/05%20Poetry%20Showdown.jpeg)" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
 <br>
