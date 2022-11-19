@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/Emmanuel Lumiére Film Festival.md
       - English Language & Literature/.keep
       - Mother Tongue Languages.md
