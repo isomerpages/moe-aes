@@ -1,4 +1,5 @@
 collections:
   club-and-societies:
     output: true
-    order: []
+    order:
+      - English Language Drama and Debate Society.md
