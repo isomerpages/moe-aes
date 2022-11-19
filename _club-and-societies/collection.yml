@@ -2,4 +2,5 @@ collections:
   club-and-societies:
     output: true
     order:
+      - Green Club.md
       - English Language Drama and Debate Society.md
