@@ -63,7 +63,28 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Thailand" style="width:75%;">  
+<body><img src="![](/images/Thailand%203.jpeg)" alt="Thailand" style="width:75%;">  
+  
+</body>
+<br>
+
+Vietnam
+-------
+
+Students who went on the Vietnam Cultural and Service Learning Trip came back home feeling grateful and appreciative of every single grain of rice. During their visit, the students had the opportunity to experience rice planting on a paddy field!  
+  
+“We realised that it was not an easy job! What we did was only a fraction of the rice farmer’s job. This experience had taught us not to waste food because a lot of hard work has gone into providing our one bowl of rice.” - Adawiyah 3/1  
+  
+For their service learning, the students visited an orphanage and interacted with the children there. They played games, taught them simple English as well as simple handicraft. Though the time spent together was short, the experience there has indeed tug at their heartstrings. Our students bade goodbye with tears swelling in their eyes.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -80,9 +101,6 @@ img {
 </body>
 <br>
 
-</body>
-<br>
-
 <style>  
 img {  
   display: block;  
@@ -95,23 +113,15 @@ img {
 </body>
 <br>
 
-</body>
-<br>
+Cambodia
+--------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="Vietnam" style="width:75%;">  
+“I chose to go on the Cambodia Cultural Exchange Trip because I saw it as an opportunity to gain a greater understanding of different cultures, and actively serve those who are less fortunate. The most memorable part of the trip was when we played volleyball together with the children in Sambour Primary School. The experience changed my perception of happiness. It taught me to take a step back from what we consider the ‘pressure’ of our busy school lives, to put things into perspective and realise how lucky we really are. My time in Cambodia inspired me to share my experiences with other people and to continue to help those communities in any way I can..”  
+\- Vinoth, 3/2  
   
-</body>
-<br>
-
-</body>
-<br>
+“After the Cambodia trip, I felt that it was very lucky that can go to Cambodia because we get to experience the life there and get to play with the kids in Sambour Primary School. I learn to appreciate what we have and learn not to waste food though this trip. I feel ashamed that the kids there are appreciative and happy about what they have and I am not, even though I have many things and opportunities that they don’t have.” - Wong Yee Xin, 3/5  
+  
+Many of those who went on the Cambodia Cultural and Service Learning Trip felt that the main highlight of the trip was the visit to their local school, Sambour Primary School. Our students had the opportunity to teach the primary school students about oral hygiene as well as sharing important information on dengue fever and the preventive measures as well. Prior to the trip, the students held a donation campaign, calling all Assumptionknights to do their part and donate some items for them to bring along to the trip. The trip ended with their visit to the beautiful Angkor Wat and discovering the historical journey of the Khmer Empire.
 
 <style>  
 img {  
