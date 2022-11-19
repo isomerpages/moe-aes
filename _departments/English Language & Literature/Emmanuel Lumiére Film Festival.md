@@ -14,10 +14,10 @@ The festival is named in memory of the late Brother Emmanuel, who had dedicated 
 
 See some of our student productions here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mXvPCR9ic5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/mXvPCR9ic5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tadqT_Q-neg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tadqT_Q-neg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GCZOj7NfUos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/GCZOj7NfUos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ### [2020](/departments/english-language-and-literature/emmanuel-lumi-re-film-festival/2020/)
