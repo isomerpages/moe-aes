@@ -236,7 +236,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="![](/images/16%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
@@ -248,7 +248,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Emcee Development Programme" style="width:70%;">  
+<body><img src="![](/images/17%20Emcee.jpeg)" alt="Emcee Development Programme" style="width:70%;">  
   
 </body>
 <br>
