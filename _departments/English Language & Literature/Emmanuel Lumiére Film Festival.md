@@ -4,9 +4,7 @@ permalink: /departments/english-language-and-literature/emmanuel-lumi-re-film-fe
 description: ""
 third_nav_title: English Language & Literature
 ---
-As part of the school’s Applied Learning Programme (ALP) titled SPeak English with GrAce and Knowledge (SPEAK), six groups of selected Secondary 2 students embarked on a visual storyteller masterclass. The students produced short films exploring different school-based themes to tell compelling stories of love and empathy, amplifying the school’s student learning outcomes of 
-
-**Fortitude, Mastery and Charity.**
+As part of the school’s Applied Learning Programme (ALP) titled SPeak English with GrAce and Knowledge (SPEAK), six groups of selected Secondary 2 students embarked on a visual storyteller masterclass. The students produced short films exploring different school-based themes to tell compelling stories of love and empathy, amplifying the school’s student learning outcomes of **Fortitude, Mastery and Charity.**
 
   
 
