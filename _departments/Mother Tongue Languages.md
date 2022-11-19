@@ -305,7 +305,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/LH%2043.jpeg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
@@ -317,7 +317,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+<body><img src="![](/images/sec%201%20lh.jpeg)" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
   
 </body>
 <br>
@@ -334,7 +334,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt="Secondary 4 Higher Chinese Language Students participated in the National Chinese Challenge organised by SPH and Nanyang Girls High School" style="width:70%;">  
+<body><img src="![](/images/National%20Chinese%20Challenge.jpeg)" alt="Secondary 4 Higher Chinese Language Students participated in the National Chinese Challenge organised by SPH and Nanyang Girls High School" style="width:70%;">  
   
 </body>
 <br>
