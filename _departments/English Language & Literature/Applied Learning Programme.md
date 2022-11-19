@@ -66,3 +66,35 @@ img {
 <body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+  
+</body>
+
+SPEAK Tier 2
+------------
+
+**Tier 2 programmes are aimed at developing students’ talent and passion in speaking.**
+
+**Poetry Showdown** <br>
+Lower secondary AssumptionKnights prove their mettle as poets and performers in an online form in 2020. Watch the highlights here.
