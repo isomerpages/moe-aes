@@ -153,7 +153,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt=" MTL Cultural Bites Series" style="width:70%;">  
+<body><img src="![](/images/kuih%202.jpeg)" alt=" MTL Cultural Bites Series" style="width:70%;">  
   
 </body>
 <br>
@@ -165,7 +165,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt=" MTL Cultural Bites Series" style="width:70%;">  
+<body><img src="![](/images/kuih%203.jpeg)" alt=" MTL Cultural Bites Series" style="width:70%;">  
   
 </body>
 <br>
@@ -191,7 +191,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOO" alt=" Malay Language : Rakan Bahasa Experience and Literature Appreciation Modules" style="width:70%;">  
+<body><img src="![](/images/Rakan%20Bahasa%20Experience%20and%20Literature%20Appreciation%20Modules.jpg)" alt=" Malay Language : Rakan Bahasa Experience and Literature Appreciation Modules" style="width:70%;">  
   
 </body>
 <br>
