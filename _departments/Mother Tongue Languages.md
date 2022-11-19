@@ -232,4 +232,97 @@ Mother Tongue Fortnight 2020
 
 Through our flagship MTL Fortnight Learning Immersive Trails Programme. Assumptionknights either visited various cultural heritage sites or attended interactive enrichment workshops and used their new knowledge and experience to apply the language skills learnt concurrently in the classroom to share their experiences through their performance task assessment projects.
 
-Another highlight this year was the “Packing Love, Sharing Abundance” Food Donation Drive Values-in-Action activity where our compassionate and generous Assumptionknights donated food items and created handmade food hampers that were presented to selected households in Senja-Cashew. 
+Another highlight this year was the “Packing Love, Sharing Abundance” Food Donation Drive Values-in-Action activity where our compassionate and generous Assumptionknights donated food items and created handmade food hampers that were presented to selected households in Senja-Cashew.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+<p style="text-align:center;">They also made gift bags for our special elderly guests from Renci Nursing Home who joined us in our Mother Tongue Fortnight Celebration Concert this year.</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+<p style="text-align:center;">The 2 weeks programme culminated in the Mother Tongue Fortnight Celebration. For the second year, the school started the celebration with a mass Lo-Hei with everyone in the Assumption Gamily! It was a truly joyous occasion where everyone partook in the tossing of the yusheng to wish everyone a prosperous year ahead. This special feast was followed by our annual concert where both students and staff had the opportunity to showcase their talents in the concert performances. We were honoured to have our special guests from Renci Nursing Home join in with the festivities.</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Mother Tongue Fortnight 2020" style="width:70%;">  
+  
+</body>
+<br>
+
+Achievements
+------------
+
+Last year, our current Secondary 4 Higher Chinese Language Students participated in the National Chinese Challenge organised by SPH and Nanyang Girls High School.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt="Secondary 4 Higher Chinese Language Students participated in the National Chinese Challenge organised by SPH and Nanyang Girls High School" style="width:70%;">  
+  
+</body>
+<br>
