@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20Prog.png" alt="GABRIEL Programme" style=“width:65%;“>  
+<body><img src="/images/GABRIEL%20Prog.png" alt="GABRIEL Programme" style="width:50%;">  
   
 </body>
 <br>
