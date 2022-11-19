@@ -158,3 +158,29 @@ img {
 </body>
 <br>
 
+**3) MT Enhanced Experience Programme**
+
+Objective: Through exposure to out-of-stream curriculum, out of school MT related events and competitions, students will be able to deepen their language mastery, innate interest and potential in the mother tongue language and Asian culture. Selected students are given the opportunity to compete in nation-wide MTL language competitions.
+
+**A) Chinese Language : Author-in-Residence Programme, Chinese Cultural Performance Exposure Programme (CCPEP) & Secondary 2 Express CL Stretch Programme** 
+
+This year, secondary one students were given the opportunity to attend the CCPEP Online Story Challenge Performance Cum Creative Story Writing Competition on 19 and 20 October to allow them to experience Chinese language-related cultural performances in order to allow them to see the relevance of the language and encourage interest in creative writing using Chinese Language.
+
+ON 26, 28 and 30 October 2020, our students also had the opportunity to meet and learn personally from renowned local writer 蔡志礼博士 Dr Chua Chee Lay for the Author-in-Residence Programme. The programme focusses particularly on the development of creative writing skills and promoting a love and appreciation of Chinese literature among students.
+
+**B) Malay Language : Rakan Bahasa Experience and Literature Appreciation Modules**
+
+2 of our current Secondary 4 students, Nur Rabiatul Adawiyah Binte Mohammad Baharin (4/1) and Siti Ummairiah Binte Ridzwan (4/3) were appointed as the Rakan Bahasa for AES last year. They had the opportunity to train and serve as museum guides at the Asian Civilisations Museum during the launch of the Malay Language month on 7 September 2019.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOO" alt=" Malay Language : Rakan Bahasa Experience and Literature Appreciation Modules" style="width:70%;">  
+  
+</body>
+<br>
+
