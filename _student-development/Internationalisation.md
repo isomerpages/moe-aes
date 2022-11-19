@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Vietnam" style="width:75%;">  
+<body><img src="![](/images/Vietnam%201.png)" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -96,7 +96,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Vietnam" style="width:75%;">  
+<body><img src="![](/images/Vietnam%202%20Large.png)" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -108,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Vietnam" style="width:75%;">  
+<body><img src="![](/images/Vietnam%203%20Large.png)" alt="Vietnam" style="width:75%;">  
   
 </body>
 <br>
@@ -130,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Cambodia" style="width:75%;">  
+<body><img src="![](/images/Cambodia%201.jpeg)" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -142,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Cambodia" style="width:75%;">  
+<body><img src="![](/images/Cambodia%202.jpeg)" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -154,7 +154,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Cambodia" style="width:75%;">  
+<body><img src="![](/images/Cambodia%203.jpeg)" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
@@ -166,7 +166,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Cambodia" style="width:75%;">  
+<body><img src="![](/images/Cambodia%204.jpeg)" alt="Cambodia" style="width:75%;">  
   
 </body>
 <br>
