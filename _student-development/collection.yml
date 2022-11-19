@@ -2,4 +2,5 @@ collections:
   student-development:
     output: true
     order:
+      - GABRIEL Programme.md
       - Learning for Life Programme (LLP).md
