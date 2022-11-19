@@ -157,29 +157,10 @@ img {
 **Inter-Class Debate Championships** <br>
 Year after year, upper secondary AssumptionKnights pit their wit and eloquence against one another on a variety of topics.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
-  
-</body>
-<br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
-  
-</body>
-<br>
+09 Debate (Option 2).JPG
+
+10 Debate (Option 2).JPG
 
 In 2019, Team 4/4 (Opposition) emerged champions after presenting compelling views on the motion “This House would abolish the racial quotas for HDBs.”
 
@@ -190,7 +171,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+<body><img src="![](/images/11%20Debate.jpeg)" alt="Inter-Class Debate Championships" style="width:70%;">  
   
 </body>
 <br>
@@ -202,7 +183,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Inter-Class Debate Championships" style="width:70%;">  
+<body><img src="![](/images/12%20Debate.jpeg)" alt="Inter-Class Debate Championships" style="width:70%;">  
   
 </body>
 <br>
