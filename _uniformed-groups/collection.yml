@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - Girl Guides (Girls).md
       - National Cadet Corps (Sea).md
       - National Police Cadet Corps.md
       - Red Cross Youth.md
