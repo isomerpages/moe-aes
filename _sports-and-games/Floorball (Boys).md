@@ -24,7 +24,7 @@ To develop floorballers in character, leadership and sportsmanship through holis
 **Teachers/Coaches:** <br>
 Mr Shajan (Coach) <br>
 Ms Cryst Tan <br>
-Ms Azra  <br>
+Ms Azra&nbsp; <br>
 Mr Sadik <br>
 Mr Daniel Chow
 
@@ -32,12 +32,12 @@ Mr Daniel Chow
 
 ### Student Leaders/ Captains:
 
-**B Division:**   <br>
-Huan Julian (Captain)   <br>
-Choy Guo Hua James (Vice Captain) <br>
+**B Division:**&nbsp;  <br>
+Huan Julian (Captain)&nbsp;  <br>
+Choy Guo Hua James (Vice Captain)&nbsp;<br>
 **C Division:**<br>
-Esquierdo Joshua Guevarra (Captain) <br>
-Lucas Lee Jia Yu (Vice Captain) 
+Esquierdo Joshua Guevarra (Captain)&nbsp;<br>
+Lucas Lee Jia Yu (Vice Captain)&nbsp;
 
 ###   Achievements
 
@@ -45,5 +45,6 @@ Lucas Lee Jia Yu (Vice Captain) 
 
 | Year |  Achievements |
 | --- | --- |
-| 2018 | ActiveSG-Singapore Floorball Association Plate & Bowl Tournament (Bronze Medal) |
+| 2018 | ActiveSG-Singapore Floorball Association Plate &amp; Bowl Tournament (Bronze Medal) |
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-XFq-7k4GZ9k-dstB1L43bMTaCJGusgFQMzNxjjiMDq9XKhBDMr9QRV3bSGJKZYMFEry04yGRK8J1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
