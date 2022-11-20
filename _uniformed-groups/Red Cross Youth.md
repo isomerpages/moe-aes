@@ -39,7 +39,9 @@ Sergeant Vera Lu Xuan
 
   
 
-<table class="ive_eobj_left iveo_table ives_tab_simple3" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 500px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 282px;">Gold Unit 2016, 2017. Bronze Unit 2018</td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 500px;" class="ive_eobj_left iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 282px;">Gold Unit 2016, 2017. Bronze Unit 2018</td></tr></tbody></table>
 
   <br><br>
-For more information, please visit [https://www.redcross.sg/get-involved/red-cross-youth.html](https://www.redcross.sg/get-involved/red-cross-youth.html)
+For more information, please visit&nbsp;[https://www.redcross.sg/get-involved/red-cross-youth.html](https://www.redcross.sg/get-involved/red-cross-youth.html)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRo0OcHnTwMcun8a7qrKdPoA9uIBRDNrkWwl6p5vLhJrrPPa8iOFrghi0RutRzqkAoBCKFothMHMe_j/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
