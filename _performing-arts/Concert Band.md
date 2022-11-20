@@ -7,7 +7,7 @@ description: ""
 
   
 
-The AES Concert Band comprises a group of music-loving individuals who form a team that strives to create beautiful music. The Band believes in giving students the opportunity to learn, perform and showcase their music talent. It also allows them to experience a holistic education with special emphasis on the development of their character and leadership qualities. 
+The AES Concert Band comprises a group of music-loving individuals who form a team that strives to create beautiful music. The Band believes in giving students the opportunity to learn, perform and showcase their music talent. It also allows them to experience a holistic education with special emphasis on the development of their character and leadership qualities.&nbsp;
 
   
 
@@ -30,8 +30,8 @@ Percussion Specialist - Ms Chua Xin Zhi
 
 ### Student Leaders
 
-Wynn Loo (3/4) - Drum Major & Clarinet Section Leader <br>
-Zafrie Zakeer Zaini (3/5) - Band Major & Horn Section Leader
+Wynn Loo (3/4) - Drum Major &amp; Clarinet Section Leader <br>
+Zafrie Zakeer Zaini (3/5) - Band Major &amp; Horn Section Leader
 
   
 
@@ -64,3 +64,5 @@ Personally, I believe that band has given me the opportunity to hone my leadersh
 
 **OLIVER SALIKIN LAMBERT WAIRISAL - Student Conductor (4/6)**  <br>
 I feel good as I learn the different percussion instruments in Band. I wanted to try all these types of instruments even though I do not know how to play some of the instruments before. With the help of Mr Joseph and Miss Chua, I managed to pick up skills to play most of the percussion instruments. It was a great privilege to perform during SYF and a privilege to become a student conductor. These two things made me realize that teamwork and responsibility is key to make a band great!
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQy8nIYmZ3MLgpw9YRgbPhd0pvZNvjhPbNecvMRVjoRCKG0oz2CsE8QicDznenw0a48qYDK-7bRoDc/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
