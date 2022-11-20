@@ -93,13 +93,11 @@ Mr Jacob Woo Kwong Hui
 
 For more information about AES NCC (SEA), please visit:
 
-[  
-](https://assumptionenglish.moe.edu.sg/student-development/ccas/uniformed-groups/goog_849354207)
-
 [https://sites.google.com/site/aesnccsea/home](https://sites.google.com/site/aesnccsea/home)
 
   
 
 You may also follow AES NCC (SEA) Instagram for more happenings:
 
-![AESnccsea(insta_logo).png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Student%20Dvlpmt/CCA/NCC/NCC%20AES%20webpage%20photos/AESnccsea(insta_logo).png)
+<img src="/images/AESnccsea(insta_logo).png"  
+style="width:65%">
