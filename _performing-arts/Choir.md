@@ -26,14 +26,17 @@ Ms Jessica Irawan
 
 ###   Student Leaders/Captain
 
-**President:** Locke Low Siang Fei <br>
-**Vice President:** Melissa Anne Jagatnath <br>
-**Section Leaders:** Wong Gao Jie Irene, Lisa Loh Jia Hwei, Meg Adrianne Alcano Severino, Kylie Imke Krist, Guevarra Allon Benedict Cruz, Muhammad Aidit Aqmal Bin Hassan <br>
-**Welfare IC:** Anais Lee Cheng Yi
+**President:**&nbsp;Locke Low Siang Fei <br>
+**Vice President:**&nbsp;Melissa Anne Jagatnath <br>
+**Section Leaders:**&nbsp;Wong Gao Jie Irene, Lisa Loh Jia Hwei, Meg Adrianne Alcano Severino, Kylie Imke Krist, Guevarra Allon Benedict Cruz, Muhammad Aidit Aqmal Bin Hassan <br>
+**Welfare IC:**&nbsp;Anais Lee Cheng Yi
 
 ###   Achievements
 
   
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 500px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 349px;">Singapore Youth Festival – Accomplishment (2019)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B’Dazzled Show Choir Competition – Emerald (2016, 2017)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 500px;" class="iveo_table ives_tab_simple3 ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 349px;">Singapore Youth Festival – Accomplishment (2019)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B’Dazzled Show Choir Competition – Emerald (2016, 2017)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
+<br>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwprIuCULg323O0EN6hCySZxNUItUG-wuA6AeQ5FF128_ce96IxMyPf1v7tfKmlVvB48GI1-gaN9oC/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
