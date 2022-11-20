@@ -7,7 +7,7 @@ Softball is a sport that requires team effort but is also a personal journey of 
 
   
 
-Persistence and resilience are other key learning outcomes for the team. The duration of the game is long and the players have to leverage on each other's strengths and cheer each other on. Likewise, as a team sport, commitment to the team and working together towards a common goal are the foundation for victory. 
+Persistence and resilience are other key learning outcomes for the team. The duration of the game is long and the players have to leverage on each other's strengths and cheer each other on. Likewise, as a team sport, commitment to the team and working together towards a common goal are the foundation for victory.&nbsp;
 
   
 
@@ -41,7 +41,8 @@ Li Ke Xuan, Shayne 3/1
 
   
 
-<table class="ive_eobj_left iveo_table ives_tab_simple3" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 700px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Participated in Softball Competition organized by Singapore Recreation Club (SRC)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(55, 72, 83); background-color: rgb(217, 229, 239);">Participated in National Schools Games, Softball Competition</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(55, 72, 83); background-color: initial;">C Division – 3rd in group match</span></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 700px;" class="ive_eobj_left iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Participated in Softball Competition organized by Singapore Recreation Club (SRC)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(55, 72, 83); background-color: rgb(217, 229, 239);">Participated in National Schools Games, Softball Competition</span><span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(55, 72, 83); background-color: initial;">C Division – 3rd in group match</span></td></tr></tbody></table>
 
 <br><br>
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXWeDBcemqhHylgjsKOR-8r5QCrKrG22HdUiwp4NqQLSWh6p4gxfwgFW-qognq-FE908930I_i5NKN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
