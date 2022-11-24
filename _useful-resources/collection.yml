@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - For Parents/Textbooks & Uniforms.md
       - For Parents/Parent and School Communication Policy.md
       - For Parents/Group Personal Accident Insurance for Students.md
       - For Parents/AES Open House 2022.md
