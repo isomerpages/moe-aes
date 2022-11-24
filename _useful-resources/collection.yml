@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - For Students/Administrative Information.md
       - For Students/Education and Career Guidance (ECG).md
       - For Students/Reading Materials.md
       - For Students/.keep
