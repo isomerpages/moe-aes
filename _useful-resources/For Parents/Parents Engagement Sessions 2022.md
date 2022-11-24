@@ -27,3 +27,15 @@ Dear parents, please download the following PDF for the slides and FAQs during t
 [3\. Useful Links\_ECG Efforts.pdf](/files/Useful%20Links_ECG%20Efforts.pdf)
   
 You can rewatch the entire segment below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oY7kZuvbI9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Secondary 3 Parents Engagement Session (16 February 2022)
+---------------------------------------------------------
+
+Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
+  
+[1\. Sec 3 Parents Engagement Session Main Slides.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%203/1.%20Sec%203%20Parents%20Engagement%20Session%20Main%20Slides.pdf.pdf)  
+[2\. Sec 3 Parents Engagement FAQs.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%203/2.%20Sec%203%20Parents%20Engagement%20FAQs.pdf.pdf)  
+[3\. Useful Links\_ECG Efforts.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%203/3.%20Useful%20Links_ECG%20Efforts.pdf)  
+  
+You can rewatch the entire segment below:
