@@ -68,15 +68,15 @@ Dear students, please click the link below to access the following:
 
 *   2022 EOY Letter to Parents
 
-	*   [Revised S1\_EOY\_Letter to Parent\_2022.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%20(28092022)/Revised%20S1_EOY_Letter%20to%20Parent_2022.pdf)  
+	*   [Revised S1\_EOY\_Letter to Parent\_2022.pdf](/files/Revised%20S1_EOY_Letter%20to%20Parent_2022.pdf)
     
-	*   [S2\_EOY\_Letter to Parent\_2022.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/S2_EOY_Letter%20to%20Parent_2022.pdf)  
+	*   [S2\_EOY\_Letter to Parent\_2022.pdf](/files/S2_EOY_Letter%20to%20Parent_2022.pdf)
     
-	*   [Revised 3E\_EOY\_Letter to Parent\_2022.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%203E_EOY_Letter%20to%20Parent_2022.pdf)  
+	*   [Revised 3E\_EOY\_Letter to Parent\_2022.pdf](/files/Revised%203E_EOY_Letter%20to%20Parent_2022.pdf) 
     
-	*   [Revised 3NA\_EOY\_Letter to Parent\_2022.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%20(28092022)/Revised%203NA_EOY_Letter%20to%20Parent_2022.pdf)  
+	*   [Revised 3NA\_EOY\_Letter to Parent\_2022.pdf](/files/Revised%203NA_EOY_Letter%20to%20Parent_2022.pdf)
     
-	*   [Revised 3NT\_EOY\_Letter to Parent\_2022.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%20(28092022)/Revised%203NT_EOY_Letter%20to%20Parent_2022.pdf)
+	*   [Revised 3NT\_EOY\_Letter to Parent\_2022.pdf](/files/Revised%203NT_EOY_Letter%20to%20Parent_2022.pdf)
 
 *   2022 EOY Letter to Parents
 
