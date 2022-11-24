@@ -6,8 +6,7 @@ third_nav_title: For Parents
 ---
 **1\. Scope and Definition**
 
-1.1. Communication between school and parent is an essential component of school life.  It is an intentional effort and a shared responsibility in order to provide support and to improve the ways students learn and develop.
-
+1.1. Communication between school and parent is an essential component of school life.  It is an intentional effort and a shared responsibility in order to provide support and to improve the ways students learn and develop. <br>
 1.2.  The school is committed to help and support you with sincerity and professionalism, and there must be mutual courtesy and respect.
 
 **2\. School policies and procedures: new student and parent information**  
@@ -24,10 +23,8 @@ b. Parents can direct queries to the relevant class/subject teachers through ema
 
 **4\. General school communication**
 
-4.1.  The school informs the parents about current activities via the Parents’ Gateway and School Website. It is important that parents download the Parents’ Gateway and read and take note of announcements published.
-
-4.2.  The AES general office will be the first point of contact for parents for non-educational questions.
-
+4.1.  The school informs the parents about current activities via the Parents’ Gateway and School Website. It is important that parents download the Parents’ Gateway and read and take note of announcements published. <br>
+4.2.  The AES general office will be the first point of contact for parents for non-educational questions. <br>
 4.3.  The following order of communication will be the basis for all communication between the school and the parents through the AES general office at 65729100:
 
 a.  For all matters concerning the lessons, the respective subject teacher can be contacted; for general class matters, the form teacher can be contacted.
@@ -44,7 +41,7 @@ e.  If you wish to meet with a teacher, an appointment has to be made prior to 
 
 4.4.  Communication should be gracious and respectful. The school owes a duty of care to its teachers and staff.  This is to protect them from intimidating or threatening behaviour in a verbal or written form. The school reserves the right not to engage parents under such circumstances.
 
-**5\. Further Communication and Overview**
+**5\. Further Communication and Overview** 
 
 5.1.  Additional to the key communication means laid out above, AES aims to provide students and parents with further relevant information. An overview is provided in the following table:
 
