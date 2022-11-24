@@ -26,3 +26,20 @@ What's next?
 4. **Read through the [**information kit**](/files/Secondary%20One%20Registration%20Info%20Kit%202022.pdf)** for more administrative information and also about the orientation programme.
 
 For students who are offered Higher Mother Tongue Language and Subject-Based Banding (SBB), the school will contact you separately. Students who accept the SBB offer should purchase the correct books for the stream.
+
+**Other useful links:**
+
+1.  **[**Secondary One Registration Info Kit**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Secondary%20One%20Registration%20Info%20Kit%202022.pdf)  
+    **
+2.  [**Annex A1 – Uniform and Book Purchase Details**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20A1-%20Uniform%20and%20Book%20Purchase%20Details.pdf)
+3.  [**Annex A2 – Book List**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20A2%20-%20Book%20List.pdf)
+4.  [**Annex A3 – School Uniform Order Form**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20A3%20-%20School%20Uniform%20Order%20Form.pdf)
+5.  [**Annex B – Orientation Programme**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20B%20-%20Orientation%20Programme.pdf)
+6.  [**Annex C1 – GIRO Application Form (to be submitted by 7th January)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20C1%20-%20Giro%20application%20form.pdf)
+7.  [**Annex C2 – Edusave Standing Form (to be submitted by 7th January)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20C2%20-%20Edusave%20Application%20Form.pdf)
+8.  [**Financial Assistance Application Form (for new applicants)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/MOE%20FAS%20Application%20Form.pdf)
+
+Appeal for transfer due to serious medical conditions
+-----------------------------------------------------
+
+Students who would like to request for a school transfer due to medical reasons will need to submit their appeal through the posted secondary school in person on **23 December 2021, 8.30 a.m. to 11 a.m**. Parents are to make an appointment by calling the school at 6572 9100 for submitting an appeal in person.
