@@ -12,5 +12,4 @@ Boys' Town Alumni
 AES Facebook Page (Graduates of AES)
 =================
 
-*   [AES Facebook Page (Graduates of AES)](https://www.facebook.com/GraduatesofAES/)
-
+[AES Facebook Page (Graduates of AES)](https://www.facebook.com/GraduatesofAES/)
