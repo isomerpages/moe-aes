@@ -27,21 +27,20 @@ Dear students, please click the link below to access the following:
 
 3. **Term 3 Booster Timetable for Sec 4 & 5 Classes**  
 
-*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (7 July to 15 July)](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/Booster_Sec%204%20%205%20Classes%20Version%201_7%20Jul%20-%2015%20Jul.pdf)
-*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (18 July to 29 July)](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/Booster_Sec%204%20%205%20Classes%20Version%202_16%20Jul%20-%2029%20Jul.pdf)
-*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (1 Aug to 23 Sep)](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/Booster_Sec%204%20%205%20Classes%20Version%203_1%20Aug%20-%2023%20Sep.pdf)
+*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (7 July to 15 July)](/files/Booster_Sec%204%20%205%20Classes%20Version%201_7%20Jul%20-%2015%20Jul.pdf)
+*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (18 July to 29 July)](/files/Booster_Sec%204%20%205%20Classes%20Version%202_16%20Jul%20-%2029%20Jul.pdf)
+*   [Term 3 Booster Timetable for Sec 4 & 5 Classes (1 Aug to 23 Sep)](/files/Booster_Sec%204%20%205%20Classes%20Version%203_1%20Aug%20-%2023%20Sep.pdf)
 
   
 
 4. **WA3 Letter to parents**
 
-*   [2022 WA3 Sec 1 Letter to Parents.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20WA3%20Letter%20to%20Parents/2022%20WA3%20Sec%201%20Letter%20to%20Parents.pdf)  
+*   [2022 WA3 Sec 1 Letter to Parents.pdf](/files/2022%20WA3%20Sec%201%20Letter%20to%20Parents.pdf) 
     
-*   [2022 WA3 Sec 2 Letter to Parents.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20WA3%20Letter%20to%20Parents/2022%20WA3%20Sec%202%20Letter%20to%20Parents.pdf)  
+*   [2022 WA3 Sec 2 Letter to Parents.pdf](/files/2022%20WA3%20Sec%202%20Letter%20to%20Parents.pdf)
+*   [2022 WA3 Sec 3E Letter to Parents.pdf](/files/2022%20WA3%20Sec%203E%20Letter%20to%20Parents.pdf)
     
-*   [2022 WA3 Sec 3E Letter to Parents.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20WA3%20Letter%20to%20Parents/2022%20WA3%20Sec%203E%20Letter%20to%20Parents.pdf)  
-    
-*   [2022 WA3 Sec 3N Letter to Parents.pdf (Updated on 5 Aug)](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20WA3%20Letter%20to%20Parents/2022%20Sec%203NA%20%203NT%20WA%203%20Schedule-updated%205%20Aug.pdf)  
+*   [2022 WA3 Sec 3N Letter to Parents.pdf (Updated on 5 Aug)](/files/2022%20Sec%203NA%20%203NT%20WA%203%20Schedule-updated%205%20Aug.pdf)
     
 
 **5.** **2022 'O' Level Preliminary Examination**  
