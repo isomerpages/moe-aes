@@ -43,17 +43,17 @@ Please note that the books and stationery items required for the various streams
 
 #### Secondary 1
 
-[Assumption English School Booklist 2023 S1.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Textbooks%20for%202023/Assumption%20English%20School%20Booklist%202023%20S1.pdf)  
+[Assumption English School Booklist 2023 S1.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S1.pdf)
 
 #### Secondary 2
 
-[Assumption English School Booklist 2023 S2.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Textbooks%20for%202023/Assumption%20English%20School%20Booklist%202023%20S2.pdf)  
+[Assumption English School Booklist 2023 S2.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S2.pdf)  
 
 #### Secondary 3
 
-[Assumption English School Booklist 2023 S3.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Textbooks%20for%202023/Assumption%20English%20School%20Booklist%202023%20S3.pdf)  
+[Assumption English School Booklist 2023 S3.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S3.pdf)
 
 #### Secondary 4 & 5
 
-[Assumption English School Booklist 2023 S4.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Textbooks%20for%202023/Assumption%20English%20School%20Booklist%202023%20S4.pdf)  
-[Assumption English School Booklist 2023 S5.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Textbooks%20for%202023/Assumption%20English%20School%20Booklist%202023%20S5.pdf)
+[Assumption English School Booklist 2023 S4.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S4.pdf)<br>
+[Assumption English School Booklist 2023 S5.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S5.pdf)
