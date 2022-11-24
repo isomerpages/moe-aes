@@ -3,8 +3,7 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /useful-resources/national-digital-literacy-programme-ndlp/
 description: ""
 ---
-Dear Parents and Guardians,
-
+Dear Parents and Guardians, <br>
 Please refer to the parent's letter attached for the details on the National Digital Literacy Programme (NDLP).
 
 [NDLP\_Parents letter.pdf](/files/NDLP_Parents%20letter.pdf)
