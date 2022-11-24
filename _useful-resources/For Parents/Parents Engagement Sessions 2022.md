@@ -51,3 +51,4 @@ Dear parents, please download the following PDF for the slides and FAQs during t
 [2\. Sec 2 Parents Engagement FAQs.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%202/2.%20Sec%202%20Parents%20Engagement%20FAQs.pdf.pdf)  
   
 You can rewatch the entire segment below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6Zej7kCaEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
