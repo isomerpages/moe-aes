@@ -8,8 +8,6 @@ third_nav_title: CCAs
 
 <p style="text-align:center;"> <strong>VIDEO TO BE EMBEDDED HERE!</strong></p>
 
-
-
 <h3><u>Background</u></h3>
 
 The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move towards a more flexible and broad-based education system. Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. These criteria can include diverse academic and non-academic achievements and talents.&nbsp;
@@ -57,8 +55,7 @@ Through our Football programme, we aim to develop our players to have:&nbsp;
 *   Sense of focus, commitment and respect for the sport.
 
   
-
-Programme
+<h3><u>Programme</u></h3>
 
 AES has a comprehensive developmental programme to develop and nurture our aspiring sports boys and girls into outstanding players anchored on values. While our programme focuses on developing the essential physical skills and knowledge in the various sports, it is designed to provide our students with a broad based of experiences that go beyond just playing the sports. These include
 
@@ -71,10 +68,7 @@ AES has a comprehensive developmental programme to develop and nurture our aspir
 
 We have a team of passionate, committed and experienced teachers and coaches who oversee the physical, social and emotional well-being as well as the&nbsp;academic progress&nbsp;of our players.
 
-  
-
-AES DSA Selection Criteria
---------------------------
+<h3>AES DSA Selection Criteria</h3>
 
 **1\. CCA Achievements**
 
