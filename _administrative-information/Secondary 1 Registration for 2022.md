@@ -43,3 +43,22 @@ Appeal for transfer due to serious medical conditions
 -----------------------------------------------------
 
 Students who would like to request for a school transfer due to medical reasons will need to submit their appeal through the posted secondary school in person on **23 December 2021, 8.30 a.m. to 11 a.m**. Parents are to make an appointment by calling the school at 6572 9100 for submitting an appeal in person.
+
+Online Appeal Application to Assumption English School
+------------------------------------------------------
+
+Parents may appeal to transfer to our school for various reasons. In view of the ongoing COVID-19 situation, you may download and complete the [**appeal application form**](/files/Online%20Appeal%20to%20AES%20Form.pdf) by **23 December 2021, 5 p.m.** and submit the application together with supporting documents via email to [**aes@moe.edu.sg**](mailto:aes@moe.edu.sg).  
+
+Trials for School Football Academy
+----------------------------------
+
+Assumption English School is one of the 10 newly-launched School Football Academies (SFAs). Trials will be held on 27 or 28 December and interested students can indicate their selection through the registration form provided at the start of this page.
+
+If there is a need to change the date of the trial, please click on this link:  [**https://go.gov.sg/footballtrials**](https://go.gov.sg/footballtrials)
+
+For more information about the SFA, please download the [**pdf here**](https://drive.google.com/file/d/1q1iViZmfsHDspI8fOOKZ-mmo3rzlyd9L/view). 
+
+Art Elective Programme and Music Elective Programme
+---------------------------------------------------
+
+MOE offers the Art Elective Programme (AEP) and Music Elective Programme (MEP) at the secondary level to cater to students with a passion in Art and Music. For more information about AEP & MEP, please download the [**slides here**](/files/AEP%20%20MEP.pdf).
