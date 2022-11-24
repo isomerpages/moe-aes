@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - For Parents/.keep
       - For Teachers.md
       - For Alumni.md
       - Timetable and Examinations.md
