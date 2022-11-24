@@ -2,4 +2,5 @@ collections:
   useful-resources:
     output: true
     order:
+      - St Gabriel’s Foundation Virtual Flag Day 2022.md
       - AES Self Development Programme (SDP).md
