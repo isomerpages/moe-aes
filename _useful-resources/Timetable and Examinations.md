@@ -12,15 +12,15 @@ Dear students, please click the link below to access the following:
 
 1.  **Timetable for Semester 2**
 
-*   [AES 2022 Semester 2 Timetable Classes (010722)](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/AES%202022%20Semester%202%20Timetable%20Classes%20010722.pdf)  
+*   [AES 2022 Semester 2 Timetable Classes (010722)](/files/AES%202022%20Semester%202%20Timetable%20Classes%20010722.pdf)
       
     
 
 2.  **'N' Level Preliminary Examination**
 
-*   [4NA Preliminary Examination Topics to be Assessed](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2.%202022%20N%20Preliminary%20Examination%20Topics%20to%20be%20Assessed%20NA.pdf)  
-*   [4NA Preliminary Examination Letter to Parents](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/5a.%202022%20N%20Prelim_4NA_Letter%20to%20Parents.pdf)  <br><br>
-*   [4NT Preliminary Examination Topics to be Assessed](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2.%202022%20N%20Preliminary%20Examination%20Topics%20to%20be%20Assessed%20NT.pdf)  
+*   [4NA Preliminary Examination Topics to be Assessed](/files/2022%20N%20Preliminary%20Examination%20Topics%20to%20be%20Assessed%20NA.pdf)  
+*   [4NA Preliminary Examination Letter to Parents](/files/2022%20N%20Prelim_4NA_Letter%20to%20Parents.pdf)  <br><br>
+*   [4NT Preliminary Examination Topics to be Assessed](/files/2022%20N%20Preliminary%20Examination%20Topics%20to%20be%20Assessed%20NT.pdf)
 *   [4NT Preliminary Examination Letter to Parents](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/5b.%202022%20N%20Prelim_4NT_Letter%20to%20Parents.pdf)  
       
     
