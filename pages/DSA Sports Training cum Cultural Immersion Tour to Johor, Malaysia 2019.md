@@ -3,7 +3,7 @@ title: DSA Sports Training cum Cultural Immersion Tour to Johor, Malaysia 2019
 permalink: /student-development/ccas/dsa/dsa-cultural-immersion-tour-to-johor-malaysia-2019/
 description: ""
 ---
-<p style="text-align:center;"><strong><u>3D2N Sports & Cultural School Immersion Tour to Johor, Malaysia 2019
+<p style="text-align:center;"><strong><u>3D2N Sports &amp; Cultural School Immersion Tour to Johor, Malaysia 2019
 </u></strong></p>
 
 Objectives
@@ -26,7 +26,7 @@ Highlights
 
   
 
-During the tour, our students experienced cultural school immersion with Foon Yew High School (Kulai) where they visited the school and interacted with the teachers to learn more about Malaysian schools educational system and their curriculum. Thereafter, our Basketball (Boys & Girls) and Football (Boys) teams interacted and played friendly games against Foon Yew High School’s Basketball and Football school team. It was a valuable experience for our basketballers and footballers as they learnt through the friendly games and forged friendship with students of Foon Yew High School.
+During the tour, our students experienced cultural school immersion with Foon Yew High School (Kulai) where they visited the school and interacted with the teachers to learn more about Malaysian schools educational system and their curriculum. Thereafter, our Basketball (Boys &amp; Girls) and Football (Boys) teams interacted and played friendly games against Foon Yew High School’s Basketball and Football school team. It was a valuable experience for our basketballers and footballers as they learnt through the friendly games and forged friendship with students of Foon Yew High School.
 
   
 
@@ -44,3 +44,5 @@ Looking Forward
   
 
 The tour has enriched our athletes’ learning experiences in their chosen sports and a better understanding of the Malaysian culture. Through the friendly games of playing against stronger teams, our athletes learnt to be a better player. In the process, they have bonded as a team, fostering greater team spirit.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgccwYof3aK711BobKr0EnYZ_kB5eqO0KAo7-7w4vUDHNbwm-0QFpGAFOTd6we-H2vgEBHBMCdP7Fi/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
