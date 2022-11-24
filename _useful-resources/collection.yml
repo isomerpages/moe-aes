@@ -1,4 +1,5 @@
 collections:
   useful-resources:
     output: true
-    order: []
+    order:
+      - AES Self Development Programme (SDP).md
