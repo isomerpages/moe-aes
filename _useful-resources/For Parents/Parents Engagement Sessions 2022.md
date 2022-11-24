@@ -48,7 +48,7 @@ Secondary 2 Parents Engagement Session (18 February 2022)
 Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
   
 [1\. Sec 2 Parents Engagement Session Main Slides.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%202/1.%20Sec%202%20Parents%20Engagement%20Session%20Main%20Slides.pdf.pdf)  <br>
-[2\. Sec 2 Parents Engagement FAQs.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parents%20Engagement%202022/Sec%202/2.%20Sec%202%20Parents%20Engagement%20FAQs.pdf.pdf)  
+[2\. Sec 2 Parents Engagement FAQs.pdf](/files/Sec%202%20Parents%20Engagement%20FAQs.pdf) 
   
 You can rewatch the entire segment below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6Zej7kCaEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
