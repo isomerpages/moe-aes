@@ -9,7 +9,7 @@ The AES SDP students will have to go through a period of 2 to 6 months of self
 
   
 
-**The objectives of AES SDP:**
+**<u>The objectives of AES SDP:</u>**
 
 *   To encourage students to be **independent and self-directed learners**.
 *   To recognise the **strengths and interests** of our students, to **build their confidence** and **develop an intrinsic motivation** to learn for life in them.
@@ -17,12 +17,12 @@ The AES SDP students will have to go through a period of 2 to 6 months of self
 
   
 
-**2022 Timeline for Sec 1 NA, 1NT, 2NA & 2NT students:**  
+**<u>2022 Timeline for Sec 1 NA, 1NT, 2NA & 2NT students:</u>**  
 ![SDP Timeline Sec 1  2.PNG](/images/SDP%20Timeline%20Sec%201%20%202.png)
   
  
 
-**For Sec 2 Express students aspiring to take up Pure Sciences and Additional Mathematics in Upper Secondary**
+**<u>For Sec 2 Express students aspiring to take up Pure Sciences and Additional Mathematics in Upper Secondary</u>**
 
 ▪ Sec 2 Express students can explore 2 taster chapters of Upper Secondary Sciences and Additional Mathematics to have a better understanding what these subjects entail.
 
@@ -30,15 +30,14 @@ The AES SDP students will have to go through a period of 2 to 6 months of self
 
 ▪ The SDP is by students’ choice. Students choose to opt in and what they learn is non-examinable.
 
-**2022 Timeline for Sec 2E students:**  
+**<u>2022 Timeline for Sec 2E students:</u>**  
 ![SDP Timelinev 2E.PNG](/images/SDP%20Timelinev%202E.png)
 
   
 
 In deciding whether to take up the AES SDP, students and their parents should consider the student’s aptitude and interest in the Science, Humanities, Mathematics and English as well as their ability to cope with the other subjects.
 
-**A sample link to our Sec 1 SDP website**
-
+**<u>A sample link to our Sec 1 SDP website</u>** <br>
 [**https://go.gov.sg/aesselfdevelopmentprogramme**](https://go.gov.sg/aesselfdevelopmentprogramme)  
 
   
