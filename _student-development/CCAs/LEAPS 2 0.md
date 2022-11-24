@@ -66,8 +66,7 @@ This domain recognises students’ representation and accomplishment in co-curri
 
   
 
-**Recognition of Students’ Level of Attainment** 
-
+**Recognition of Students’ Level of Attainment** <br>
 At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent, Good or Fair. The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).
 
   
