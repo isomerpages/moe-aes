@@ -16,3 +16,14 @@ Dear parents, please download the following PDF for the slides and FAQs during t
 You can rewatch the entire segment below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/euwrx6Tvr-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Secondary 4 & 5 Parents Engagement Session (11 February 2022)
+-------------------------------------------------------------
+
+Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
+  
+[1\. Sec 4 and 5 Parents Engagement Session Main Slides.pdf](/files/Sec%204%20%205%20Parents%20Engagement%20Session%20Main%20Slides.pdf) <br>
+[2\. Sec 4 and 5 Parents Engagement FAQs.pdf](/files/Sec%204%20%205%20Parents%20Engagement%20FAQs.pdf) <br>
+[3\. Useful Links\_ECG Efforts.pdf](/files/Useful%20Links_ECG%20Efforts.pdf)
+  
+You can rewatch the entire segment below:
