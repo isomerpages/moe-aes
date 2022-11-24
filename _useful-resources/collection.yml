@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - For Students/.keep
       - For Parents/Parents Support Group (PSG).md
       - For Parents/Parents Gateway.md
       - For Parents/Parents Engagement Sessions 2022.md
