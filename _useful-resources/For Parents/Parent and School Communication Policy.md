@@ -8,7 +8,7 @@ third_nav_title: For Parents
 
 1.1. Communication between school and parent is an essential component of school life.  It is an intentional effort and a shared responsibility in order to provide support and to improve the ways students learn and develop.
 
-**1.2.  The school is committed to help and support you with sincerity and professionalism, and there must be mutual courtesy and respect.**
+1.2.  The school is committed to help and support you with sincerity and professionalism, and there must be mutual courtesy and respect.
 
 **2\. School policies and procedures: new student and parent information**  
 
@@ -48,4 +48,4 @@ e.  If you wish to meet with a teacher, an appointment has to be made prior to 
 
 5.1.  Additional to the key communication means laid out above, AES aims to provide students and parents with further relevant information. An overview is provided in the following table:
 
-![Parent and School Communication Policy.PNG](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Parents/Parent%20and%20School%20Communication%20Policy/Parent%20and%20School%20Communication%20Policy.PNG)
+![Parent and School Communication Policy](/images/Parent%20and%20School%20Communication%20Policy.png)
