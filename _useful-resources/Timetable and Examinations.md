@@ -80,20 +80,20 @@ Dear students, please click the link below to access the following:
 
 *   2022 EOY Letter to Parents
 
-	*   [1E EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/1E%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [1NA EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/1NA%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [1NT EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/1NT%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [2E EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/2E%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [2NA EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/2NA%20EOY%20Topics%20to%20be%20Assessed.pdf)  
+	*   [1E EOY Topics to be Assessed.pdf](/files/1E%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [1NA EOY Topics to be Assessed.pdf](/files/1NA%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [1NT EOY Topics to be Assessed.pdf](/files/1NT%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [2E EOY Topics to be Assessed.pdf](/files/2E%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [2NA EOY Topics to be Assessed.pdf](/files/2NA%20EOY%20Topics%20to%20be%20Assessed.pdf) 
     
-	*   [2NT EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/2NT%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [3E EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/3E%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [3NA EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/3NA%20EOY%20Topics%20to%20be%20Assessed.pdf)
-	*   [3NT EOY Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Topics/3NT%20EOY%20Topics%20to%20be%20Assessed.pdf)  
+	*   [2NT EOY Topics to be Assessed.pdf](/files/2NT%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [3E EOY Topics to be Assessed.pdf](/files/3E%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [3NA EOY Topics to be Assessed.pdf](/files/3NA%20EOY%20Topics%20to%20be%20Assessed.pdf)
+	*   [3NT EOY Topics to be Assessed.pdf](/files/3NT%20EOY%20Topics%20to%20be%20Assessed.pdf)
       
     
 
 **7.** **Timetables for 17, 18, 21, 25 Oct and Secondary 3 Extended Curriculum (31 Oct - 4 Nov)**
 
-*   [17 18 Oct Check Scripts 21 Oct Go Through Scripts\_Class TT FINAL.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/17%2018%20Oct%20Check%20Scripts%20%2021%20Oct%20Go%20Through%20Scripts_Class%20TT%20FINAL.pdf)
-*   [25 Oct Sec 3 EC Class TT FINAL V2.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Timetable%202022/25%20Oct%20%20Sec%203%20EC%20Class%20TT%20FINAL%20V2.pdf)
+*   [17 18 Oct Check Scripts 21 Oct Go Through Scripts\_Class TT FINAL.pdf](/files/17%2018%20Oct%20Check%20Scripts%20%2021%20Oct%20Go%20Through%20Scripts_Class%20TT%20FINAL.pdf)
+*   [25 Oct Sec 3 EC Class TT FINAL V2.pdf](/files/25%20Oct%20%20Sec%203%20EC%20Class%20TT%20FINAL%20V2.pdf)
