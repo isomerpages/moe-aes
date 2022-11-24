@@ -17,23 +17,21 @@ The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move towards 
 Assumption English School (AES) will admit our 5th batch of DSA students in 2023 for students with sporting talents in&nbsp;**Basketball, Football and Judo**.
 
   
-
-School Vision
+<h3><u>School Vision</u></h3>
 
 Men and Women of Character and Learning, in the Service of God and Community.
 
-  
+<h4><u>Judo (Boys &amp; Girls)</u></h4>
 
-### Judo (Boys &amp; Girls)
 
 AES has put in place a good training and developmental programme to develop the physical skills as well as character of our Judokas (Boys &amp; Girls). Over the past years, we have nurtured and developed many outstanding Judokas who have represented our Singapore Schools Team as well as Team Singapore at the youth and national levels.&nbsp;Our B Boys and B Girls emerged 2nd and 3rd in the B Division Team Event respectively at the National School Games Judo Championships 2022. Our Judokas also won 2 Gold, 2 Silver and 1 Bronze individual medals at this year Judo Championships 2022.  
   
+<h4><u>Basketball (Boys &amp; Girls)</u></h4>
 
-Basketball (Boys &amp; Girls)
 
 The AES Basketball (Boys &amp; Girls) team has consistently performed well at the Zonal and National School Games competitions. Our Basketballers are committed and disciplined in their sport while the school provides a conducive training environment for them to hone and develop their skills and achieve excellence in character building. Our B Boys Basketball team finished 2nd position at the West Zone Schools Sports Council (WZSSC) Basketball Championships 2022 held at the Jurong East Sports Centre on 29 April 2022 (Fri).  
   
-Football (Boys)  
+<h4><u>Football (Boys)</u></h4>
 
 AES is endorsed as a School Football Academy (SFA) which is part of the Unleash The Roar! (UTR!) national project which aims to unite Singaporeans through football and create more opportunities for young Singaporeans to develop their talents.&nbsp;
 
