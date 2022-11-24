@@ -45,13 +45,13 @@ Dear students, please click the link below to access the following:
 
 **5.** **2022 'O' Level Preliminary Examination**  
 
-*   [2022 S4 & 5 'O' Level prelim Examination TIMETABLE .pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/1.%202022%20S45%20O%20prelim%20Examination%20TIMETABLE%20.pdf)  
+*   [2022 S4 & 5 'O' Level prelim Examination TIMETABLE .pdf](/files/2022%20S45%20O%20prelim%20Examination%20TIMETABLE%20.pdf)
     
-*   [2022 S4 & 5 'O' Level prelim Examination Topics to be Assessed.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/3.%202022%20O%20Preliminary%20Examination%20Topics%20to%20be%20Assessed.pdf)  
+*   [2022 S4 & 5 'O' Level prelim Examination TIMETABLE .pdf](/files/2022%20O%20Preliminary%20Examination%20Topics%20to%20be%20Assessed.pdf)
     
-*   ['O' Level prelim Examination Letter to Parents.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/5a.%202022%20O%20Prelim%20Letter%20to%20Parents.pdf)  
+*   ['O' Level prelim Examination Letter to Parents.pdf](/files/2022%20O%20Prelim%20Letter%20to%20Parents.pdf)
     
-*   [2022 'O' Level prelim Examination SEC 3HCL Letter to Parents.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/5b.%202022%20O%20Prelim%20SEC%203HCL%20Letter%20to%20Parents.pdf)  
+*   [2022 'O' Level prelim Examination SEC 3HCL Letter to Parents.pdf](/files/2022%20O%20Prelim%20SEC%203HCL%20Letter%20to%20Parents.pdf)
     
 
   
