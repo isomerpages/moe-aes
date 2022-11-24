@@ -60,9 +60,9 @@ Dear students, please click the link below to access the following:
 
 *   2022 EOY Schedule
 
-	*   [1a. 2022 S1 EOY Examination TIMETABLE revised.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%20(28092022)/1a.%202022%20S1%20EOY%20Examination%20TIMETABLE%20revised.pdf)  
+	*   [1a. 2022 S1 EOY Examination TIMETABLE revised.pdf](/files/2022%20S1%20EOY%20Examination%20TIMETABLE%20revised.pdf)
     
-	*   [1a. 2022 S2 EOY Examination TIMETABLE final.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/1a.%202022%20S2%20EOY%20Examination%20TIMETABLE%20final.pdf)
+	*   [1a. 2022 S2 EOY Examination TIMETABLE final.pdf](/files/2022%20S2%20EOY%20Examination%20TIMETABLE%20final.pdf)
 	*   [1c . 2022 S3 EOY Examination TIMETABLE revised.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/2022%20EOY/Revised%20(28092022)/1c%20.%202022%20S3%20EOY%20Examination%20TIMETABLE%20revised.pdf)  
     
 
