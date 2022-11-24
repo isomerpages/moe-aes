@@ -2,5 +2,6 @@ collections:
   administrative-information:
     output: true
     order:
+      - Graduation Day 2021.md
       - Secondary 1 Registration for 2022.md
       - COVID 19 Vaccination Exercise.md
