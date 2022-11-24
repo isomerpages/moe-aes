@@ -116,4 +116,6 @@ For more information about the DSA programme, you can read more [**HERE**](http
 
 5.     For more information and should you have any queries about the school DSA programme, please contact Mr Gary Ong (HOD PE & CCA) at Tel: 6572 9122 or 6572 9100. Alternatively, you can email your queries to:  
 
-[**aes@moe.edu.sg**](mailto:aes@moe.edu.sg)
+
+<p style="text-align:center;"><a href="mailto:aes@moe.edu.sg"><strong>aes@moe.edu.sg</strong></a></p>
+</p>
