@@ -29,15 +29,15 @@ For students who are offered Higher Mother Tongue Language and Subject-Based Ban
 
 **Other useful links:**
 
-1.  **[**Secondary One Registration Info Kit**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Secondary%20One%20Registration%20Info%20Kit%202022.pdf)  
-    **
-2.  [**Annex A1 – Uniform and Book Purchase Details**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20A1-%20Uniform%20and%20Book%20Purchase%20Details.pdf)
-3.  [**Annex A2 – Book List**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20A2%20-%20Book%20List.pdf)
-4.  [**Annex A3 – School Uniform Order Form**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20A3%20-%20School%20Uniform%20Order%20Form.pdf)
-5.  [**Annex B – Orientation Programme**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/Annex%20B%20-%20Orientation%20Programme.pdf)
-6.  [**Annex C1 – GIRO Application Form (to be submitted by 7th January)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20C1%20-%20Giro%20application%20form.pdf)
-7.  [**Annex C2 – Edusave Standing Form (to be submitted by 7th January)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/Annex%20C2%20-%20Edusave%20Application%20Form.pdf)
-8.  [**Financial Assistance Application Form (for new applicants)**](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Secondary%201%20Registration%20Kit/2022/MOE%20FAS%20Application%20Form.pdf)
+1.  [**Secondary One Registration Info Kit**](/files/Secondary%20One%20Registration%20Info%20Kit%202022%20.pdf) 
+   
+2.  [**Annex A1 – Uniform and Book Purchase Details**](/files/Annex%20A1-%20Uniform%20and%20Book%20Purchase%20Details.pdf)
+3.  [**Annex A2 – Book List**](/files/Annex%20A2%20-%20Book%20List.pdf)
+4.  [**Annex A3 – School Uniform Order Form**](/files/Annex%20A3%20-%20School%20Uniform%20Order%20Form.pdf)
+5.  [**Annex B – Orientation Programme**](/files/Annex%20B%20-%20Orientation%20Programme.pdf)
+6.  [**Annex C1 – GIRO Application Form (to be submitted by 7th January)**](/files/Annex%20C1%20-%20Giro%20application%20form.pdf)
+7.  [**Annex C2 – Edusave Standing Form (to be submitted by 7th January)**](/files/Annex%20C2%20-%20Edusave%20Application%20Form.pdf)
+8.  [**Financial Assistance Application Form (for new applicants)**](/files/MOE%20FAS%20Application%20Form.pdf)
 
 Appeal for transfer due to serious medical conditions
 -----------------------------------------------------
