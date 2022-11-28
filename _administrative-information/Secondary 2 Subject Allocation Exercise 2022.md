@@ -22,9 +22,9 @@ Subjects are offered based on academic merit (which includes overall performance
 [2022 Sec 2 Subject Briefing DT Express.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20DT%20Express.pdf)  <br>
 [2022 Sec 2 Subject Briefing Geography Express.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20Geography%20Express.pdf))<br>
 [2022 Sec 2 Subject Briefing Literature Exp Upper Sec Texts Briefing.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20Literature%20Exp%20Upper%20Sec%20Texts%20Briefing.pdf)<br>
-[2022 Sec 2 Subject Briefing NFS Express.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/Express/2022%20Sec%202%20Subject%20Briefing%20NFS%20Express.pdf)  <br>
-[2022 Sec 2 Subject Briefing Science Express.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/Express/2022%20Sec%202%20Subject%20Briefing%20Science%20Express.pdf)  <br>
-[2022 Sec 2 Subject Briefing\_History Express.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/Express/2022%20Sec%202%20Subject%20Briefing_History%20Express-v2%20Removed%20videos.pdf)  
+[2022 Sec 2 Subject Briefing NFS Express.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20NFS%20Express.pdf)  <br>
+[2022 Sec 2 Subject Briefing Science Express.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/Express/2022%20Sec%202%20Subject%20Briefing%20Science%20Express.pdf) **FILE TOO BIG!** <br>
+[2022 Sec 2 Subject Briefing\_History Express.pdf](/files/2022%20Sec%202%20Subject%20Briefing_History%20Express-v2%20Removed%20videos.pdf)
   
 **(2.2) Subject information for Secondary 2 Normal (Academic) students** **(Term 2 2022)**<br>
 [2022 Sec 2 Subject Briefing Art NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20Art%20NA.pdf) <br>
