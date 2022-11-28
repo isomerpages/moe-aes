@@ -23,7 +23,7 @@ What's next?
 
 3\. Parents/guardians can also **book a slot for books and uniform purchase** via the link [**https://aesappointment.eventbrite.sg/**](https://aesappointment.eventbrite.sg/).
 
-4. **Read through the [**information kit**](/files/Secondary%20One%20Registration%20Info%20Kit%202022.pdf)** for more administrative information and also about the orientation programme.
+4. **Read through the [information kit](/files/Secondary%20One%20Registration%20Info%20Kit%202022.pdf)** for more administrative information and also about the orientation programme.
 
 For students who are offered Higher Mother Tongue Language and Subject-Based Banding (SBB), the school will contact you separately. Students who accept the SBB offer should purchase the correct books for the stream.
 
