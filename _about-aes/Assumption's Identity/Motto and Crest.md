@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/AES%20Crest.gif" alt="Motto and Crest" style="width:50%;">  
+<body><img src="/images/AES%20Crest.gif" alt="Motto and Crest" style="width:40%;">  
   
 </body>
 
