@@ -6,7 +6,7 @@ description: ""
 School Bookshop & Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
 
   
-**[**School Bookshop and Uniform Operating Hours**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)**
+**[School Bookshop and Uniform Operating Hours](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)**
 
 **Monday to Thursday** <br>
 8.30am to 3.00pm
