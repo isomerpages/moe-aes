@@ -35,7 +35,7 @@ description: ""
 2019
 ----
 
-**[**JANUARY**](https://joom.ag/5zna)** 
+[**JANUARY**](https://joom.ag/5zna)
 
 [**FEBRUARY**](https://joom.ag/oIZa)
 
