@@ -82,7 +82,7 @@ As part of the school LLP, the Learning Garden was developed to provide hands-on
 
 As a further extension to the programme, the students can host seniors from our community partners, sharing food made from the harvest, and foster intergenerational bonding through their interactions.
 
-<img style="width:75%" src="/images/Le%20Jardin%20Anglais.png">
+<img style="width:70%" src="/images/Le%20Jardin%20Anglais.png">
 **Le Jardin Anglais**
 
 **Rance** <br>
@@ -100,7 +100,7 @@ The pond would also allow students to co-construct part of the eco features, whi
 
 As a further extension to the programme, we will be including a hydroelectric system for the water-featured pond.
 
-<img style="width:75%" src="/images/River%20Rance_France.png">
+<img style="width:60%" src="/images/River%20Rance_France.png">
 **River Rance, France**
 
   
