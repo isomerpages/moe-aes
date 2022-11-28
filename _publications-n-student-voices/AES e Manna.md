@@ -24,13 +24,13 @@ description: ""
 ----
 
   
-![1. January 2020.jpeg](/images/tn1%20January%202020.jpg)<br>
-![2. February 2020.jpeg](/images/tn2%20February%202020.jpg)<br>
-![3. March 2020.jpeg](/images/tn3%20March%202020.jpg)  <br>
-![4. April-May 2020.jpeg](/images/tn4%20April-May%202020.jpg)<br>
-![5. June Issue 2020.jpeg](/images/5%20June%20Issue%202020.jpeg)<br>
-![6. July-August 2020.jpg](/images/6%20July-August%202020.jpg)<br>
-![7. September 2020.jpg](/images/7%20September%202020.jpg)
+[![1. January 2020.jpeg](/images/tn1%20January%202020.jpg)](https://viewer.joomag.com/year-2020-january-issue/0971236001583664452?short&)<br>
+[![2. February 2020.jpeg](/images/tn2%20February%202020.jpg)](https://viewer.joomag.com/year-2020-february-issue/0570072001583483394?short&)<br>
+[![3. March 2020.jpeg](/images/tn3%20March%202020.jpg)](https://viewer.joomag.com/year-2020-march-issue/0043798001585207591?short&)  <br>
+[![4. April-May 2020.jpeg](/images/tn4%20April-May%202020.jpg)](https://viewer.joomag.com/year-2020-april-may-issue/0434963001587347825)<br>
+[![5. June Issue 2020.jpeg](/images/5%20June%20Issue%202020.jpeg)](https://viewer.joomag.com/year-2020-june-issue/0053190001592809465?short&)<br>
+[![6. July-August 2020.jpg](/images/6%20July-August%202020.jpg)](https://viewer.joomag.com/year-2020-july-august-issue/0359866001596900826?short&)<br>
+[![7. September 2020.jpg](/images/7%20September%202020.jpg)](https://viewer.joomag.com/year-2020-september-issue/0645795001600412740?short&)
 
 2019
 ----
