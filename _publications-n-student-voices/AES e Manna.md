@@ -24,9 +24,9 @@ description: ""
 ----
 
   
-![1. January 2020.jpeg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/.tn.1.%20January%202020.jpeg.mid.jpg)<br>
-![2. February 2020.jpeg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/.tn.2.%20February%202020.jpeg.mid.jpg)<br>
-![3. March 2020.jpeg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/.tn.3.%20March%202020.jpeg.mid.jpg)  <br>
+![1. January 2020.jpeg](/images/tn1%20January%202020.jpg)<br>
+![2. February 2020.jpeg](/images/tn2%20February%202020.jpg)<br>
+![3. March 2020.jpeg](/images/tn3%20March%202020.jpg)  <br>
 ![4. April-May 2020.jpeg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/.tn.4.%20April-May%202020.jpeg.mid.jpg)<br>
 ![5. June Issue 2020.jpeg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/5.%20June%20Issue%202020.jpeg)<br>
 ![6. July-August 2020.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/6.%20July-August%202020.jpg)<br>
