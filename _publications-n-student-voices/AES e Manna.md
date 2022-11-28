@@ -7,8 +7,8 @@ description: ""
 ----
 
 [![Jan - Feb 2022.png](/images/Jan%20-%20Feb%202022.png)](https://viewer.joomag.com/manna-issue-22-jan-feb-2022/0410370001646987218?short&) <br>
-![Mar - Apr 2022 Manna.png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/Mar%20-%20Apr%202022%20Manna.png) <br>
-![May - Jul 2022 Manna Mastercopy - Do not touch.png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/May%20-%20Jul%202022%20Manna%20Mastercopy%20-%20Do%20not%20touch.png)  
+[![Mar - Apr 2022 Manna.png](/images/Mar%20-%20Apr%202022%20Manna.png)](https://viewer.joomag.com/manna-issue-23-mar-apr-2022/0744320001654569777?short&) <br>
+[![May - Jul 2022 Manna Mastercopy - Do not touch.png](/images/May%20-%20Jul%202022%20Manna%20Mastercopy%20-%20Do%20not%20touch.png)](https://viewer.joomag.com/manna-issue-24-may-jul-2022/0333042001660289796?short&)
 
 2021
 ----
