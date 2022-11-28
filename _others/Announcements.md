@@ -14,7 +14,7 @@ Time: 9am - 4.30pm
 
 Please register via the following link: [**http://go.gov.sg/aes-openhouse-form**](http://go.gov.sg/aes-openhouse-form "http://go.gov.sg/aes-openhouse-form")
 
-For more information, please click [**here**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/aes-open-house-2022 "AES Open House 2022")
+For more information, please click [**here**](/useful-resources/for-parents/aes-open-house-2022/)
 
 ### School Operating Time (during the school holidays)
 
@@ -26,7 +26,7 @@ Dear all, 
 
 Please click on the following link to access the information on the sales of Textbooks & Uniforms.
 
-[**Textbooks & Uniforms**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-students/administrative-information/textbooks-n-uniforms "Textbooks & Uniforms")
+[**Textbooks & Uniforms**](/useful-resources/for-students/administrative-information/textbooks-n-uniforms/)
 
 ### Secondary 2 Subject Allocation Exercise 2022
 
@@ -34,7 +34,7 @@ Dear Sec 2 students,
 
 Please click on the following link to access the information on the Subject Allocation Exercise for 2022.
 
-[Secondary 2 Subject Allocation Exercise 2022](https://assumptionenglish.moe.edu.sg/useful-resources/for-students/administrative-information/secondary-2-subject-allocation-exercise-2022 "Secondary 2 Subject Allocation Exercise 2022")
+[Secondary 2 Subject Allocation Exercise 2022](/useful-resources/for-students/administrative-information/sec-2-subject-allocation-exercise-2022/)
 
 ### AES 2022 Timetables and Examination Schedules
 
@@ -43,7 +43,7 @@ Dear students,
 Please click on the following link to access the timetables and examination schedules for 2022.
 
 **[AES 2022 Timetables and Examination Schedules  
-](https://assumptionenglish.moe.edu.sg/useful-resources/timetable-examinations "AES 2022 Timetables and Examination Schedules")**
+](/useful-resources/timetable-examinations/)**
 
 ### School Football Academies (SFA) programme
 
