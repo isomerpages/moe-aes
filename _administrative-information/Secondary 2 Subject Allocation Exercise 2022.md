@@ -37,8 +37,8 @@ Subjects are offered based on academic merit (which includes overall performance
 
 
 **(2.3) Subject information for Secondary 2 Normal (Technical) students** **(Term 2 2022)**<br>
-[2022 Sec 2 Subject Briefing DT NT.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NT/2022%20Sec%202%20Subject%20Briefing%20DT%20NT.pdf)<br>
-[2022 Sec 2 Subject Briefing EBS NT.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NT/2022%20Sec%202%20Subject%20Briefing%20EBS%20NT.pdf)  
+[2022 Sec 2 Subject Briefing DT NT.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20DT%20NT.pdf)<br>
+[2022 Sec 2 Subject Briefing EBS NT.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20EBS%20NT.pdf)
   
 **(3) Letter to parents - Distributed on Sep 2022**  
 (TBC)  
