@@ -13,8 +13,7 @@ As a government-aided school with affiliation to the Catholic church, the school
 
 The Catholic faith formation programme, Faith Alive! is held every Friday after school from 12.30 to 1.30pm. Catholic students are encouraged to come together as a community to learn about their faith, to pray, for fellowship but most importantly to journey together in their 4 to 5 years in school, knowing that there are brothers and sisters in Christ to share their joy and go through difficult times together.
 
-###   
-Programmes:
+###   Programmes:
 
   
 
