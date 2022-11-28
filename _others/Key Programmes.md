@@ -23,12 +23,12 @@ description: ""
 
 ### Catholic Education
 
-[Faith Alive!](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/student-development/catholic-education)
+[Faith Alive!](/student-development/catholic-education/)
 
 ### Direct School Admission (DSA)
 
-[AES DSA Sports: **Football, Basketball & Judo**](https://assumptionenglish.moe.edu.sg/student-development/ccas/direct-school-admission-dsa)
+[AES DSA Sports: **Football, Basketball & Judo**](/student-development/ccas/direct-school-admission-dsa/)
 
 ### School Publications
 
-[AES **e-Manna**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg//useful-resources/for-students/publications-and-student-voices/aes-e-manna)
+[AES **e-Manna**](/useful-resources/for-students/publications-and-student-voices/aes-e-manna/)
