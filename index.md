@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Assumption English School
+description: Assumption English School
+image: /images/aes homepage logo.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: View more!
           url: /others/direct-school-admission-dsa/
 ---
+
