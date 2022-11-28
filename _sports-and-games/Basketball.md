@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="!/images/Team%20Photo.jpeg" alt="Basketball" style="width:80%;">  
+<body><img src="/images/Team%20Photo.jpeg" alt="Basketball" style="width:80%;">  
   
 </body>
 
