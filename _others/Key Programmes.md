@@ -5,22 +5,21 @@ description: ""
 ---
 ### AES Self-Development Programme (SDP)
 
-**[Information on SDP](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/aes-self-development-programme-sdp "Information on SDP")**
+**[Information on SDP](/useful-resources/aes-self-development-programme-sdp/)**
 
 ### Learning for Life Programme (LLP)
 
-[**_"DINAN"_** Leadership Programme](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/student-development/learning-for-life-programme-llp)
+[**_"DINAN"_** Leadership Programme](/student-development/learning-for-life-programme-llp/)
 
 ### Applied Learning Programme (ALP)
 
-[**SP**eak **E**nglish with gr**A**ce and **K**nowledge (**SPEAK**)](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/departments/english-language-and-literature/applied-learning-programme)
+[**SP**eak **E**nglish with gr**A**ce and **K**nowledge (**SPEAK**)](/departments/english-language-and-literature/applied-learning-programme/)
 
 ### Character & Citizenship Education
 
-[**V**alues **I**n **A**ction **(VIA)**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/departments/character-n-citizenship-education-cce/value-in-action-via)
+[**V**alues **I**n **A**ction **(VIA)**](/departments/character-n-citizenship-education-cce/value-in-action-via/)
 
-[**M**ontfortian **A**chievers' **P**rogramme (**MAP**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/departments/character-n-citizenship-education-cce/monfortian-achievers-programme-map))[  
-](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/departments/character-n-citizenship-education-cce/monfortian-achievers-programme-map)
+[**M**ontfortian **A**chievers' **P**rogramme (**MAP**)](/departments/character-n-citizenship-education-cce/monfortian-achievers-programme-map/)
 
 ### Catholic Education
 
