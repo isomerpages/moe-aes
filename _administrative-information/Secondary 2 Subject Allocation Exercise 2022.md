@@ -27,11 +27,11 @@ Subjects are offered based on academic merit (which includes overall performance
 [2022 Sec 2 Subject Briefing\_History Express.pdf](/files/2022%20Sec%202%20Subject%20Briefing_History%20Express-v2%20Removed%20videos.pdf)
   
 **(2.2) Subject information for Secondary 2 Normal (Academic) students** **(Term 2 2022)**<br>
-[2022 Sec 2 Subject Briefing Art NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20Art%20NA.pdf) <br>
-[2022 Sec 2 Subject Briefing DT NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20DT%20NA.pdf)<br>
-[2022 Sec 2 Subject Briefing Geography NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20Geography%20NA.pdf)  <br>
-[2022 Sec 2 Subject Briefing Literature NA Upper Sec Texts Briefing.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20Literature%20NA%20Upper%20Sec%20Texts%20Briefing.pdf)<br>
-[2022 Sec 2 Subject Briefing NFS NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20NFS%20NA.pdf)  <br>
+[2022 Sec 2 Subject Briefing Art NA.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20Art%20NA.pdf) <br>
+[2022 Sec 2 Subject Briefing DT NA.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20DT%20NA.pdf)<br>
+[2022 Sec 2 Subject Briefing Geography NA.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20Geography%20NA.pdf)  <br>
+[2022 Sec 2 Subject Briefing Literature NA Upper Sec Texts Briefing.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20Literature%20NA%20Upper%20Sec%20Texts%20Briefing.pdf)<br>
+[2022 Sec 2 Subject Briefing NFS NA.pdf](/files/2022%20Sec%202%20Subject%20Briefing%20NFS%20NA.pdf) <br>
 [2022 Sec 2 Subject Briefing Science NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing%20Science%20NA.pdf)<br>[2022 Sec 2 Subject Briefing\_History NA.pdf](https://assumptionenglish.moe.edu.sg/qql/slot/u753/Students/Sec%202%20Subject%20Allocation/2022/NA/2022%20Sec%202%20Subject%20Briefing_History%20NA%20-%20v2%20Removed%20videos.pdf)  
 
 
