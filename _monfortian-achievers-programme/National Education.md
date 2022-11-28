@@ -7,7 +7,7 @@ description: ""
 
 <u>A Sense of Belonging </u><br>To develop a deeper understanding of who we are, a shared understanding of the values that are important to us as a nation.
 
-<u>A Sense of Reality</u></br> To be aware of the contemporary realities – including Singapore’s constraints and vulnerabilities – which affect us as a nation amidst the backdrop of a less predictable world.
+<u>A Sense of Reality</u><br> To be aware of the contemporary realities – including Singapore’s constraints and vulnerabilities – which affect us as a nation amidst the backdrop of a less predictable world.
 
 <u>A Sense of Hope</u><br> Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
 
