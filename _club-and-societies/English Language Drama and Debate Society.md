@@ -23,7 +23,7 @@ Through debate training sessions, ELDDS debaters develop valuable critical think
 
 The ELDDS puts a lot of heart and soul into their work. It is through the performance of words (litera) that the ELDDS hopes to develop students who are steeped in character, culture (cultura) and conduct (mores).
 
-**ELDDS |&nbsp;_Litera . Cultura . Mores_**
+**ELDDS | _Litera . Cultura . Mores_**
 
 ###   Teachers/Coaches
 
