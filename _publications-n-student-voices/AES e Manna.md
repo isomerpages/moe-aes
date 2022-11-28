@@ -14,11 +14,11 @@ description: ""
 ----
 
   
-![January - February 2021 Manna.png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/January%20-%20February%202021%20Manna.png)<br>
-![March 2021 Manna Mastercopy.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/March%202021%20Manna%20Mastercopy.jpg)<br>
-![April - May 2021 Manna.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/April%20-%20May%202021%20Manna.jpg)<br>
-![11. July - Aug 2021 Manna.png](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/11.%20July%20-%20Aug%202021%20Manna.png)  <br>
-![Sept - Oct - Nov 2021 Manna.jpg](https://assumptionenglish.moe.edu.sg/qql/slot/u753/School%20Owned%20Publications/Sept%20-%20Oct%20-%20Nov%202021%20Manna.jpg)  
+![January - February 2021 Manna.png](/images/January%20-%20February%202021%20Manna.png)<br>
+![March 2021 Manna Mastercopy.jpg](/images/March%202021%20Manna%20Mastercopy.jpeg)<br>
+![April - May 2021 Manna.jpg](/images/April%20-%20May%202021%20Manna.jpeg)<br>
+![11. July - Aug 2021 Manna.png](/images/11%20July%20-%20Aug%202021%20Manna.png) <br>
+![Sept - Oct - Nov 2021 Manna.jpg](/images/Sept%20-%20Oct%20-%20Nov%202021%20Manna.jpeg) 
 
 2020
 ----
