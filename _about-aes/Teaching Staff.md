@@ -40,7 +40,7 @@ Lower Secondary Teachers
 | 2 George     | Form Teacher    | Mr Nor Mohammad Isa   |
 | 2 George   | Form Teacher    | Miss Huang Meiting  |
 	
-<br>
+</p>
 	
 Upper Secondary Teachers
 ------------------------
@@ -58,7 +58,7 @@ Upper Secondary Teachers
 | Level 4    | Level Academic Supervisor   | Miss Lee Wenting   |
 | Level 4   |Student Management Teacher   | Mr Sadik |
 | 4/1    |Form Teacher    | Mr Lim Ding Han  |
-| 4/2     | Form Teacher    | Ms Seet Yoke Chee    |
+| 4/2   | Form Teacher    | Ms Seet Yoke Chee    |
 | 4/3 | Form Teacher     |Ms Cryst Tan |
 |  4/4    | Form Teacher     | Ms Shereen Ling |
 | 4/5 | Form Teacher     | Ms Atikah Sa'ad|
