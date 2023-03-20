@@ -3,9 +3,9 @@ title: Teaching Staff
 permalink: /about-aes/teaching-staff/
 description: ""
 ---
-Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.
+<p style="text-align:center;">Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.</p>
 
-All enquiries should be emailed to the school's generic email: aes@moe.edu.sg
+<p style="text-align:center;">All enquiries should be emailed to the school's generic email: aes@moe.edu.sg</p>
 
 Lower Secondary Teachers
 ------------------------
