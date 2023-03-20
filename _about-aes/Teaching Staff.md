@@ -40,7 +40,6 @@ Lower Secondary Teachers
 | 2 George     | Form Teacher    | Mr Nor Mohammad Isa   |
 | 2 George   | Form Teacher    | Miss Huang Meiting  |
 	
-</p>
 	
 Upper Secondary Teachers
 ------------------------
