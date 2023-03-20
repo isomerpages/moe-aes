@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English Language & Literature/.keep
-      - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
       - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
       - English Language & Literature/2021 Soiréé Under The Stars.md
