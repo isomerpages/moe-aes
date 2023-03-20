@@ -4,8 +4,6 @@ permalink: /departments/english-language-and-literature/applied-learning-program
 description: ""
 third_nav_title: English Language & Literature
 ---
-
-
 English Language and Literature Programme
 -----------------------------------------
 
