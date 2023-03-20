@@ -6,6 +6,7 @@ description: ""
 <p style="text-align:center;">Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.
 <p style="text-align:center;">All enquiries should be emailed to the school's generic email: aes@moe.edu.sg
 	
+<br>
 
 Lower Secondary Teachers
 ------------------------
@@ -40,6 +41,7 @@ Lower Secondary Teachers
 | 2 George     | Form Teacher    | Mr Nor Mohammad Isa   |
 | 2 George   | Form Teacher    | Miss Huang Meiting  |
 	
+<br>
 	
 Upper Secondary Teachers
 ------------------------
