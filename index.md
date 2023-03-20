@@ -10,13 +10,12 @@ sections:
       background: /images/aes homepage.gif
       key_highlights:
         - title: Announcements
-          description: Read more!
+          description: ""
           url: /others/announcements/
         - title: Key Programmes
-          description: Read more!
+          description: ""
           url: /others/key-programmes/
         - title: Direct School Admission (DSA)
-          description: View more!
+          description: ""
           url: /others/direct-school-admission-dsa/
 ---
-
