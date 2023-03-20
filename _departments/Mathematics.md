@@ -3,206 +3,56 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-We believe in imbuing students with an appreciation of mathematics and help them see the relevance of mathematics in their daily lives.  
-
-  
+Assumption English School mathematics teachers believe in imbuing students with an appreciation of mathematics and help them see the relevance of mathematics in their daily lives.
 
 Our signature programme gives students opportunities to go through a mathematical modelling process to build creative and collaborative skills. Students have to work in teams to solve authentic real-world problems or do experiments to obtain empirical data.
 
+The Secondary One students design, make and fly their own kite.
+
+![](/images/m1.jpg)</p>
+
+![](/images/m2.jpg)</p>
+
+![](/images/m3.jpg)</p>
+
+![](/images/m4.jpg)</p>
+
+![](/images/m5.jpg)</p>
+
+![](/images/m6.jpg)</p>
+
+![](/images/m7.jpg)</p>
   
-
-Secondary 1 students design and fly their kites to see whose kite stays in the air for the longest time while Secondary 2 students plan how to tile and renovate their bedroom (of a 5-room HDB flat) on a given budget.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mathematics_1.jpg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mathematics_2.jpg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/20200228_095448_Burst01.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
 Student-centricity features strongly in our daily lessons; there are learning experiences to better engage students and enhance their mathematical concept development.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mathematics_4.jpg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+For example in Chapter 1, students learnt about prime numbers, prime factorisation, highest common factor (HCF) and lowest common multiple (LCM). With this, we leveraged on the Lunar New Year season and asked students to suggest the types of goodies to be included in a goodies bag. Thus, students did research by going online to ‘shop’ for goodies and decided on the goodies to be included. The teams that best met the criteria would be the winning team and the mathematics teacher packed that team’s goodies bag for the whole class.
 
-<p style="text-align:center;">How many 1-cubic centimetres cubes make up 1 cubic metre? Let’s find out!</p>
+The school provides support through weekly Booster Programme to support students who need extra help.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Mathematics_5.jpg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+To stretch the more mathematically-inclined students, the school fields students for various external competitions.  
 
-<p style="text-align:center;">What is the surface area of a sphere?</p>
+**All Singapore Secondary Mathematics Competition for Normal Course Students 2022** 
 
+**Lower Sec N(A) team** \[from left\]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).
 
+**Lower Sec N(T) team** \[from left\]: Jiang Zhouda (2 Emmanuel), Lucus Wong (2 Noel), Aydon Chong (2 Raymond). Nationally, Zhouda is ranked 2nd, Aydon is ranked 10th and Lucus is ranked 11th.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Lesson-find%20vol%20of%20marble.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+The team clinched Overall 2nd in the team category.
 
-<p style="text-align:center;">Using a pair of vernier calipers to find the diameter of a marble so as to find its volume.</p>
+**Upper Sec N(A) team** \[from left\]: Hee Jin Lin (3/5), Immanuel Chua (3/5), Zafrie Zakeer Zaini (3/5),
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Lesson-probability%20game.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+Nationally, Jin Lin is ranked 20th.
 
-<p style="text-align:center;">Learning Probability using Games<br><br>There is also regular and timed practice to develop computational, estimation, reasoning and algebraic manipulation skills and weekly Booster Programmes to support lower progress students from Secondary 1 to 4.</p>
+**Upper Sec N(T) team** \[from left\]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/timed%20practice.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+**SMO Junior Team** (from left):
 
-<p style="text-align:center;">There are external competitions to stretch the more mathematically-inclined students.</p>
+Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/All%20Spore%20Maths%20Comp-Lower%20Sec%20NA%20NT.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+**SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.  
 
-<p style="text-align:center;">Lower N(A) and N(T) team: QUIZON CHRIS GERARD of Sec 2/3, WOON RUO QI of Sec 2/5,  KEZIA JUNGLE GAN SHANEN of Sec 2/4, WONGPITAKROJ WUTTIWAT of Sec 2/4 and NICHOLAS GOH of Sec 2/5</p>
+…………………………………………………………..
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/All%20Spore%20Maths%20Comp-Upper%20Sec%20NA1.jpeg" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
+Alessandro Damien Poh, has achieved the **Silver Award** for the Game category of the Animation and Game-Making Competition. Jiang Zhouda obtained a Certificate of Participation for the Animation category.
 
-<p style="text-align:center;">Upper Sec N(A) team: LI NIANLUN, WONG GAO JIE IRENE of Sec 3/4 and SOH YUEN KAI of Sec 3/3<br><br>Upper Sec N(T) team: ANJO CRAL LEE, HAN SHUJIE and WONG YEE XIN of Sec 3/5. YEE XIN came in at the 15th position out of all the Upper Secondary  N(T) students who participated.<br><br>The Mathematics Department collaborates with the Science Department to organise school-based competitions to promote interest in mathematics.</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Learning%20Fest%202%20-%20What%20do%20numbers%20mean.png" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<p style="text-align:center;">What do these numbers mean?</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Learning%20Fest%201%20-%20Getting%20close.png" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<p style="text-align:center;">Getting close....</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Learning%20Fest%205%20-%20How%20do%20all%20these%20add%20up.png" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<p style="text-align:center;">How do all these add up?</p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Learning%20Fest%206%20-%20I%20think%20we%20have%20got%20it.png" alt="Mathematics" style="width:70%;">  
-  
-</body>
-<br>
-
-<p style="text-align:center;">I think we've got it....</p>
+For the above, the prize giving ceremony is today so I do not have any photos yet. If we are not able to get it ready, the webpage will stop at the dotted line.
