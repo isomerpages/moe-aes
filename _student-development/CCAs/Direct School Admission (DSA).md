@@ -6,7 +6,7 @@ third_nav_title: CCAs
 ---
 <p style="text-align:center;"><strong>Direct School Admission 2022 - Secondary (DSA-Sec) Exercise<br><br>Direct School Admission (DSA)<br>Sports – Basketball, Football &amp; Judo<br><br>DSA Brochure:<br><a href="/files/AES%20DSA%20Brochure%202022.pdf">AES DSA Brochure 2022.pdf</a><br></strong></p>
 
-<p style="text-align:center;"> <strong>VIDEO TO BE EMBEDDED HERE!</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOxVDkm2OuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h3><u>Background</u></h3>
 
