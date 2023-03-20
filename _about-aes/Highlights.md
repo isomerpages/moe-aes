@@ -24,6 +24,8 @@ This year’s NDP theme is ‘Together Our Singapore Spirit’ 
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/nfPY2JQsyUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nfPY2JQsyUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <p style="text-align:center;">AES Wave</p>
 
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VZsWi5Z5P3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
