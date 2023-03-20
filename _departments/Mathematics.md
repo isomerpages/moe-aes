@@ -29,30 +29,33 @@ For example in Chapter 1, students learnt about prime numbers, prime factorisati
 
 The school provides support through weekly Booster Programme to support students who need extra help.
 
+![](/images/m8.jpg)</p>
+
+![](/images/m9.jpg)</p>
+
 To stretch the more mathematically-inclined students, the school fields students for various external competitions.  
 
-**All Singapore Secondary Mathematics Competition for Normal Course Students 2022** 
+</p>
 
+# **All Singapore Secondary Mathematics Competition for Normal Course Students 2022** 
+
+![](/images/m10.jpg)
 **Lower Sec N(A) team** \[from left\]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).
 
+![](/images/m11.jpg)
 **Lower Sec N(T) team** \[from left\]: Jiang Zhouda (2 Emmanuel), Lucus Wong (2 Noel), Aydon Chong (2 Raymond). Nationally, Zhouda is ranked 2nd, Aydon is ranked 10th and Lucus is ranked 11th.
-
 The team clinched Overall 2nd in the team category.
 
+![](/images/m12.jpg)
 **Upper Sec N(A) team** \[from left\]: Hee Jin Lin (3/5), Immanuel Chua (3/5), Zafrie Zakeer Zaini (3/5),
-
 Nationally, Jin Lin is ranked 20th.
 
+![](/images/m13.jpg)
 **Upper Sec N(T) team** \[from left\]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.
 
+![](/images/m14.jpg)
 **SMO Junior Team** (from left):
-
 Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).
 
+![](/images/m15.jpg)
 **SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.  
-
-…………………………………………………………..
-
-Alessandro Damien Poh, has achieved the **Silver Award** for the Game category of the Animation and Game-Making Competition. Jiang Zhouda obtained a Certificate of Participation for the Animation category.
-
-For the above, the prize giving ceremony is today so I do not have any photos yet. If we are not able to get it ready, the webpage will stop at the dotted line.
