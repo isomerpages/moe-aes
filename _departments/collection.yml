@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Language & Literature/2021 Soiréé Under The Stars.md
       - English Language & Literature/.keep
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
