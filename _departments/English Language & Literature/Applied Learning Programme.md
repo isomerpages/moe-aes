@@ -90,8 +90,8 @@ img {
 <body><img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
-<br>
-**Secondary 4: SPEAK Passionately**
+
+**Secondary 4: SPEAK Passionately**<br>
 Secondary Four and Five students share an introductory video clip about themselves. They can include snippets of their school life, lifestyle, hobbies, interests, and their strengths as
 well as talents.
 
@@ -164,40 +164,6 @@ img {
 }  
 </style>  
 <body><img src="/images/08%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
-  
-</body>
-<br>
-
-**Inter-Class Debate Championships** <br>
-Year after year, upper secondary AssumptionKnights pit their wit and eloquence against one another on a variety of topics.
-
-
-09 Debate (Option 2).JPG
-
-10 Debate (Option 2).JPG
-
-In 2019, Team 4/4 (Opposition) emerged champions after presenting compelling views on the motion “This House would abolish the racial quotas for HDBs.”
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/11%20Debate.jpeg" alt="Inter-Class Debate Championships" style="width:70%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/12%20Debate.jpeg" alt="Inter-Class Debate Championships" style="width:70%;">  
   
 </body>
 <br>
