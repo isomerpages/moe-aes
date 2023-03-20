@@ -21,8 +21,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image.png" alt="English Language and Literature Programme" style="width:70%;">  
-  
+<body><img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png">  
+	
 </body>
 
 SPEAK Tier 1
@@ -90,6 +90,20 @@ img {
 <body><img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
 </body>
+<br>
+**Secondary 4: SPEAK Passionately**
+Secondary Four and Five students share an introductory video clip about themselves. They can include snippets of their school life, lifestyle, hobbies, interests, and their strengths as
+well as talents.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjxHFAcH4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuLyEMaCa_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 SPEAK Tier 2
 ------------
