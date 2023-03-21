@@ -1,0 +1,9 @@
+collections:
+  administrative-information:
+    output: true
+    order:
+      - Textbooks & Uniforms.md
+      - Secondary 2 Subject Allocation Exercise 2022.md
+      - Graduation Day 2021.md
+      - Secondary 1 Registration for 2022.md
+      - COVID 19 Vaccination Exercise.md

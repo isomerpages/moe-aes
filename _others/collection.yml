@@ -1,0 +1,7 @@
+collections:
+  others:
+    output: true
+    order:
+      - Announcements.md
+      - Key Programmes.md
+      - Direct School Admission (DSA).md

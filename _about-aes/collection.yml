@@ -1,0 +1,26 @@
+collections:
+  about-aes:
+    output: true
+    order:
+      - Principal's Message.md
+      - Assumption's Identity/Mission and Vision.md
+      - Assumption's Identity/School Values.md
+      - Assumption's Identity/Motto and Crest.md
+      - Assumption's Identity/School Song.md
+      - Assumption's Identity/.keep
+      - School History/School History.md
+      - School History/Montfort Brothers of St Gabriel.md
+      - School History/Story of Montfort in Dinan.md
+      - School History/.keep
+      - Montfortian Education Charter.md
+      - School Management Committee/School Management Committee.md
+      - School Management Committee/Non Financial Information.md
+      - School Management Committee/.keep
+      - Organisation Chart.md
+      - Teaching Staff.md
+      - Achievements/AES In the News.md
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Key Achievements.md
+      - Achievements/.keep
+      - Contact Us.md
+      - Highlights.md

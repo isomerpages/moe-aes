@@ -1,0 +1,9 @@
+collections:
+  monfortian-achievers-programme:
+    output: true
+    order:
+      - Education & Career Guidance (ECG).md
+      - Cyberwellness.md
+      - Sexuality Education.md
+      - National Education.md
+      - Pro Social Skills.md

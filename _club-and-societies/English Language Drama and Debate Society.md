@@ -1,0 +1,55 @@
+---
+title: English Language Drama and Debate Society
+permalink: /student-development/ccas/club-n-societies/english-language-drama-and-debate-society/
+description: ""
+---
+### About Us
+
+_**“If you can speak, you can influence; if you can influence, you can change lives."**_
+
+  
+
+Driven by this quote, the English Language Drama and Debate Society (ELDDS), a vibrant and vocal group of students, aims to share their passion for youth, life, and the arts. Established in 2015, the ELDDS complements our school's distinctive Applied Learning Programme, SPEAK, by providing platforms for students to further hone their speaking and presentation skills.
+
+  
+
+The ELDDS Drama members believe in bringing out the themes of life through dramatic expression. Every year, the group participates actively for various school events by performing original skits to convey various messages that are close to the heart of today’s youths. Beyond the memorisation of lines and learning various dramatic techniques, Drama members strive to discover and use their voice and personality in bringing to life their characters on stage to reach out and touch lives.
+
+  
+
+Through debate training sessions, ELDDS debaters develop valuable critical thinking skills and grow to be more widely read and analytical about many issues the world faces today. These skills are put to the test at national debating platforms such as the Singapore Secondary Schools Debating Championships (SSSDC) and the Division III Debating Championships (D3DC). In addition to these platforms, our debaters further hone their mettle and skills in inter-school debating competitions.
+
+  
+
+The ELDDS puts a lot of heart and soul into their work. It is through the performance of words (litera) that the ELDDS hopes to develop students who are steeped in character, culture (cultura) and conduct (mores).
+
+**ELDDS**  **_Litera . Cultura . Mores_**
+
+###   Teachers/Coaches
+
+**OIC:**&nbsp;Ms Atikah Sa’ad <br>
+**Debate IC:**&nbsp;Ms Priya Christie <br>
+**Drama IC:**&nbsp;Ms Naomi Lizaso
+
+  
+
+**Debate Coach:**&nbsp;Ms Nabilah Bahrim <br>
+**Drama Coach:**&nbsp;Ms Masturah Oli
+
+###   Student Leaders/Captains
+
+**President:**&nbsp;Lucas Ng <br>
+**Vice-President (Drama):**&nbsp;Vallery Gan <br>
+**Vice-President (Debate):**&nbsp;Ling Jia Jia
+
+  
+
+### Achievements
+
+  
+
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1052.25px;" class="iveo_table ives_tab_simple3" border="1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 104px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 640px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievements</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 141.062px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 900.188px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Ranked 20th out of 31 schools in the Singapore Secondary Schools Debating Championships (SSSDC) (Division III)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Silver Division Semi-Finalists in the Hua Yi Debate Invitational; Ling Jia Jia achieved 5th position in the Top 5 Speakers (Silver Division)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Participated in the Evergreen Debate Invitational</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: Singapore Youth Festival (SYF) Arts Presentation (Certificate of Accomplishment)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: Participation in the International Science Drama Competition organised by the Science Centre</li></ul></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 141.062px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2018</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 900.188px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Ranked 12th out of 22 schools in the SSSDC (Division III)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: One team emerged Champions in the Evergreen Debate Invitational, with the second team emerging as semi-finalists</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: School performance for the Mother Tongue Fortnight &amp; Total Defence Concert with a skit</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">ELDDS: Participation in The Media Challenge by Republic Polytechnic</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">ELDDS: Contribution to School Outreach Programme to primary schools</li></ul></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 141.062px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2017</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 900.188px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Top 3 CCA fund-raisers for Boys' Town Flag Day 2017</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Ranked 11th out of 25 schools in the SSSDC (Division III)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Debater, Herni Nurhazreen placed 14th in the Top 20 Best Speakers in SSSDC Division III</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: SYF Arts Presentation (Certificate of Commendation)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: School performance at the National Day Concert with the skit "The Singaporean Spirit"</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">ELDDS: Contribution to School Outreach Programme to primary schools</li></ul></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 141.062px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2016</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 900.188px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Outstanding CCA Award for the Year 2016</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Top 3 CCA fund-raisers for Boys' Town Flag Day 2016</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Ranked 21st out of 35 schools in the SSSDC (Division III)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: School performance for Chinese New Year celebrations with the skit "Customary Rites"</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: Public performances "Voices" and "Expectations" at the Jurong West Regional Library as part of the ELDDS's Values in Action project</li></ul></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 141.062px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;">2015</b></span><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 900.188px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Outstanding CCA Award for the Year 2015</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Debate: Ranked 25th out of 39 schools in the SSSDC (Division III)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Drama: SYF Arts Presentation (Certificate of Commendation)</li></ul></div></td></tr></tbody></table>
+
+<br>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXC4Sbl0eJfyO1-x1ADsmgYKcxGMZ-oDuKWfHVZq_UtbHuROrIwXQWhIOY8tQScZl-szFhsvoQgl6b/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
