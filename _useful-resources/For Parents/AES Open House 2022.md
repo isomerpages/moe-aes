@@ -13,8 +13,8 @@ third_nav_title: For Parents
 
 **Please register via the following link: [http://go.gov.sg/aes-openhouse-form](http://go.gov.sg/aes-openhouse-form)**
 
-*VIDEO TO BE EMBEDDED HERE!*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GYsWkezzGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Principal's Message**  
 
-*VIDEO TO BE EMBEDDED HERE!*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_n5IlXYekY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
