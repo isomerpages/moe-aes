@@ -10,17 +10,15 @@ Dear students, please click the link below to access the following:
 
 1.  **Timetable for Semester 1**
 
-*   [AES 2023 Semester 1 Timetable\_Classes\_17 March 2023.pdf](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Timetable%202023/AES%202023%20Semester%201%20Timetable_Classes_17%20March%202023.pdf)  
+[AES 2023 Semester 1 Timetable\_Classes\_17 March 2023.pdf](/files/AES%202023%20Semester%201%20Timetable_Classes_17%20March%202023.pdf)
     
-
-  
-
+		
 **2\. Weighted Assessment 1 (WA1) for Secondary 1, 2, 3**
 
 *   **Letter to parents**
 
-*   [2023 Sec 1 WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%201%20WA%201%20Letter%20Parents.docx.pdf)  
-    
+*   [2023 Sec 1 WA 1 Letter Parents]
+		
 *   [2023 Sec 2 WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%202%20WA%201%20Letter%20Parents.docx.pdf)  
     
 *   [2023 3E WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%203E%20WA%201%20Letter%20Parents.docx.pdf)  
