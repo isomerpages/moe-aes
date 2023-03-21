@@ -15,45 +15,33 @@ Dear students, please click the link below to access the following:
 		
 **2\. Weighted Assessment 1 (WA1) for Secondary 1, 2, 3**
 
-*   **Letter to parents**
+**Letter to parents**
 
-*   [2023 Sec 1 WA 1 Letter Parents]
-		
-*   [2023 Sec 2 WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%202%20WA%201%20Letter%20Parents.docx.pdf)  
+* [2023 Sec 1 WA 1 Letter Parents](/files/2023%20Sec%201%20WA%201%20Letter%20Parents.pdf)
+* [2023 Sec 2 WA 1 Letter Parents](/files/2023%20Sec%202%20WA%201%20Letter%20Parents.pdf)
+* [2023 3E WA 1 Letter Parents](/files/2023%203E%20WA%201%20Letter%20Parents.pdf)
+* [2023 3N WA 1 Letter Parents](/files/2023%203N%20WA%201%20Letter%20Parents.pdf)
     
-*   [2023 3E WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%203E%20WA%201%20Letter%20Parents.docx.pdf)  
     
-*   [2023 3N WA 1 Letter Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%203N%20WA%201%20Letter%20Parents.docx.pdf)  
-    
+ **Schedule**
 
-*   **Schedule**
+*   [2023 Sec 1 WA 1 Schedule](/files/2023%20Sec%201%20WA%201%20Schedule.pdf)
+*   [2023 Sec 2 WA 1 Schedule](/files/2023%20Sec%202%20WA%201%20Schedule.pdf)
+*   [2023 Sec 3E WA 1 Schedule revised](/files/2023%20Sec%203E%20WA%201%20Schedule%20revised.pdf)
+*   [2023 Sec 3NA 3NT WA 1 Schedule](/files/2023%20Sec%203NA%20%203NT%20WA%201%20Schedule.pdf)
 
-*   [2023 Sec 1 WA 1 Schedule](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%201%20WA%201%20Schedule.pdf)  
-    
-*   [2023 Sec 2 WA 1 Schedule](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%202%20WA%201%20Schedule.pdf)  
-    
-*   [2023 Sec 3E WA 1 Schedule revised](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%203E%20WA%201%20Schedule%20revised.pdf)  
-    
-*   [2023 Sec 3NA 3NT WA 1 Schedule](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/2023%20Sec%203NA%20%203NT%20WA%201%20Schedule.pdf)  
-    
-
-  
 
 **3\. Milestone Assessment 1 (MA1) for Secondary 4 & 5**
 
-*   **Letter to parents**
+**Letter to parents**
 
-*   [2023 4E5NA Milestone Assessment 1 Letter to Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204E5NA%20Milestone%20Assessment%201%20Letter%20to%20Parents.docx.pdf)  
-    
-*   [2023 4NA Milestone Assessment 1 Letter to Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204NA%20Milestone%20Assessment%201%20Letter%20to%20Parents.docx.pdf)  
-    
-*   [2023 4NT Milestone Assessment 1 Letter to Parents](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204NT%20Milestone%20Assessment%201%20Letter%20to%20Parents.docx.pdf)  
-    
+* [2023 4E5NA Milestone Assessment 1 Letter to Parents](/files/2023%204E5NA%20Milestone%20Assessment%201%20Letter%20to%20Parents.pdf)
+* [2023 4NA Milestone Assessment 1 Letter to Parents](/files/2023%204NA%20Milestone%20Assessment%201%20Letter%20to%20Parents.pdf)
+* [2023 4NT Milestone Assessment 1 Letter to Parents](/files/2023%204NT%20Milestone%20Assessment%201%20Letter%20to%20Parents.pdf)
 
-*   **Topics to be assessed**
 
-*   [2023 4E5NA Milestone Assessment 1 Topics to be assessed](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204E5NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)  
-    
-*   [2023 4NA Milestone Assessment 1 Topics to be assessed](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)  
-    
-*   [2023 4NT Milestone Assessment 1 Topics to be assessed](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/qql/slot/u753/Students/Term%201%20Exams/MA1/2023%204NT%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+**Topics to be assessed**
+
+* [2023 4E5NA Milestone Assessment 1 Topics to be assessed](/files/2023%204E5NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+* [2023 4NA Milestone Assessment 1 Topics to be assessed](/files/2023%204NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+* [2023 4NT Milestone Assessment 1 Topics to be assessed](/files/2023%204NT%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
