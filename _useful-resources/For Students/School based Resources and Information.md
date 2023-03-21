@@ -8,4 +8,5 @@ third_nav_title: For Students
 
 [ACE Learning](https://www.ace-learning.com/)
 
-[Student Handbook 2022](/files/Student%20handbook%202022%2016%20Nov%202021.pdf)
+
+[Student Handbook 2023](https://drive.google.com/file/d/1EABwOTrPdDxcuiQoREOkTwDjSZ7a1kcj/view?usp=sharing)
