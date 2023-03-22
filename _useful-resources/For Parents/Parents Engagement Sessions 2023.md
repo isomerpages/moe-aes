@@ -4,52 +4,37 @@ permalink: /useful-resources/for-parents/parents-engagement-sessions-2022/
 description: ""
 third_nav_title: For Parents
 ---
-
-Secondary 1 Parents Engagement Session (21 January 2022)
+Secondary 1 Parents Engagement Session (27 January 2023)
 --------------------------------------------------------
 
 Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
+[1\. Level 1 Parents Engagement Session Main Slides.pdf](https://drive.google.com/file/d/1xB8U43NR8ojZ0aigqCJ5lWtRkWjol-Gu/view?usp=sharing)  
+[2\. NDLP 2023 - Briefing for Parents.pdf](https://drive.google.com/file/d/1QP1UVddCS3evF1kwW9Rq-LT6fSYDLMxr/view?usp=sharing)  
+[3\. Sec 1 Parents Engagement FAQs.pdf](https://drive.google.com/file/d/1fysOs9gOdFODkX8xl1KWSzObOBNtynsE/view?usp=sharing)  
   
-[1\. Level 1 Parents Engagement Session Main Slides.pdf](/files/Level%201%20Parents%20Engagement%20Session%20Main%20Slides.pdf)  <br>
-[2\. NDLP 2022 - Briefing for Parents.pdf](/files/NDLP%202022%20-%20Briefing%20for%20Parents-v2.pdf) <br>
-[3\. Sec 1 Parents Engagement FAQs.pdf](/files/Sec%201%20Parents%20Engagement%20FAQs.pdf) 
+You can rewatch the entire segment below:  
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/9_bEyr_INaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
-You can rewatch the entire segment below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/euwrx6Tvr-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Secondary 4 & 5 Parents Engagement Session (11 February 2022)
+Secondary 4 & 5 Parents Engagement Session (10 February 2023)
 -------------------------------------------------------------
 
 Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
+[1\. Level 4 & 5 Parents Engagement Session Main Slides.pdf](https://drive.google.com/file/d/115k1JpIgwH_W6rH90sXe2GC7t8t8kPRw/view?usp=share_link)
+[2\. Sec 4 5 Parents Engagement FAQs.pdf](https://drive.google.com/file/d/19psCGGnTifsSbcKpf_FrHIqiOL9dj4EZ/view?usp=share_link)  
   
-[1\. Sec 4 and 5 Parents Engagement Session Main Slides.pdf](/files/Sec%204%20%205%20Parents%20Engagement%20Session%20Main%20Slides.pdf) <br>
-[2\. Sec 4 and 5 Parents Engagement FAQs.pdf](/files/Sec%204%20%205%20Parents%20Engagement%20FAQs.pdf) <br>
-[3\. Useful Links\_ECG Efforts.pdf](/files/Useful%20Links_ECG%20Efforts.pdf)
-  
-You can rewatch the entire segment below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oY7kZuvbI9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Secondary 3 Parents Engagement Session (16 February 2022)
+Secondary 3 Parents Engagement Session (17 February 2023)
 ---------------------------------------------------------
 
 Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
+[1\. Level 3 Parents Engagement Session Main Slides.pdf](https://drive.google.com/file/d/1vpy3kbc9MKEEhl5vtCHoMAmJMcgZqou5/view?usp=sharing)  
+[2\. Sec 3 Parents Engagement FAQs.pdf](https://drive.google.com/file/d/14CtTUNx93tB97e6zv0bkD0UYTVRlH0Pg/view?usp=sharing)  
   
-[1\. Sec 3 Parents Engagement Session Main Slides.pdf](/files/Sec%203%20Parents%20Engagement%20Session%20Main%20Slides.pdf)  <br>
-[2\. Sec 3 Parents Engagement FAQs.pdf](/files/Sec%203%20Parents%20Engagement%20FAQs.pdf)<br>
-[3\. Useful Links\_ECG Efforts.pdf](/files/Useful%20Links%20ECG%20Efforts.pdf)
-  
-You can rewatch the entire segment below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qBbrcVwmSDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Secondary 2 Parents Engagement Session (18 February 2022)
+Secondary 2 Parents Engagement Session (24 February 2023)
 ---------------------------------------------------------
 
-Dear parents, please download the following PDF for the slides and FAQs during the seminar you attended.  
-  
-[1\. Sec 2 Parents Engagement Session Main Slides.pdf](/files/Sec%202%20Parents%20Engagement%20Session%20Main%20Slides.pdf)  <br>
-[2\. Sec 2 Parents Engagement FAQs.pdf](/files/Sec%202%20Parents%20Engagement%20FAQs.pdf) 
-  
-You can rewatch the entire segment below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6Zej7kCaEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Dear parents, please download the following PDF for the slides  
+[1\. Level 2 Parents Engagement Session Main Slides.pdf](https://drive.google.com/file/d/1SaRTygaundJacKddDyzjF0ymjoX6WjB_/view?usp=share_link)  
+[2\. Sec 2 Parents Engagement FAQs.pdf](https://drive.google.com/file/d/1FZ6OvnOY2IrnTI_L6OBo-FSnX2LI7XJB/view?usp=share_link)
