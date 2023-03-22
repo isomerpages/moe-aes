@@ -18,4 +18,7 @@ sections:
         - title: Direct School Admission (DSA)
           description: ""
           url: /others/direct-school-admission-dsa/
+  - resources:
+      title: Announcements
+      button: View more
 ---
