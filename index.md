@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/aes homepage.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /others/announcements/
         - title: Key Programmes
           description: ""
           url: /others/key-programmes/
