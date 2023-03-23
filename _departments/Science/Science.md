@@ -4,7 +4,7 @@ permalink: /departments/science/
 description: ""
 third_nav_title: Science
 ---
-### Curriculum Objectives of the Science Curriculum @ AES
+### Objectives of the Science Curriculum @ AES
 
 
 <style>  
@@ -38,4 +38,3 @@ As a Science student in AES, your academic journey is supported by all the Scien
 Click on the link to access the Science Curriculum Site!
 
 <h3 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h3>
-
