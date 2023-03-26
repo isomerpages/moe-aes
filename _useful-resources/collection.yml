@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - Blended Learning 2023.md
       - For Students/School based Resources and Information.md
       - For Students/Publications and Student Voices.md
       - For Students/Administrative Information.md
