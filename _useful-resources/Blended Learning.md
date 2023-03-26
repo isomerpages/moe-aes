@@ -1,6 +1,6 @@
 ---
-title: Blended Learning (BL) 2023
-permalink: /useful-resources/home-based-learning-hbl/
+title: Blended Learning
+permalink: /useful-resources/blended-learning/
 description: ""
 ---
 Dear Parent/ Guardian,  
@@ -18,9 +18,14 @@ Blended Learning provides an educational experience for our students through the
   
 AES will be embarking on Blended Learning every fortnight.  
   
-**Please see the confirmed Blended Learning dates for Term 1 2023:**  
+**Please see the confirmed Blended Learning dates for 2023:**  
+
+Term 1:
 ![](/images/Blended%20Learning%20dates%20for%20Term%201%202023.png)
   
+Term 2:
+![](/images/BL%20Term%202.png)
+	
 **On the days for Blended Learning,**  
 • students are not required to report to school  
 • the details on Blended Learning can be found on the school website  
