@@ -10,6 +10,7 @@ description: ""
 Lower Secondary Teachers
 ------------------------
 
+
 |_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
 | Level 1| Assistant Year Head| Mr Alam Bin Naser   |
@@ -43,18 +44,20 @@ Lower Secondary Teachers
 	
 Upper Secondary Teachers
 ------------------------
+
+
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
 | Upper Sec| Year Head     | Ms Tan Wee Lin   |
 | Level 3   | Level Academic Supervisor    |  Mrs Diana Norman|
 | Level 3  |  Student Management Teacher     | Ms Feline Tong|
-| 3/1    |Form Teacher  | Ms Kong Yean Ha   |
+| 3/1  |Form Teacher  | Ms Kong Yean Ha   |
 | 3/2   | Form Teacher  | Miss Valerie Co |
 | 3/3  | Form Teacher    | Mr Tan Kwang Chee   |
 | 3/4   | Form Teacher  | Mr Alvin Lee     |
 | 3/5   | Form Teacher  | Mr Muhammad Hasanul Arifin   |
 | 3/6  | Form Teacher  | Ms Wang Lee Keow   |
-| Level 4    | Level Academic Supervisor   | Miss Lee Wenting   |
+| Level 4    | Level Academic Supervisor   | Miss Lee Wenting|
 | Level 4   |Student Management Teacher   | Mr Sadik |
 | 4/1    |Form Teacher    | Mr Lim Ding Han  |
 | 4/2   | Form Teacher    | Ms Seet Yoke Chee    |
@@ -62,5 +65,5 @@ Upper Secondary Teachers
 |  4/4    | Form Teacher     | Ms Shereen Ling |
 | 4/5 | Form Teacher     | Ms Atikah Saad|
 | 4/5    | Form Teacher     | Miss Karen Lau   |
-| 4/6    | Form Teacher     | Ms Azra Zaheera  |
-| 5/1     | Form Teacher    |  Miss Suann Sim  |
+| 4/6 | Form Teacher     | Ms Azra Zaheera  |
+| 5/1 | Form Teacher    |  Miss Suann Sim  |
