@@ -10,9 +10,9 @@ description: ""
 Lower Secondary Teachers
 ------------------------
 
-| _**Level/Class**_ | _**Designation**_| _**Form Teacher**_ |
+|_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
-| Level 1     | Assistant Year Head     | Mr Alam Bin Naser   |
+| Level 1| Assistant Year Head| Mr Alam Bin Naser   |
 | Level 1    | Level Academic Supervisor    |  Mrs Ong Hsia Li     |
 | Level 1   |  Student Management Teacher     | Mr Chan Keng Kok   |
 | 1 Vincent     |Form Teacher  | Ms Kong Yean Ha   |
@@ -43,7 +43,7 @@ Lower Secondary Teachers
 	
 Upper Secondary Teachers
 ------------------------
-| _**Level/Class**_ | _**Designation**_| _**Form Teacher**_ |
+|_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
 | Upper Sec    | Year Head     | Ms Tan Wee Lin   |
 | Level 3   | Level Academic Supervisor    |  Mrs Diana Norman|
