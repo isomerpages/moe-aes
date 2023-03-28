@@ -45,15 +45,15 @@ Upper Secondary Teachers
 ------------------------
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
-| Upper Sec    | Year Head     | Ms Tan Wee Lin   |
+| Upper Sec| Year Head     | Ms Tan Wee Lin   |
 | Level 3   | Level Academic Supervisor    |  Mrs Diana Norman|
 | Level 3  |  Student Management Teacher     | Ms Feline Tong|
 | 3/1    |Form Teacher  | Ms Kong Yean Ha   |
-| 3/2   | Form Teacher  | Miss Valerie Co     |
+| 3/2   | Form Teacher  | Miss Valerie Co |
 | 3/3  | Form Teacher    | Mr Tan Kwang Chee   |
 | 3/4   | Form Teacher  | Mr Alvin Lee     |
 | 3/5   | Form Teacher  | Mr Muhammad Hasanul Arifin   |
-| 3/6  | Form Teacher     | Ms Wang Lee Keow   |
+| 3/6  | Form Teacher  | Ms Wang Lee Keow   |
 | Level 4    | Level Academic Supervisor   | Miss Lee Wenting   |
 | Level 4   |Student Management Teacher   | Mr Sadik |
 | 4/1    |Form Teacher    | Mr Lim Ding Han  |
