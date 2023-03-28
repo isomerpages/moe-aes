@@ -60,7 +60,7 @@ Upper Secondary Teachers
 | 4/2   | Form Teacher    | Ms Seet Yoke Chee    |
 | 4/3 | Form Teacher     |Ms Cryst Tan |
 |  4/4    | Form Teacher     | Ms Shereen Ling |
-| 4/5 | Form Teacher     | Ms Atikah Sa'ad|
+| 4/5 | Form Teacher     | Ms Atikah Saad|
 | 4/5    | Form Teacher     | Miss Karen Lau   |
 | 4/6    | Form Teacher     | Ms Azra Zaheera  |
 | 5/1     | Form Teacher    |  Miss Suann Sim  |
