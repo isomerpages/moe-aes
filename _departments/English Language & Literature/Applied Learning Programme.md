@@ -4,7 +4,6 @@ permalink: /departments/english-language-and-literature/applied-learning-program
 description: ""
 third_nav_title: English Language & Literature
 ---
-
 English Language and Literature Programme
 -----------------------------------------
 
@@ -22,7 +21,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png">  
+<body><img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png" style="width:75%;">  
 	
 </body>
 
