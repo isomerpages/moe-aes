@@ -18,4 +18,4 @@ Through the AYLHF platform, we hope to foster the development of strong bonds an
 
 With that, we will be launching the AYLHF website officially 30th March 2023.
 
-(Link: https://sites.google.com/moe.edu.sg/aylhf-website)
+Link: [https://sites.google.com/moe.edu.sg/aylhf-website]( https://sites.google.com/moe.edu.sg/aylhf-website)
