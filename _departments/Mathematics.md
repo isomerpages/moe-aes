@@ -52,7 +52,7 @@ img {
 <body><img src="/images/m10.jpg" style="width:70%;">  
   
 </body>
-<figcaption style="text-align:center;"><b>Lower Sec N(A) team</b>[from left]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).</figcaption><br>
+<figcaption style="text-align:center;"><b>Lower Sec N(A) team </b>[from left]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).</figcaption><br>
 
 
 <style>  
@@ -65,9 +65,8 @@ img {
 <body><img src="/images/m11.jpg" style="width:70%;">  
   
 </body>
-
-**Lower Sec N(T) team** \[from left\]: Jiang Zhouda (2 Emmanuel), Lucus Wong (2 Noel), Aydon Chong (2 Raymond). Nationally, Zhouda is ranked 2nd, Aydon is ranked 10th and Lucus is ranked 11th.
-The team clinched Overall 2nd in the team category.
+<figcaption style="text-align:center;"><b>Lower Sec N(T) team </b>[from left]: Jiang Zhouda (2 Emmanuel), Lucus Wong (2 Noel), Aydon Chong (2 Raymond). Nationally, Zhouda is ranked 2nd, Aydon is ranked 10th and Lucus is ranked 11th.
+The team clinched Overall 2nd in the team category.</figcaption><br>
 
 <style>  
 img {  
@@ -79,9 +78,8 @@ img {
 <body><img src="/images/m12.jpg" style="width:70%;">  
   
 </body>
-
-**Upper Sec N(A) team** \[from left\]: Hee Jin Lin (3/5), Immanuel Chua (3/5), Zafrie Zakeer Zaini (3/5),
-Nationally, Jin Lin is ranked 20th.
+<figcaption style="text-align:center;"><b>Upper Sec N(A) team </b>[from left]: Hee Jin Lin (3/5), Immanuel Chua (3/5), Zafrie Zakeer Zaini (3/5),
+Nationally, Jin Lin is ranked 20th.</figcaption><br> 
 
 <style>  
 img {  
@@ -93,7 +91,7 @@ img {
 <body><img src="/images/m13.jpg" style="width:70%;">  
   
 </body>
-
+<figcaption style="text-align:center;"><b></b></figcaption><br>
 **Upper Sec N(T) team** \[from left\]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.
 
 <style>  
@@ -106,7 +104,7 @@ img {
 <body><img src="/images/m14.jpg" style="width:70%;">  
   
 </body>
-
+<figcaption style="text-align:center;"><b></b></figcaption><br>
 **SMO Junior Team** (from left):
 Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).
 
@@ -120,5 +118,5 @@ img {
 <body><img src="/images/m15.jpg" style="width:70%;">  
   
 </body>
-
+<figcaption style="text-align:center;"><b></b></figcaption><br>
 **SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.
