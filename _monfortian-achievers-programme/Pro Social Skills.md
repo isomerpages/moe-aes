@@ -26,6 +26,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/ProSocial%201.png" alt="List of Social Skills" style="width:70%;">  
+<body><img src="/images/ProSocial%201.png" alt="List of Social Skills" style="width:80%;">  
   
 </body>
