@@ -33,8 +33,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/m8.jpg" style="width:70%;"> <br> 
-	<img src="/images/m9.jpg" style="width:70%;"> 
+<body><img src="/images/m8.jpg" style="width:55%;"> <br> 
+	<img src="/images/m9.jpg" style="width:55%;"> 
   
 </body>
 
