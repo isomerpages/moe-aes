@@ -9,19 +9,17 @@ Our signature programme gives students opportunities to go through a mathematica
 
 The Secondary One students design, make and fly their own kite.
 
-![](/images/m1.jpg)</p>
-
-![](/images/m2.jpg)</p>
-
-![](/images/m3.jpg)</p>
-
-![](/images/m4.jpg)</p>
-
-![](/images/m5.jpg)</p>
-
-![](/images/m6.jpg)</p>
-
-![](/images/m7.jpg)</p>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/m1.jpg" style="width:70%;"> <br> 
+	<img src="/images/m2.jpg" style="width:70%;"> <br> <img src="/images/m3.jpg" style="width:70%;"> <br> <img src="/images/m4.jpg" style="width:70%;"> <br> <img src="/images/m5.jpg" style="width:70%;"> <br> <img src="/images/m6.jpg" style="width:70%;"> <br> <img src="/images/m7.jpg" style="width:70%;"> <br> 
+  
+</body>
   
 Student-centricity features strongly in our daily lessons; there are learning experiences to better engage students and enhance their mathematical concept development.
 
@@ -32,6 +30,18 @@ The school provides support through weekly Booster Programme to support students
 ![](/images/m8.jpg)</p>
 
 ![](/images/m9.jpg)</p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" style="width:70%;"> <br> 
+	<img src="LMAOOO" style="width:70%;"> 
+  
+</body>
 
 To stretch the more mathematically-inclined students, the school fields students for various external competitions.  
 
@@ -58,4 +68,4 @@ Nationally, Jin Lin is ranked 20th.
 Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).
 
 ![](/images/m15.jpg)
-**SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.  
+**SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.
