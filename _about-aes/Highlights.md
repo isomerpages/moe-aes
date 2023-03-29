@@ -71,7 +71,16 @@ Hence our AssumptionKnights designed their own honeycombs and we have joined som
 
 ![Our AES Honeycomb](/images/Our%20AES%20Honeycomb_2.jpg)
 
-![our AES Honeycomb](/images/July%209.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:70%;">  
+  
+</body>
 
 Back by popular demand, the Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure. 
 
