@@ -52,8 +52,8 @@ img {
 <body><img src="/images/m10.jpg" style="width:70%;">  
   
 </body>
+<figcaption style="text-align:center;"><b>Lower Sec N(A) team</b>[from left]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).</figcaption><br>
 
-**Lower Sec N(A) team** \[from left\]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).
 
 <style>  
 img {  
