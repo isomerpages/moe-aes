@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:70%;">  
+<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:50%;">  
   
 </body>
 
