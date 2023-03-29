@@ -51,7 +51,6 @@ img {
 <body><img src="/images/Sec%201%20GI%20-%20Collecting%20fallen%20leaves%20to%20observe%20adaptation%20features%20in%20real%20life.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
   
 </body>
-<br>
 <p style="text-align:center;">Sec 1 GI - Collecting fallen leaves to observe adaptation features in real life</p>
 
 <style>  
@@ -64,7 +63,6 @@ img {
 <body><img src="/images/Sec%201%20GI%20-%20Printing%20of%20leaf%20imprint%20and%20making%20annotations%20of%20observations.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
   
 </body>
-<br>
 <p style="text-align:center;">Sec 1 GI - Printing of leaf imprint and making annotations of observations</p>
 
 On the other hand, History came “alive” for the Lower Secondary students when they “visited” museums virtually on their devices. The Secondary One students examined the lives of the immigrants from the early 1900s through a virtual museum created by the teachers, discovering the contributions and challenges of the early immigrants in Singapore. The immersive first-person virtual views of the artefacts and exhibits also enabled the Secondary Two students to better understand the Japanese Occupation, and to empathise with the suffering that ensued.  
