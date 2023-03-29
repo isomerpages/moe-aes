@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/m1.jpg" style="width:70%;"> <br> <img src="/images/m2.jpg" style="width:70%;"> <br> <img src="/images/m3.jpg" style="width:70%;"> <br> <img src="/images/m4.jpg" style="width:70%;"> <br> <img src="/images/m5.jpg" style="width:70%;"> <br> <img src="/images/m6.jpg" style="width:70%;"> <br> <img src="/images/m7.jpg" style="width:70%;"> <br> 
+<body><img src="/images/m1.jpg" style="width:55%;"> <br> <img src="/images/m2.jpg" style="width:55%;"> <br> <img src="/images/m3.jpg" style="width:55%;"> <br> <img src="/images/m4.jpg" style="width:55%;"> <br> <img src="/images/m5.jpg" style="width:55%;"> <br> <img src="/images/m6.jpg" style="width:55%;"> <br> <img src="/images/m7.jpg" style="width:55%;"> <br> 
   
 </body>
   
