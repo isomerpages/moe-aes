@@ -91,8 +91,8 @@ img {
 <body><img src="/images/m13.jpg" style="width:70%;">  
   
 </body>
-<figcaption style="text-align:center;"><b></b></figcaption><br>
-**Upper Sec N(T) team** \[from left\]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.
+<figcaption style="text-align:center;"><b>Upper Sec N(T) team </b>[from left]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.</figcaption><br>
+
 
 <style>  
 img {  
@@ -104,9 +104,8 @@ img {
 <body><img src="/images/m14.jpg" style="width:70%;">  
   
 </body>
-<figcaption style="text-align:center;"><b></b></figcaption><br>
-**SMO Junior Team** (from left):
-Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).
+<figcaption style="text-align:center;"><b>SMO Junior Team </b>[from left]:
+Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).</figcaption><br>
 
 <style>  
 img {  
@@ -118,5 +117,4 @@ img {
 <body><img src="/images/m15.jpg" style="width:70%;">  
   
 </body>
-<figcaption style="text-align:center;"><b></b></figcaption><br>
-**SMO Senior Team** \[from left): Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) \[not in photo\], Grace Feng (4/1) \[not in photo\]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.
+<figcaption style="text-align:center;"><b>SMO Senior Team </b>[from left]: Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) [not in photo], Grace Feng (4/1) [not in photo]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.</figcaption><br>
