@@ -16,8 +16,7 @@ img {
   
 </body>
 
-Art
----
+### Art
 
   
 
@@ -76,8 +75,7 @@ img {
 <br>
 
 
-Design & Technology
--------------------
+### Design & Technology
 
   
 
@@ -131,8 +129,7 @@ img {
 </body>
 <br>
 
-Nutrition Food Science
-----------------------
+### Nutrition Food Science
 
   
 
