@@ -42,9 +42,9 @@ At secondary schools, the focus is on exploration; to help students understand t
     <td class="tg-mzni"><span style="font-weight:400;font-style:normal">○ </span>Decision making and planning towards personal ECG goals<br><br><br><span style="font-weight:400;font-style:normal">○ </span>Set targets and work towards desired results</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Cesson Programme
 ----------------
