@@ -3,7 +3,7 @@ title: Pro Social Skills
 permalink: /departments/cce/monfortian-achievers-programme-map/pro-social-skills/
 description: ""
 ---
-#### Objectives:
+### Objectives:
 
 1\. To explicitly teach behaviour in a concrete, step-by-step manner with specific and observable skill steps
  
@@ -13,10 +13,19 @@ description: ""
 
   
 
-#### Social Skills
+### Social Skills
 
   
 
 Social skills training complements school-based CCE efforts as an additional layer of support. Social skills are selected and taught based on the needs of the students, applicable at different juncture of their schooling life. For example, all Secondary One students will learn to be prepared for class, as they go through transition from Primary to Secondary school.
 
-![List of Social Skills](/images/ProSocial%201.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/ProSocial%201.png" alt="List of Social Skills" style="width:70%;">  
+  
+</body>
