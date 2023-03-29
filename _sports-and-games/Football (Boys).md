@@ -61,12 +61,17 @@ Alen Thomas
 **<u>FAS Futsal U14</u>**
 * 2018 2nd Round
 
-![Football (Boys)](/images/APic3.jpeg)
-
-![Football (Boys)](/images/APic4.jpeg)
-
-![Football (Boys)](/images/APic6.jpeg)
-
-![Football (Boys)](/images/APic7.jpeg)
-
-![Football (Boys)](/images/APic8.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/APic3.jpeg" style="width:70%;"> <br>
+	<img src="/images/APic4.jpeg" style="width:70%;"> <br>
+	<img src="/images/APic6.jpeg" style="width:70%;"> <br>
+	<img src="/images/APic7.jpeg" style="width:70%;"> <br>
+	<img src="/images/APic8.jpeg" style="width:70%;"> <br>
+  
+</body>

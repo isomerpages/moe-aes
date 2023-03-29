@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:70%;">  
+<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:50%;">  
   
 </body>
 
@@ -319,7 +319,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Power%20of%20Youth%20-%20Class%202-6.png" alt="Sec 1 - Class 1/5 - Giving ex-offenders a second chance" style="width:45%;">  
+<body><img src="/images/Power%20of%20Youth%20-%20Class%202-6.png" alt="Sec 1 - Class 1/5 - Giving ex-offenders a second chance" style="width:30%;">  
   
 </body>
 

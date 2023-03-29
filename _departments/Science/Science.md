@@ -6,23 +6,16 @@ third_nav_title: Science
 ---
 ### Objectives of the Science Curriculum @ AES
 
-
 <style>  
 img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
 }  
 </style>  
-<body> 
-	
-	
-	
-![](/images/p86b%20SCIENCE.jpg)
-	
-	
-	
-</body>
+<body><img src="/images/p86b%20SCIENCE.jpg" alt="Science Department 2022" style="width:70%;">  
+  
+</body> 
 
 In Assumption English School, the Science Department aims to achieve the following:  
 
@@ -43,4 +36,4 @@ As a Science student in AES, your academic journey is supported by all the Scien
 
 Click on the link to access the Science Curriculum Site!
 
-<h3 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h3>
+<h4 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h4>

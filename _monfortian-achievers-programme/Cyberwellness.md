@@ -30,6 +30,7 @@ The framework also features a 3-step process to explore Cyber issues: **The Sen
 
 3. **Act**: Translate understanding into actions so as to be safe and have a positive presence online
 
+<br>
 <style>  
 img {  
   display: block;  
@@ -37,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CyberWellness%202.jpeg" alt="Cyberwellness" style="width:85%;">  
+<body><img src="/images/CyberWellness%202.jpeg" alt="Cyberwellness" style="width:75%;">  
   
 </body>
 

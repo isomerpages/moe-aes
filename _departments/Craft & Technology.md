@@ -12,12 +12,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/craft%20and%20technology%20department%20i.jpeg" alt="Craft & Technology" style="width:80%;">  
+<body><img src="/images/craft%20and%20technology%20department%20i.jpeg" alt="Craft & Technology" style="width:65%;">  
   
 </body>
 
-Art
----
+### Art
 
   
 
@@ -34,7 +33,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/art1.jpeg" alt="Art" style="width:80%;">  
+<body><img src="/images/art1.jpeg" alt="Art" style="width:65%;">  
   
 </body>
 <br>
@@ -46,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/art2.jpeg" alt="Art" style="width:80%;">  
+<body><img src="/images/art2.jpeg" alt="Art" style="width:65%;">  
   
 </body>
 <br>
@@ -58,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/art3.jpeg" alt="Art" style="width:80%;">  
+<body><img src="/images/art3.jpeg" alt="Art" style="width:65%;">  
   
 </body>
 <br>
@@ -70,14 +69,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/art4.jpeg" alt="Art" style="width:80%;">  
+<body><img src="/images/art4.jpeg" alt="Art" style="width:65%;">  
   
 </body>
 <br>
 
 
-Design & Technology
--------------------
+### Design & Technology
 
   
 
@@ -90,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/dnt1.jpeg" alt="Design & Technology" style="width:80%;">  
+<body><img src="/images/dnt1.jpeg" alt="Design & Technology" style="width:65%;">  
   
 </body>
 <br>
@@ -102,7 +100,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/dnt2.jpeg" alt="Design & Technology" style="width:80%;">  
+<body><img src="/images/dnt2.jpeg" alt="Design & Technology" style="width:65%;">  
   
 </body>
 <br>
@@ -114,7 +112,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/dnt4.jpeg" alt="Design & Technology" style="width:80%;">  
+<body><img src="/images/dnt4.jpeg" alt="Design & Technology" style="width:65%;">  
   
 </body>
 <br>
@@ -126,13 +124,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/dnt3.jpeg" alt="Design & Technology" style="width:80%;">  
+<body><img src="/images/dnt3.jpeg" alt="Design & Technology" style="width:65%;">  
   
 </body>
 <br>
 
-Nutrition Food Science
-----------------------
+### Nutrition Food Science
 
   
 
@@ -145,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NFS1.jpeg" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="/images/NFS1.jpeg" alt="Nutrition Food Science" style="width:65%;">  
   
 </body>
 <br>
@@ -157,7 +154,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NFS2.jpeg" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="/images/NFS2.jpeg" alt="Nutrition Food Science" style="width:65%;">  
   
 </body>
 <br>
@@ -169,7 +166,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NFS3.jpeg" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="/images/NFS3.jpeg" alt="Nutrition Food Science" style="width:65%;">  
   
 </body>
 <br>
@@ -181,7 +178,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NFS4.jpeg" alt="Nutrition Food Science" style="width:80%;">  
+<body><img src="/images/NFS4.jpeg" alt="Nutrition Food Science" style="width:65%;">  
   
 </body>
 <br>

@@ -6,10 +6,8 @@ description: ""
 <p style="text-align:center;"><strong><u>3D2N Sports &amp; Cultural School Immersion Tour to Johor, Malaysia 2019
 </u></strong></p>
 
-Objectives
-----------
+### Objectives
 
-  
 
 Our Basketball, Football and Judo school teams embarked on a sport training cum cultural school immersion tour to Johor (Malaysia) from 30 Aug – 1 Sep 2019 (Fri – Sun). The contingent of 59 student-athletes, 6 teachers and 3 coaches went on this tour with the following objectives:  
 
@@ -21,8 +19,7 @@ Our Basketball, Football and Judo school teams embarked on a sport training cum 
 
   
 
-Highlights
-----------
+### Highlights
 
   
 
@@ -38,8 +35,7 @@ Our Assumptionknights had the opportunity to visit Kota Iskandar, Johor as part 
 
   
 
-Looking Forward
----------------
+### Looking Forward
 
   
 
