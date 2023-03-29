@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/bball.png" alt="Basketball" style="width:60%;">  
+<body><img src="/images/bball.png" alt="Basketball" style="width:45%;">  
   
 </body>
 <br>
