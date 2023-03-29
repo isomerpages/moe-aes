@@ -41,8 +41,7 @@ description: ""
 | 2 George   | Form Teacher    | Miss Huang Meiting  |
 	
 	
-Upper Secondary Teachers
-------------------------
+### Upper Secondary Teachers
 
 
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
