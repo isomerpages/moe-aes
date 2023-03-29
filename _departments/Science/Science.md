@@ -14,8 +14,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Science%20Department.jpeg" alt="Science" style="width:70%;">  
-  
+<body> 
+	
+![](/images/p86b%20SCIENCE.jpg)
+	
 </body>
 
 In Assumption English School, the Science Department aims to achieve the following:  
