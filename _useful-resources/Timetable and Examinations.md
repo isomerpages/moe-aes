@@ -76,8 +76,17 @@ Dear students, please click the link below to access the following:
 
 * [2023 4NT Milestone Assessment 2 Letter to Parents](/files/2023%20ma2%204nt%20letter%20to%20parents.pdf)
 
+
+
 **Topics to be assessed**
 
 * [2023 4E5NA Milestone Assessment 2 Topics to be assessed](/files/2023%204e5na%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
 * [2023 4NA Milestone Assessment 2 Topics to be assessed](/files/2023%204na%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
 * [2023 4NT Milestone Assessment 2 Topics to be assessed](/files/2023%204nt%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
+
+
+**5\. O Preliminary Examination for Secondary 4 & 5**
+
+* [2023 MTL O Preliminary Examination Letter to Parents](https://drive.google.com/file/d/1VJBbJGAT-lBB5t_LU7bn0o9m-77b7bx_/view?usp=sharing)
+
+
