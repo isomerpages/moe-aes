@@ -63,3 +63,21 @@ Dear students, please click the link below to access the following:
  * [2023 Sec 2 WA 2 Schedule](/files/2023%20Sec%202%20WA%202%20Schedule.pdf)
  * [2023 Sec 3E WA 2 Schedule (revised)](/files/2023%20Sec%203E%20WA%202%20Schedule%20(revised).pdf)
  * [2023 Sec 3NA & 3NT WA 2 Schedule (revised)](/files/2023%20Sec%203NA%20&%203NT%20WA%202%20Schedule%20(revised).pdf)
+
+
+
+**4\. Milestone Assessment 2 (MA2) for Secondary 4 & 5**
+
+**Letter to parents**
+
+* [2023 4E5NA Milestone Assessment 2 Letter to Parents](/files/2023%20ma2%204e5na%20letter%20to%20parents.pdf)
+
+* [2023 4NA Milestone Assessment 2 Letter to Parents](/files/2023%20ma2%204na%20letter%20to%20parents.pdf)
+
+* [2023 4NT Milestone Assessment 2 Letter to Parents](/files/2023%20ma2%204nt%20letter%20to%20parents.pdf)
+
+**Topics to be assessed**
+
+* [2023 4E5NA Milestone Assessment 1 Topics to be assessed](/files/2023%204E5NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+* [2023 4NA Milestone Assessment 1 Topics to be assessed](/files/2023%204NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+* [2023 4NT Milestone Assessment 1 Topics to be assessed](/files/2023%204NT%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
