@@ -78,6 +78,6 @@ Dear students, please click the link below to access the following:
 
 **Topics to be assessed**
 
-* [2023 4E5NA Milestone Assessment 1 Topics to be assessed](/files/2023%204E5NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
-* [2023 4NA Milestone Assessment 1 Topics to be assessed](/files/2023%204NA%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
-* [2023 4NT Milestone Assessment 1 Topics to be assessed](/files/2023%204NT%20Milestone%20Assessment%201%20Topics%20to%20be%20assessed.pdf)
+* [2023 4E5NA Milestone Assessment 2 Topics to be assessed](/files/2023%204e5na%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
+* [2023 4NA Milestone Assessment 2 Topics to be assessed](/files/2023%204na%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
+* [2023 4NT Milestone Assessment 2 Topics to be assessed](/files/2023%204nt%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
