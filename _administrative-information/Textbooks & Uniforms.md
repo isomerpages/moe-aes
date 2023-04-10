@@ -1,12 +1,12 @@
 ---
-title: Textbooks & Uniforms
+title: Textbooks &amp; Uniforms
 permalink: /useful-resources/for-students/administrative-information/textbooks-n-uniforms/
 description: ""
 ---
-School Bookshop & Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
+School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
 
   
-**[School Bookshop and Uniform Operating Hours](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)**
+[**School Bookshop and Uniform Operating Hours**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)
 
 **Monday to Thursday** <br>
 8.30am to 3.00pm
@@ -31,7 +31,7 @@ School Bookshop & Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](htt
 
   
 
-Pre-Ordering of Textbooks and Uniforms will commence on 7 November 2022 and end on 14 December 2022 at **[https://asencio.com.sg](https://asencio.com.sg/)**
+Pre-Ordering of Textbooks and Uniforms will commence on 7 November 2022 and end on 14 December 2022 at&nbsp;**[https://asencio.com.sg](https://asencio.com.sg/)**
 
   
 
@@ -56,7 +56,7 @@ Secondary 3
 
 [Assumption English School Booklist 2023 S3.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S3%20.pdf)
 
-Secondary 4 & 5
+Secondary 4 &amp; 5
 ---------------
 
 [Assumption English School Booklist 2023 S4.pdf](/files/Assumption%20English%20School%20Booklist%202023%20S4%20.pdf) <br>
