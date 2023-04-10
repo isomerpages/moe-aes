@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Gab7.png" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<img src="/images/Gab7.png" alt="GABRIEL Programme June Holidays" style="width:70%;">  
   
 
 <br>
