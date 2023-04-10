@@ -3,7 +3,7 @@ title: GABRIEL Programme
 permalink: /student-development/gabriel-programme/
 description: ""
 ---
-In line with the ministry’s **G**uiding and **E**mpowering **S**tudents for **A**ffiliation and **R**esilience to **U**nlock their **P**otential (GEAR-UP) Programme, AES runs the **G**uiding **A**nd **B**uilding **R**esilience through **I**nclusive **E**ducation an**d L**eadership (GABRIEL) Programme for selected AssumptionKnights who will benefit from the programme.
+In line with the ministry’s&nbsp;**G**uiding and&nbsp;**E**mpowering&nbsp;**S**tudents for&nbsp;**A**ffiliation and&nbsp;**R**esilience to&nbsp;**U**nlock their&nbsp;**P**otential (GEAR-UP) Programme, AES runs the&nbsp;**G**uiding&nbsp;**A**nd&nbsp;**B**uilding&nbsp;**R**esilience through&nbsp;**I**nclusive&nbsp;**E**ducation an**d L**eadership (GABRIEL) Programme for selected AssumptionKnights who will benefit from the programme.
 
 <style>  
 img {  
@@ -12,9 +12,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20Prog.png" alt="GABRIEL Programme" style="width:65%;">  
+<img src="/images/GABRIEL%20Prog.png" alt="GABRIEL Programme" style="width:55%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -24,9 +24,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20PROGRAMME.jpg" alt="GABRIEL Programme" style="width:80%;">  
+<img src="/images/GABRIEL%20PROGRAMME.jpg" alt="GABRIEL Programme" style="width:80%;">  
   
-</body>
+
 <br>
 
 ### About GABRIEL Programme
@@ -37,7 +37,7 @@ The programme aims to engage students through a variety of activities and worksh
 
   
 
-In line with the Montfortian Education Charter, GABRIEL Programme targets to provide an **Inclusive Education** and with that in mind, focusses on the students’ strengths, and not the circumstances that they are in.
+In line with the Montfortian Education Charter, GABRIEL Programme targets to provide an&nbsp;**Inclusive Education**&nbsp;and with that in mind, focusses on the students’ strengths, and not the circumstances that they are in.
 
 <style>  
 img {  
@@ -46,9 +46,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20Programme_2.jpg" alt="About GABRIEL Programme" style="width:80%;">  
+<img src="/images/GABRIEL%20Programme_2.jpg" alt="About GABRIEL Programme" style="width:80%;">  
   
-</body>
+
 <br>
 
 ### GABRIEL Programme (June Holidays)
@@ -60,9 +60,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Gab7.png" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<img src="/images/Gab7.png" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
-</body>
+
 <br>
 
 The school holidays period is usually the time for students and teachers to wind down, but what about those who wish to catch up on their studies during the holiday, but could not find a right place and right people to support their needs?
@@ -82,9 +82,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20Programme%20June%20Holidays_1.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<img src="/images/GABRIEL%20Programme%20June%20Holidays_1.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -94,7 +94,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/GABRIEL%20Programme%20June%20Holidays_2.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
+<img src="/images/GABRIEL%20Programme%20June%20Holidays_2.jpg" alt="GABRIEL Programme June Holidays" style="width:80%;">  
   
-</body>
+
 <br>
