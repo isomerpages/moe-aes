@@ -41,7 +41,8 @@ Students will report to school for lessons on the following school day.
 Students will embark on Students Initiated Learning (SIL) on Blended Learning days. Students have a choice in what they would like to learn within the curated semestral themes. Students will document and share their learning on their students’ e-portfolio Google site, which will be useful to showcase their learning and achievement to potential employers or interviewers when applying for higher education institutions.  
   
 **These are the curated themes for Semester 1:**  
-![](/images/SIL%20themes.png)
+
+<img style="width:80%" src="/images/SIL%20themes.png">
 
 
   
