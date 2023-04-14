@@ -21,10 +21,12 @@ AES will be embarking on Blended Learning every fortnight.
 **Please see the confirmed Blended Learning dates for 2023:**  
 
 Term 1:
-![](/images/Blended%20Learning%20dates%20for%20Term%201%202023.png)
+
+<img style="width:80%" src="/images/Blended%20Learning%20dates%20for%20Term%201%202023.png">
   
 Term 2:
-![](/images/BL%20Term%202.png)
+
+<img style="width:80%" src="/images/BL%20Term%202.png">
 	
 **On the days for Blended Learning,**  
 • students are not required to report to school  
@@ -39,18 +41,19 @@ Students will report to school for lessons on the following school day.
 Students will embark on Students Initiated Learning (SIL) on Blended Learning days. Students have a choice in what they would like to learn within the curated semestral themes. Students will document and share their learning on their students’ e-portfolio Google site, which will be useful to showcase their learning and achievement to potential employers or interviewers when applying for higher education institutions.  
   
 **These are the curated themes for Semester 1:**  
-![](/images/SIL%20themes.png)
+
+<img style="width:80%" src="/images/SIL%20themes.png">
 
 
   
 **The important links are as follows:**  
-1)Blended Learning briefing slides: [**go.gov.sg/aesblslides**](http://go.gov.sg/aesblslides)  
+1)Blended Learning briefing slides:&nbsp;[**go.gov.sg/aesblslides**](http://go.gov.sg/aesblslides)  
 2)Blended Learning lesson instructions:  
-• Secondary 1: [**go.gov.sg/aesblsec1**](http://go.gov.sg/aesblsec1)  
-• Secondary 2: [**go.gov.sg/aesblsec2**](http://go.gov.sg/aesblsec2)  
-• Secondary 3: [**go.gov.sg/aesblsec3**](http://go.gov.sg/aesblsec3)  
-• Secondary 4 & 5: [**go.gov.sg/aesblsec4**](http://go.gov.sg/aesblsec4)  
-3)Student Initiated Learning: [**go.gov.sg/aessil**](http://go.gov.sg/aessil)  
-4)School website: [**https://assumptionenglish.moe.edu.sg**](https://assumptionenglish.moe.edu.sg/)  
+• Secondary 1:&nbsp;[**go.gov.sg/aesblsec1**](http://go.gov.sg/aesblsec1)  
+• Secondary 2:&nbsp;[**go.gov.sg/aesblsec2**](http://go.gov.sg/aesblsec2)  
+• Secondary 3:&nbsp;[**go.gov.sg/aesblsec3**](http://go.gov.sg/aesblsec3)  
+• Secondary 4 &amp; 5:&nbsp;[**go.gov.sg/aesblsec4**](http://go.gov.sg/aesblsec4)  
+3)Student Initiated Learning:&nbsp;[**go.gov.sg/aessil**](http://go.gov.sg/aessil)  
+4)School website:&nbsp;[**https://assumptionenglish.moe.edu.sg**](https://assumptionenglish.moe.edu.sg/)  
   
-For any queries, please call the **General Office at 6572 9100**. Thank you.
+For any queries, please call the&nbsp;**General Office at 6572 9100**. Thank you.
