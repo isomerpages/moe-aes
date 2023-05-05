@@ -118,7 +118,7 @@ Parents and students are encouraged to choose schools wisely based on your child
 
 For more information about the DSA programme, you can read more&nbsp;[**HERE**](https://www.moe.gov.sg/secondary/dsa).&nbsp; &nbsp;  
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information and should you have any queries about the school DSA programme, please contact Mr Gary Ong (HOD PE &amp; CCA) at Tel: 6572 9122 or 6572 9100. Alternatively, you can email your queries to: &nbsp;
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information and should you have any queries about the school DSA programme, please contact Mrs Chong Chay Hoon (HOD Covering PE &amp; CCA) at Tel: 6572 9113 or 6572 9100. Alternatively, you can email your queries to: &nbsp;
 
 
 <p style="text-align:center;"><a href="mailto:aes@moe.edu.sg"><strong>aes@moe.edu.sg</strong></a></p>
