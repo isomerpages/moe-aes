@@ -14,3 +14,5 @@ Please click [**HERE**](https://forms.gle/RVqdS1kLzxQ5DD9j8) to register for A
 Dear Parents and Primary 6 students,
 
 The MOE Direct School Admission (DSA) application period is 4 - 31 May 2023. Parents and P6 students who are keen to apply to Assumption English School via Basketball, Football or Judo programme, please click [**\[AES DSA\]**](/student-development/ccas/direct-school-admission-dsa/) for more information and schedule of the DSA-Sec application stages.
+
+Test
