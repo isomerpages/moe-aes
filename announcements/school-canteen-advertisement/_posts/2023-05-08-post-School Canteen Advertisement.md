@@ -22,7 +22,7 @@ image: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 
-3.	Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 622 Upper Bukit Timah Road, Singapore 678117
 * Contact No: 6572 9100 (General Office)
 * Email: aes@moe.edu.sg
@@ -37,9 +37,10 @@ image: ""
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the 
 
-i.	Health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme )
+i.	Health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
+[https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
-ii.	Health Promotion Board and school criteria in the use of healthy and nutritious ingredients. Refer to website https://www.sfa.gov.sg/food-retail/food-hygiene-practices-guidelines/food-hygiene-practices-guidelines 
+ii.	Health Promotion Board and school criteria in the use of healthy and nutritious ingredients. Refer to website [https://www.sfa.gov.sg/food-retail/food-hygiene-practices-guidelines/food-hygiene-practices-guidelines](https://www.sfa.gov.sg/food-retail/food-hygiene-practices-guidelines/food-hygiene-practices-guidelines)
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
