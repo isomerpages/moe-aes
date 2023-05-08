@@ -35,6 +35,3 @@ ii.	Health Promotion Board and school criteria in the use of healthy and nutriti
 •	Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.<p></p>
 •	Possess catering experience or experience operating in a school environment.<p></p>
 •	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).<p></p>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p>
-
-
-
