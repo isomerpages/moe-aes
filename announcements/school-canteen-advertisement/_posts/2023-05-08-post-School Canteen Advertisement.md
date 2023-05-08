@@ -21,7 +21,6 @@ image: ""
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 622 Upper Bukit Timah Road, Singapore 678117
 * Contact No: 6572 9100 (General Office)
