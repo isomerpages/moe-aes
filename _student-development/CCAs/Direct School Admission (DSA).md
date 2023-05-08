@@ -109,19 +109,26 @@ Parents and students are encouraged to choose schools wisely based on your child
 <h3>Useful MOE weblinks</h3>
 
 DSA-Sec Main Webpage
-[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) <p></p>
+[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
 Instructions on Application (Mainstream students)
-[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application) <p></p>
+[https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application)
+
 Instructions on Application (Non Mainstream Students)
-[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) <p></p>
+[https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) 
+
 Direct to DSA-Sec Portal (Mainstream Students)
-[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)<p></p>
+[https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec)
+
 Direct to DSA-Sec Portal (Non Mainstream Students)
-[https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)<p></p>
+[https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms)
+
 DSA-Sec iFAQs
-[https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)<p></p>
+[https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)
+
 DSA-Sec School Finder
-[https://go.gov.sg/dsa-secschfinder ](https://go.gov.sg/dsa-secschfinder )<p></p>
+[https://go.gov.sg/dsa-secschfinder ](https://go.gov.sg/dsa-secschfinder )
+
 
 
 <h3>AES DSA 5-A-Side Basketball Challenge Cup 2019
