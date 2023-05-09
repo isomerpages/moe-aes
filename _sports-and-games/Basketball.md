@@ -13,12 +13,11 @@ With character development as our focus, we stress on the following three key va
 
 **Diligence** – the concerted and consistent effort put in into trainings with values well-aligned to our school motto, Labor Omnia Vincit (Through Work Achieve Success)
 
-We subscribe to the ethos of **‘Making Every Basket Count’** to inspire our players to turn every opportunity into an opportunity to shine. The team also follows the philosophy ***“When training is tough, competition will be easy.”&nbsp;***
+We subscribe to the ethos of **‘Making Every Basket Count’** to inspire our players to turn every opportunity into an opportunity to shine. 
 
 Our teams have done consistently well to finish among the top 8 positions in the West Zone National School Games (NSG) among over 40 other secondary schools, as well as at the National level.
 
 ### CCA Achievements:
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,6 +37,10 @@ Our teams have done consistently well to finish among the top 8 positions in the
 </thead>
 <tbody>
     <tr>
+    <td class="tg-a6j4">2020</td>
+    <td class="tg-mzni">***No competitions due to COVID-19***</td>
+  </tr>
+	<tr>
     <td class="tg-a6j4">2019</td>
     <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round, triumphed over top seed team but narrowly missed out on Nationals qualification on points difference.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round. Tied game with the top seeded team (lost in overtime). Missed out on Nationals qualification narrowly.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span></td>
   </tr>
@@ -49,7 +52,6 @@ Our teams have done consistently well to finish among the top 8 positions in the
     <td class="tg-a6j4">2017</td>
     <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Champions for Level 3 invitational T-NET Cup</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="background-color:initial">- Participated in Invitational T-NET Cup</span></td>
   </tr>
-
 	<tr>
     <td class="tg-a6j4">2016</td>
     <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in WZ NSG,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span></td>
