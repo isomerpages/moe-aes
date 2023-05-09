@@ -10,11 +10,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/bball.png" alt="Basketball" style="width:45%;">  
-  
-</body>
-<br>
-
 <style>  
 img {  
   display: block;  
@@ -22,53 +17,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Team%20Photo.jpeg" alt="Basketball" style="width:80%;">  
-  
-</body>
-
-### Teachers-In-Charge:
-
-Mr Desmond Wong (Overall I/C) <br>
-Ms Feline Tong <br>
-Mr Thomson <br>
-Mr Lim Cher Han  <br>
-Miss Naomi Chua
-
-  
 
 ### Coaches:
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
 
-Mr Lee Kendy (Boys) <br>
-Mr Kua Hiong Yong (Girls)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Coaches.png" alt="Basketball" style="width:55%;">  
-  
-</body>
-
-### Captains:
-
-B Boys - Rashleigh Tho Jun Xian <br>
-B Girls - Wong Yee Xin <br>
-C Boys - Aligwoekwe Kluivert Chimsomaga <br>
-C Girls - Chantel Tan Sin Ya
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/2019%20Captains.jpeg" alt="Basketball" style="width:80%;">  
-  
-</body>
 
 ### CCA Achievements:
 
@@ -122,9 +76,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/RHD.png" alt="Basketball" style="width:80%;">  
+<img src="/images/RHD.png" alt="Basketball" style="width:80%;">  
   
-</body>
+
 
 2019 is the year when AES Basketball welcomed our first DSA student, Raphael, a secondary one student who was part of our team that managed to proceed to the 2nd Round of the West Zone Championship of the National School Games. Our ‘C’ boys narrowly missed out on the National Championship. They held traditional powerhouse Jurong Secondary School to a draw at full time but was not able to overcome the stronger opponent in extra time. Earlier in Term 1, our ‘B’ boys also played Jurong Secondary in the second round and triumphed over the opponent.
 
@@ -143,9 +97,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Amirul%20and%20Peter.jpeg" alt="Basketball" style="width:80%;">  
+<img src="/images/Amirul%20and%20Peter.jpeg" alt="Basketball" style="width:80%;">  
   
-</body>
+
 
 A special mention this year is that we have once again produced a National athlete! Following Amirul Miran who represented Assumption in the Singapore Schools ASEAN School Games (ASG) in 2018, this year, our ‘B’ boys Captain Mentor, Peter Paul Obatay, was selected by Singapore Schools and played for the Singapore Under-18 basketball team at the ASG held at Indonesia in July this year. To put things into perspective, only 12 basketballers in this age group were selected nation-wide. We are very proud of Peter and Amirul.
 
@@ -160,9 +114,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Jurong%20Win.png" alt="Basketball" style="width:80%;">  
+<img src="/images/Jurong%20Win.png" alt="Basketball" style="width:80%;">  
   
-</body>
+
 
 This year also see Assumption Basketball organised our inaugural AES 5-a-side Basketball Challenge for the neighbouring primary schools in late May. This was with a view to introduce our school to the primary school pupils and to attract potential DSA applicants.
 
@@ -173,7 +127,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/DSA%20Cup.png" alt="Basketball" style="width:80%;">  
+<img src="/images/DSA%20Cup.png" alt="Basketball" style="width:80%;">  
   
-</body>
+
 <br>
