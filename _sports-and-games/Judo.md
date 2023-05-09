@@ -32,11 +32,10 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
 <tbody>
     <tr>
     <td class="tg-a6j4">2023</td>
-    <td class="tg-mzni">National School Games
+    <td class="tg-mzni">**National School Games**
 			<br>
-			-'B' Boys' Division: **Team Third**; 1 Gold, 3 in Top 8 positions
-			<br>
-			- ‘B’ Girls' Division: **Team Second**; 5 Silver, 5 in Top 8 positions**
+			- 'B' Boys' Division: **Team Third**; 1 Gold, 3 in Top 8 positions <br>
+			- ‘B’ Girls' Division: **Team Second**; 5 Silver, 5 in Top 8 positions<br>
 			</td>
   </tr> 
 	<tr>
