@@ -36,38 +36,10 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
 			<br>
 			- 'B' Boys' Division: **Team Third**; 1 Gold, 3 in Top 8 positions <br>
 			- ‘B’ Girls' Division: **Team Second**; 5 Silver, 5 in Top 8 positions<br>
+			- SA Judo Academy Age Group Judo Championship: 2 Gold, 2 Silver, 4 Bronze <br>
+			- SJF Kyu Grade Judo Championships 2023: 3 Gold, 3 Silver, 7 Bronze
 			</td>
-  </tr> 
-	<tr>
-    <td class="tg-a6j4">2022</td>
-    <td class="tg-mzni">'B' Boys' Division
-			<br>
-			<span style="font-weight:normal;color:#58595B">- 2nd position at West Zone National School Games**</span>
-			<br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- 4th position in the T-Net Club 14-&amp;-under Girls' Basketball Tournament</span></td>
-  </tr>
-	<tr>
-    <td class="tg-a6j4">2020 &amp; 2021</td>
-			<td class="tg-mzni">***No competitions due to COVID-19***</td>
-  </tr>
-	<tr>
-    <td class="tg-a6j4">2019</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to the second round in the West Zone National School Games, triumphed over top seed team but narrowly missed out on Nationals qualification on points difference.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games. Tied game with the top seeded team (lost in overtime). Missed out on Nationals qualification narrowly.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span></td>
-  </tr>
-	<tr>
-    <td class="tg-a6j4">2018</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span></td>
-  </tr>
-	<tr>
-    <td class="tg-a6j4">2017</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- Champions for Level 3 invitational T-NET Cup</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><span style="background-color:initial">- Participated in Invitational T-NET Cup</span></td>
-  </tr>
-	<tr>
-    <td class="tg-a6j4">2016</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in the West Zone National School Games,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span></td>
-  </tr>
-<tr>
-    <td class="tg-a6j4">2015</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span></td>
+  
   </tr>
 </tbody>
 </table>
