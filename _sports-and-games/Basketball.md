@@ -61,11 +61,11 @@ Our teams have done consistently well to finish among the top 8 positions in the
   </tr>
 	<tr>
     <td class="tg-a6j4">2016</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in WZ NSG,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in the West Zone National School Games,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span><br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span></td>
   </tr>
 <tr>
     <td class="tg-a6j4">2015</td>
-    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span></td>
   </tr>
  
 </tbody>
