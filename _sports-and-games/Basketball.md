@@ -37,28 +37,36 @@ Our teams have done consistently well to finish among the top 8 positions in the
 </thead>
 <tbody>
     <tr>
-    <td class="tg-a6j4">2020</td>
-    <td class="tg-mzni">***No competitions due to COVID-19***</td>
+    <td class="tg-a6j4">2022</td>
+    <td class="tg-mzni">'B' Boys' Division
+			<br>
+			<span style="font-weight:normal;color:#58595B">- 2nd position at West Zone ‘B’ Division Boys**</span>
+			<br><br>'C' Girls' Division<br><span style="font-weight:normal;color:#58595B">- 4th position in the T-Net Club 14-&amp;-under Girls' Basketball Tournament</span></td>
+  </tr>
+	<tr>
+    <td class="tg-a6j4">2020 &amp; 2021</td>
+			<td class="tg-mzni">***No competitions due to COVID-19***</td>
+	
   </tr>
 	<tr>
     <td class="tg-a6j4">2019</td>
-    <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round, triumphed over top seed team but narrowly missed out on Nationals qualification on points difference.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round. Tied game with the top seeded team (lost in overtime). Missed out on Nationals qualification narrowly.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round, triumphed over top seed team but narrowly missed out on Nationals qualification on points difference.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round. Tied game with the top seeded team (lost in overtime). Missed out on Nationals qualification narrowly.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span></td>
   </tr>
 	<tr>
     <td class="tg-a6j4">2018</td>
-    <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><span style="font-weight:normal;color:#58595B">- 3rd Runner Up (bronze medal) in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span></td>
   </tr>
 	<tr>
     <td class="tg-a6j4">2017</td>
-    <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Champions for Level 3 invitational T-NET Cup</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="background-color:initial">- Participated in Invitational T-NET Cup</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Champions for Level 3 invitational T-NET Cup</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="font-weight:normal;color:#58595B">- Participated in invitational T-NET Cup</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><span style="background-color:initial">- Participated in Invitational T-NET Cup</span></td>
   </tr>
 	<tr>
     <td class="tg-a6j4">2016</td>
-    <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in WZ NSG,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Overall 2nd Runner-up (bronze medal) in WZ NSG,</span><br><span style="font-weight:normal;color:#58595B">- National Schools Top 16</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span><br><br>C Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span></td>
   </tr>
 <tr>
     <td class="tg-a6j4">2015</td>
-    <td class="tg-mzni">B Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>C Boys<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span></td>
+    <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>B Girls<br><span style="font-weight:normal;color:#58595B">- Participated in WZ NSG</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to WZ NSG 2nd round.</span></td>
   </tr>
  
 </tbody>
