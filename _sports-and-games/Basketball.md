@@ -17,14 +17,6 @@ We subscribe to the ethos of **‘Making Every Basket Count’** to inspire our 
 
 Our teams have done consistently well to finish among the top 8 positions in the West Zone National School Games (NSG) among over 40 other secondary schools, as well as at the National level.
 
-** 
-
-### Coaches:
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Text     | Text     |
-
-
 ### CCA Achievements:
 
 <style type="text/css">
