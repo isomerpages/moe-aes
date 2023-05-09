@@ -26,8 +26,8 @@ Our teams have done consistently well to finish among the top 8 positions in the
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
