@@ -3,20 +3,21 @@ title: Basketball
 permalink: /student-development/ccas/sports-and-games/basketball/
 description: ""
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
+The AES Basketball programme aims to develop basketball players who are honed with the necessary skills, from match strategies and teamwork to time management skills, in order to excel as an athlete.&nbsp;
+
+With character development as our focus, we stress on the following three key values:
+
+**Discipline** – self-management in handling demands of academics and basketball&nbsp;
+
+**Focus** – winning mindset
+
+**Diligence** – the concerted and consistent effort put in into trainings with values well-aligned to our school motto, Labor Omnia Vincit (Through Work Achieve Success)
+
+We subscribe to the ethos of **‘Making Every Basket Count’** to inspire our players to turn every opportunity into an opportunity to shine. The team also follows the philosophy ***“When training is tough, competition will be easy.”&nbsp;***
+
+Our teams have done consistently well to finish among the top 8 positions in the West Zone National School Games (NSG) among over 40 other secondary schools, as well as at the National level.
+
+** 
 
 ### Coaches:
 | Column 1 | Column 2 |
@@ -66,18 +67,6 @@ img {
   </tr>
 </tbody>
 </table>
-
-Assumption Basketball aims to develop our students’ interest, passion and potential in the sport through tightly-knitted character and values education. Our team of teachers and coaches aim to develop our students to be stronger individuals both physically and mentally through the rigour of our training processes. We seek to develop and strengthen students’ mastery of skills to challenge for the highest accolades, and in the process instilling discipline and sense of team spirit and sportsmanship in our students, preparing them to face future challenges in their endeavours.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/RHD.png" alt="Basketball" style="width:80%;">  
-  
 
 
 2019 is the year when AES Basketball welcomed our first DSA student, Raphael, a secondary one student who was part of our team that managed to proceed to the 2nd Round of the West Zone Championship of the National School Games. Our ‘C’ boys narrowly missed out on the National Championship. They held traditional powerhouse Jurong Secondary School to a draw at full time but was not able to overcome the stronger opponent in extra time. Earlier in Term 1, our ‘B’ boys also played Jurong Secondary in the second round and triumphed over the opponent.
