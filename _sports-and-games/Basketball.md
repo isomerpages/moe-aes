@@ -37,6 +37,14 @@ Our teams have done consistently well to finish among the top 8 positions in the
 </thead>
 <tbody>
     <tr>
+    <td class="tg-a6j4">2023</td>
+    <td class="tg-mzni">'B' Girls' Division
+			<br>
+			<span style="font-weight:normal;color:#58595B">- 4th position in the West Zone National School Games
+				<br>- Top 16 in Nationals.</span>
+			</td>
+  </tr> 
+	<tr>
     <td class="tg-a6j4">2022</td>
     <td class="tg-mzni">'B' Boys' Division
 			<br>
