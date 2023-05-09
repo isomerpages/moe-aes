@@ -67,59 +67,12 @@ Our teams have done consistently well to finish among the top 8 positions in the
     <td class="tg-a6j4">2015</td>
     <td class="tg-mzni">'B' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to West Zone National School Games(WZ NSG) 2nd round.</span><br><br>'B' Girls' Division<br><span style="font-weight:normal;color:#58595B">- Participated in the West Zone National School Games</span><br><br>'C' Boys' Division<br><span style="font-weight:normal;color:#58595B">- Advanced to second round in the West Zone National School Games</span></td>
   </tr>
- 
 </tbody>
 </table>
 
+-------------------------------
+# National Representation
+* **Amirul Miran** represented AES in the Singapore Schools ASEAN School Games (ASG) in 2018
+* **Peter Paul Obatay** played for the Singapore Under-18 basketball team at the ASG held in Indonesia in 2019. 
 
-2019 is the year when AES Basketball welcomed our first DSA student, Raphael, a secondary one student who was part of our team that managed to proceed to the 2nd Round of the West Zone Championship of the National School Games. Our ‘C’ boys narrowly missed out on the National Championship. They held traditional powerhouse Jurong Secondary School to a draw at full time but was not able to overcome the stronger opponent in extra time. Earlier in Term 1, our ‘B’ boys also played Jurong Secondary in the second round and triumphed over the opponent.
-
-  
-
-For both our ‘B’ and ‘C’ girls, they participated in their West Zone Championship that saw them gain valuable experience in the process.
-
-  
-
-During the June holidays, the ‘C’ boys and girls participated in an external basketball tournament, T-net, where both teams came in 3rd Runner-up and won bronze medals in their respective level of competition.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Amirul%20and%20Peter.jpeg" alt="Basketball" style="width:80%;">  
-  
-
-
-A special mention this year is that we have once again produced a National athlete! Following Amirul Miran who represented Assumption in the Singapore Schools ASEAN School Games (ASG) in 2018, this year, our ‘B’ boys Captain Mentor, Peter Paul Obatay, was selected by Singapore Schools and played for the Singapore Under-18 basketball team at the ASG held at Indonesia in July this year. To put things into perspective, only 12 basketballers in this age group were selected nation-wide. We are very proud of Peter and Amirul.
-
-  
-
-As we embark on the 2nd year of the DSA journey and from many more DSA trials, we are hopeful that more of them would join our AES Basketball family in 2020.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Jurong%20Win.png" alt="Basketball" style="width:80%;">  
-  
-
-
-This year also see Assumption Basketball organised our inaugural AES 5-a-side Basketball Challenge for the neighbouring primary schools in late May. This was with a view to introduce our school to the primary school pupils and to attract potential DSA applicants.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/DSA%20Cup.png" alt="Basketball" style="width:80%;">  
-  
-
-<br>
+To put things into perspective, only 12 basketballers in this age group were selected nation-wide. We are very proud of Peter and Amirul.
