@@ -62,7 +62,7 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
 	<br><br>
 	<b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">SA Judo Academy Age Group Judo Championship 2023</span></b><br><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 2 Gold, 2 Silver, 4 Bronze<br></span>
+  color:#58595B">- 2 Gold, 2 Silver, 4 Bronze<br><br></span>
 	</p></td></tr><tr style="mso-yfti-irow:1"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
   none;border-bottom:solid #D9D9D9 1.0pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;border-right:solid #D9D9D9 1.0pt;mso-border-right-themecolor:
@@ -89,10 +89,10 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
   normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">Singapore Schools Sports Council<br>- 3 Colours Awards, 2 Sportsmanship Awards<br><br>NATIONAL SCHOOL GAMES<br>- 'B' Boys' Division: TEAM SECOND</span></b>; 2 Golds, 1 Silver, 4 in Top 8 positions<span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;
   mso-bidi-font-family:Arial;color:#58595B"><br></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- ‘<b>B’ Girls' Division: TEAM THIRD</b>; Team Third; 1 Silver, 1 Bronze<br>- <b>'C' Boys' Division:</b> 1 Silver, 2 in Top 8 positions<br>- <b>C’ Girls' Division: TEAM FOURTH</b>; 2 Silvers
+  color:#58595B">- ‘<b>B’ Girls' Division: TEAM THIRD</b>; Team Third; 1 Silver, 1 Bronze<br>- <b>'C' Boys' Division:</b> 1 Silver, 2 in Top 8 positions<br>- <b>'C’ Girls' Division: TEAM FOURTH</b>; 2 Silvers
 		<br><br>
 		<b>SJF Kyu Grade Judo Championships 2022</b><br>
-		- 1 Gold, 2 Silver, 8 Bronze</span></p></td></tr>
+		- 1 Gold, 2 Silver, 8 Bronze<br><br></span></p></td></tr>
 	<tr style="mso-yfti-irow:2"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
   none;border-bottom:solid #D9D9D9 1.0pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;border-right:solid #D9D9D9 1.0pt;mso-border-right-themecolor:
@@ -121,13 +121,10 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
   color:#58595B"><br><br></span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">The Dojo Champs</span></b><b><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;color:#58595B"><br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 1 Gold, 3 Silver, 2 Bronze<b></b></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">SA Judo Academy Kyu Grade Judo Championship 2020</span></b><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;
-  color:#58595B"><br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 1 Silver, 1 Bronze, 1 in 5th position</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
+  color:#58595B">- 1 Gold, 3 Silver, 2 Bronze<br><br>
+		<b>SA Judo Academy Kyu Grade Judo Championship 2020</b><br>
+		- 1 Silver, 1 Bronze, 1 in 5th position<br><br></span></p></td></tr>
+	<tr style="mso-yfti-irow:3"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
   none;border-bottom:solid #D9D9D9 1.0pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;border-right:solid #D9D9D9 1.0pt;mso-border-right-themecolor:
   background1;mso-border-right-themeshade:217;mso-border-top-alt:solid #D9D9D9 .5pt;
@@ -150,22 +147,17 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
   mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;padding:0cm 5.4pt 0cm 5.4pt"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:
   0cm;text-align:justify;text-justify:inter-ideograph"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:DengXian;
-  mso-fareast-theme-font:minor-fareast;color:#58595B">Singapore Schools Sports Council</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:
-  0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:DengXian;mso-fareast-theme-font:
-  minor-fareast;color:#58595B">- 4 Sportsmanship Awards</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  mso-fareast-theme-font:minor-fareast;color:#58595B">Singapore Schools Sports Council<br>- 4 Sportsmanship Awards
+		<span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#58595B">&nbsp;</span></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">NATIONAL SCHOOL GAMES</span></b><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;color:#58595B"><br></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">- <b>'B' Boys' Division: </b>2 in Top 8 positions</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;
   color:#58595B"><br></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- ‘<b>B’ Girls' Division: </b>2 in Top 4 positions</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- <b>'C' Boys' Division: </b>3 in Top 8 positions</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;
-  color:#58595B"><br></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- ‘<b>C’ Girls' Division: TEAM THIRD</b>; 1 Silver, 3 Bronze, 1 in Top 8 position</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;
+  color:#58595B">
+		- ‘<b>B’ Girls' Division: </b>2 in Top 4 positions<br>- <b>'C' Boys' Division: </b>3 in Top 8 positions<br>
+		- ‘<b>C’ Girls' Division: TEAM THIRD</b>; 1 Silver, 3 Bronze, 1 in Top 8 position</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;
   mso-bidi-font-family:Arial;color:#58595B"><br style="mso-special-character:
   line-break"><br style="mso-special-character:line-break"></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B"></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
