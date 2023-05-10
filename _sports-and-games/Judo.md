@@ -159,23 +159,16 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
 		- ‘<b>B’ Girls' Division: </b>2 in Top 4 positions<br>- <b>'C' Boys' Division: </b>3 in Top 8 positions<br>
 		- ‘<b>C’ Girls' Division: TEAM THIRD</b>; 1 Silver, 3 Bronze, 1 in Top 8 position</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;
   mso-bidi-font-family:Arial;color:#58595B"><br style="mso-special-character:
-  line-break"><br style="mso-special-character:line-break"></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B"></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">SJF Junior and Cadet Championship 2019</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 2 Gold, 1 Silver, 2 Bronze</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:
-  Arial;color:#58595B"><br></span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  line-break">
+		<br><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#58595B">SJF Junior and Cadet Championship 2019</span></b>
+		<br>- 2 Gold, 1 Silver, 2 Bronze</span>
+		<br><br><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#58595B">SA Judo Academy Kyu Grade Judo Championship 2019 (Jan)</span></b><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;
   color:#58595B"><br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 1 Gold, 1 Bronze</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">SA Judo Academy Kyu Grade Judo Championship 2019 (Nov)</span></b><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;
-  color:#58595B"><br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 2 Gold, 1 Silver, 1 Bronze</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
+  color:#58595B">- 1 Gold, 1 Bronze<br><br>
+		<b>SA Judo Academy Kyu Grade Judo Championship 2019 (Nov)</b><br>- 2 Gold, 1 Silver, 1 Bronze<br><br></span></p></td></tr>
+	<tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="84" valign="top" style="width:70.65pt;border-top:none;border-left:
   none;border-bottom:solid #D9D9D9 1.0pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;border-right:solid #D9D9D9 1.0pt;mso-border-right-themecolor:
   background1;mso-border-right-themeshade:217;mso-border-top-alt:solid #D9D9D9 .5pt;
