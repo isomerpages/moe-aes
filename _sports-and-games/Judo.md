@@ -184,26 +184,10 @@ The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and
   217;mso-border-left-alt:solid #D9D9D9 .5pt;mso-border-left-themecolor:background1;
   mso-border-left-themeshade:217;padding:0cm 5.4pt 0cm 5.4pt"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:
   0cm;text-align:justify;text-justify:inter-ideograph;mso-yfti-cnfc:64"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:DengXian;
-  mso-fareast-theme-font:minor-fareast;color:#58595B">Singapore Schools Sports Council</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:
-  0cm;text-align:justify;text-justify:inter-ideograph;mso-yfti-cnfc:64"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:DengXian;
-  mso-fareast-theme-font:minor-fareast;color:#58595B">- 3 Colours Awards, w Sportsmanship Awards</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">&nbsp;</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">NATIONAL SCHOOL GAMES</span></b><span style="font-size:12.0pt;
-  font-family:&quot;Lato&quot;,serif;mso-bidi-font-family:Arial;color:#58595B"><br></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- ‘<b>C’ Girls' Division: TEAM FOURTH</b>; 1 Bronze</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">Newaza Championship 2018</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 1 Silver</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,serif;
-  mso-bidi-font-family:Arial;color:#58595B"><br></span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">SJF Junior and Cadet Championship 2018</span></b></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:64"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#58595B">- 1 Silver</span></p></td></tr></tbody></table>
--------------------------------
+		mso-fareast-theme-font:minor-fareast;color:#58595B">Singapore Schools Sports Council</span></b><br>- 3 Colours Awards, w Sportsmanship Awards<br><br><b>NATIONAL SCHOOL GAMES</b><br>- <b>'C’ Girls' Division: TEAM FOURTH</b>; 1 Bronze<br><br>
+		<b>Newaza Championship 2018</b><br>- 1 Silver<br><br>
+		<b>SJF Junior and Cadet Championship 2018</b><br>
+		- 1 Silver</p></td></tr></tbody></table>
+----------------------------------------------------------------------------------------------------------------
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7uAbcwbwk2TzYZUVFYJ43Znznqf8n1NiR5bCBXFUBOp6oB2_2fJN4-IRq7esbCGzTFfJjnw92YbgO/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
