@@ -5,6 +5,9 @@ description: ""
 ---
 2023
 ----
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showCalendars=1&amp;src=Y18zYTMxYWU5N2Q0NDk5NjdkOTJhNWNlNzk2ODZkMTEyYjIwMGE2OGNlNDcyMWZiOGE1MTZhYzkzYzUwMTA5MjhkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y18xNzFiMzU3MTFlYjMwNzY0MzkwNmVmM2FjM2Y1ZTEyOGUwYjc2MjA3ZGZkNmZhMjNjMTc3ZGY2ZWZhNGYzMTRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23EF6C00&amp;color=%237CB342"></iframe>
+
+<p></p>
 
 Dear students, please click the link below to access the following:  
 
@@ -31,7 +34,7 @@ Dear students, please click the link below to access the following:
 *   [2023 Sec 3NA 3NT WA 1 Schedule](/files/2023%20Sec%203NA%20%203NT%20WA%201%20Schedule.pdf)
 
 
-**3\. Milestone Assessment 1 (MA1) for Secondary 4 & 5**
+**3\. Milestone Assessment 1 (MA1) for Secondary 4 &amp; 5**
 
 **Letter to parents**
 
@@ -62,11 +65,11 @@ Dear students, please click the link below to access the following:
  * [2023 Sec 1 WA 2 Schedule](/files/2023%20Sec%201%20WA%202%20Schedule.pdf)
  * [2023 Sec 2 WA 2 Schedule](/files/2023%20Sec%202%20WA%202%20Schedule.pdf)
  * [2023 Sec 3E WA 2 Schedule (revised)](/files/2023%20Sec%203E%20WA%202%20Schedule%20(revised).pdf)
- * [2023 Sec 3NA & 3NT WA 2 Schedule (revised)](/files/2023%20Sec%203NA%20&%203NT%20WA%202%20Schedule%20(revised).pdf)
+ * [2023 Sec 3NA &amp; 3NT WA 2 Schedule (revised)](/files/2023%20Sec%203NA%20&amp;%203NT%20WA%202%20Schedule%20(revised).pdf)
 
 
 
-**4\. Milestone Assessment 2 (MA2) for Secondary 4 & 5**
+**4\. Milestone Assessment 2 (MA2) for Secondary 4 &amp; 5**
 
 **Letter to parents**
 
@@ -85,8 +88,6 @@ Dear students, please click the link below to access the following:
 * [2023 4NT Milestone Assessment 2 Topics to be assessed](/files/2023%204nt%20milestone%20assessment%202%20topics%20to%20be%20assessed.pdf)
 
 
-**5\. O Preliminary Examination for Secondary 4 & 5**
+**5\. O Preliminary Examination for Secondary 4 &amp; 5**
 
 * [2023 MTL O Preliminary Examination Letter to Parents](https://drive.google.com/file/d/1VJBbJGAT-lBB5t_LU7bn0o9m-77b7bx_/view?usp=sharing)
-
-

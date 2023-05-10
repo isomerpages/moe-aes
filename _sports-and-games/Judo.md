@@ -5,41 +5,43 @@ description: ""
 ---
 <p style="text-align:center;"><strong>“Still your Mind, Crush a Mountain”</strong></p>
 
-That is the motto for AES Judo Team. We are 50-member strong team, facilitated by 4 teachers-in-charge and mentored by Singapore Judo Federation (SJF) recognised coach, Mohamad, Faizal, Holder of First Dan (shodan (初段)).
-
+The AES Judo programme aims to instil in our Judokas the values of self-discipline and respect for others, as well as to develop mental and physical resilience, faster reflexes, better body coordination and concentration.&nbsp;<br><br>
+AES Judokas train 2-3 times weekly, with Singapore Judo Federation (SJF) belt/kyu grading certification completed four times each year. Each CCA training is focused on physical conditioning, learning new Judo moves and practising safe break fall techniques, so that we may become more proficient in the sport in a safe manner.&nbsp;<br><br>
+The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and Education), and he is supported by assistant coach, Gu Jiayao, and 3 teachers-in-charge.
+<br><br>
+### CCA Achievements:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td class="tg-a6j4">2023</td>
+    <td class="tg-mzni">**National School Games**
+			<br>
+			- 'B' Boys' Division: **Team Third**; 1 Gold, 3 in Top 8 positions <br>
+			- ‘B’ Girls' Division: **Team Second**; 5 Silver, 5 in Top 8 positions<br>
+			- SA Judo Academy Age Group Judo Championship: 2 Gold, 2 Silver, 4 Bronze <br>
+			- SJF Kyu Grade Judo Championships 2023: 3 Gold, 3 Silver, 7 Bronze
+			</td>
   
+  </tr>
+</tbody>
+</table>
 
-AES Judokas train 2-3 times weekly, with grading certification conducted by the SJF completed four times each year. Each CCA training is focused on physical conditioning, training of the throw and break fall techniques, so that we may be more proficient in our sport in a safe manner.
-
-  
-
-Judo originated from Japan, and is now known around the world as an Olympic sport. It combines Jujitsu, a form of wrestling, with mental discipline. As a form of martial art, Judo can instill a sense of self-discipline and respect for others. As a sport, it develops faster reflexes, better body coordination and concentration.
-
-###   Teachers/Coaches
-
-Mrs Raine Yam-Seah (Teacher in-charge) <br>
-Ms Nadhirah <br>
-Miss Siti Mardia <br>
-Miss Tan Xin Yi
-
-###   Student Leaders/Captains
-
-Looi Ming Yi (‘C’ Division – Boys) <br>
-Cheong Shung Gar, Crystal (‘C’ Division – Girls) <br>
-Ong Cai Fu Alex (‘B’ Division – Boys) <br>
-Nur Izdihar Binte Zaini (‘B’ Division – Girls)
-
-###   Achievements
-
-  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 500px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"></p><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">National School Games 2019</u></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><u style="margin: 0px; outline: 0px; padding: 0px;">‘B’ Division</u></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Nur Izdihar Binte Zaini (3/1), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Angel Wong Xue Ting (3/2), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ong Cai Fu Alex (3/1), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">James Wong Yu Heng (4/4), Top 8</span></li></ul></div><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"></p><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">‘C’ Divison</u></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">Team Third, ‘C’ Girls Team Event</u></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Bose Navneeta (1/2), Silver</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Chiara Geraldine Lee (2/4), Bronze</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Crystal Cheong (2/1), Bronze</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Isabel Tanit Tay (1/5), Bronze</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Choi Zhou Rui, Jolin (1/1), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Lee Yan Ze, Ursus (1/2), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Looi Ming Yi (2/2), Top 8</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Fan Chen Xi (2/1), Top 8</span></li></ul></div><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal;"></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">SA Judo Academy Kyu Grade Judo Championship 2019</u></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Crystal Cheong (2/1), Gold</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ong Cai Fu Alex (3/1), Bronze</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">James Wong Yu Heng (4/4), Bronze</span></li></ul></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;">SJF Junior and Cadet Championship</u></b></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(88, 89, 91); font-family: Lato, sans-serif; font-size: 16px; font-weight: normal; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Crystal Cheong (2/1), Gold</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Radhiah Binte Abdul Razak (3/1), Gold</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Nur Izdihar Binte Zaini (3/1), Silver</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ong Cai Fu Alex (3/1), Bronze</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">James Wong Yu Heng (4/4), Bronze</span></li></ul></div></td></tr></tbody></table>
-
-  
-In addition, our Judokas have achieved recognition through 4 Sportsmanship Awards issued by the Singapore Schools Sports Council (2019).
-
-<br>
+-------------------------------
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7uAbcwbwk2TzYZUVFYJ43Znznqf8n1NiR5bCBXFUBOp6oB2_2fJN4-IRq7esbCGzTFfJjnw92YbgO/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-***2 videos to embedded here!***
