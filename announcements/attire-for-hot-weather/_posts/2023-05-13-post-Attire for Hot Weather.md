@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear students,
+Dear students & parents,
 
 In view of the recent warm weather, students may be in half uniform for the rest of the term till **26 May 2023**.
 
