@@ -19,17 +19,19 @@ Assumption English School (AES) will admit our 5th batch of DSA students in 2023
 
 Men and Women of Character and Learning, in the Service of God and Community.
 
-<h4><u>Judo (Boys &amp; Girls)</u></h4>
+<h4><u>[Judo (for Boys and Girls)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/judo/)</u></h4>
 
+AES has put in place a good training and developmental programme to develop the physical skills as well as character of our Judokas (Boys &amp; Girls). Over the past years, we have nurtured and developed many outstanding Judokas who have represented our Singapore Schools Team as well as Team Singapore at the youth and national levels.
 
-AES has put in place a good training and developmental programme to develop the physical skills as well as character of our Judokas (Boys &amp; Girls). Over the past years, we have nurtured and developed many outstanding Judokas who have represented our Singapore Schools Team as well as Team Singapore at the youth and national levels.&nbsp;Our B Boys and B Girls emerged 2nd and 3rd in the B Division Team Event respectively at the National School Games Judo Championships 2022. Our Judokas also won 2 Gold, 2 Silver and 1 Bronze individual medals at this year Judo Championships 2022.  
+Our 'B' Boys' and 'B' Girls' Dvisions have emerged Top 3 positions in the National School Games Judo Championships in 2022 and 2023. Our Judokas have also performed consistently well in other affiliated competitions organised by the Singapore Judo Federation.
   
-<h4><u>Basketball (Boys &amp; Girls)</u></h4>
+<h4><u>[Basketball (for Boys and Girls)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/)</u></h4>
 
+The AES Basketball (Boys &amp; Girls) team has consistently performed well at the Zonal and National School Games competitions. Our Basketballers are committed and disciplined in their sport while the school provides a conducive training environment for them to hone and develop their skills and achieve excellence in character building. 
 
-The AES Basketball (Boys &amp; Girls) team has consistently performed well at the Zonal and National School Games competitions. Our Basketballers are committed and disciplined in their sport while the school provides a conducive training environment for them to hone and develop their skills and achieve excellence in character building. Our B Boys Basketball team finished 2nd position at the West Zone Schools Sports Council (WZSSC) Basketball Championships 2022 held at the Jurong East Sports Centre on 29 April 2022 (Fri).  
+Our 'B' Boys' Basketball team finished 2nd position at the West Zone Schools Sports Council (WZSSC) Basketball Championships 2022 held at the Jurong East Sports Centre on 29 April 2022 (Fri).  
   
-<h4><u>Football (Boys)</u></h4>
+<h4><u>[Football (for Boys only)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/)</u></h4>
 
 AES is endorsed as a School Football Academy (SFA) which is part of the Unleash The Roar! (UTR!) national project which aims to unite Singaporeans through football and create more opportunities for young Singaporeans to develop their talents.&nbsp;
 
