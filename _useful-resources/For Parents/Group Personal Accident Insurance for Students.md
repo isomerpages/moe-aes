@@ -4,7 +4,7 @@ permalink: /useful-resources/for-parents/group-personal-accident-insurance-for-s
 description: ""
 third_nav_title: For Parents
 ---
-Dear parents,  
+Dear Parents,  
   
 This is a Group Personal Accident (GPA) Insurance which covers death, permanent and total/partial disability and medical expenses due to an accident.&nbsp;  
   
