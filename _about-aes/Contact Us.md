@@ -13,8 +13,8 @@ Singapore 678117
 
 **School Operating Time:** <br>
 6:30 a.m. to 6:30 p.m. <br>
-(Monday to Friday)
-
+(Monday to Friday) <br>
+Please note that the school operating hours for the period 5 Jun to 19 Jun 2023 will be from 0730 to 1730 hrs
   
 
 **Bus Services:** <br>
