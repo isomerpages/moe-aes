@@ -1,6 +1,6 @@
 ---
 title: AES 2023 Timetables and Examination Schedules
-date: 2023-04-04
+date: 2023-06-25
 layout: link
 description: ""
 image: ""
