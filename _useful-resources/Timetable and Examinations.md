@@ -11,7 +11,7 @@ description: ""
 
 Dear students, please click the link below to access the following:  
 
-1.  **Timetable for Semester 1**
+**1\. Timetable for Semester 1**
 
 [AES 2023 Semester 1 Timetable\_Classes\_17 March 2023.pdf](/files/AES%202023%20Semester%201%20Timetable_Classes_17%20March%202023.pdf)
     
@@ -91,3 +91,7 @@ Dear students, please click the link below to access the following:
 **5\. O Preliminary Examination for Secondary 4 &amp; 5**
 
 * [2023 MTL O Preliminary Examination Letter to Parents](https://drive.google.com/file/d/1VJBbJGAT-lBB5t_LU7bn0o9m-77b7bx_/view?usp=sharing)
+
+**6\. Timetable for Semester 2**
+
+* [AES 2023 Semester 2 Timetable_Classes_25 June 2023.pdf](/files/aes%202023%20semester%202%20timetable_classes_25%20june%202023.pdf)
