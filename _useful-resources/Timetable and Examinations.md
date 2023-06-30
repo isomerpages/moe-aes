@@ -95,3 +95,14 @@ Dear students, please click the link below to access the following:
 **6\. Timetable for Semester 2**
 
 * [AES 2023 Semester 2 Timetable_Classes_25 June 2023.pdf](/files/aes%202023%20semester%202%20timetable_classes_25%20june%202023.pdf)
+
+**7\. N Preliminary Examination for 4NA &amp; 4NT**
+
+**Letter to parents**
+* [4NA_2023 N Prelim Letter to Parents](/files/4na_2023%20n%20prelim%20letter%20to%20parents.pdf)
+* [4NT_2023 N Prelim Letter to Parents](/files/4nt_2023%20n%20prelim%20letter%20to%20parents.pdf)
+
+
+**Topics to be assessed**
+* [4NA_2023 N Prelim Topics to be Assessed](/files/4na_2023%20n%20prelim%20topics%20to%20be%20assessed.pdf)
+* [4NT_2023 N Prelim Topics to be Assessed](/files/4nt_2023%20n%20prelim%20topics%20to%20be%20assessed.pdf)
