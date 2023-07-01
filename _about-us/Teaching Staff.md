@@ -33,8 +33,11 @@ description: ""
 | Level 2    | Level Academic Supervisor   | Ms Yin Na   |
 | Level 2   |Student Management Teacher   | Miss Siti Nur Nabilah |
 | 2 Vincent     |Form Teacher    | Ms Rossellini Tan Yeling   |
+| 2 Vincent     |Form Teacher    | Mr Paventhren S/O Kanagarethinan   |
 | 2 Adolphus     | Form Teacher    | Mr Leet Tagore     |
+| 2 Adolphus     | Form Teacher    | Mr Jared Tan Hong Jie     |
 | 2 Raymond | Form Teacher     |Miss Siti Mardia |
+| 2 Raymond | Form Teacher     |Mr Ten Cherk Ping |
 | &nbsp;2 Emmanuel     | Form Teacher     | Ms Meera Devi  |
 |&nbsp;2 Emmanuel  | Form Teacher     | Miss Ng Wen Xin |
 | 2 Noel     | Form Teacher     | Ms Valerie Chan    |
@@ -53,12 +56,13 @@ description: ""
 | Upper Sec| Year Head     | Ms Tan Wee Lin   |
 | Level 3   | Level Academic Supervisor    | &nbsp;Mrs Diana Norman|
 | Level 3  | &nbsp;Student Management Teacher     | Ms Feline Tong|
-| 3/1  |Form Teacher  | Ms Kong Yean Ha   |
-| 3/2   | Form Teacher  | Miss Valerie Co |
-| 3/3  | Form Teacher    | Mr Tan Kwang Chee   |
-| 3/4   | Form Teacher  | Mr Alvin Lee     |
-| 3/5   | Form Teacher  | Mr Muhammad Hasanul Arifin   |
-| 3/6  | Form Teacher  | Ms Wang Lee Keow   |
+| 3/1  |Form Teacher  | Ms Lim Zi Xin   |
+| 3/2   | Form Teacher  | Miss Denise Lee |
+| 3/3  | Form Teacher    | Ms Lilian Li   |
+| 3/3  | Form Teacher    | Ms Monisha Kaur  |
+| 3/4   | Form Teacher  | Mr Joshua Yeo  |
+| 3/5   | Form Teacher  | Mr Aravind   |
+| 3/6  | Form Teacher  | Mr Jacob Woo   |
 | Level 4    | Level Academic Supervisor   | Miss Lee Wenting|
 | Level 4   |Student Management Teacher   | Mr Sadik |
 | 4/1    |Form Teacher    | Mr Lim Ding Han  |
