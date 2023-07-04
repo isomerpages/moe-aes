@@ -21,12 +21,14 @@ AES will be embarking on Blended Learning every fortnight.
 **Please see the confirmed Blended Learning dates for 2023:**  
 
 Term 1:
-
 <img style="width:80%" src="/images/Blended%20Learning%20dates%20for%20Term%201%202023.png">
   
 Term 2:
-
 <img style="width:80%" src="/images/BL%20Term%202.png">
+
+Term 3:
+![](/images/term%203%20blended%20learning.JPG)
+
 	
 **On the days for Blended Learning,**  
 • students are not required to report to school  
@@ -41,9 +43,10 @@ Students will report to school for lessons on the following school day.
 Students will embark on Students Initiated Learning (SIL) on Blended Learning days. Students have a choice in what they would like to learn within the curated semestral themes. Students will document and share their learning on their students’ e-portfolio Google site, which will be useful to showcase their learning and achievement to potential employers or interviewers when applying for higher education institutions.  
   
 **These are the curated themes for Semester 1:**  
-
 <img style="width:80%" src="/images/SIL%20themes.png">
 
+**These are the curated themes for Semester 2:**  
+![](/images/sil%20theme%20for%20semester%202.JPG)
 
   
 **The important links are as follows:**  
