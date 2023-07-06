@@ -27,4 +27,3 @@ third_nav_title: School Management Committee
 | 9    | TEO POH KHENG ALVIN   | MEMBER    |
 | 10    |ANG THIAM HUAT ARTHUR   | MEMBER     |
 | 11     | ROLAND YEOW    | EX-OFFICIO MEMBER   |
-
