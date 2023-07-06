@@ -29,7 +29,7 @@ description: ""
 | 1 Noel  | Form Teacher     | Mr Ong Kong Sing  |
 | 1 George     | Form Teacher   | Ms Nadhirah Zainuddin   |
 | 1 George     | Form Teacher    | &nbsp;Mr Derek Hum   |
-| Level 2   | Assistant Level Head| Ms Sheryl Kaur     |
+| Level 2   | Assistant Year Head| Ms Sheryl Kaur     |
 | Level 2    | Level Academic Supervisor   | Ms Yin Na   |
 | Level 2   |Student Management Teacher   | Miss Siti Nur Nabilah |
 | 2 Vincent     |Form Teacher    | Ms Rossellini Tan Yeling   |
