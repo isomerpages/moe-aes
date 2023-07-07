@@ -1,6 +1,6 @@
 ---
 title: Edusave Character Award 2023
-permalink: /departments/character-n-citizenship-education-cce/edusave-character-award-2022/
+permalink: /departments/character-n-citizenship-education-cce/edusave-character-award-2023/
 description: ""
 third_nav_title: CCE
 ---
