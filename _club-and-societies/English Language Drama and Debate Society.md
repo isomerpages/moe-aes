@@ -26,6 +26,12 @@ The ELDDS puts a lot of heart and soul into their work. It is through the perfor
 **ELDDS**  **_Litera . Cultura . Mores_**
 
 
+### Teachers
+Ms Atikah Saad<br>
+Miss Lee Wenting<br>
+Mr Derek Hum<br>
+Ms Nataile Han<br>
+
   
 
 ### Achievements

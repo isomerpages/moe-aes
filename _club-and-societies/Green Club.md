@@ -3,9 +3,6 @@ title: Green Club
 permalink: /student-development/ccas/club-n-societies/green-club/
 description: ""
 ---
-
-
-
 ### Mission:
 
 Empower members with knowledge and skills relating to the environmental issues facing our world.
@@ -41,3 +38,7 @@ We hope to continue championing recycled arts in the school by setting up art an
   
 
 Indeed, every year is a busy and eventful year for the members and we always look forward to more opportunities to learn about our world and spread our love for the environment to the others.
+
+### Teachers
+Mrs Ong Hsia Li<br>
+Ms Nadhirah Zainuddin<br>
