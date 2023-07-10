@@ -22,43 +22,5 @@ In AESDE, we work as a team and rely on each other’s strengths and pull each o
 
   
 
-### Teachers
-
-Ms Meera<br>
-Ms Shereen Ling<br>
-Ms Tham Jian Yun
-
-  
-
-### Coaches
-
-**STEP Studio** <br>
-Ms Stephanie Loh <br>
-Mr Deo Amarawi
-
-  
-
-### AESDE Executive Committee
-
-**President:** <br>
-Jilleana Sophea
-
-**Admin VP:** <br>
-Kezia Jungle
-
-  
-
-**Discipline VP:** <br>
-Cinta Melissa  
-
-  
-
-**Logistics VP:** <br>
-Teo He Ping  
-
-  
-
-**Welfare VP:** <br>
-Yap Shervon
-
+ 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRY3WHEI6EQh6THns1IUVTHGbxXNvVqNl5Inxnscm8bMAUs3T6ovkNZZFYQJTrkvjjT173DVYfDxEG6/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
