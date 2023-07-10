@@ -19,24 +19,6 @@ Come and join the AES Rangers to experience and learn about the sport!
 
   
 
-### Teacher IC:
-
-Ms Fasihah (OIC)  <br>
-Mr Joshua Yeo (2IC) <br>
-Miss Naomi Lizaso
-
-###   Student Leaders/Captains
-
-  
-
-**Captain:** <br>
-Nur Afiqah Umairah Binte Mazromi 3/3
-
-  
-
-**Vice-Captain:** <br>
-Li Ke Xuan, Shayne 3/1
-
 ###   Achievements:
 
   
