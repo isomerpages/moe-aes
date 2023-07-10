@@ -26,7 +26,10 @@ Be Prepared
 AES Girl Guides 1st COY is part of the international Girl Guiding and Girl Scouting Movement, governed by The World Association of Girl Guides and Girl Scouts (WAGGGS). As Guides, we live by our motto, “Be Prepared”, meaning that as Guides, we will be ready to cope with anything that comes our way.
 
 
-
+### Teachers
+Mrs Diana Norman<br>
+Miss Siti Nur Nabilah<br>
+Ms Rossellini Tan Yeling<br>
   
 
 ### Achievements
