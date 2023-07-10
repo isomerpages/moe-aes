@@ -25,22 +25,6 @@ The ELDDS puts a lot of heart and soul into their work. It is through the perfor
 
 **ELDDS**  **_Litera . Cultura . Mores_**
 
-###   Teachers/Coaches
-
-**OIC:**&nbsp;Ms Atikah Sa’ad <br>
-**Debate IC:**&nbsp;Ms Priya Christie <br>
-**Drama IC:**&nbsp;Ms Naomi Lizaso
-
-  
-
-**Debate Coach:**&nbsp;Ms Nabilah Bahrim <br>
-**Drama Coach:**&nbsp;Ms Masturah Oli
-
-###   Student Leaders/Captains
-
-**President:**&nbsp;Lucas Ng <br>
-**Vice-President (Drama):**&nbsp;Vallery Gan <br>
-**Vice-President (Debate):**&nbsp;Ling Jia Jia
 
   
 
