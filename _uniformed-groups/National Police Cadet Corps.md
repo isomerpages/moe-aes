@@ -51,6 +51,10 @@ As part of the mission to develop responsible and civic-minded individuals, cade
   
 
   
+### Teachers
+Ms Yew Gui Mei<br>
+Miss Charmaine Tay<br>
+Ms Wang Lee Keow<br>
 
  
   
