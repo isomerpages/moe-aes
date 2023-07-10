@@ -11,6 +11,12 @@ The Assumption English School Choir comprises a group of enthusiastic Assumption
 
 The choir is in the midst of transformation from a show choir to a choir more focused on developing the vocal technique of its members to better perform both traditional choral pieces and pop songs. It hopes to build on its successes by continuing to give its members opportunities to grow and shine and doing the school proud in its competitions and concerts.
 
+### Teachers
+Ms Camille Koh<br>
+Miss Suann Sim<br>
+Ms Fasihah Rahmat<br>
+
+
 
 ###   Achievements
 
