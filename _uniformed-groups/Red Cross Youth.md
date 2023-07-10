@@ -20,20 +20,14 @@ These things we do as a matter of course, as a matter of service, but the true e
   
 
 We aspire to live up to our Red Cross Youth motto, “Humanity in our hands”.
-
-###   Teachers/Coaches
-
-Mr Alvin Yap Kian Guan <br>
-Mr Lim Ding Han <br>
-Mdm Sumiate Hassan <br>
-Mdm Zhang Lu
-
-###   Student Leaders/Captain
-
-Staff Sergeant Chan Weng Huen <br>
-Sergeant Vera Lu Xuan
-
   
+	
+	
+### Teachers
+Mr Lim Ding Han<br>
+Mr Aravind<br>
+Mdm Sumiate Hassan<br>
+
 
 ### Achievement
 

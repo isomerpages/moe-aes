@@ -11,25 +11,12 @@ The Assumption English School Choir comprises a group of enthusiastic Assumption
 
 The choir is in the midst of transformation from a show choir to a choir more focused on developing the vocal technique of its members to better perform both traditional choral pieces and pop songs. It hopes to build on its successes by continuing to give its members opportunities to grow and shine and doing the school proud in its competitions and concerts.
 
-###   Teachers/Coaches
+### Teachers
+Ms Camille Koh<br>
+Miss Suann Sim<br>
+Ms Fasihah Rahmat<br>
 
-**Teachers:** <br>
-Ms Camille Koh <br>
-Ms Wong Yuen Yi <br>
-Mrs Yeong Suk Mun <br>
-Mr Joshua Yeo
 
-  
-
-**Coaches:** <br>
-Ms Jessica Irawan
-
-###   Student Leaders/Captain
-
-**President:**&nbsp;Locke Low Siang Fei <br>
-**Vice President:**&nbsp;Melissa Anne Jagatnath <br>
-**Section Leaders:**&nbsp;Wong Gao Jie Irene, Lisa Loh Jia Hwei, Meg Adrianne Alcano Severino, Kylie Imke Krist, Guevarra Allon Benedict Cruz, Muhammad Aidit Aqmal Bin Hassan <br>
-**Welfare IC:**&nbsp;Anais Lee Cheng Yi
 
 ###   Achievements
 

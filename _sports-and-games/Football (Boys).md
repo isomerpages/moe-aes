@@ -16,25 +16,13 @@ The AES Football team shall continue to strive for excellence and mould the char
 *   To enable students to learn sportsmanship and values of commitment, responsibility and teamwork
   
 
-### CCA Teachers:
-
-* Mr Nor Mohammad (OIC)  
-* Mr Chan Keng Kok (2IC)  
-* Mr Dennis Wang  
-* Mr Leet Tagore  
-* Mr Donald Wan
+### Teachers
+Mr Nor Mohammad Isa<br>
+Mr Chan Keng Kok<br>
+Mr Leet Tagore<br>
+Mr Lee Wung Yew<br>
 
 
-### CCA Coach:
-**Mr Philippe Aw Thiam Hor**
-* Singapore professional football coach
-* Former player for Home United
-* Former youth coach of Home United
-* Former head coach of Hougang United
-* FAS U15 coach
-
-### CCA Captain:
-Alen Thomas
 
 ### Achivements:
 
@@ -68,10 +56,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/APic3.jpeg" style="width:70%;"> <br>
+<img src="/images/APic3.jpeg" style="width:70%;"> <br>
 	<img src="/images/APic4.jpeg" style="width:70%;"> <br>
 	<img src="/images/APic6.jpeg" style="width:70%;"> <br>
 	<img src="/images/APic7.jpeg" style="width:70%;"> <br>
 	<img src="/images/APic8.jpeg" style="width:70%;"> <br>
-  
-</body>

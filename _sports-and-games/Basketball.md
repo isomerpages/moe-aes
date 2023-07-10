@@ -17,6 +17,13 @@ We subscribe to the ethos of **‘Making Every Basket Count’** to inspire our 
 
 Our teams have done consistently well to finish among the top 8 positions in the West Zone National School Games (NSG) among over 40 other secondary schools, as well as at the National level.
 
+### Teachers
+Ms Feline Tong<br>
+Ms Kong Yean Ha<br>
+Mr Lee Wei Meng <br>
+Mr Alvin Lee<br>
+Mr Ong Kong Sing
+
 ### CCA Achievements:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

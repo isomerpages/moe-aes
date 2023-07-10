@@ -21,23 +21,10 @@ AES is one of the pioneers in bringing Floorball into Secondary Schools. AES Flo
 
 To develop floorballers in character, leadership and sportsmanship through holistic programmes.
 
-**Teachers/Coaches:** <br>
-Mr Shajan (Coach) <br>
-Ms Cryst Tan <br>
-Ms Azra&nbsp; <br>
+### Teachers
+Ms Cryst Tan<br>
+Ms Azra Zaheera<br>
 Mr Sadik <br>
-Mr Daniel Chow
-
-  
-
-### Student Leaders/ Captains:
-
-**B Division:**&nbsp;  <br>
-Huan Julian (Captain)&nbsp;  <br>
-Choy Guo Hua James (Vice Captain)&nbsp;<br>
-**C Division:**<br>
-Esquierdo Joshua Guevarra (Captain)&nbsp;<br>
-Lucas Lee Jia Yu (Vice Captain)&nbsp;
 
 ###   Achievements
 
