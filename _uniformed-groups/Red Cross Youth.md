@@ -21,6 +21,13 @@ These things we do as a matter of course, as a matter of service, but the true e
 
 We aspire to live up to our Red Cross Youth motto, “Humanity in our hands”.
   
+	
+	
+### Teachers
+Mr Lim Ding Han<br>
+Mr Aravind<br>
+Mdm Sumiate Hassan<br>
+
 
 ### Achievement
 
