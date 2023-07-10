@@ -10,9 +10,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CCA%20Photo.jpeg" alt="National Police Cadet Corps" style="width:90%;">  
+<img src="/images/CCA%20Photo.jpeg" alt="National Police Cadet Corps" style="width:90%;">  
   
-</body>
+
   
 
 
@@ -52,23 +52,7 @@ As part of the mission to develop responsible and civic-minded individuals, cade
 
   
 
-  
-
-### Teachers/Coaches
-
-MS SWARNAPRABA KARTHIGAIHINI (TIC)  <br>
-MR LIN YUHUI <br>
-MS YEW GUI MEI <br>
-MR TANG KOK BIN <br>
-MS YONG REN CUI
-
-  
-
-### Student Leaders/Captains
-
-SSGT LEE YAO WEI NATHAN <br>
-SSGT RISHI KUMAR S/O SUBRAMANIAM
-
+ 
   
 
 ### Achievement
