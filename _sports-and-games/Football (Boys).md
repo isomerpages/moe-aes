@@ -16,6 +16,11 @@ The AES Football team shall continue to strive for excellence and mould the char
 *   To enable students to learn sportsmanship and values of commitment, responsibility and teamwork
   
 
+### Teachers
+Mr Nor Mohammad Isa<br>
+Mr Chan Keng Kok<br>
+Mr Leet Tagore<br>
+Mr Lee Wung Yew<br>
 
 
 
