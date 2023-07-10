@@ -106,3 +106,11 @@ Dear students, please click the link below to access the following:
 **Topics to be assessed**
 * [4NA_2023 N Prelim Topics to be Assessed](/files/4na_2023%20n%20prelim%20topics%20to%20be%20assessed.pdf)
 * [4NT_2023 N Prelim Topics to be Assessed](/files/4nt_2023%20n%20prelim%20topics%20to%20be%20assessed.pdf)
+
+**8\. O Preliminary Examination for 4E, 5NA &amp; 4NA SBB**
+
+**Letter to parents**
+* [Sec 4 &amp; 5_2023 O Prelim Letter to Parents](/files/sec%204%20&amp;%205_2023%20o%20prelim%20letter%20to%20parents.pdf)
+
+**Topics to be assessed**
+* [Sec 4 &amp; 5_2023 O Prelim Topics to be Assessed](/files/sec%204%20&amp;%205_2023%20o%20prelim%20topics%20to%20be%20assessed.pdf)
