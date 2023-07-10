@@ -21,6 +21,10 @@ AES is one of the pioneers in bringing Floorball into Secondary Schools. AES Flo
 
 To develop floorballers in character, leadership and sportsmanship through holistic programmes.
 
+### Teachers
+Ms Cryst Tan<br>
+Ms Azra Zaheera<br>
+Mr Sadik <br>
 
 ###   Achievements
 
