@@ -11,6 +11,11 @@ AES Dance Ensemble (AESDE) is a team of dynamic individuals brought together by 
 
 In AESDE, we work as a team and rely on each other’s strengths and pull each other up. Our instructors are one of our inspirations. They are firm yet nurturing when it comes to developing us as dancers. Dance is definitely a welcoming and enjoyable CCA, where you will learn perseverance, determination and teamwork. We believe that it is okay to make mistakes, but we must learn from them. We don’t judge; we help. Together, we strive for excellence with the motto: “Don’t just dance, move the world“.
 
+### Teachers
+Ms Meera Devi<br>
+Ms Shereen Ling<br>
+Ms Seet Yoke Chee<br>
+Ms Lilian Li<br>
   
 
 ### Our Pledge
