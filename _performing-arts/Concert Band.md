@@ -9,7 +9,12 @@ description: ""
 
 The AES Concert Band comprises a group of music-loving individuals who form a team that strives to create beautiful music. The Band believes in giving students the opportunity to learn, perform and showcase their music talent. It also allows them to experience a holistic education with special emphasis on the development of their character and leadership qualities.&nbsp;
 
- 
+
+### Teachers
+Ms Valerie Chan<br>
+Mr Foo Kok Jame<br>
+Miss Valerie Co<br>
+Mr Arnold Teo<br>
   
 
 ### Achievements
