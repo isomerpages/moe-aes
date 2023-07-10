@@ -18,6 +18,12 @@ Hence, the team needs to ensure that they are always ready to endure the sacrifi
 Come and join the AES Rangers to experience and learn about the sport!
 
   
+	
+### Teachers
+Mr Joshua Yeo<br>
+Miss Ng Wen Xin<br>
+Miss Huang Meiting<br>
+
 
 ###   Achievements:
 
