@@ -9,6 +9,14 @@ The AES Judo programme aims to instil in our Judokas the values of self-discipli
 AES Judokas train 2-3 times weekly, with Singapore Judo Federation (SJF) belt/kyu grading certification completed four times each year. Each CCA training is focused on physical conditioning, learning new Judo moves and practising safe break fall techniques, so that we may become more proficient in the sport in a safe manner.&nbsp;<br><br>
 The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and Education), and he is supported by assistant coach, Gu Jiayao, and 3 teachers-in-charge.
 <br><br>
+
+### Teachers
+Ms Raine Seah<br>
+Miss Siti Mardia<br>
+Ms Sheryl Kaur<br>
+
+
+
 ### CCA Achievements:
 <table class="MsoTable15Grid3Accent3" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
