@@ -9,30 +9,7 @@ description: ""
 
 The AES Concert Band comprises a group of music-loving individuals who form a team that strives to create beautiful music. The Band believes in giving students the opportunity to learn, perform and showcase their music talent. It also allows them to experience a holistic education with special emphasis on the development of their character and leadership qualities.&nbsp;
 
-  
-
-### Teachers In-charge
-
-Chan Zhi Jia Valerie <br>
-Foo Kok Jame <br>
-Sharon Valerie C Co <br>
-Elise Eng Li Kiang
-
-  
-
-### Instructors
-
-Main Band - Mr Joseph Chong  <br>
-Junior Band - Mr Chia Jun Cheng <br>
-Percussion Specialist - Ms Chua Xin Zhi
-
-  
-
-### Student Leaders
-
-Wynn Loo (3/4) - Drum Major &amp; Clarinet Section Leader <br>
-Zafrie Zakeer Zaini (3/5) - Band Major &amp; Horn Section Leader
-
+ 
   
 
 ### Achievements
