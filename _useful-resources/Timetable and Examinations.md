@@ -93,7 +93,8 @@ Topics to be assessed
 
 **6\. Timetable for Semester 2**
 
-* [AES 2023 Semester 2 Timetable_Classes_25 June 2023.pdf](/files/aes%202023%20semester%202%20timetable_classes_25%20june%202023.pdf)
+* [AES 2023 SEM2_CLASSES (Term 3 Week1-5)](/files/aes%202023%20sem2_classes%20(week1-5).pdf)
+* [AES 2023 SEM2_CLASSES (Term 3 Week6-10)](/files/aes%202023%20sem2_classes%20(week6-10).pdf)
 
 **7\. N Preliminary Examination for 4NA &amp; 4NT**
 
@@ -131,5 +132,3 @@ Letter to parents
  * [2023 Sec 2 WA 3 Schedule](/files/2023%20sec%202%20wa%203%20schedule.pdf)
  * [2023 Sec 3E WA 3 Schedule](/files/2023%20sec%203e%20wa%203%20schedule.pdf)
  * [2023 Sec 3N WA 3 Schedule](/files/2023%20sec%203na%20&amp;%203nt%20wa%203%20schedule.pdf)
-
-
