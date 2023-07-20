@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/sci%dept.jpeg" alt="Science Department 2023" style="width:70%;">  
+<img src="/images/sci%dept.jpeg" alt="Science Department 2023" style="width:90%;">  
  
 
 In Assumption English School, the Science Department aims to achieve the following:  
