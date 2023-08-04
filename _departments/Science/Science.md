@@ -13,14 +13,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/p86b%20SCIENCE.jpg" alt="Science Department 2022" style="width:70%;">  
-  
-</body> 
+<img src="/images/sci%dept.jpeg" alt="Science Department 2023" style="width:90%;">  
+ 
 
 In Assumption English School, the Science Department aims to achieve the following:  
 
 *   To ignite students’ passion in the learning of Science through authentic learning.
-*   To develop 21st century thinking skills in the students to be future-ready contributors
+*   To develop 21st&nbsp;century thinking skills in the students to be future-ready contributors
 *   To develop concerned citizens through ethics in the learning of Science
 
   
