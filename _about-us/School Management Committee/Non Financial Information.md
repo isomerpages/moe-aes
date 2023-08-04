@@ -48,4 +48,4 @@ To realise the school's vision to produce 'Men and Women of Character and Learni
   
 
 **Auditor** <br>
-Assurance Partners LLP
+LO HOCK LING &amp; CO
