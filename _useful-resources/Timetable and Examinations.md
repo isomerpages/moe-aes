@@ -132,3 +132,14 @@ Letter to parents
  * [2023 Sec 2 WA 3 Schedule](/files/2023%20sec%202%20wa%203%20schedule.pdf)
  * [2023 Sec 3E WA 3 Schedule](/files/2023%20sec%203e%20wa%203%20schedule.pdf)
  * [2023 Sec 3N WA 3 Schedule](/files/2023%20sec%203na%20&amp;%203nt%20wa%203%20schedule.pdf)
+
+**10\. End of Year Examination for Secondary 1, 2, 3**
+
+Letter to parents &amp; Schedule
+* [2023 s1 eoy examination schedule and letter to parents.pdf](/files/2023%20s1%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
+* [2023 s2 eoy examination schedule and letter to parents.pdf](/files/2023%20s2%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
+* [2023 s3e eoy examination schedule and letter to parents (revised).pdf](/files/2023%20s3e%20eoy%20examination%20schedule%20and%20letter%20to%20parents%20(revised).pdf)
+* [2023 s3na eoy examination schedule and letter to parents.pdf](/files/2023%20s3na%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
+* [2023 s3nt eoy examination schedule and letter to parents.pdf](/files/2023%20s3nt%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
+* 
+
