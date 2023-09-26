@@ -3,6 +3,9 @@ title: Girl Guides (Girls)
 permalink: /student-development/ccas/uniformed-groups/girl-guides-girls/
 description: ""
 ---
+
+![](/images/girl%20guides%20photo.jpg)
+
 ### About Us:
 
 
@@ -24,12 +27,8 @@ AES Girl Guides participated in various events, such as World Thinking Day, Nati
 
  
 
-| Year | Activities/Achievements|
+| Year | Name of Activity/ Achievement|
 | -------- | -------- | 
 | 2022     | Puan Noor Aishah Award (GOLD) | 
 | 2021 | Puan Noor Aishah Award (GOLD) | 
 | 2020| Award not given out due to COVID-19 pandemic | 
-
-![](/images/girl%20guides-%20west%20division%20day.jpg)
-
-
