@@ -3,41 +3,33 @@ title: Girl Guides (Girls)
 permalink: /student-development/ccas/uniformed-groups/girl-guides-girls/
 description: ""
 ---
-### Mission:
+### About Us:
 
-To enable girls and young women to develop their fullest potential as responsible citizens of the world.
+
+AES Girl Guides 1st COY is part of the international Girl Guiding and Girl Scouting Movement. We offer opportunities for girls to get involved in local and international communities, equipping them to make a lasting positive impact by helping others.
+
+  
+As Guides, they live by the motto “Be Prepared” which means they will be ready to cope with anything that comes their way. During their CCA sessions, we empower the girls through fun and challenging programmes and unique experiences, adventures and activities. We aim to build girls of courage, confidence, and character, who make the world a better place.  
+  
+
+The girls develop a deep sense of confidence and self-assurance, along with vital leadership and life skills – all while learning through fun adventures and making lifelong friendships!
 
   
 
-### Vision:
-
-All girls are valued and take action to change the world.
+AES Girl Guides participated in various events, such as World Thinking Day, National Day Parade, West Division Day and many more. During these events, they made friends with Guides from other schools and created fun memories together.
 
   
 
-### Motto:
+### Activities/Achievements
 
-Be Prepared
+ 
 
-  
+| Year | Activities/Achievements|
+| -------- | -------- | 
+| 2022     | Puan Noor Aishah Award (GOLD) | 
+| 2021 | Puan Noor Aishah Award (GOLD) | 
+| 2020| Award not given out due to COVID-19 pandemic | 
 
-### Objectives:
-
-AES Girl Guides 1st COY is part of the international Girl Guiding and Girl Scouting Movement, governed by The World Association of Girl Guides and Girl Scouts (WAGGGS). As Guides, we live by our motto, “Be Prepared”, meaning that as Guides, we will be ready to cope with anything that comes our way.
+![](/images/girl%20guides-%20west%20division%20day.jpg)
 
 
-### Teachers
-Mrs Diana Norman<br>
-Miss Siti Nur Nabilah<br>
-Ms Rossellini Tan Yeling<br>
-  
-
-### Achievements
-
-  
-
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 500px;" class="iveo_table ives_tab_simple3 ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Puan Noor Aishah Award - GOLD (2018)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Puan Noor Aishah Award – SILVER (2017)</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Puan Noor Aishah Award – BRONZE (2016)</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Baden Powell Award Recipient – Pek Xin Yin (2019)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">AES CCA Award 2018</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Division Games Competition 2019 – 1st Runner Up</td></tr></tbody></table>
-
-<br><br>
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyDkuznud31isOezvvGMKmwEz2v-k3dHFTSssdi-uN454zBbrYuCtQkM1mzIi-Waodsi_9IfjqWpd7/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
