@@ -24,7 +24,7 @@ Subjects are offered based on academic merit (which includes overall performance
 [Click here](https://drive.google.com/drive/folders/1vITgGpxdDuzKqY0LOckzbhke6wwiy64G?usp=drive_link)
 
   
-**(3) Letter to parents - Distributed on Sep 2022**  
+**(3) Letter to parents**  
 (TBC)  
   
 **(4) Briefing slides for students (with Step-by-Step Guide for All Ears)**  
