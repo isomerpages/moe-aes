@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 [Textbooks & Uniforms](/useful-resources/for-students/administrative-information/textbooks-n-uniforms/)
 
-[Secondary 2 Subject Allocation Exercise 2022](/useful-resources/for-students/administrative-information/sec-2-subject-allocation-exercise-2022/)
+[Secondary 2 Subject Allocation Exercise 2022](/useful-resources/for-students/administrative-information/sec-2-subject-allocation-exercise-2023/)
 
 [Graduation Day 2021](/useful-resources/for-students/administrative-information/graduation-day-2021/)
 
