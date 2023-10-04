@@ -140,7 +140,7 @@ Letter to parents &amp; Schedule
 * [2023 s2 eoy examination schedule and letter to parents.pdf](/files/2023%20s2%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
 * [2023 s3e eoy examination schedule and letter to parents (revised).pdf](/files/2023%20s3e%20eoy%20examination%20schedule%20and%20letter%20to%20parents%20(revised).pdf)
 * [2023 s3na eoy examination schedule and letter to parents.pdf](/files/2023%20s3na%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
-* [2023 s3nt eoy examination schedule and letter to parents.pdf](/files/2023%20s3nt%20eoy%20examination%20schedule%20and%20letter%20to%20parents.pdf)
+* [2023 s3nt eoy examination schedule and letter to parents (revised)](/files/2023%20s3nt%20eoy%20examination%20schedule%20and%20letter%20to%20parents%20(revised).pdf)
 
 Topics to be assessed
 * [1 exp 2023.pdf](/files/1%20exp%202023.pdf)
