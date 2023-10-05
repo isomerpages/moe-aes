@@ -27,4 +27,4 @@ Our teams have done consistently well to finish among the top 8 positions in the
 | **2022**   | National School Games (NSG): 2nd position at West Zone ‘B’ Division Boys  | 
 |  |  T-Net Club 14-&-under Girls Basketball Tournament: 4th position  | 
 | **2021**   |  No NSG due to COVID-19 pandemic  | 
-| **2020**   |  No NSG due to COVID-19 pandemic  | 
+| **2020**   |  No NSG due to COVID-19 pandemic  |
