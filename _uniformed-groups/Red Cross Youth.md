@@ -23,7 +23,7 @@ In everything we undertake, we strive to live out the Red Cross Youth motto: “
   
 | Year | Name of Activity/ Achievement| 
 | -------- | -------- | 
-| 2023    | First Aid Championship 2023 (Senior Team) - Gold Award     | 
-| 2022     |  Unit Excellence Award- Gold Award| 
-| 2022   |  Red Cross Youth Director's Award - Warrant Officer Rebecca Lee Zi Ning  | 
-| 2021    | Red Cross Youth Director's Award - Warrant Officer Nicole Helena Ong Ersando     | 
+| **2023**    | First Aid Championship 2023 (Senior Team) - Gold Award     | 
+| **2022**     |  Unit Excellence Award- Gold Award| 
+|   |  Red Cross Youth Director's Award - Warrant Officer Rebecca Lee Zi Ning  | 
+| **2021**    | Red Cross Youth Director's Award - Warrant Officer Nicole Helena Ong Ersando     |
