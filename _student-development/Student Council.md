@@ -3,28 +3,8 @@ title: Student Council
 permalink: /student-development/student-council/
 description: ""
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/student%20councillors%20i1.jpeg" alt="Student Council" style="width:75%;">  
-  
-</body>
-<br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/student%20councillors%202.jpeg" alt="Student Council" style="width:75%;">  
-  
-</body>
+![](/images/student%20council%202023.jpg)
 
 ### Our Vision
 
@@ -38,35 +18,6 @@ To develop confident and compassionate leaders who are able to lead self and oth
 
 Leading with Humility, Serving with Compassion
 
-###   Teachers-in-charge:
-
-Ms Lim Zi Xin
-
-Ms Han HuiXuan, Dilys  
-
-###   Student Council Executive Committee 2020-2021
-
-President: Lee Jun Qi, Jase
-
-Vice-President: Ong Helena Nicole Ersando
-
-  
-
-Head of Students’ Voices: Pena Isabelle Armie Barzaga
-
-Deputy Head of Students’ Voices: Teo Shixuan, Jacelyn
-
-  
-
-Head of School Culture: Cheong Shung Gar, Crystal
-
-Deputy Head of School Culture: Nur Afiqah Umairah Binte Mazromi
-
-  
-
-Head of Publicity and Communications: Cassius Lowe Li Shang
-
-Deputy Head of Publicity and Communications: Resterio Pauline Caryl Marbella 
 
 **Our Leadership Developmental Framework**
 
