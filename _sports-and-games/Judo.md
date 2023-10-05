@@ -23,7 +23,12 @@ AES Judokas train 2-3 times weekly. Each CCA training is focused on physical con
 |     | ‘C’ Girls' Division: 1 Silver, 2 Bronzes, 3 in Top 8 positions     |
 | **2023 SJF Kyu Grade Judo Championships 2023**  | 3 Gold, 3 Silver, 7 Bronze   |
 | **SA Judo Academy Age Group Judo Championship 2023**| 2 Gold, 2 Silver, 4 Bronze  |
-| **2022**  | Text     |
-| **2022**  | Text     |
-| **2022**  | Text     |
-| **2021**  | Text     |
+| **2022  National School Games**  | B' Boys' Division: TEAM SECOND; 2 Golds, 1 Silver, 4 in Top 8 positions  |
+|   | ‘B’ Girls' Division: TEAM THIRD; Team Third; 1 Silver, 1 Bronze  |
+|   | 'C' Boys' Division: 1 Silver, 2 in Top 8 positions  |
+|   | 'C’ Girls' Division: TEAM FOURTH; 2 Silvers|
+| **2022 Singapore Schools Sports Council**  | 3 Colours Awards, 2 Sportsmanship Awards     |
+| **SJF Kyu Grade Judo Championships 2022**  | 1 Gold, 2 Silver, 8 Bronze     |
+| **2020 National School Games**  | No National School games due to COVID-19 pandemic  |
+| **SA Judo Academy Kyu Grade Judo Championship 2020**  | 1 Silver, 1 Bronze, 1 in 5th position |
+|  **The Dojo Champs** |  1 Gold, 3 Silver, 2 Bronze |
