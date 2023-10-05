@@ -4,6 +4,9 @@ permalink: /student-development/ccas/sports-and-games/basketball/
 description: ""
 ---
 
+![](/images/basketball%20boys%202023.jpg)
+
+
 ### About Us
 
 The AES Basketball programme aims to develop basketball players who are honed with the necessary skills, from match strategies and teamwork to time management skills, in order to excel as an athlete. 
