@@ -3,35 +3,27 @@ title: Floorball (Boys)
 permalink: /student-development/ccas/sports-and-games/floorball-boys/
 description: ""
 ---
-<p style="text-align:center;"><strong>Adrenaline rush!<br>Teamwork!<br>Exhilarating!</strong></p>
 
-These are just some words to describe about Floorball, an indoor hockey game that has drawn the attention of many youths despite being a relatively new sport.
+### About Us
 
-  
 
-It is no surprise why Floorball is so popular amongst youths. Simply, it is a sport that is easy for anyone to pick up and play. The game is played at a fast-paced with lots of actions and thrills for both players and audience. It is a safe and versatile sport, which requires only lightweight plastic sticks and ball played at any open space, indoors or outdoors.
+Adrenaline rush!
+Teamwork!
+Exhilarating!  
 
-  
+These are just some words to describe floorball, an indoor hockey game that has drawn the attention of many youths despite being a relatively new sport.
 
-AES is one of the pioneers in bringing Floorball into Secondary Schools. AES Floorball is an all-boys team since 2017 with the ultimate aim of winning the National Schools Floorball Championships. If you are looking for a fast-paced sport with lots of skills to develop you as a sportsperson and forge lasting friendships with your team mates, Floorball is the CCA for you!
+It is no surprise why floorball is so popular amongst youths. Simply, it is a sport that is easy for anyone to pick up and play. The game is played at a fast pace with lots of action and thrills for both players and audience. It is a safe and versatile sport, which requires only lightweight plastic sticks and a ball played at any open space, indoors or outdoors.
 
-  
+AES is one of the pioneers in bringing floorball into secondary schools. AES Floorball has been an all-boys team since 2017 with the ultimate aim of winning the National Schools Floorball Championships. If you are looking for a fast-paced sport with lots of skills to develop you as a sportsperson and opportunities to forge lasting friendships with your teammates, Floorball is the CCA for you!
 
-### Mission:
+### Activities/ Achievements
 
-To develop floorballers in character, leadership and sportsmanship through holistic programmes.
 
-### Teachers
-Ms Cryst Tan<br>
-Ms Azra Zaheera<br>
-Mr Sadik <br>
 
-###   Achievements
-
-  
-
-| Year |  Achievements |
-| --- | --- |
-| 2018 | ActiveSG-Singapore Floorball Association Plate &amp; Bowl Tournament (Bronze Medal) |
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-XFq-7k4GZ9k-dstB1L43bMTaCJGusgFQMzNxjjiMDq9XKhBDMr9QRV3bSGJKZYMFEry04yGRK8J1/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+| Year | Activities/ Achievements | 
+| -------- | -------- | 
+| **2023**    | Entered 2nd round for B Division    | 
+| **2022**    |  Participated in NSG B and C Division     | 
+| **2021**    |   Participated in NSG B and C Division   | 
+| **2020**    |  Participated in NSG B and C Division     | 
