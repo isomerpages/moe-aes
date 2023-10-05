@@ -3,7 +3,6 @@ title: Basketball
 permalink: /student-development/ccas/sports-and-games/basketball/
 description: ""
 ---
-
 ![](/images/basketball%20boys%202023.jpg)
 
 
