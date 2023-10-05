@@ -3,7 +3,6 @@ title: National Cadet Corps (Sea)
 permalink: /student-development/ccas/uniformed-groups/national-cadet-corps-sea/
 description: ""
 ---
-
 ![](/images/ncc%20photo.jpg)
 ### About Us
 
@@ -24,16 +23,15 @@ To serve with pride and dedication, NCC!
 
 | Year | Name of Activity/ Achievement:|  
 | -------- | -------- | 
-| 2023    | AES NCC (SEA) Unit Recognition-Distinction | 
-| 2023    | NCC Outstanding Cadet Award (Sea District)-MSG Isaac William Noronha | 
-| 2022 | AES NCC (SEA) Unit Recognition-Distinction   | 
-|  2022| NCC Outstanding Cadet Award (Sea District)-MSG Lucas Wong Wen Jie   | 
-| 2021     | AES NCC (SEA) Unit Recognition-Distinction   | 
-|  2021 |  NCC Outstanding Cadet Award (Sea District) - MSG Ng Peng Yu Owen  | 
-| 2020     | AES NCC (SEA) Unit Recognition-Distinction   | 
-| 2020    | NCC Outstanding Cadet Award (Sea District) - MSG Lim Kar Zun, Daniel   |
+| **2023**    | AES NCC (SEA) Unit Recognition-Distinction | 
+|    | NCC Outstanding Cadet Award (Sea District)-MSG Isaac William Noronha | 
+| **2022** | AES NCC (SEA) Unit Recognition-Distinction   | 
+|  | NCC Outstanding Cadet Award (Sea District)-MSG Lucas Wong Wen Jie   | 
+| **2021**     | AES NCC (SEA) Unit Recognition-Distinction   | 
+|  |  NCC Outstanding Cadet Award (Sea District) - MSG Ng Peng Yu Owen  | 
+| **2020**     | AES NCC (SEA) Unit Recognition-Distinction   | 
+|     | NCC Outstanding Cadet Award (Sea District) - MSG Lim Kar Zun, Daniel   |
   
 You may also follow AES NCC (SEA) Instagram for more happenings:
 
 <img style="width:65%" src="/images/AESnccsea(insta_logo).png">
-
