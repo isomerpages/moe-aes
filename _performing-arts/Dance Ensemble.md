@@ -4,6 +4,7 @@ permalink: /student-development/ccas/performing-arts/dance-ensemble/
 description: ""
 ---
 
+![](/images/dance%20syf.jpg)
 ### About Us
 
 AES Dance Ensemble (AESDE) is a team of dynamic individuals brought together by  our love for dance. 
@@ -16,4 +17,4 @@ In AESDE, we work together as a team by relying on each other’s strengths to p
 | Year | Activities/ Achievements | 
 | -------- | -------- |
 | **2023**     | SYF Certificate of Distinction    | 
-|**2021**    |  SYF Certificate of Accomplishment  | 
+|**2021**    |  SYF Certificate of Accomplishment  |
