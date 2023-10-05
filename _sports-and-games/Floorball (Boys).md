@@ -4,7 +4,7 @@ permalink: /student-development/ccas/sports-and-games/floorball-boys/
 description: ""
 ---
 
-### About Us
+![](/images/floorball%202023.jpeg)### About Us
 
 
 Adrenaline rush!
