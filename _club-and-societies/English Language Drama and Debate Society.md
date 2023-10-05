@@ -3,8 +3,9 @@ title: English Language Drama and Debate Society
 permalink: /student-development/ccas/club-n-societies/english-language-drama-and-debate-society/
 description: ""
 ---
-
 ![](/images/eldds%20photo.jpeg)
+
+![](/images/eldds%20debate%202023.jpeg)
 ### About Us
 
 _**“If you can speak, you can influence; if you can influence, you can change lives."**_
