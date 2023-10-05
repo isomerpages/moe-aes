@@ -26,4 +26,4 @@ AES is one of the pioneers in bringing floorball into secondary schools. AES Flo
 | **2023**    | Entered 2nd round for B Division    | 
 | **2022**    |  Participated in NSG B and C Division     | 
 | **2021**    |   Participated in NSG B and C Division   | 
-| **2020**    |  Participated in NSG B and C Division     | 
+| **2020**    |  Participated in NSG B and C Division     |
