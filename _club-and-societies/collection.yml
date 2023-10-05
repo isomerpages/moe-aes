@@ -2,6 +2,6 @@ collections:
   club-and-societies:
     output: true
     order:
-      - Young Montfortian Associates.md
-      - Green Club.md
       - English Language Drama and Debate Society.md
+      - Green Club.md
+      - Young Montfortian Associates.md
