@@ -34,12 +34,12 @@ The ELDDS puts a lot of heart and soul into their work. It is through the perfor
 
 | Year | Name of Achievement/ Award: | 
 | -------- | -------- | 
-| 2023   | SYF 2023 - Certificate of Accomplishment| 
-| 2023   | Singapore Sec Sch Debating Championships (SSSDC) 2023 - Semi finalistsin Division 3 / Top 20 Best Speakers (Carrie - 8th / Ariel Ong - 16th / Chen Si Han - 18th) | 
-| 2023   |Dialogic Academy U14 Championships - Top 10 best speakers: Chan Zi Qiao Yolanda - 5th / Aurelius Chan - 9th)  | 
-| 2022   | Debate Association Debating Championships (DADC) 2022 - Champion in Silver Division / Best speaker in Silver Division: William Christie Tobin   |
-| 2022   | Mid-Year Debate Invitationals: 3rd in Gold Division  |
-| 2022   | Drama production: Charlie & the Chocolate Factory for AES Soiree 2022  | 
- | 2021   | SYF 2021 - Certificate of Accomplishment  | 
-| 2021   |  Shortlisted for the Singapore Mental Health Festival - Open Category |  
-| 2021   |  Division III Debating Championships 2021 - Top 10 Speaker: Mariya Jacobs Jeslyn (5th)  | 
+| **2023**   | SYF 2023 - Certificate of Accomplishment| 
+|   |  Singapore Sec Sch Debating Championships (SSSDC) 2023 - Semi finalistsin Division 3 / Top 20 Best Speakers (Carrie - 8th / Ariel Ong - 16th / Chen Si Han - 18th) | 
+|    |Dialogic Academy U14 Championships - Top 10 best speakers: Chan Zi Qiao Yolanda - 5th / Aurelius Chan - 9th)  | 
+|**2022**   | Debate Association Debating Championships (DADC) 2022 - Champion in Silver Division / Best speaker in Silver Division: William Christie Tobin   |
+|    | Mid-Year Debate Invitationals: 3rd in Gold Division  |
+|   | Drama production: Charlie & the Chocolate Factory for AES Soiree 2022  | 
+ | **2021**   | SYF 2021 - Certificate of Accomplishment  | 
+|  |  Shortlisted for the Singapore Mental Health Festival - Open Category |  
+|   |  Division III Debating Championships 2021 - Top 10 Speaker: Mariya Jacobs Jeslyn (5th)  |
