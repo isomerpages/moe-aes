@@ -3,61 +3,27 @@ title: Football (Boys)
 permalink: /student-development/ccas/sports-and-games/football-boys/
 description: ""
 ---
-![Football (Boys)](/images/Football%20Boys1.jpg)
+![](/images/football%202023.jfif)
 
-Football is the most popular game in the world. Wherever you go, there will be groups of kids, men and women, having a kick-about session with their friends. However, to be a good footballer, one must have perseverance, passion and good thinking skills. And of course, arrays of technical skills and game strategies are equally important.
+### About Us
 
-  
+Assumption English School (AES) has been endorsed as one of the School Football Academy (SFA) schools. This school-based academy is part of the Unleash The Roar! (UTR!) national project which aims to unite Singaporeans through football. As an SFA, AES works closely with the Football Association of Singapore (FAS) and Sport Singapore (SportSG) to provide a conducive daily training environment to develop our footballers holistically. The SFA aims to provide a training environment with high quality coaching, led by our Spanish Head Coach Mr Angel, assistant coaches Mr Ismail and Mr Justin, complemented by using the sports science and technology approach and with an emphasis on character development. 
 
-The AES Football team shall continue to strive for excellence and mould the character of our AssumptionKnights. Our training programme are crafted to achieve the following objectives:
+Our collaboration with FAS provides our footballers the opportunity to be exposed to specialised training such as Goalkeeper Strength and Fitness as well as Sports Science training. The Football programme at AES aims to instil in our players the following outcomes:
 
-*   To enable students to understand and apply the basic rules of soccer
-*   To enable students to learn and apply skills in playing soccer
-*   To enable students to learn sportsmanship and values of commitment, responsibility and teamwork
-  
+*   Good sportsmanship, AssumptionKnights who will honour the rules of the game and take pride in fair play;
+    
+*   Strong football skills and techniques, teamwork; 
+    
+*   Keen sense of focus, commitment and respect for the sport.
+    
+		
+### Activities/ Achievements
 
-### Teachers
-Mr Nor Mohammad Isa<br>
-Mr Chan Keng Kok<br>
-Mr Leet Tagore<br>
-Mr Lee Wung Yew<br>
-
-
-
-### Achivements:
-
-**<u>National School Games SSC Football Championships</u>**
-* 2015 'B' Division Boys (4th Place in West Zone)
-* 2017 'B' Division Boys (2nd Round: Zonal League)
-* 2019 ‘B’ Division Boys (3rd Place in League 5)
-* 2019 ‘C’ Division Boys (2nd Round in League 4)
-* 2020 ‘B’ Division Boys (Qualified in League 3)
-
-**<u>National Schools Football Championships</u>**
-* 2015 'B' Division Boys (TOP 16)
-
-
-**<u>Senja-Cashew CC Football Tournament</u>**
-* 2016 4th Place
-
-
-**<u>St Gabriel Football Competition</u>**
-* 2018 2nd Place
-* 2019 2nd Round
-
-
-**<u>FAS Futsal U14</u>**
-* 2018 2nd Round
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/APic3.jpeg" style="width:70%;"> <br>
-	<img src="/images/APic4.jpeg" style="width:70%;"> <br>
-	<img src="/images/APic6.jpeg" style="width:70%;"> <br>
-	<img src="/images/APic7.jpeg" style="width:70%;"> <br>
-	<img src="/images/APic8.jpeg" style="width:70%;"> <br>
+| Year | Activities/ Achievements| 
+| -------- | -------- |
+| **2023**     | National School Games (NSG) ‘B’ Division Boys – 5th in Preliminary Round; 3rd in League 5     | 
+|      | National School Games (NSG) ‘C’ Division Boys – Quarterfinalist    | 
+| **2022**    | National School Games (NSG) ‘B’ Division Boys – 5th in Preliminary Round    | 
+|     | National School Games (NSG) ‘C’ Division Boys – 4th in Preliminary Round    | 
+| **2020**    | National School Games (NSG) ‘B’ Division Boys -Qualified in League 3  | 
