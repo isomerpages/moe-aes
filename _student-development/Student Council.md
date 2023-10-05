@@ -3,7 +3,6 @@ title: Student Council
 permalink: /student-development/student-council/
 description: ""
 ---
-
 ![](/images/student%20council%202023.jpg)
 
 ### Our Vision
