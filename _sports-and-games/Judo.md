@@ -3,6 +3,9 @@ title: Judo
 permalink: /student-development/ccas/sports-and-games/judo/
 description: ""
 ---
+
+![](/images/judo%202023.jpg)
+
 ### About Us
 
 “Still your Mind, Crush a Mountain”
