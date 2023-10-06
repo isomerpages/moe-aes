@@ -3,7 +3,6 @@ title: Green Club
 permalink: /student-development/ccas/club-n-societies/green-club/
 description: ""
 ---
-
 ![](/images/green%20club%20photo.jpg)
 
 ### About Us:

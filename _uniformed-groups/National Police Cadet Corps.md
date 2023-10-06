@@ -3,7 +3,6 @@ title: National Police Cadet Corps
 permalink: /student-development/ccas/uniformed-groups/national-police-cadet-corps/
 description: ""
 ---
-
 ![](/images/npcc%20photo.jfif)
 ### About Us
 
@@ -22,6 +21,6 @@ May the unit continue to grow from strength to strength!
 
 | Year | Name of Activity/ Achievement | 
 | -------- | -------- | 
-| 2023   |  Unit Overall Proficiency Award - Distinction Award| 
-| 2022     | Unit Overall Proficiency Award - Distinction Award    | 
-| 2021     | Unit Overall Proficiency Award - Gold | 
+| **2023**   |  Unit Overall Proficiency Award - Distinction Award| 
+| **2022**     | Unit Overall Proficiency Award - Distinction Award    | 
+| **2021**     | Unit Overall Proficiency Award - Gold |

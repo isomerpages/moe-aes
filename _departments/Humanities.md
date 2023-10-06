@@ -3,22 +3,11 @@ title: Humanities
 permalink: /departments/humanities/
 description: ""
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Humanities%20Dept%202021.jpg" alt="Humanities" style="width:80%;">  
-  
-</body>
-
 ### Vision
 
   
 
-The Humanities Department in AES believes in using authentic scenarios to bring about REAL and RELEVANT experiences for our learners. In the constantly evolving COVID-19 pandemic world, we continue to strive towards providing a robust learning environment to help our learners stay abreast with current affairs in our classrooms. 
+The Humanities Department in AES believes in using authentic scenarios to bring about REAL and RELEVANT experiences for our learners. In the constantly evolving COVID-19 pandemic world, we continue to strive towards providing a robust learning environment to help our learners stay abreast with current affairs in our classrooms.&nbsp;
 
   
 
@@ -32,7 +21,7 @@ Lessons and projects done in class are designed using the Inquiry Model, allowin
 
   
 
-Despite not being able to venture out of school due to COVID-19 precautionary measures, students and teachers leveraged on technological affordances to complete the performance tasks for NT Social Studies, as well as Lower Secondary Geographical and Historical investigations. 
+Despite not being able to venture out of school due to COVID-19 precautionary measures, students and teachers leveraged on technological affordances to complete the performance tasks for NT Social Studies, as well as Lower Secondary Geographical and Historical investigations.&nbsp;
 
   
 
@@ -48,9 +37,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sec%201%20GI%20-%20Collecting%20fallen%20leaves%20to%20observe%20adaptation%20features%20in%20real%20life.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
+<img src="/images/Sec%201%20GI%20-%20Collecting%20fallen%20leaves%20to%20observe%20adaptation%20features%20in%20real%20life.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
   
-</body>
+
 <p style="text-align:center;">Sec 1 GI - Collecting fallen leaves to observe adaptation features in real life</p>
 
 <style>  
@@ -60,16 +49,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sec%201%20GI%20-%20Printing%20of%20leaf%20imprint%20and%20making%20annotations%20of%20observations.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
+<img src="/images/Sec%201%20GI%20-%20Printing%20of%20leaf%20imprint%20and%20making%20annotations%20of%20observations.jpeg" alt="Lower Secondary Geographical Investigation" style="width:50%;">  
   
-</body>
+
 <p style="text-align:center;">Sec 1 GI - Printing of leaf imprint and making annotations of observations</p>
 
 On the other hand, History came “alive” for the Lower Secondary students when they “visited” museums virtually on their devices. The Secondary One students examined the lives of the immigrants from the early 1900s through a virtual museum created by the teachers, discovering the contributions and challenges of the early immigrants in Singapore. The immersive first-person virtual views of the artefacts and exhibits also enabled the Secondary Two students to better understand the Japanese Occupation, and to empathise with the suffering that ensued.  
 
   
 
-“It seems like I was physically viewing the museum exhibits at the former Ford Factory. I learnt about the British’s surrender to the Japanese during World War 2.” \- He Xinliyi (Leo), Sec 2 student (2021)
+“It seems like I was physically viewing the museum exhibits at the former Ford Factory. I learnt about the British’s surrender to the Japanese during World War 2.”&nbsp;\- He Xinliyi (Leo), Sec 2 student (2021)
 
 <style>  
 img {  
@@ -78,9 +67,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20GI%201.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<img src="/images/S2%20GI%201.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -90,9 +79,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20GI%202.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<img src="/images/S2%20GI%202.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -102,24 +91,24 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20GI%203.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
+<img src="/images/S2%20GI%203.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 **Lower Secondary Historical Investigation**
 
   
 
-Using the Inquiry Model, students reviewed and collected artefacts through websites created to answer the inquiry questions posed. 
+Using the Inquiry Model, students reviewed and collected artefacts through websites created to answer the inquiry questions posed.&nbsp;
 
   
 
-The Secondary One students took a virtual trip to the National Museum of Singapore (NMS)  to see what life was like in Singapore before 1942. The team of teachers created a website for the students to collect relevant artefacts while navigating through their SLS lessons. After which, the students were broken up into groups to create an artefact using platforms of their choice to present their perspectives of life in Singapore before 1942. 
+The Secondary One students took a virtual trip to the National Museum of Singapore (NMS)&nbsp; to see what life was like in Singapore before 1942. The team of teachers created a website for the students to collect relevant artefacts while navigating through their SLS lessons. After which, the students were broken up into groups to create an artefact using platforms of their choice to present their perspectives of life in Singapore before 1942.&nbsp;
 
   
 
-Sec 1 HI Stages 1 & 2: <br>
+Sec 1 HI Stages 1 &amp; 2: <br>
 [https://sites.google.com/moe.edu.sg/aessec1hi2019/home](https://sites.google.com/moe.edu.sg/aessec1hi2019/home)
 
   
@@ -148,9 +137,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20HI%201.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<img src="/images/S2%20HI%201.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -160,9 +149,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20HI%202.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<img src="/images/S2%20HI%202.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -172,9 +161,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20HI%203.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<img src="/images/S2%20HI%203.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -184,9 +173,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20HI%204.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<img src="/images/S2%20HI%204.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -196,16 +185,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S2%20HI%205.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
+<img src="/images/S2%20HI%205.jpeg" alt="Lower Secondary Historical Investigation" style="width:80%;">  
   
-</body>
+
 <br>
 
 **Upper Secondary Humanities**
 
   
 
-The Upper Secondary Humanities focused on getting  students to deepen their knowledge on the impact of the weather in their environment in Geography, empathise with the different groups of people who lived during Hitler’s rule in History and also to evaluate if the lower income groups have sufficient support in Social Studies.
+The Upper Secondary Humanities focused on getting&nbsp; students to deepen their knowledge on the impact of the weather in their environment in Geography, empathise with the different groups of people who lived during Hitler’s rule in History and also to evaluate if the lower income groups have sufficient support in Social Studies.
 
 <style>  
 img {  
@@ -214,9 +203,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20HI%201.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20HI%201.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 
@@ -227,9 +216,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20HI%202.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20HI%202.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 
@@ -240,9 +229,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20HI%203.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20HI%203.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -252,9 +241,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20HI%204.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20HI%204.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -264,9 +253,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20SS%20II%201.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20SS%20II%201.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -276,9 +265,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20SS%20II%202.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20SS%20II%202.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -288,9 +277,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/S3%20SS%20II%203.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
+<img src="/images/S3%20SS%20II%203.jpeg" alt="Upper Secondary Humanities" style="width:80%;">  
   
-</body>
+
 <br>
 
 **NT Social Studies**
@@ -306,7 +295,7 @@ Students learn about national identity, living in a diverse society, financial l
 
   
 
-AssumptionKnights went through various station activities to discover the history and development of public housing in Singapore (History) and observe the characteristics of modern day HDB flats (Geography). Besides viewing still images and explanatory videos put up by the teachers, participants got the opportunity to put on VR goggles, experiencing first-hand how it may feel like to be inside a cramped living space [(“Life in a Coffin Home”)](https://www.youtube.com/watch?v=bhIQjyBrmwI) and around unhygienic living conditions [(“Dharavi Life 360VR”)](https://youtu.be/tOAvffXyRAs). After the immersive sensory experiences, AssumptionKnights were invited to envision their ideal housing types in view of current day housing challenges due to population growth and rising sea levels. The result? Creative floating homes and multi-purpose buildings with integrated uses to overcome scarce land space.
+AssumptionKnights went through various station activities to discover the history and development of public housing in Singapore (History) and observe the characteristics of modern day HDB flats (Geography). Besides viewing still images and explanatory videos put up by the teachers, participants got the opportunity to put on VR goggles, experiencing first-hand how it may feel like to be inside a cramped living space&nbsp;[(“Life in a Coffin Home”)](https://www.youtube.com/watch?v=bhIQjyBrmwI)&nbsp;and around unhygienic living conditions&nbsp;[(“Dharavi Life 360VR”)](https://youtu.be/tOAvffXyRAs). After the immersive sensory experiences, AssumptionKnights were invited to envision their ideal housing types in view of current day housing challenges due to population growth and rising sea levels. The result? Creative floating homes and multi-purpose buildings with integrated uses to overcome scarce land space.
 
 <style>  
 img {  
@@ -315,9 +304,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/2EN%20Post%20Exam%201%20.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+<img src="/images/2EN%20Post%20Exam%201%20.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -327,9 +316,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/2EN%20Post%20Exam%202.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+<img src="/images/2EN%20Post%20Exam%202.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -339,9 +328,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/2EN%20Post%20Exam%203.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+<img src="/images/2EN%20Post%20Exam%203.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -351,9 +340,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/2EN%20Post%20Exam%204.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
+<img src="/images/2EN%20Post%20Exam%204.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
   
-</body>
+
 <br>
 
 ***2 videos to be embedded here!***
