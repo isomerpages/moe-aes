@@ -152,3 +152,8 @@ Topics to be assessed
 * [3 exp 2023.pdf](/files/3%20exp%202023.pdf)
 * [3 na 2023.pdf](/files/3%20na%202023.pdf)
 * [3 nt 2023.pdf](/files/3%20nt%202023.pdf)
+
+
+**11. Sec 1 to 3 Timetables (16 to 23 Oct 2023)**
+
+[Timetables for Sec 1 to 3 (16 to 23 Oct 2023)](/files/aes%202023%20sem%202%20script%20checking%20&amp;%20going%20through%20script%20-%20final%2013%20oct%20(all%20classes).pdf)
