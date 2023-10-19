@@ -97,3 +97,19 @@ Group category
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Jiang Zhouda, Lucus Wong Xian Zhi, Marchel (class 3/6)</p></td></tr></tbody></table>
+	
+	
+##### 	**Subjects offered**
+Mathematics<br>
+Additional Mathematics <br>
+Computer Applications <br>
+Elements of Business Skills
+	
+	
+	
+	
+	
+	
+	
+	
+	
