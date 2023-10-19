@@ -15,6 +15,34 @@ AssumptionKnights have the opportunity to engage in a diverse range of sports an
 #### Programmes
 
 ##### **Fun Run-cum-Home Walk**
+![](/images/homewalk7.JPG)
+
+![](/images/rsz_1homewalk4.jpg)
+
+![](/images/rsz_4funrun2.jpg)
+
+
+##### **NAPFA assessment**
+
+![](/images/14-1%20napfa1.jpg)
+
+![](/images/14-1%20napfa3.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
