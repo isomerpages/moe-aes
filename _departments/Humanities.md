@@ -16,7 +16,7 @@ In the constantly evolving world, we continue to help our learners stay abreast 
 
 In Geography, the Lower Secondary students were able to meaningfully examine the rainforest environment in Dairy Farm Nature Park and conduct site observation surveys at Bangkit Housing Estate for their investigations. The Secondary Two fieldwork process culminated with the design of their ‘Dream Neighbourhood’, enabling them to use their creativity and imagination to work towards better quality of life and town sustainability in their proposed neighbourhoods.
 
-![](/images/rsz_sec2_gi.jpg)
+![](/images/rsz_1rsz_sec2_gi.jpg)
 
 ![](/images/sec%201%20gi%202.jpg)
 
