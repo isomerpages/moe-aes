@@ -102,3 +102,22 @@ img {
   
 
 Social Studies is a subject that helps students explore real-world issues that concern them. Through inquiry learning, they explored issues such as living in a multicultural society, embracing migration, resolving conflict and building peace, maximising opportunities in a changing world and building a caring nation and an inclusive society. They also had the opportunity to apply what they have learnt through various Performance Tasks that helped to deepen their&nbsp; understanding of society and the world they live in.
+
+
+##### **Subjects offered**
+Social Studies
+Geography
+History
+
+
+
+
+
+
+
+
+
+
+
+
+
