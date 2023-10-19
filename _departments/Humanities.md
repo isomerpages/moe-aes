@@ -96,67 +96,10 @@ img {
 
 <br>
 
-**NT Social Studies**
+
+##### NT Social Studies
 
   
 
-Students learn about national identity, living in a diverse society, financial literacy and caring for society. They apply what they learn through various performance tasks, exhibiting their creativity.
-
+Social Studies is a subject that helps students explore real-world issues that concern them. Through inquiry learning, they explored issues such as living in a multicultural society, embracing migration, resolving conflict and building peace, maximising opportunities in a changing world and building a caring nation and an inclusive society. They also had the opportunity to apply what they have learnt through various Performance Tasks that helped to deepen their&nbsp; understanding of society and the world they live in.
   
-
-**Post-Exam Humanities Workshop for Secondary 2s** <br>
-**\- Exploring the Past, Present and Future of Public Housing in Singapore**
-
-  
-
-AssumptionKnights went through various station activities to discover the history and development of public housing in Singapore (History) and observe the characteristics of modern day HDB flats (Geography). Besides viewing still images and explanatory videos put up by the teachers, participants got the opportunity to put on VR goggles, experiencing first-hand how it may feel like to be inside a cramped living space&nbsp;[(“Life in a Coffin Home”)](https://www.youtube.com/watch?v=bhIQjyBrmwI)&nbsp;and around unhygienic living conditions&nbsp;[(“Dharavi Life 360VR”)](https://youtu.be/tOAvffXyRAs). After the immersive sensory experiences, AssumptionKnights were invited to envision their ideal housing types in view of current day housing challenges due to population growth and rising sea levels. The result? Creative floating homes and multi-purpose buildings with integrated uses to overcome scarce land space.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/2EN%20Post%20Exam%201%20.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/2EN%20Post%20Exam%202.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/2EN%20Post%20Exam%203.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/2EN%20Post%20Exam%204.jpeg" alt="Post-Exam Humanities Workshop for Secondary 2s" style="width:80%;">  
-  
-
-<br>
-
-***2 videos to be embedded here!***
