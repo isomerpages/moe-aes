@@ -25,14 +25,11 @@ Click on the link below to access the Science Curriculum Site!
 
 
 ##### **Subjects offered**
-Science<br>
-Science (Chemistry, Biology)<br>
-Science (Physics, Chemistry)<br>
-Biology<br>
-Chemistry<br>
-Physics
-
-
-
+* Lower Secondary Science<br>
+* Science (Chemistry, Biology)<br>
+* Science (Physics, Chemistry)<br>
+* Biology<br>
+* Chemistry<br>
+* Physics
 
 
