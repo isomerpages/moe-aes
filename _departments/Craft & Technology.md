@@ -49,10 +49,10 @@ The NFS unit aims to enhance the learning of nutrition and food science through 
 ![](/images/sauce%202.JPG)
 
 ##### **Subjects offered**
-Art (lower and upper sec)
-Design &amp; Technology (lower and upper sec)
-Food and Consumer Education (lower sec)
-Nutrition and Food Science (upper sec)
+* Art (lower and upper sec) <br>
+* Design &amp; Technology (lower and upper sec)<br>
+* Food and Consumer Education (lower sec)<br>
+* Nutrition and Food Science (upper sec)<br>
 
 
 
