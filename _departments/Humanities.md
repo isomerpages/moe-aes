@@ -58,7 +58,7 @@ img {
 <img src="/images/S2%20GI%203.jpeg" alt="Lower Secondary Geographical Investigation" style="width:80%;">  
   
 
-##### Upper Secondary Humanities 
+#### Upper Secondary Humanities 
 
  
 The focus for the Upper Secondary levels was for the students to empathise with the different groups of people who lived during Hitler’s rule in History and also to evaluate if people with disabilities have sufficient support in Social Studies. Geography students also deepened their knowledge on Geography in Everyday Life by examining the physical-human interactions in the school campus and evaluating the school’s green efforts in combating climate change.
@@ -105,17 +105,9 @@ Social Studies is a subject that helps students explore real-world issues that c
 
 
 ##### **Subjects offered**
-Social Studies
-Geography
-History
-
-
-
-
-
-
-
-
+* Social Studies <br>
+* Geography<br>
+* History<br>
 
 
 

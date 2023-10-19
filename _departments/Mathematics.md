@@ -18,16 +18,14 @@ Secondary One students learn to incorporates Mathematical concepts such as angle
 
 ![](/images/math%203.jfif)
 
-#### **Competitions and Achievements**
-##### All Singapore Math Competition for Normal Course students <br>
-**Achievements (2023):**
+### Competitions and Achievements
 
-##### Singapore Mathematical Olympiad
+##### **Singapore Mathematical Olympiad (2023)**
 
 ![](/images/math%20olympiad%20result%202023.JPG)
 
 
-##### All Singapore Math Competition for Normal Course
+##### **All Singapore Math Competition for Normal Course (2023)**
 
 **Individual category:** <br>
 Lower Secondary (NA course)
@@ -107,17 +105,7 @@ Upper Secondary (NT course)
 
 	
 ##### 	**Subjects offered**
-Mathematics<br>
-Additional Mathematics <br>
-Computer Applications <br>
-Elements of Business Skills
-
-
-
-
-
-
-
-
-
-
+* Mathematics<br>
+* Additional Mathematics <br>
+* Computer Applications <br>
+* Elements of Business Skills
