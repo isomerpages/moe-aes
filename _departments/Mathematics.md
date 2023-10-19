@@ -18,14 +18,14 @@ Secondary One students learn to incorporates Mathematical concepts such as angle
 
 ![](/images/math%203.jfif)
 
-#### **Competitions and Achievements**
+### Competitions and Achievements
 
-##### Singapore Mathematical Olympiad (2023)
+##### **Singapore Mathematical Olympiad (2023)**
 
 ![](/images/math%20olympiad%20result%202023.JPG)
 
 
-##### All Singapore Math Competition for Normal Course (2023)
+##### **All Singapore Math Competition for Normal Course (2023)**
 
 **Individual category:** <br>
 Lower Secondary (NA course)
