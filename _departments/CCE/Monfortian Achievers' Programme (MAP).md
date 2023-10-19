@@ -15,7 +15,7 @@ MAP lessons and assemblies provide our students an opportunity to explore the me
 
   
 
-Resource Website: [**AES MAP RESOURCES**](https://sites.google.com/moe.edu.sg/aescceresources/home?authuser=0)
+Resource Website:&nbsp;[**AES MAP RESOURCES**](https://sites.google.com/moe.edu.sg/aescceresources/home?authuser=0)
 
   
 
@@ -29,16 +29,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pasted%20image%200.png" alt="Goals of CCE 2021" style="width:80%;">  
+<img src="/images/pasted%20image%200.png" alt="Goals of CCE 2021" style="width:80%;">  
   
-</body>
+
 
 <p style="text-align:center;">This aligns with our school CHRIST values and desired students’ outcome of <strong>Fortitude, Mastery and Charity.</strong></p>
 
 MAP @ AES
 ---------
 
-The MAP curriculum integrates the 6 content areas of CCE 2021, **Sexuality Education (SEd)**, **Education and Career Guidance (ECG)**, **Cyber-wellness (CW)**, **National Education**, **Family Education** and **Mental Health**. Also, school-initiatives such as Study skills, pro-social skills and Montfortian Ethos are included. 
+The MAP curriculum integrates the 6 content areas of CCE 2021,&nbsp;**Sexuality Education (SEd)**,&nbsp;**Education and Career Guidance (ECG)**,&nbsp;**Cyber-wellness (CW)**,&nbsp;**National Education**,&nbsp;**Family Education**&nbsp;and&nbsp;**Mental Health**. Also, school-initiatives such as Study skills, pro-social skills and Montfortian Ethos are included.&nbsp;
 
   
 <style>  
@@ -48,28 +48,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MAP.png" alt="MAP @ AES" style="width:65%;">  
+<img src="/images/MAP.png" alt="MAP @ AES" style="width:65%;">  
   
-</body>
 
-These 3 big ideas: **Identity, Relationships** and **Choices**, are interconnected and impact one another.
+
+These 3 big ideas:&nbsp;**Identity, Relationships**&nbsp;and&nbsp;**Choices**, are interconnected and impact one another.
 
   
 
 The packages revolve around the 3 big ideas and how they affect one another. Students need to know who they are in order to relate positively with others. The relationships forged shape their identity and influence the choices they make. Making good choices impacts their understanding of the identity and relationships formed.
 
-  
-
-  
-
 We, at Assumption English School, are committed to ensuring that both academic excellence and character development are equally important to help our students succeed in life.
 
-### [Education & Career Guidance (ECG)](/departments/cce/monfortian-achievers-programme-map/education-n-career-guidance-ecg/)
-
-### [Cyberwellness](/departments/cce/monfortian-achievers-programme-map/cyberwellness/)
-
-### [Sexuality Education](/departments/cce/monfortian-achievers-programme-map/sexuality-education/)
-
-### [National Education](/departments/cce/monfortian-achievers-programme-map/national-education/)
-
-### [Pro Social Skills](/departments/cce/monfortian-achievers-programme-map/pro-social-skills/)
