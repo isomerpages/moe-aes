@@ -3,21 +3,16 @@ title: Humanities
 permalink: /departments/humanities/
 description: ""
 ---
-### Vision
+The Humanities Department in AES uses authentic scenarios to bring about REAL and RELEVANT experiences for our learners. Lessons and projects done in class are designed using the Inquiry Model, allowing students to take on the hats of thoughtful Geographers, empathetic Historians and keen learners of Social Studies.&nbsp;
 
   
 
-The Humanities Department in AES believes in using authentic scenarios to bring about REAL and RELEVANT experiences for our learners. In the constantly evolving COVID-19 pandemic world, we continue to strive towards providing a robust learning environment to help our learners stay abreast with current affairs in our classrooms.&nbsp;
+In the constantly evolving world, we continue to help our learners stay abreast with current affairs in our classrooms, leveraging on the use of technology to bring the world closer to our learners, encouraging open and active discussions on the issues that shape our world today, in the true spirit of Humanities learning.
 
-  
 
-Lessons and projects done in class are designed using the Inquiry Model, allowing students to take on the hats of thoughtful Geographers, empathetic Historians and keen learners of Social Studies. Ultimately, we aim to leverage on the use of technology to bring the world closer to our learners, and for them to discuss openly and actively on the issues that shape our world today, in the true spirit of Humanities learning.
+### Key programmes
 
-  
-
-### Learning of Humanities in AES
-
-**Lower Secondary Geographical Investigation**
+##### **Lower Secondary Geographical Investigation**
 
   
 
