@@ -31,8 +31,18 @@ In Assumption English School, the Science Department aims to achieve the followi
 
 As a Science student in AES, your academic journey is supported by all the Science Teachers! Various teaching videos, worksheets, self-assessment quizzes and success criteria are carefully crafted by the teachers in order to prepare you for your future.
 
-  
+Click on the link below to access the Science Curriculum Site!
 
-Click on the link to access the Science Curriculum Site!
+<h5 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h5>
 
-<h4 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h4>
+
+##### Subjects offered 
+Science<br>
+Science (Chemistry, Biology)<br>
+Science (Physics, Chemistry)<br>
+Biology<br>
+Chemistry<br>
+Physics**
+
+
+
