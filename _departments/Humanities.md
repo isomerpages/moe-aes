@@ -18,6 +18,7 @@ In Geography, the Lower Secondary students were able to meaningfully examine the
 
 ![](/images/sec2%20gi.jpg)
 
+![](/images/sec%201%20gi%202.jpg)
 
 ##### **Lower Secondary Historical Investigation**
 History came alive for the Lower Secondary students when they visited museums. The Secondary One students examined the lives of the immigrants from the early 1900s through their visit to the National Museum of Singapore, discovering the contributions and challenges of the early immigrants in Singapore. The immersive first-person views of the artefacts and exhibits also enabled the Secondary Two students to better understand the Japanese Occupation, and to empathise with the suffering that ensued during the visit to the Ford Factory of Singapore.
@@ -102,4 +103,3 @@ img {
   
 
 Social Studies is a subject that helps students explore real-world issues that concern them. Through inquiry learning, they explored issues such as living in a multicultural society, embracing migration, resolving conflict and building peace, maximising opportunities in a changing world and building a caring nation and an inclusive society. They also had the opportunity to apply what they have learnt through various Performance Tasks that helped to deepen their&nbsp; understanding of society and the world they live in.
-  
