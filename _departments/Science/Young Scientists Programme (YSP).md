@@ -45,15 +45,7 @@ During this 3-year journey, we provide different platforms for them to serve and
 
 Our students have the opportunity to participate and lead in internal school events and external competitions.
 
-  
-
-*   AES Learning Festival
-
-\-&nbsp;&nbsp; &nbsp;A collaboration between a few departments, YSP students will plan and implement suitable activities for all Assumptionknights.
-
-  
-
-*   Cluster Science Enrichment Day
+  *   Cluster Science Enrichment Day
 
 \-&nbsp;&nbsp; &nbsp;A day where students from different schools gather together to learn science beyond their classrooms, YSP students will plan an conduct a workshop to the students.
 
@@ -63,7 +55,7 @@ Our students have the opportunity to participate and lead in internal school eve
 
 \-&nbsp;&nbsp; &nbsp;The YSP students will have the opportunity to attend science-related workshops or activities to continue to spur their interest and motivation in science.
 
-  
+ ![](/images/sci%20centre%201.jpg)
 
 *   Science Read
 
