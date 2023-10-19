@@ -105,19 +105,9 @@ Social Studies is a subject that helps students explore real-world issues that c
 
 
 ##### **Subjects offered**
-Social Studies
-Geography
-History
-
-
-
-
-
-
-
-
-
-
+* Social Studies <br>
+* Geography<br>
+* History<br>
 
 
 
