@@ -86,3 +86,5 @@ Below are some of external competitions and programmes that a student may take p
 *   Unity Scientific Innovation Challenge with SP &amp; ERI@N
 *    Youth Science Ambassador Programme @ Singapore Science Centre
 *   Work Attachment
+
+![](/images/ysp%202023.jpg)
