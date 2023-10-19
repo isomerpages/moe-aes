@@ -105,7 +105,16 @@ Upper Secondary (NT course)
 
 	
 ##### 	**Subjects offered**
-Mathematics<br>
-Additional Mathematics <br>
-Computer Applications <br>
-Elements of Business Skills
+* Mathematics<br>
+* Additional Mathematics <br>
+* Computer Applications <br>
+* Elements of Business Skills
+
+
+
+
+
+
+
+
+
