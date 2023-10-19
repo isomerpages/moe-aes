@@ -4,18 +4,6 @@ permalink: /departments/science/
 description: ""
 third_nav_title: Science
 ---
-### Objectives of the Science Curriculum @ AES
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/sci%dept.jpeg" alt="Science Department 2023" style="width:90%;">  
- 
-
 In Assumption English School, the Science Department aims to achieve the following:  
 
 *   To ignite students’ passion in the learning of Science through authentic learning.
