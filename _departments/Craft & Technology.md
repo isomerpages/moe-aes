@@ -46,7 +46,7 @@ The NFS unit aims to enhance the learning of nutrition and food science through 
 ![Food log](/images/nfs%20unit%20food%20log%201.jpg)
 
 *Experimenting with sweeteners in BBQ sauce for skewers*
-![](/images/nfs%20unit%20%20natural%20sweetener%20-%20fresh%20strawberry%20bbq%20sauce.jpg)
+![](/images/sauce%202.JPG)
 
 ##### **Subjects offered**
 Art (lower and upper sec)
