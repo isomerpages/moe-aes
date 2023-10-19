@@ -12,7 +12,7 @@ _To develop students’ competency in the English Language, cultivating a life-l
 
   
 
-The department runs the school’s Applied Learning Programme (ALP) titled **SP**eak **E**nglish with gr**A**ce and **K**nowledge (**SPEAK**). Established in 2015, the SPEAK programme aims to develop confident and eloquent communicators who can articulate their thoughts and opinions well.
+The department runs the school’s Applied Learning Programme (ALP) titled&nbsp;**SP**eak&nbsp;**E**nglish with&nbsp;gr**A**ce and&nbsp;**K**nowledge (**SPEAK**). Established in 2015, the SPEAK programme aims to develop confident and eloquent communicators who can articulate their thoughts and opinions well.
 
 <style>  
 img {  
@@ -21,9 +21,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png" style="width:75%;">  
+<img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png" style="width:75%;">  
 	
-</body>
+
 
 SPEAK Tier 1
 ------------
@@ -33,21 +33,21 @@ SPEAK Tier 1
 **Secondary 1: SPEAK Accurately** <br>
 Secondary One students learn to pronounce and articulate clearly through a series of learning tasks. They record voice-overs for the narrator and characters of their book trailer projects. Click on the following videos to watch their projects!
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VIerY1wU42M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VIerY1wU42M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/AqWWeIkTYEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/AqWWeIkTYEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/c4dRobmymLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/c4dRobmymLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 **Secondary 2: SPEAK Confidently**
 
 Secondary Two students take on roles as news anchors and reporters to produce newscasts, gaining confidence in the process of rehearsing and filming. View their work by clicking on the following videos!
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/olNhHVKvNs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/olNhHVKvNs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gfwv61b9DAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gfwv61b9DAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/puRgfPb9fEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/puRgfPb9fEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 At this level, all students are also given the opportunity to read the news to the entire student body, sharing their opinions on current affairs.
 
@@ -63,9 +63,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/02%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<img src="/images/02%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -75,9 +75,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/03%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<img src="/images/03%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -87,9 +87,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
+<img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
   
-</body>
+
 
 **Secondary 4: SPEAK Passionately**<br>
 Secondary Four and Five students share an introductory video clip about themselves. They can include snippets of their school life, lifestyle, hobbies, interests, and their strengths as
@@ -97,11 +97,11 @@ well as talents.
 
 <br>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjxHFAcH4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjxHFAcH4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 <br>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FuLyEMaCa_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FuLyEMaCa_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 <br>
 
@@ -113,62 +113,11 @@ SPEAK Tier 2
 **Poetry Showdown** <br>
 Lower secondary AssumptionKnights prove their mettle as poets and choral reading performers in our very own AES Poetry Showdown.
 
-<div style="display:inline-block;vertical-align:top;width:300px;margin:20px auto;color:#333;background:#fff;border:1px solid #ddd;line-height:1.2;text-decoration:none;padding:0;align=center"><a href="https://read.bookcreator.com/skinnP5n21hSYaeO3as1NAXcXo32/JkVAgzv4Raqm--ngPQcM_w" style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal" target="_blank"><img src="https://assets.api.bookcreator.com/skinnP5n21hSYaeO3as1NAXcXo32/books/JkVAgzv4Raqm--ngPQcM_w/cover/share" style="max-height:300px;max-width:100%;display:block;margin:0 auto;padding:0;border:none" alt="AES Poetry Showdown 2022"/></a><div style="display:block;padding:20px;overflow:hidden;overflow-x:hidden;border-top:1px solid #ddd"><div style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal;font-size:21px;margin:0 0 0.25em"><a href="https://read.bookcreator.com/skinnP5n21hSYaeO3as1NAXcXo32/JkVAgzv4Raqm--ngPQcM_w" style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal" target="_blank">AES Poetry Showdown 2022</a></div><div style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal;font-size:16px;margin:0 0 0.5em"><a href="https://read.bookcreator.com/skinnP5n21hSYaeO3as1NAXcXo32/JkVAgzv4Raqm--ngPQcM_w" style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal" target="_blank">Click to read this book, made with Book Creator</a></div><div style="display:block;color:#455a64;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:bold;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px"><a href="https://read.bookcreator.com/skinnP5n21hSYaeO3as1NAXcXo32/JkVAgzv4Raqm--ngPQcM_w" style="display:block;color:#333;line-height:1.2;text-decoration:none;text-align:left;padding:0;font-weight:normal" target="_blank">https://read.bookcreator.com</a></div></div></div>
+![](/images/poetry%20showdown%209.jpg)
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/i7oKucyfAfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+![](/images/poetry%20showdown%201.jpg)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/05%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
-  
-</body>
-<br>
-
-The theme for 2019’s Poetry Showdown was “My Hero”.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/06%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/07%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
-  
-</body>
-<br>
-
-The winning poem “The Mighty Mrs Lum” was presented by poet, Aegon Tan, and his team from Class 1/1.
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/08%20Poetry%20Showdown.jpeg" alt="Poetry Showdown" style="width:70%;">  
-  
-</body>
-<br>
+![](/images/poetry%20showdown%208.jpg)
 
 **Emcee Development Programme** <br>
 AssumptionKnights in Tier 2 are given opportunities to host various school events and functions.
@@ -180,9 +129,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/13%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
+<img src="/images/13%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -192,9 +141,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/14%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
+<img src="/images/14%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
-</body>
+
 <br>
 
 In 2019, Ms Vernetta Lopez, an alumni of the school, hosted the inaugural Emcee Development Workshop. She provided our budding emcees with useful tips on speaking and presenting to a live audience!
@@ -206,9 +155,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/15%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
+<img src="/images/15%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -218,9 +167,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/16%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
+<img src="/images/16%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -230,18 +179,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/17%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
+<img src="/images/17%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
   
-</body>
+
 <br>
 
 **External Competitions** <br>
 Selected AssumptionKnights represent the school in external competitions. These include oratorical contests such as the ACJC Orator’s Trophy and the YMCA Plain English Speaking Awards, as well as the National Schools Literature Festival.
 
-  
-
-Our AssumptionKnights, Gueverra Allon Benedict Cruz and Pena Isabelle Armie Barzaga, were semi-finalists at the 34th YMCA Plain English Speaking Awards (PESA) 2021 and the ACJC Orator's Trophy respectively. Watch their speeches here!
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/RYzGsqfkZhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/IoIdSyJhL2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <p></p>
