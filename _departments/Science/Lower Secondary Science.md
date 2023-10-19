@@ -15,9 +15,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Lower%20Sec%20Sci.png" alt="Lower Secondary Science" style="width:80%;">  
+<img src="/images/Lower%20Sec%20Sci.png" alt="Lower Secondary Science" style="width:80%;">  
   
-</body>
+
 
 
 ### Creative Science Innovations / Investigations (CSI)
@@ -45,9 +45,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%201-1.jpeg" alt="Experimentation stage" style="width:80%;">  
+<img src="/images/Section%201-1.jpeg" alt="Experimentation stage" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -57,9 +57,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%201-2.jpeg" alt="Experimentation stage" style="width:80%;">  
+<img src="/images/Section%201-2.jpeg" alt="Experimentation stage" style="width:80%;">  
   
-</body>
+
 <br>
 
 <p style="text-align:center;"> <strong>CSI Science Poster stage:</strong></p>
@@ -71,9 +71,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%201-3.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
+<img src="/images/Section%201-3.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -83,43 +83,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sci%20Dept%201.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
+<img src="/images/Sci%20Dept%201.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
   
-</body>
+
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Sci%20Dept%202.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
+![](/images/sec%202%20project.png)
   
-</body>
+
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Sci%20Dept%203.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
-  
-</body>
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Sci%20Dept%204.jpeg" alt="CSI Science Poster stage" style="width:80%;">  
-  
-</body>
-<br>
