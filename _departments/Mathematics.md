@@ -109,12 +109,3 @@ Upper Secondary (NT course)
 * Additional Mathematics <br>
 * Computer Applications <br>
 * Elements of Business Skills
-
-
-
-
-
-
-
-
-
