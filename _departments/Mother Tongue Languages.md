@@ -25,13 +25,13 @@ Authors-in-Residence Programme allows our students to learn how to write creativ
 ![](/images/authors%20in%20residence%20programme.jpg)
 ### 
 ### Subjects offered 
-Basic Chinese Language <br>
-Basic Malay Language <br>
-Chinese Language<br>
-Chinese Language Syllabus B<br>
-Higher Chinese Language (Sec 3 onwards)<br>
-Malay Language<br>
-Tamil Language (lessons at Tamil Language Centre)
+* Basic Chinese Language <br>
+* Basic Malay Language <br>
+* Chinese Language<br>
+* Chinese Language Syllabus B<br>
+* Higher Chinese Language (Sec 3 onwards)<br>
+* Malay Language<br>
+* Tamil Language (lessons at Tamil Language Centre)
 
 
 
