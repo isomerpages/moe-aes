@@ -36,13 +36,10 @@ Click on the link below to access the Science Curriculum Site!
 <h5 style="text-align:center;"><a href="http://go.gov.sg/aessciencedepartment">go.gov.sg/aessciencedepartment</a></h5>
 
 
-##### Subjects offered 
+##### **Subjects offered**
 Science<br>
 Science (Chemistry, Biology)<br>
 Science (Physics, Chemistry)<br>
 Biology<br>
 Chemistry<br>
 Physics**
-
-
-
