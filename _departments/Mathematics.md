@@ -5,116 +5,119 @@ description: ""
 ---
 Assumption English School mathematics teachers believe in imbuing students with an appreciation of mathematics and help them see the relevance of mathematics in their daily lives.
 
-Our signature programme gives students opportunities to go through a mathematical modelling process to build creative and collaborative skills. Students have to work in teams to solve authentic real-world problems or do experiments to obtain empirical data.
+We employ a three-phase approach to learning Mathematics. In the readiness phase, we provide motivating contexts to engage students. In the engagement phase, we adopt an activity-based learning approach.
 
-The Secondary One students design, make and fly their own kite.
+## Key programmes
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m1.jpg" style="width:55%;"> <br> <img src="/images/m2.jpg" style="width:55%;"> <br> <img src="/images/m3.jpg" style="width:55%;"> <br> <img src="/images/m4.jpg" style="width:55%;"> <br> <img src="/images/m5.jpg" style="width:55%;"> <br> <img src="/images/m6.jpg" style="width:55%;"> <br> <img src="/images/m7.jpg" style="width:55%;"> <br> 
-  
-</body>
-  
-Student-centricity features strongly in our daily lessons; there are learning experiences to better engage students and enhance their mathematical concept development.
+#### **Kite Design and Flying Task**
+Secondary One students learn to incorporates Mathematical concepts such as angles, shapes, and area, as well as Physics concepts like drag and thrust. Students design and test their kites to determine which one stays up in the air for the longest duration.
 
-For example in Chapter 1, students learnt about prime numbers, prime factorisation, highest common factor (HCF) and lowest common multiple (LCM). With this, we leveraged on the Lunar New Year season and asked students to suggest the types of goodies to be included in a goodies bag. Thus, students did research by going online to ‘shop’ for goodies and decided on the goodies to be included. The teams that best met the criteria would be the winning team and the mathematics teacher packed that team’s goodies bag for the whole class.
+![](/images/math%201.jfif)
 
-The school provides support through weekly Booster Programme to support students who need extra help.
+![](/images/math%202.jfif)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m8.jpg" style="width:55%;"> <br> 
-	<img src="/images/m9.jpg" style="width:55%;"> 
-  
-</body>
+![](/images/math%203.jfif)
 
-To stretch the more mathematically-inclined students, the school fields students for various external competitions.  
+#### **Competitions and Achievements**
+##### All Singapore Math Competition for Normal Course students <br>
+**Achievements (2023):**
 
-### **All Singapore Secondary Mathematics Competition for Normal Course Students 2022** 
+##### Singapore Mathematical Olympiad
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m10.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>Lower Sec N(A) team </b>[from left]: Sahaya Rajan Rahul (2 George), Alastair Yeo (2 George), Phoebe Jackson (2 George).</figcaption><br>
+![](/images/math%20olympiad%20result%202023.JPG)
 
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m11.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>Lower Sec N(T) team </b>[from left]: Jiang Zhouda (2 Emmanuel), Lucus Wong (2 Noel), Aydon Chong (2 Raymond). Nationally, Zhouda is ranked 2nd, Aydon is ranked 10th and Lucus is ranked 11th.
-The team clinched Overall 2nd in the team category.</figcaption><br>
+##### All Singapore Math Competition for Normal Course
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m12.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>Upper Sec N(A) team </b>[from left]: Hee Jin Lin (3/5), Immanuel Chua (3/5), Zafrie Zakeer Zaini (3/5),
-Nationally, Jin Lin is ranked 20th.</figcaption><br> 
+**Individual category:** <br>
+Lower Secondary (NA course)
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m13.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>Upper Sec N(T) team </b>[from left]: Mandy Lea (3/6), Boris Tan (3/6) and Toh Yu Jie (3/6). Nationally, Mandy is ranked 12th.</figcaption><br>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Results</p></td><td width="252" valign="top" style="width:189.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Name of student</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Rank no. 3</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Gu Yuxin (class 2A)</p></td></tr></tbody></table>
+
+Lower Secondary (NT course)
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Results</p></td><td width="252" valign="top" style="width:189.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Name of student</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Rank no. 13</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Chui Xiao Xuan (class 2E)</p></td></tr></tbody></table>
+
+Upper Secondary (NA course)
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Result</p></td><td width="252" valign="top" style="width:189.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Name of student</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Rank no. 8</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Marty Gabriel Edouard (class 3/5)</p></td></tr></tbody></table>
+
+Upper Secondary (NT course)
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:-2.45pt;margin-bottom:
+  0in;margin-left:0in;line-height:normal">Result</p></td><td width="252" valign="top" style="width:189.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Name of student</p></td></tr><tr style="mso-yfti-irow:1"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:-2.45pt;margin-bottom:
+  0in;margin-left:0in;line-height:normal">Rank no. 2</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Jiang Zhouda (class 3/6)</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:-2.45pt;margin-bottom:
+  0in;margin-left:0in;line-height:normal">Rank no. 5</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Lucus Wong Xian Zhi (class 3/6)</p></td></tr></tbody></table>
+
+**Group category:**
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:-2.45pt;margin-bottom:
+  0in;margin-left:0in;line-height:normal">Result</p></td><td width="252" valign="top" style="width:189.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Name of student</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="108" valign="top" style="width:80.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:-2.45pt;margin-bottom:
+  0in;margin-left:0in;line-height:normal">Rank no. 1</p></td><td width="252" valign="top" style="width:189.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal">Jiang Zhouda, Lucus Wong Xian Zhi, Marchel (class 3/6)</p></td></tr></tbody></table>
+
+	
+##### 	**Subjects offered**
+Mathematics<br>
+Additional Mathematics <br>
+Computer Applications <br>
+Elements of Business Skills
 
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m14.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>SMO Junior Team </b>[from left]:
-Selina Lim (2 Adolphus), Miriam Leong (2 Noel), Sherene Liem (2 Noel), Nicolette Sin-Lin (2 Noel), Sundaravadivelu Vijya (2 Vincent), Lim Teck Siang (2 Raymond), Marcus Lim (2 Raymond), Ascelin Ong (2 Vincent), Gregory Goh (2 Raymond).</figcaption><br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/m15.jpg" style="width:70%;">  
-  
-</body>
-<figcaption style="text-align:center;"><b>SMO Senior Team </b>[from left]: Ang Kia Leng (3/1), Zhang Jiachen (3/1), Carrie Hee (3/1), Arun Amelia Sara (3/1), Stella Lynette Subagio (3/1), Koo Jayoon (3/1), Vic Chua Jun Yu (3/1) [not in photo], Grace Feng (4/1) [not in photo]. Jiachen was awarded a Bronze and Vic was awarded Honourable Mention.</figcaption><br>
+
+
+
+
+
+
+

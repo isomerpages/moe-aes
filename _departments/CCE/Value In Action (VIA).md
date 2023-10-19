@@ -27,8 +27,3 @@ Assumption English School uses a multi-prong approach in VIA based on:
 *   VIA contribution is recorded in their individual CCA-VIA records and used for LEAPS assessment of their CCA grade upon their graduation.
 *   Additional hours will be credited to students for VIA activities and other self-volunteering opportunities subjected to the proper documentation by the external organisations submitted to the VIA Committee for approval and recording.
 
-### [Boys' Town Flag Day](/departments/character-n-citizenship-education-cce/value-in-action-via/boys-town-flag-day/)
-
-### [St Gabriel's Foundation Flag Day](/departments/cce/value-in-action-via/st-gabriels-foundation-flag-day/)
-
-### [Level VIA](/departments/character-n-citizenship-education-cce/value-in-action-via/level-via/)

@@ -2,11 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/.keep
+      - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
-      - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
+      - English Language & Literature/Theatrical Experience.md
       - English Language & Literature/2021 Soiréé Under The Stars.md
+      - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Science/.keep
@@ -14,7 +15,6 @@ collections:
       - Science/Lower Secondary Science.md
       - Science/Science Experiential Projects (SEP).md
       - Science/Young Scientists Programme (YSP).md
-      - Science/AES Learning Festival.md
       - Science/Science Read.md
       - Humanities.md
       - Craft & Technology.md
