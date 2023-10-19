@@ -84,5 +84,5 @@ Below are some of external competitions and programmes that a student may take p
 *   International Science Drama Competition
 *   Science Communication for Community in Nature (CIN) Ambassadors (SCCA) programme
 *   Unity Scientific Innovation Challenge with SP &amp; ERI@N
-*   Youth Science Ambassador Programme @ Singapore Science Centre
-*   Work Attachment did.”_
+*    Youth Science Ambassador Programme @ Singapore Science Centre
+*   Work Attachment
