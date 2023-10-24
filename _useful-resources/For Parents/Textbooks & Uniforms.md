@@ -35,4 +35,3 @@ Please note that the books and stationery items required for the various streams
 
 Kindly take note the different sales dates for respective levels:
 ![Bookshop Collection Dates](/images/bookshop%20collection%20dates.JPG)
-
