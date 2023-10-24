@@ -18,9 +18,6 @@ sections:
         - title: AES School Prospectus 2023
           description: (Click HERE to for more info!)
           url: https://online.fliphtml5.com/dmscx/rpnl/
-  - resources:
-      title: Announcements
-      button: View more
   - infopic:
       title: OPEN HOUSE 2023
       subtitle: FOR P6 students & Parents!
@@ -35,4 +32,7 @@ sections:
       url: https://www.assumptionenglish.moe.edu.sg/
       image: /images/photo1697095032.jpeg
       alt: AES OPEN HOUSE (22-25 Nov)
+  - resources:
+      title: Announcements
+      button: View more
 ---
