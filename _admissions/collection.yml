@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - AES Open House 2022.md
       - faq.md
