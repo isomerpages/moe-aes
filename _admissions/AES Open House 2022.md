@@ -6,6 +6,10 @@ variant: markdown
 ---
 ![](/images/aes%20open%20house%202023.jpeg)
 
+# Did You Know?
+**Assumption English School is the only Catholic co-educational Secondary School in the West.**
+
+
 Whats sets AES apart from the other schools? Find out about our school programmes and learning environment at our Open House! 
 
 #AEyeS!
