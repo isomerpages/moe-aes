@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Dear students, as the year comes to a close, please enjoy reminiscing on 2023 programmes and events in our AES Annual (part of the BT Annual).
-https://go.gov.sg/aesannual23
+Dear students, as the year comes to a close, please enjoy reminiscing on 2023 programmes and events in our AES Annual (part of the BT Annual). <br>
+[https://go.gov.sg/aesannual23](https://go.gov.sg/aesannual23)
 
 Enjoy the holidays and keep safe!
