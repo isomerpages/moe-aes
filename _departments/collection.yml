@@ -2,13 +2,18 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Overview.md
+      - Mother Tongue Languages/MT Fortnight Programme.md
+      - Mother Tongue Languages/Chinese Language Programmes.md
+      - Mother Tongue Languages/Malay Language Programmes.md
+      - Mother Tongue Languages/MTL Extensive Reading Programme.md
       - English Language & Literature/.keep
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
       - English Language & Literature/Theatrical Experience.md
       - English Language & Literature/2021 Soiréé Under The Stars.md
       - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
-      - Mother Tongue Languages.md
       - Mathematics.md
       - Science/.keep
       - Science/Science.md

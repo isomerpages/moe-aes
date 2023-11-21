@@ -11,4 +11,3 @@ variant: markdown
 
 [Student Handbook 2023](https://drive.google.com/file/d/1EABwOTrPdDxcuiQoREOkTwDjSZ7a1kcj/view?usp=sharing)
 
-[Boys' Town Annual](https://go.gov.sg/aesannual23)
