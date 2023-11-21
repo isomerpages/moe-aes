@@ -29,7 +29,7 @@ sections:
 
         #AEyeS!
       button: Click HERE for more DETAILS
-      url: https://www.assumptionenglish.moe.edu.sg/
+      url: https://www.assumptionenglish.moe.edu.sg/useful-resources/for-parents/aes-open-house-2023/
       image: /images/photo1697095032.jpeg
       alt: AES OPEN HOUSE (22-25 Nov)
   - resources:
