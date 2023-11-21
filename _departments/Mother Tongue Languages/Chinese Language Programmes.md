@@ -15,7 +15,3 @@ In Term 4, our students also had the opportunity to meet and learn personally fr
 
 ![](/images/MT20.JPG)
 
-Canvas Board 
-MTF Programme, PERFORMANCE TASK (1 BOARD), 
-EXTENSIVE READING (1 BOARD)
-OTHER PROGRAMME(AUTHOR IN RESIDENCE, CPES, SEC 2 TASTER PROGRAMME, NEWS READING PROGRAMME ) 1 Board
