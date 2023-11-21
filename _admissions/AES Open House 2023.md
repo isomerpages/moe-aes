@@ -1,6 +1,6 @@
 ---
 title: AES Open House 2023
-permalink: /useful-resources/for-parents/aes-open-house-2022/
+permalink: /useful-resources/for-parents/aes-open-house-2023/
 description: ""
 variant: markdown
 ---
