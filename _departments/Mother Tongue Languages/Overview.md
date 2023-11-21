@@ -16,3 +16,4 @@ third_nav_title: Mother Tongue Languages
 
 **Subjects Offered**:
 ![](/images/MT2.JPG)
+*not applicable from 2024 Secondary 1 cohort onwards
