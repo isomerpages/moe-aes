@@ -2,7 +2,7 @@
 title: Lower Secondary Science
 permalink: /departments/science/lower-secondary-science/
 description: ""
-third_nav_title: Science
+variant: tiptap
 ---
 In Assumption English School, our Science teachers firmly believe that "Every student is creative" and "Every student is an innovator and a problem-solver". Apart from the traditionally strong and rigorous academic teaching and learning in class, the AES Lower Secondary Science curriculum enhance the learning experiences of the students by incorporating activities such as CSI (Creative Science Innovations / Investigations) and Science Experiential Projects (e.g: Water Filtration Project). Through these activities, we hope to promote interest, learning and creativity in Science through imaginative and enjoyable experiences.
 
@@ -92,4 +92,3 @@ img {
   
 
 <br>
-

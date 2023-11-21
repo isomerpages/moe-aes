@@ -2,7 +2,6 @@
 title: Science Read
 permalink: /departments/science/science-read/
 description: ""
-third_nav_title: Science
 ---
 ### Special Editions
 
@@ -59,11 +58,3 @@ third_nav_title: Science
 [What do Astronauts Eat In Space](/files/What%20do%20Astronauts%20Eat%20In%20Space.pdf)<br>
 [What is our galaxy all about](/files/What%20is%20our%20galaxy%20all%20about.pdf)<br>
 [Why we should go to Space](/files/Why%20we%20should%20go%20to%20Space%20.pdf)
-
-
-
-
-
-
-
-

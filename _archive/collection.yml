@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Science Read.md
+      - Lower Secondary Science.md

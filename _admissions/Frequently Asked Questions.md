@@ -1,6 +1,8 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 permalink: /faq/
+variant: tiptap
+description: ""
 ---
 ### **FAQ**
 
@@ -48,7 +50,7 @@ This is the indicative PSLE AL range for our school.
 
   
 
-Do note that the above are only indicative AL range. The actual range depends on the new cohort of admissions and may vary.
+Do note that the above are only indicative AL&nbsp;range.&nbsp;The actual range depends on the new cohort of admissions and may vary.
 
   
 
@@ -56,7 +58,7 @@ Do note that the above are only indicative AL range. The actual range depends 
 
   
 
-The core subjects offered are the same as all government schools. For Lower Secondary students, English, MT, Math and Science, History and Geography, as well as coursework subjects like Art, D&T and F&N. English Literature is infused into English Language lessons and are known as Language Arts in AES. Students will learn language skills and go through critical analysis of literary classics in their English lessons.
+The core subjects offered are the same as all government schools. For Lower Secondary students, English, MT, Math and Science, History and Geography, as well as coursework subjects like Art, D&amp;T and F&amp;N. English Literature is infused into English Language lessons and are known as Language Arts in AES. Students will learn language skills and go through critical analysis of literary classics in their English lessons.
 
   
 
