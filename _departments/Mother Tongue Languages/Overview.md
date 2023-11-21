@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /departments/mother-tongue-languages/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
