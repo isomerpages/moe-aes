@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Overview/Mother Tongue Languages.md
-      - Overview/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/.keep
       - English Language & Literature/.keep
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
