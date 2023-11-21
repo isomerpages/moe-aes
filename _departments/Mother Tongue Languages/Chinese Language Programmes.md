@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Programmes
-permalink: /departments/mother-tongue-languages/permalink/
+permalink: /departments/mother-tongue-languages/chinese-language-programmes/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages
@@ -14,4 +14,3 @@ This year, secondary one students were fortunate to participate in the Chinese C
 In Term 4, our students also had the opportunity to meet and learn personally from renowned local writer 蔡志礼博士 Dr Chua Chee Lay for the Author-in-Residence Programme. The programme focusses particularly on the development of creative writing skills and promoting a love and appreciation of Chinese literature among students.
 
 ![](/images/MT20.JPG)
-
