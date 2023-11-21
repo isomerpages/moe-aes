@@ -3,7 +3,10 @@ title: Science
 permalink: /departments/science/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
+![Science](/images/22_science_department___Copy.JPG)
+
 In Assumption English School, the Science Department aims to achieve the following:  
 
 *   To ignite students’ passion in the learning of Science through authentic learning.
@@ -31,5 +34,3 @@ Click on the link below to access the Science Curriculum Site!
 * Biology<br>
 * Chemistry<br>
 * Physics
-
-
