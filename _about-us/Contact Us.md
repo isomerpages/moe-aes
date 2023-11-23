@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-aes/contact-us/
 description: ""
+variant: markdown
 ---
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.35792849802!2d103.76641!3d1.369308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4370f9e9f5e611d2!2sAssumption%20English%20School!5e0!3m2!1sen!2ssg!4v1668520278907!5m2!1sen!2ssg"></iframe>
 
@@ -14,8 +15,7 @@ Singapore 678117
 **School Operating Time:** <br>
 6:30 a.m. to 6:30 p.m. <br>
 (Monday to Friday) <br>
-Please note that the school operating hours for the period 5 Jun to 19 Jun 2023 will be from 0730 to 1730 hrs
-  
+During the school holidays, school office will close at 5.30pm from 27 Nov till 22 Dec 2023.  
 
 **Bus Services:** <br>
 67, 170, 170A, 176, 178, 961, 961M, 963, 970
