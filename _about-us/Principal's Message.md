@@ -16,7 +16,7 @@ As a Catholic mission school, we believe that character strength is an important
 
 **Strength in preparing every student for the future**
 
-We are committed to preparing every student for the future with our forward-looking curriculum. &nbsp;Our students find the motivation to do well in life as they go through the well-designed educational experiences at AES. Notably, our Learning for Life Programme (LLP), the Dinan Leadership Programme provides opportunities for students to develop leadership and 21st Century Skills through service learning. We also harness technology to enhance classroom experiences and 21st Century Competencies of our students. We will continue to invest time and resources to equip our teachers and empower our students.
+We are committed to preparing every student for the future with our forward-looking curriculum. Our students find the motivation to do well in life as they go through the well-designed educational experiences at AES. Notably, our Learning for Life Programme (LLP), the Dinan Leadership Programme provides opportunities for students to develop leadership and 21st Century Skills through service learning. We also harness technology to enhance classroom experiences and 21st Century Competencies of our students. We will continue to invest time and resources to equip our teachers and empower our students.
 
 **Labor Omnia Vincit – Through work achieve success.**
 
