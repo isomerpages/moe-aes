@@ -6,7 +6,7 @@ variant: markdown
 ---
 **Together, from Strength to Strength - Labor Omnia Vincit**
 
-I would like to express our gratitude to Mr Benjamin Kwok for his exceptional leadership of the school from 2018 to 2023.&nbsp; We wish him all the best as he embarks on his next leadership journey as principal of Crest Secondary School.
+I would like to express our gratitude to Mr Benjamin Kwok for his exceptional leadership of the school from 2018 to 2023. We wish him all the best as he embarks on his next leadership journey as principal of Crest Secondary School.
 
 As we begin a new academic year, I am reminded of the sense of togetherness that has brought our school to where it is today. Last year, we celebrated our 70th anniversary, and I am grateful to the many stakeholders who have contributed to our success over the years. With the continued support and love of everyone, I am confident that our school will continue to grow from strength to strength.
 
