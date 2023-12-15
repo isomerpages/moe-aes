@@ -2,10 +2,11 @@
 title: Organisation Chart
 permalink: /about-aes/organisation-chart/
 description: ""
+variant: markdown
 ---
 | **Name** | **Designation** | 
 | -------- | -------- | 
-| Mr Benjamin Kwok | Principal | 
+| Mr Vincent Toh | Principal | 
 |Ms Wong Ker Sin    | Vice Principal     | 
 | Mr Brian Tan Weiming  | Vice Principal      | 
 | Mr Quek Ser Hiang  | Vice Principal (Administration)    | 
@@ -14,7 +15,6 @@ description: ""
 |Mrs Chong-Kee Chay Hoon   | HOD Mathematics    | 
 | Mr Dennis Wang Yingquan | HOD Science     | 
 | Mr Taufeeq Affandey | HOD Craft & Technology   | 
-| Ms Tang Shien Yin    | HOD Humanities    | 
 | Mr Ng Shi Han    |  HOD Character & Citizenship Education    | 
 | Mr Balbinder Singh   |  HOD Physical Education & CCA     | 
 | Mr Loh Choong Seng  | School Staff Developer     | 
@@ -37,4 +37,4 @@ description: ""
 
 | **Name** | **Designation**|
 | -------- | -------- | 
-| Mr Arumugam Kaliappan| Operation Manager  |
+| Mr Arumugam Kaliappan| Operation Manager |
