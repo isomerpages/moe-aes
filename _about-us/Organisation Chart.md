@@ -37,4 +37,4 @@ variant: markdown
 
 | **Name** | **Designation**|
 | -------- | -------- | 
-| Mr Arumugam Kaliappan| Operation Manager  |
+| Mr Arumugam Kaliappan| Operation Manager |
