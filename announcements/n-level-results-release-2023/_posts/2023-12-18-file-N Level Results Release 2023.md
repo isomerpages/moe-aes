@@ -1,5 +1,5 @@
 ---
-title: (Administrative Matters) N Level Results Release 2023
+title: N Level Results Release 2023
 date: 2023-12-18
 layout: file
 description: ""
