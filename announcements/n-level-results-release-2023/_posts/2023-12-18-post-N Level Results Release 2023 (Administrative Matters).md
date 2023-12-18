@@ -1,5 +1,5 @@
 ---
-title: (Administrative Matters)
+title: N Level Results Release 2023 (Administrative Matters)
 permalink: /announcements/n-level-results-release-2023/permalink/
 date: 2023-12-18
 layout: post
