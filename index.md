@@ -21,18 +21,4 @@ sections:
   - resources:
       title: Announcements
       button: View more
-  - infopic:
-      title: OPEN HOUSE 2023
-      subtitle: FOR P6 students & Parents!
-      id: infopic
-      description: >-
-        Whats sets AES apart from the other schools? Find out about our school
-        programmes and learning environment at our Open House! 
-
-
-        #AEyeS!
-      button: Click HERE for more DETAILS
-      url: https://www.assumptionenglish.moe.edu.sg/useful-resources/for-parents/aes-open-house-2023/
-      image: /images/photo1697095032.jpeg
-      alt: AES OPEN HOUSE (22-25 Nov)
 ---
