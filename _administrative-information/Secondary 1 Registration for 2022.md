@@ -16,8 +16,8 @@ Please look through the following information to prepare yourself as an up-and-c
 4.	**Read through the [information kit](/files/Sec_1_Registration_Info_Kit_2024_FINAL.pdf)** for more administrative information.
 5.	For students who are offered Higher Mother Tongue Language and Subject-Based Banding (SBB), the school will contact you separately. Students who accept the SBB offer should purchase the correct books for the stream.
 6.	Other useful links: 
-* [**Annex A**](/files/Annex_A__Assumption_English_School_Booklist_2024_Sec_1.pdf) – Uniform and Book Purchase Details
-* [**Annex B**](/files/Annex_B__egiro_user_guide.pdf) – User guide for eGiro Application
+* [Annex A](/files/Annex_A__Assumption_English_School_Booklist_2024_Sec_1.pdf) – Uniform and Book Purchase Details
+* [Annex B](/files/Annex_B__egiro_user_guide.pdf) – User guide for eGiro Application
 7.	For general enquiries, please contact the school at 6572 9100 or email us at [aes@moe.edu.sg](aes@moe.edu.sg).
 
 #### Appeal for transfer due to serious medical conditions
