@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-aes/school-management-committee/
 description: ""
 third_nav_title: School Management Committee
+variant: markdown
 ---
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/peYF44D9Gc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
@@ -19,7 +20,7 @@ third_nav_title: School Management Committee
 | 1    | BERNARD GOH     | CHAIRMAN     |
 | 2    |  DOMINIC YEO KOH TUAN KIOK   | SUPERVISOR     |
 | 3     |TEO CHEOW TONG   | TREASURER     |
-| 4    | KWOK CHIN POH BENJAMIN    | SECRETARY     |
+| 4    | VINCENT TOH    | SECRETARY     |
 | 5    | CHUA CHEN HOW   | MEMBER     |
 | 6     |KHAW GIM HONG     |MEMBER     |
 | 7    | LAWRENCE CHONG    | MEMBER    |
