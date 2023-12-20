@@ -24,4 +24,4 @@ Please look through the following information to prepare yourself as an up-and-c
 Students who would like to request for a school transfer due to medical reasons will need to submit their appeal at the posted secondary school (AES) in person on **21 December 2023, from 8.30 a.m. to 11 a.m**. Parents are to call the general office at 6572 9100 to make an appointment to submit the appeal in person.
 
 #### Online Appeal Application to Assumption English School
-Parents may appeal to transfer to AES for various reasons. You may download and complete the [appeal application form](/files/Online_Appeal_to_AES_Form.pdf) and submit the application together with supporting documents via email to aes@moe.edu.sg by 22 December 2023, 5.00 p.m.
+Parents may appeal to transfer to AES for various reasons. You may download and complete the [appeal application form](/files/Online_Appeal_to_AES_Form.pdf) and submit the application together with supporting documents via email to [aes@moe.edu.sg](aes@moe.edu.sg) **by 22 December 2023, 5.00 p.m.**
