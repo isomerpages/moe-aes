@@ -2,6 +2,7 @@ collections:
   administrative-information:
     output: true
     order:
+      - Secondary One Registration for 2024.md
       - Textbooks & Uniforms.md
       - Secondary 2 Subject Allocation Exercise 2023.md
       - Graduation Day 2021.md
