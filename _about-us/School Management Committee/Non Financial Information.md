@@ -3,6 +3,7 @@ title: Non Financial Information
 permalink: /about-aes/school-management-committee/non-financial-information/
 description: ""
 third_nav_title: School Management Committee
+variant: markdown
 ---
 <h4 style="color:blue" align="center">Assumption English School</h4>
 <p style="text-align:center;">Non-Financial Information</p>
@@ -46,7 +47,7 @@ To realise the school's vision to produce 'Men and Women of Character and Learni
 | 1    | BERNARD GOH     | CHAIRMAN     |
 | 2    |  DOMINIC YEO KOH TUAN KIOK   | SUPERVISOR     |
 | 3     |TEO CHEOW TONG   | TREASURER     |
-| 4    | KWOK CHIN POH BENJAMIN    | SECRETARY     |
+| 4    | VINCENT TOH    | SECRETARY     |
 | 5    | CHUA CHEN HOW   | MEMBER     |
 | 6     |KHAW GIM HONG     |MEMBER     |
 | 7    | LAWRENCE CHONG    | MEMBER    |
