@@ -11,7 +11,7 @@ Please look through the following information to prepare yourself as an up-and-c
 #### What's next?
 
 1.	Parents/guardians will receive a welcome letter/message on **Parents Gateway on 21 Dec 2023**. 
-2.	Please click **[HERE](https://form.gov.sg/638007c1e5a2f1001208ead0)** to **register your child/ward by 23 Dec 2023, 5 p.m**.
+2.	Please click **[HERE](https://form.gov.sg/638007c1e5a2f1001208ead0)** to **register your child/ward by 22 Dec 2023, 5 p.m**.
 3.	Parents/guardians can also **book a slot for books and uniform purchase** via the link **[https://asenciobookshop.sg/](https://asenciobookshop.sg/)**. Purchases of books and uniforms are also available in the school bookshop. The school bookshop is open from Mondays to Friday from 9.00 a.m. to 3.00 p.m.
 4.	**Read through the [information kit](/files/Sec_1_Registration_Info_Kit_2024_FINAL.pdf)** for more administrative information.
 5.	For students who are offered Higher Mother Tongue Language and Subject-Based Banding (SBB), the school will contact you separately. Students who accept the SBB offer should purchase the correct books for the stream.
