@@ -2,6 +2,7 @@
 title: Teaching Staff
 permalink: /about-aes/teaching-staff/
 description: ""
+variant: markdown
 ---
 <p style="text-align:center;">Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.</p>
 
@@ -14,36 +15,36 @@ description: ""
 
 |_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
-| Level 1| Assistant Year Head| Mr Alam Bin Naser   |
-| Level 1    | Level Academic Supervisor    | &nbsp;Mrs Ong Hsia Li     |
-| Level 1   | &nbsp;Student Management Teacher     | Mr Chan Keng Kok   |
-| 1 Vincent     |Form Teacher  | Ms Kong Yean Ha   |
-| 1 Vincent   | Form Teacher  | Miss Valerie Co     |
-| 1 Adolphus   | Form Teacher    | Mr Tan Kwang Chee   |
-| 1 Adolphus   | Form Teacher  | Mr Alvin Lee     |
-| 1 Raymond   | Form Teacher  | Mr Muhammad Hasanul Arifin   |
-| 1 Raymond    |Form Teacher     | Ms Wang Lee Keow   |
-| 1 Emmanuel  | Form Teacher     | Mr Foo Kok Jame   |
-|1 Emmanuel     | Form Teacher     | Miss Charmaine Tay   |
-|1 Noel  | Form Teacher     |Mdm Sumiate Hassan   |
-| 1 Noel  | Form Teacher     | Mr Ong Kong Sing  |
-| 1 George     | Form Teacher   | Ms Nadhirah Zainuddin   |
-| 1 George     | Form Teacher    | &nbsp;Mr Derek Hum   |
-| Level 2   | Assistant Year Head| Ms Sheryl Kaur     |
-| Level 2    | Level Academic Supervisor   | Ms Yin Na   |
-| Level 2   |Student Management Teacher   | Miss Siti Nur Nabilah |
-| 2 Vincent     |Form Teacher    | Ms Rossellini Tan Yeling   |
-| 2 Vincent     |Form Teacher    | Mr Paventhren S/O Kanagarethinan   |
-| 2 Adolphus     | Form Teacher    | Mr Leet Tagore     |
-| 2 Adolphus     | Form Teacher    | Mr Jared Tan Hong Jie     |
-| 2 Raymond | Form Teacher     |Miss Siti Mardia |
-| 2 Raymond | Form Teacher     |Mr Ten Cherk Ping |
-| &nbsp;2 Emmanuel     | Form Teacher     | Ms Meera Devi  |
-|&nbsp;2 Emmanuel  | Form Teacher     | Miss Ng Wen Xin |
-| 2 Noel     | Form Teacher     | Ms Valerie Chan    |
-| 2 Noel    | Form Teacher     | Mr Arnold Teo   |
-| 2 George     | Form Teacher    | Mr Nor Mohammad Isa   |
-| 2 George   | Form Teacher    | Miss Huang Meiting  |
+|Lower Sec|Year Head|Ms Sheryl Kaur|
+|Level 1|Level Academic Supervisor|Mr Lee Wung Yew|
+|Level 1|Student Management Teacher|Mr Muhd Sadik|
+|1 Vincent|Form Teacher|Mr Jared Tan Hong Jie|
+|1 Vincent|Form Teacher|Miss Siti Aisyah|
+|1 Adolphus|Form Teacher|Mr Arnold Teo|
+|1 Adolphus|Form Teacher|Miss Shannon Low|
+|1 Raymond| Form Teacher|Mr Paventhren S/O Kanagarethinan|
+|1 Raymond|Form Teacher|Miss Cynthia Wong|
+|1 Emmanuel|Form Teacher|Mr Leet Tagore|
+|1 Emmanuel| Form Teacher|Miss Nurin Huda|
+|1 Noel|Form Teacher|Miss Seet Yoke Chee|
+|1 Noel|Form Teacher|Miss Ng Wen Xin|
+|1 George|Form Teacher|Miss Huang Meiting|
+|1 George|Form Teacher|Miss Adeline Tay|
+|Level 2|Level Academic Supervisor|Miss Ong Hsia Li|
+|Level 2|Student Management Teacher|Mr Chan Keng Kok|
+|2 Vincent|Form Teacher|Miss Kong Yean Ha|
+|2 Vincent|Form Teacher|Miss Valerie Co|
+|2 Adolphus|Form Teacher|Mr Tan Kwang Chee|
+|2 Adolphus|Form Teacher|Mr Alvin Lee|
+|2 Raymond|Form Teacher|Mr Muhammad Hasanul Arifin|
+|2 Raymond|Form Teacher|Miss Wang Lee Keow|
+|2 Emmanuel|Form Teacher|Mr Foo Kok Jame|
+|2 Emmanuel|Form Teacher|Miss Charmaine Tay|
+|2 Noel|Form Teacher|Mdm Sumiate Hassan|
+|2 Noel|Form Teacher|Mr Ong Kong Sing|
+|2 George|Form Teacher|Miss Nadhirah Zainuddin|
+|2 George|Form Teacher|Mr Derek Hum|
+
 	
 	
 	
@@ -53,22 +54,26 @@ description: ""
 
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
-| Upper Sec| Year Head     | Ms Tan Wee Lin   |
-| Level 3   | Level Academic Supervisor    | &nbsp;Mrs Diana Norman|
-| Level 3  | &nbsp;Student Management Teacher     | Ms Feline Tong|
-| 3/1  |Form Teacher  | Ms Lim Zi Xin   |
-| 3/2   | Form Teacher  | Miss Denise Lee |
-| 3/3  | Form Teacher    | Ms Lilian Li   |
-| 3/3  | Form Teacher    | Ms Monisha Kaur  |
-| 3/4   | Form Teacher  | Mr Joshua Yeo  |
-| 3/5   | Form Teacher  | Mr Aravind   |
-| 3/6  | Form Teacher  | Mr Jacob Woo   |
-| Level 4    | Level Academic Supervisor   | Miss Lee Wenting|
-| Level 4   |Student Management Teacher   | Mr Sadik |
-| 4/1    |Form Teacher    | Mr Lim Ding Han  |
-| 4/2   | Form Teacher    | Ms Seet Yoke Chee    |
-| 4/3 | Form Teacher     |Ms Cryst Tan |
-| &nbsp;4/4    | Form Teacher     | Ms Shereen Ling |
-|&nbsp;4/5 | Form Teacher     | Ms Atikah Saad|
-| 4/6 | Form Teacher     | Ms Azra Zaheera  |
-| 5/1 | Form Teacher    | &nbsp;Miss Suann Sim  |
+|Upper Sec|Year Head| Ms Tan Wee Lin|
+|Level 3|Level Academic Supervisor|Miss Yin Na|
+|Level 3|Student Management Teacher|Miss Siti Nur Nabilah |
+|3/1|Form Teacher|Miss Rossellini Tan Yeling|
+|3/1|Form Teacher|Miss Ummahani Binte Nur Badren|
+|3/2|Form Teacher|Ms Atikah Sa'ad|
+|3/3|Form Teacher|Ms Meera Devi|
+|3/4|Form Teacher|Miss Siti Mardia|
+|3/4|Form Teacher|Miss Shereen Ling|
+|3/5|Form Teacher|Miss Valerie Chan|
+|3/5|Form Teacher|Mr Lim Ding Han|
+|3/6|Form Teacher|Mr Nor Isa|
+|3/6|Form Teacher|Miss Suann Sim|
+|Level 4|Level Academic Supervisor|Mrs Diana Norman|
+|Level 4|Student Management Teacher|Ms Feline Tong|
+|4/1|Form Teacher|Miss Lim Zi Xin|
+|4/2|Form Teacher|Miss Denise Lee|
+|4/3|Form Teacher|Miss Lilian Li|
+|4/4|Form Teacher|Mr Joshua Yeo|
+|4/5|Form Teacher|Mr Aravind|
+|4/6|Form Teacher|Mr Jacob Woo|
+|4/6|Form Teacher|Miss Azra Zaheera|
+|5/1|Form Teacher|Miss Cryst Tan|
