@@ -8,17 +8,17 @@ variant: markdown
 | -------- | -------- | 
 | Mr Vincent Toh | Principal | 
 |Ms Wong Ker Sin    | Vice Principal     | 
-| Mr Brian Tan Weiming  | Vice Principal      | 
+| Mr Brian Tan Weiming  | Vice Principal  | 
 | Mr Quek Ser Hiang  | Vice Principal (Administration)    | 
 | Ms Phay Ee Lyn    | HOD English Language    | 
 |Ms Siti Noordiana    | HOD Mother Tongue Language    | 
-|Mrs Chong-Kee Chay Hoon   | HOD Mathematics    | 
 | Mr Dennis Wang Yingquan | HOD Science     | 
 | Mr Taufeeq Affandey | HOD Craft & Technology   | 
 | Mr Ng Shi Han    |  HOD Character & Citizenship Education    | 
 | Mr Balbinder Singh   |  HOD Physical Education & CCA     | 
-| Mr Loh Choong Seng  | School Staff Developer     | 
+| Mrs Chong-Kee Chay Hoon  | School Staff Developer     | 
 | Ms Tan Wee Lin   | Year Head (Upper Sec)| 
+| Ms Sheryl Kaur    | Year Head (Lower Sec)| 
 
 
 | **Name** | **Designation**|
@@ -31,8 +31,7 @@ variant: markdown
 |  Ms Natalie Han    | Subject Head English Literature  | 
 |  Ms Camille Koh Eng Guan    | Subject Head Aesthetics | 
 | Ms Fasihah Bte Rahmat| Subject Head Student Wellbeing     | 
-| Mr Alam Bin Naser    | Assistant Year Head (Sec 1)   | 
-| Ms Sheryl Kaur     | Assistant Year Head (Sec 2)   | 
+| Mr Alam Bin Naser    | Subject Head Special Project  | 
 
 
 | **Name** | **Designation**|
