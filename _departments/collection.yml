@@ -1,0 +1,30 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Overview.md
+      - Mother Tongue Languages/MT Fortnight Programme.md
+      - Mother Tongue Languages/Chinese Language Programmes.md
+      - Mother Tongue Languages/Malay Language Programmes.md
+      - Mother Tongue Languages/MTL Extensive Reading Programme.md
+      - English Language & Literature/.keep
+      - English Language & Literature/Applied Learning Programme.md
+      - English Language & Literature/ALP Productions.md
+      - English Language & Literature/Theatrical Experience.md
+      - English Language & Literature/2021 Soiréé Under The Stars.md
+      - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
+      - Mathematics.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Science Experiential Projects (SEP).md
+      - Science/Young Scientists Programme (YSP).md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education (PE).md
+      - Information Communication Technology (ICT).md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Value In Action (VIA).md
+      - CCE/Monfortian Achievers' Programme (MAP).md
+      - CCE/Edusave Character Award 2023.md

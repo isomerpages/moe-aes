@@ -1,0 +1,7 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Mother Tongue Languages.md
+      - Science Read.md
+      - Lower Secondary Science.md

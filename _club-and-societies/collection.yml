@@ -1,0 +1,7 @@
+collections:
+  club-and-societies:
+    output: true
+    order:
+      - English Language Drama and Debate Society.md
+      - Green Club.md
+      - Young Montfortian Associates.md

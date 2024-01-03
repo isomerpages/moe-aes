@@ -1,0 +1,12 @@
+logo: /images/AES logo 2.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: Student Development
+    collection: student-development
+  - title: Useful Resources
+    collection: useful-resources
+  - title: Admissions
+    collection: admissions

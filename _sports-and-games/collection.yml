@@ -1,0 +1,9 @@
+collections:
+  sports-and-games:
+    output: true
+    order:
+      - Basketball.md
+      - Floorball (Boys).md
+      - Judo.md
+      - Football (Boys).md
+      - Softball (Girls).md
