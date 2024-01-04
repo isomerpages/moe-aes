@@ -13,5 +13,4 @@ variant: markdown
 Dear students, please click the link below to access the following:  
 
 **1\. Timetable for Semester 1**
-
-[AES 2024 Semester 1 Timetable (Classes)_28 Dec](/files/AES_2024_Semester_1_Timetable__Classes__28_Dec.pdf)
+[AES 2024 Semester 1 Timetable](/files/AES_2024_SEM1_FINAL_BY_CLASS__4Jan_.pdf)
