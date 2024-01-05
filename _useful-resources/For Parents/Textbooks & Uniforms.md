@@ -3,13 +3,17 @@ title: Textbooks & Uniforms
 permalink: /useful-resources/for-students/administrative-information/textbooks-n-uniforms/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
 ##### **School Bookshop and Uniform Operating Hours**
 School Bookshop is located at Level 2, Canteen.
 
-**Monday to Friday:** <br> 
-9:00am to 3:00pm
+**Monday to Thursday:** <br> 
+8:30am to 3:00pm
+
+**Friday:** <br> 
+8:30am to 2:30pm
 
 **FAS Redemption Period:** <br>
 4 December 2023 to 8 December 2023
