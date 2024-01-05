@@ -1,6 +1,6 @@
 ---
 title: Straits Times School Pocket Money Fund (STSPMF) Application for Secondary 1
-permalink: /useful-resources/for-parents/permalink/
+permalink: /useful-resources/for-parents/syspmf-application/
 variant: tiptap
 description: ""
 third_nav_title: For Parents
