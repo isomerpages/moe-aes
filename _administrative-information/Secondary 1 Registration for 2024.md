@@ -20,7 +20,7 @@ Please look through the following information to prepare yourself as an up-and-c
 2.	Please click **[HERE](https://form.gov.sg/654d98609520f100128d84b2)** to **register your child/ward by 22 Dec 2023, 5 p.m**.
 3.	**Read through the [information kit](/files/Sec_1_Registration_Info_Kit_2024_FINAL.pdf)** for key administrative information on various matters.
 4.	Parents/guardians can also **book a slot for books and uniform purchase** via the link **[https://asenciobookshop.sg/](https://asenciobookshop.sg/)**. <br>
-Purchases of books and uniforms are also available in the school bookshop. The school bookshop is open from Mondays to Friday from 9.00 a.m. to 3.00 p.m.
+Purchases of books and uniforms are also available in the school bookshop. The school bookshop is open from Mondays to Thursdays from 8.30 a.m. to 3.00 p.m, Friday from 8.30a.m. to 2.30p.m.
 5.	If your child/ward is eligible to take a higher-level subject (subject at a more demanding level), a Parent Gateway form will be sent to you separately. 
 6.	Other useful links: 
 * [Annex A](/files/Annex_A__Assumption_English_School_Booklist_2024_Sec_1.pdf) – Uniform and Book Purchase Details
