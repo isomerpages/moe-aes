@@ -2,6 +2,7 @@
 title: Blended Learning
 permalink: /useful-resources/blended-learning/
 description: ""
+variant: markdown
 ---
 Dear Parent/ Guardian,  
   
@@ -18,18 +19,11 @@ Blended Learning provides an educational experience for our students through the
   
 AES will be embarking on Blended Learning every fortnight.  
   
-**Please see the confirmed Blended Learning dates for 2023:**  
+**Please see the confirmed Blended Learning dates for 2024:**  
 
 Term 1:
-<img style="width:80%" src="/images/Blended%20Learning%20dates%20for%20Term%201%202023.png">
+<img style="width:80%" src="/images/Term_1.png">
   
-Term 2:
-<img style="width:80%" src="/images/BL%20Term%202.png">
-
-Term 3:
-![](/images/term%203%20blended%20learning.JPG)
-
-	
 **On the days for Blended Learning,**  
 • students are not required to report to school  
 • the details on Blended Learning can be found on the school website  
@@ -56,7 +50,7 @@ Students will embark on Students Initiated Learning (SIL) on Blended Learning da
 • Secondary 2:&nbsp;[**go.gov.sg/aesblsec2**](http://go.gov.sg/aesblsec2)  
 • Secondary 3:&nbsp;[**go.gov.sg/aesblsec3**](http://go.gov.sg/aesblsec3)  
 • Secondary 4 &amp; 5:&nbsp;[**go.gov.sg/aesblsec4**](http://go.gov.sg/aesblsec4)  
-3)Student Initiated Learning:&nbsp;[**go.gov.sg/aessil**](http://go.gov.sg/aessil)  
+3)Student Initiated Learning:&nbsp;[**for.edu.sg/aessil**](http://for.edu.sg/aessil)  
 4)School website:&nbsp;[**https://assumptionenglish.moe.edu.sg**](https://assumptionenglish.moe.edu.sg/)  
   
 For any queries, please call the&nbsp;**General Office at 6572 9100**. Thank you.
