@@ -15,27 +15,18 @@ Singapore 678117
 **School Operating Time:** <br>
 6:30 a.m. to 6:30 p.m. <br>
 (Monday to Friday) <br>
-During the school holidays, school office will close at 5.30pm from 27 Nov till 22 Dec 2023.  
 
 **Bus Services:** <br>
 67, 170, 170A, 176, 178, 961, 961M, 963, 970
 
-  
-
 **Nearest MRT Station:** <br>
 Cashew Station (Downtown Line 2)
-
-  
 
 **Main Line:** <br>
 6572 9100 (General Office)
 
-  
-
 **Fax:** <br>
 6763 6560
-
-  
 
 **Email:** <br>
 aes@moe.edu.sg
