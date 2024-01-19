@@ -9,12 +9,6 @@ variant: markdown
 
 <br>
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PHZwNo3nlqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-<br>
-
-
-
 | No. | AES SMC (April 2023 - Mar 2026) | Role |
 | -------- | -------- | -------- |
 | 1    | BERNARD GOH     | CHAIRMAN     |
