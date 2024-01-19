@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - AES e Manna.md
       - Principal's Message.md
       - Assumption's Identity/Mission and Vision.md
       - Assumption's Identity/School Values.md
