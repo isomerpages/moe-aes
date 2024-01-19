@@ -2,6 +2,7 @@
 title: Highlights
 permalink: /about-aes/highlights/
 description: ""
+variant: markdown
 ---
 August 2021
 -----------
@@ -10,7 +11,7 @@ August 2021
 
   
 
-This year’s NDP theme is ‘Together Our Singapore Spirit’ 
+This year’s NDP theme is ‘Together Our Singapore Spirit’&nbsp;
 
   
 
@@ -20,33 +21,21 @@ This year’s NDP theme is ‘Together Our Singapore Spirit’ 
 
 ‘Our Singapore Spirit’ calls on Singaporeans to draw new strength from our “can-do” spirit amidst challenging circumstances from COVID-19 and potential disruptions in the new decade. We look to reinvigorate the Singapore Spirit - encouraging Singaporeans to embrace a “dare-to-try” attitude, and reinvent to overturn our natural and geographical constraints.
 
-<p style="text-align:center;"><em>AES NDP Finale Video  - Our hopes and aspirations</em></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/nfPY2JQsyUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p style="text-align:center;">AES Wave</p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VZsWi5Z5P3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p style="text-align:center;">AES @ TeamSG</p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/KvePT4nE8AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
 <p style="text-align:center;">Red Cross Youths - Spirit of Resilience</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/0PRrD-__sBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/0PRrD-__sBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">National Cadet Corps (Sea) - Spirit of Resilience</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eP1MeAKqfhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eP1MeAKqfhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">National Police Cadet Corps - Spirit of Resilience and Hope</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N8eFKHTm_jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N8eFKHTm_jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Girl Guides - Spirit of Unity</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-E5tFwYKyEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-E5tFwYKyEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 July 2021
 ---------
@@ -55,13 +44,13 @@ July 2021
 
 This year, we invited some of our staff to share their experiences when serving NS. Some have also shared their experiences as parents, when their sons served NS.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/od3f-oNw2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/od3f-oNw2Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **<u>Racial Harmony Day - Common Spaces, Connected Communities</u>**
 
   
 
-Made of hexagonal cells, a honeycomb is built by honey bees to contain larvae and store honey & pollen. The hexagonal shape of the cells give the honeycomb added strength, and allow the cells to be connected easily – Connected communities.
+Made of hexagonal cells, a honeycomb is built by honey bees to contain larvae and store honey &amp; pollen. The hexagonal shape of the cells give the honeycomb added strength, and allow the cells to be connected easily – Connected communities.
 
   
 
@@ -78,11 +67,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:50%;">  
+<img src="/images/July%209.jpeg" alt="Our AES Honeycomb" style="width:50%;">  
   
-</body>
 
-Back by popular demand, the Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure. 
+
+Back by popular demand, the Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure.&nbsp;
 
   
 
@@ -112,10 +101,10 @@ Our Virtual Open House will be on YouTube Live on the following days:
 
   
 
-*   **Thursday, 26 November:** [https://youtu.be/EkzcNoxpae0](https://youtu.be/EkzcNoxpae0)  
+*   **Thursday, 26 November:**&nbsp;[https://youtu.be/EkzcNoxpae0](https://youtu.be/EkzcNoxpae0)  
       
     
-*   **Friday, 27 November:** [https://youtu.be/LfJaudHFG3c](https://youtu.be/LfJaudHFG3c)  
+*   **Friday, 27 November:**&nbsp;[https://youtu.be/LfJaudHFG3c](https://youtu.be/LfJaudHFG3c)  
       
     
 *   **Saturday, 28 November (AM session):**  
@@ -128,7 +117,7 @@ Our Virtual Open House will be on YouTube Live on the following days:
 
   
 
-For more information, please head over to our microsite: <br>
+For more information, please head over to our microsite:&nbsp;<br>
 **[https://sites.google.com/moe.edu.sg/aes-openhouse20/home](https://sites.google.com/moe.edu.sg/aes-openhouse20/home)**
 
 November 2020
@@ -152,9 +141,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/QR%20Code.png" alt="QR Code" style="width:30%;">  
+<img src="/images/QR%20Code.png" alt="QR Code" style="width:30%;">  
   
-</body>
+
 
 Our AssumptionKnights have contributed in their own ways, by creating posters and videos to raise awareness of this fund-raising event.
 
@@ -163,12 +152,8 @@ Our AssumptionKnights have contributed in their own ways, by creating posters an
 <em>Boys’ Town Virtual Flag Day video by our AssumptionKnights<br>
 Wei Yang, Qijun, Lucas, Ernest and Paven from 2/2, 2020.</em>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-3qEZUE8B24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/-3qEZUE8B24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
-October 2020
-------------
-
-Coming Soon!  
 
 September 2020
 --------------
@@ -182,9 +167,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Theme.png" alt="Cherminate Theme" style="width:80%;">  
+<img src="/images/Theme.png" alt="Cherminate Theme" style="width:80%;">  
   
-</body>
+
 
 <p style="text-align:center;">According to the theme, our student leaders designed and prepared meaningful invitation cards to invite teachers for the occasion.</p>
 
@@ -195,9 +180,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cherminate%201.jpeg" alt="Cherminate" style="width:70%;">  
+<img src="/images/Cherminate%201.jpeg" alt="Cherminate" style="width:70%;">  
   
-</body>
+
 
 <p style="text-align:center;">We Cher-minators received the Sec 1 students, just like how a gardener lovingly sows his seeds in a pot, eager to watch them grow.</p>
 
@@ -208,9 +193,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cherminate%202.jpeg" alt="Cherminate" style="width:70%;">  
+<img src="/images/Cherminate%202.jpeg" alt="Cherminate" style="width:70%;">  
   
-</body>
+
 
 <p style="text-align:center;">The Cher-minator constantly keeps the precious seedling within sight, giving it only the best.</p>
 
@@ -221,9 +206,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cherminate%203.jpeg" alt="Cherminate" style="width:70%;">  
+<img src="/images/Cherminate%203.jpeg" alt="Cherminate" style="width:70%;">  
   
-</body>
+
 
 <p style="text-align:center;">Day or night, the Cher-minator cares for the seedling and protects it.</p>
 
@@ -234,9 +219,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cherminate%204.jpeg" alt="Cherminate" style="width:70%;">  
+<img src="/images/Cherminate%204.jpeg" alt="Cherminate" style="width:70%;">  
   
-</body>
+
 
 <p style="text-align:center;">Patiently and lovingly, the Cher-minator continues to stand by the budding plant's side as it matures.</p>
 
@@ -247,14 +232,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cherminate%205.jpeg" alt="Cherminate" style="width:70%;">  
+<img src="/images/Cherminate%205.jpeg" alt="Cherminate" style="width:70%;">  
   
-</body>
+
 
 <p style="text-align:center;">Everyday, the Cher-minator showers the plant with love, passing knowledge on to it.<br>Before long, the flowers bloom, the plant has finally matured, ready to conquer the world.<br><br>
 <em>Students ask, teachers answer!</em><br>Our student posted questions and student leaders asked our teachers, so that we get to <br>know our Assumption Teachers a little bit more than the subjects that they teach!</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pb8oVsTtAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/pb8oVsTtAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Appreciation to our teachers<br>Our AssumptionKnights and parents from the Parents’ Support Group have prepared<br>this wonderful video montage to thank our teachers for their selfless contributions.</p>
 
@@ -273,27 +258,27 @@ As a school, this year’s celebration aims to unite AssumptionKnights to contri
 
 <p style="text-align:center;">AES Staff Virtual Choir - Home</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/kPuwHgu2gio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/kPuwHgu2gio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Red Cross Youths - Fun Facts about Singapore</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/chgcxJTdAn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/chgcxJTdAn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">National Cadet Corps (Sea) - Road Names in Singapore</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qL5RxMJXTHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qL5RxMJXTHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">National Police Cadet Corps - State Flag</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1c6Ouc3k0u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1c6Ouc3k0u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Girl Guides - National Anthem and Pledge</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3sQHbMx42uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3sQHbMx42uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Combined Uniform Groups - National Day Observance Ceremony Parade March-In</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/usIFZeVPWU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/usIFZeVPWU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 July 2020
 ---------
@@ -319,31 +304,21 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Power%20of%20Youth%20-%20Class%202-6.png" alt="Sec 1 - Class 1/5 - Giving ex-offenders a second chance" style="width:30%;">  
-  
-</body>
+<img src="/images/Power%20of%20Youth%20-%20Class%202-6.png" alt="Sec 1 - Class 1/5 - Giving ex-offenders a second chance" style="width:30%;">  
 
-<p style="text-align:center;">Sec 2 - Class 2/6 - Spreading kindness through friendship</p>
+<p style="text-align:center;">Sec 4 &amp; 5 - Class 5/1 - Raising awareness for mental health</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/7kp4-AcYIA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p style="text-align:center;">Sec 3 - Class 3/4 - Standing up against family violence</p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/iqHB3skrffY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p style="text-align:center;">Sec 4 & 5 - Class 5/1 - Raising awareness for mental health</p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/utJJIFIULZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/utJJIFIULZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <p style="text-align:center;">Best Film - Class 3/3 - Raising awareness about the dangers of smoking among youths</p>
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/_PmLptB6w9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/_PmLptB6w9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 **<u>Racial Harmony Day - Multicultural Singapore</u>**
 
 The Coffee of my Eye activity allows AssumptionKnights to pen down and share their narratives, stories of friendships that they treasure. Here are some of the submissions:
 
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/HuAzaAyeGhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/HuAzaAyeGhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 
 <style>  
 img {  
@@ -352,10 +327,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
+
 <img src="/images/Teacher%20Ms%20Cryst%20Tan.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
   
-</body>
+
 
 <br>
 
@@ -366,10 +341,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
+
 <img src="/images/1-1%20Constance.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
   
-</body>
+
 
 <br>
 
@@ -380,10 +355,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
+
 <img src="/images/1-5%20Yi%20Ting.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
   
-</body>
+
 
 <br>
 
@@ -394,10 +369,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
+
 <img src="/images/1-6%20Emilia.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
   
-</body>
+
 
 <br>
 
@@ -408,10 +383,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
+
 <img src="/images/3-4%20Khairynn.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
   
-</body>
+
 
 <br>
 
@@ -422,7 +397,5 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body>
-<img src="/images/5-1%20Hong%20Yan.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">  
-  
-</body>
+
+<img src="/images/5-1%20Hong%20Yan.jpeg" alt="Racial Harmony Day - Multicultural Singapore" style="width:70%;">
