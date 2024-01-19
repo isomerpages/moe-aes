@@ -1,5 +1,4 @@
 collections:
   publications-n-student-voices:
     output: true
-    order:
-      - AES e Manna.md
+    order: []
