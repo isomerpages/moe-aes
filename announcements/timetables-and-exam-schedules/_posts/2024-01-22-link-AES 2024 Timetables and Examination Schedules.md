@@ -1,6 +1,6 @@
 ---
 title: AES 2024 Timetables and Examination Schedules
-date: 2023-12-28
+date: 2024-01-22
 layout: link
 description: ""
 image: ""
