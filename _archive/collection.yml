@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Highlights.md
       - Mother Tongue Languages.md
       - Science Read.md
       - Lower Secondary Science.md
