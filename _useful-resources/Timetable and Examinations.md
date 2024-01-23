@@ -50,3 +50,7 @@ Topics to be assessed<br>
 [2024 Sec 4E5NA WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4E_5NA_.pdf)<br>
 [2024 Sec 4NA WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4NA_.pdf)<br>
 [2024 Sec 4NT WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4NT_.pdf)
+
+**5. Briefing Slides for Students**
+<br>
+[Term 1 Weighted Assessment 1 Briefing Slides for Students 2024](/files/Term_1_Weighted_Assessment_1_Briefing_Slides_for_Students_2024.pdf)
