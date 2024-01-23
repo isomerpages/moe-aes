@@ -32,7 +32,7 @@ Schedule
 [2024 Sec 3E WA1 Schedule ](/files/3__2024_Sec_3E_WA_1_Schedule__final_.pdf)<br>
 [2024 Sec 3NA 3NT WA1 Schedule](/files/4__2024_Sec_3NA___3NT_WA_1_Schedule__final_.pdf)<br>
 
-**4\. Weighted Assessment 1 (WA1) for Secondary 4 &amp; 5**
+**3\. Weighted Assessment 1 (WA1) for Secondary 4 &amp; 5**
 <br>
 Letter to Parents
 <br>
@@ -47,10 +47,12 @@ Schedule
 <br>
 <br>
 Topics to be assessed<br>
-[2024 Sec 4E5NA WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4E_5NA_.pdf)<br>
-[2024 Sec 4NA WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4NA_.pdf)<br>
-[2024 Sec 4NT WA1 Topics to be Assessed](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed__4NT_.pdf)
+[2024 Sec 4E5NA WA1 Topics to be Assessed (Revised on 24 Jan)](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed_4E5NA.pdf)
+<br>
+[2024 Sec 4NA WA1 Topics to be Assessed (Revised on 24 Jan)](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed_4NA.pdf)
+<br>
+[2024 Sec 4NT WA1 Topics to be Assessed (Revised on 24 Jan)](/files/6__2024__Sec_4_5__WA1_Topics_to_be_Assessed_4NT.pdf)
 
-**5. Briefing Slides for Students**
+**4. Briefing Slides for Students**
 <br>
 [Term 1 Weighted Assessment 1 Briefing Slides for Students 2024](/files/Term_1_Weighted_Assessment_1_Briefing_Slides_for_Students_2024.pdf)
