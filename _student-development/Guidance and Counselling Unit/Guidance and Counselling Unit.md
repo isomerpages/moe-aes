@@ -12,15 +12,17 @@ Assumption English School is committed in ensuring the social, emotional, spirit
 
 ### The Guidance Unit
 
-The Guidance Unit consists of School Counsellors, Allied Educator (AED) Learning and Behavioural Support (LBS) and Student Welfare Officer (SWO).
+The Guidance Unit consists of School Counsellors, Special Education Needs Officer (SEN Officer), Student Welfare Officer (SWO) and Education &amp; Career Guidance (ECG) Counsellor.
 
 School Counsellors help students to manage difficult thoughts, feelings, and behaviors through individual counselling sessions or group work.
 
+Special Education Needs Officer (SEN Officer) supports students with mild special educational needs by providing direct intervention through individual / small group intervention support.
+
 Student Welfare Officer provides social support to the students at-risk under her charge, working with their families and other community partners to address barriers to learning and strengthening the safety net for these students.
 
-Allied Educator (Learning and Behavioural Support) supports students with mild special educational needs by providing direct intervention through individual/small group intervention support.
+Education &amp; Career Guidance (ECG) Counsellor provides education and career guidance through group or individual sessions with students. The session aims to help students explore their strengths and interests, in relation to their aspirations and guiding them in making informed decisions for their education and career pathways.
 
-You can schedule an appointment by approaching your form teacher or staff in general office for a referral. 
+Students can schedule an appointment by approaching your form teacher or staff in general office for a referral. 
 
 ![](/images/desmond_suxin.png)
 ![](/images/irene_wendy.png)
