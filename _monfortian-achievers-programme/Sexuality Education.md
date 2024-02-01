@@ -37,19 +37,26 @@ b.&nbsp;Character and Citizenship Education (CCE)
 **At Assumption English School, the following Sexuality Education lessons will be taught in 2024:**
 
 **Secondary 1**
-![](/images/MAP1.jpg)
+![](/images/SEd_Sec_1_1.jpg)
+![](/images/SEd_Sec_1_2.jpg)
 
 **Secondary 2**
-![](/images/MAP2.jpg)
+![](/images/SEd_Sec_2_1.jpg)
+![](/images/SEd_Sec_2_2.jpg)
+![](/images/SEd_Sec_2_3.jpg)
 
 **Secondary 3**
-![](/images/MAP3.jpg)
+![](/images/SEd_Sec_3_1.jpg)
+![](/images/SEd_Sec_3_2.jpg)
+![](/images/SEd_Sec_3_3.jpg)
 
 **Secondary 4**
-![](/images/MAP4.jpg)
+![](/images/SEd_Sec_4_1.jpg)
+![](/images/SEd_Sec_4_2.jpg)
+![](/images/SEd_Sec_4_3.jpg)
 
 **Secondary 5**
-![](/images/MAP5.jpg)
+![](/images/SEd_Sec_5.jpg)
 
         
 **_eTeens_** **Programme**:
@@ -60,7 +67,7 @@ b.&nbsp;Character and Citizenship Education (CCE)
 
 **At Assumption English School, the _eTeens_ programme will be implemented as follows in 2024:**
 
-![](/images/MAP6.jpg)
+![](/images/eTeens.jpg)
 
 
 **Information for Parents**
