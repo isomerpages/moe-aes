@@ -4,6 +4,11 @@ permalink: /useful-resources/for-students/publications-and-student-voices/aes-e-
 description: ""
 variant: tiptap
 ---
+<h2>2024</h2>
+<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-27"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Issue_27_70th_Anniversary_Edition.jpg"></a>
+<h2>2023</h2><a class="isomer-image-wrapper" href="for.edu.sg/manna-24"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_24___2023.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-25"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna___Issue_25___2023.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-26"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_26___2023.jpg"></a>
 <h2>2022</h2>
 <p>
 <br>
