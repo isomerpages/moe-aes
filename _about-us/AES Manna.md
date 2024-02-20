@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h2>2024</h2>
-<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-27"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Issue_27_70th_Anniversary_Edition.jpg"></a>
-<h2>2023</h2><a class="isomer-image-wrapper" href="for.edu.sg/manna-24"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_24___2023.jpg"></a>
-<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-25"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna___Issue_25___2023.jpg"></a>
-<p></p><a class="isomer-image-wrapper" href="for.edu.sg/manna-26"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_26___2023.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAFzWEwmIlc/t1AWZ3N_vn4ToNE5EPecow/watch"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Issue_27_70th_Anniversary_Edition.jpg"></a>
+<h2>2023</h2><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAFejJjbmSo/JRSdSKuDkX7e3HRn4fnMrg/view?utm_content=DAFejJjbmSo&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_24___2023.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAFiSnywa9U/e3npgc8mLvSnZB2iLhR1Kw/view?utm_content=DAFiSnywa9U&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna___Issue_25___2023.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAFu2gencRU/G26fH4PrrMSeKb9uo3c0GQ/view?utm_content=DAFu2gencRU&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_26___2023.jpg"></a>
 <h2>2022</h2>
 <p>
 <br>
