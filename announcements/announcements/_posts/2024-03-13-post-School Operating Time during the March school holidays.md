@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-During the school holidays, school office will **close at 5.30pm from 27 Nov till 22 Dec 2023.**
+During the March school holidays, school office will **close at 5.00pm from 14 March and 15 March 2024.**
