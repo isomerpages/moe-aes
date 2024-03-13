@@ -36,4 +36,4 @@ variant: markdown
 
 | **Name** | **Designation**|
 | -------- | -------- | 
-| Mr Arumugam Kaliappan| Operation Manager |
+| Mr Mike Ho Yin Choy| Operation Manager |
