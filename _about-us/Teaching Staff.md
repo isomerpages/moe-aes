@@ -19,18 +19,18 @@ variant: markdown
 |Level 1|Level Academic Supervisor|Mr Lee Wung Yew|
 |Level 1|Student Management Teacher|Mr Muhd Sadik|
 |1 Vincent|Form Teacher|Mr Jared Tan Hong Jie|
-|1 Vincent|Form Teacher|Miss Siti Aisyah|
+|1 Vincent|Form Teacher|Ms Siti Aisyah|
 |1 Adolphus|Form Teacher|Mr Arnold Teo|
-|1 Adolphus|Form Teacher|Miss Shannon Low|
+|1 Adolphus|Form Teacher|Ms Shannon Low|
 |1 Raymond| Form Teacher|Mr Paventhren S/O Kanagarethinan|
-|1 Raymond|Form Teacher|Miss Cynthia Wong|
+|1 Raymond|Form Teacher|Ms Cynthia Wong|
 |1 Emmanuel|Form Teacher|Mr Leet Tagore|
-|1 Emmanuel| Form Teacher|Miss Nurin Huda|
+|1 Emmanuel| Form Teacher|Ms Nurin Huda|
 |1 Noel|Form Teacher|Miss Seet Yoke Chee|
 |1 Noel|Form Teacher|Miss Ng Wen Xin|
 |1 George|Form Teacher|Miss Huang Meiting|
 |1 George|Form Teacher|Miss Adeline Tay|
-|Level 2|Level Academic Supervisor|Miss Ong Hsia Li|
+|Level 2|Level Academic Supervisor|Mrs Ong Hsia Li|
 |Level 2|Student Management Teacher|Mr Chan Keng Kok|
 |2 Vincent|Form Teacher|Miss Kong Yean Ha|
 |2 Vincent|Form Teacher|Miss Valerie Co|
