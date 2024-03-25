@@ -31,9 +31,14 @@ variant: markdown
 |  Ms Natalie Han    | Subject Head English Literature  | 
 |  Ms Camille Koh Eng Guan    | Subject Head Aesthetics | 
 | Ms Fasihah Bte Rahmat| Subject Head Student Wellbeing     | 
-| Mr Alam Bin Naser    | Subject Head Special Project  | 
-
+| Mr Alam Bin Naser    | Subject Head Special Projects  | 
+| Ms Diana Bte Abu Bakar (Mrs Norman)| Senior Teacher Mathematics| 
+| Mr Lee Wung Yew| Senior Teacher Physical Education| 
+| Mrs Ong Hsia Li | Senior Teacher Art| 
+| Ms Cryst Tan| Senior Teacher Social Studies| 
+| Mdm Yin Na| Lead Teacher Chinese Language| 
 
 | **Name** | **Designation**|
 | -------- | -------- | 
+| Mr New Lam Heng| Operation Manager |
 | Mr Mike Ho Yin Choy| Operation Manager |
