@@ -34,7 +34,7 @@ variant: markdown
 | Mr Alam Bin Naser    | Subject Head Special Projects  | 
 | Ms Diana Bte Abu Bakar (Mrs Norman)| Senior Teacher Mathematics| 
 | Mr Lee Wung Yew| Senior Teacher Physical Education| 
-| Ms Poh Hsia Li (Mrs Ong) | Senior Teacher Art| 
+| Mrs Ong Hsia Li | Senior Teacher Art| 
 | Ms Cryst Tan (Mrs Ang)| Senior Teacher Social Studies| 
 | Mdm Yin Na| Lead Teacher Chinese Language| 
 
