@@ -4,14 +4,10 @@ permalink: /useful-resources/blended-learning/
 description: ""
 variant: markdown
 ---
-Dear Parent/ Guardian,  
-  
-Greetings from Assumption English School.  
-  
 Blended Learning provides an educational experience for our students through the seamless blending of different modes of learning. One aspect of Blended Learning is the integration of home-based learning (HBL) as a regular feature of the schooling experience.
   
 **Objectives of Blended Learning:**  
-![](/images/Objectives_of_BL.png)
+![](/images/Objectives_of_BL__1_.png)
 
 AES will be embarking on Blended Learning every term. Please see the confirmed Blended Learning dates for 2024: 
 
@@ -51,4 +47,3 @@ Students will embark on Students Initiated Learning (SIL) on Blended Learning da
 **For students encountering technical issues**
 *   To reset your MIMS password, students may contact the ICT Team @ Staffroom (65729 130/164) or General Office (65729 100)
 *   Alternatively, students may submit requests on this form (go.gov.sg/resetpwd).
-    
