@@ -55,8 +55,8 @@ variant: markdown
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
 |Upper Sec|Year Head| Ms Tan Wee Lin|
-|Level 3|Level Academic Supervisor|Miss Yin Na|
-|Level 3|Student Management Teacher|Miss Siti Nur Nabilah |
+|Level 3|Level Academic Supervisor|Ms Yin Na|
+|Level 3|Student Management Teacher|Ms Siti Nur Nabilah |
 |3/1|Form Teacher|Ms Rossellini Tan Yeling|
 |3/1|Form Teacher|Ms Ummahani Binte Nur Badren|
 |3/2|Form Teacher|Ms Atikah Sa'ad|
