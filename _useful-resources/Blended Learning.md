@@ -23,6 +23,9 @@ AES will be embarking on Blended Learning every fortnight.
 
 Term 1:
 <img style="width:80%" src="/images/Term_1.png">
+
+Term 2:
+<img style="width:90%" src="/images/BL_2024_Term_2.png">
   
 **On the days for Blended Learning,**  
 • students are not required to report to school  
