@@ -85,12 +85,7 @@ Schedule
 <br>
 Letter to Parents
 <br>
-[2024 Sec 4E5NA WA2 Letter to Parents](/files/2024_Sec_4E5NA_WA2_Letter_to_Parents.pdf)
-<br>
-[2024 Sec 4NA WA2 Letter to Parents](/files/2024_Sec_4NA_WA2_Letter_to_Parents.pdf)
-<br>
-[2024 Sec 4NT WA2 Letter to Parents](/files/2024_Sec_4NT_WA2_Letter_to_Parents.pdf)
-<br>
+[2024 Sec 4E5NA WA2 Letter to Parents](/files/2024_Sec_4E5NA_WA2_Letter_to_Parents__updated_.pdf)
 <br>
 Schedule
 <br>
@@ -98,4 +93,4 @@ Schedule
 <br>
 Topics to be assessed
 <br>
-[2024 Sec 4&amp;5 WA2 Topics to be Assessed](/files/2024__Sec_4_5__WA2___Topics_to_be_Assessed.pdf)
+[2024 Sec 4&amp;5 WA2 - Topics to be Assessed ](/files/2024_Sec_4_5_WA2___Topics_to_be_Assessed__updated_2_April_.pdf)
