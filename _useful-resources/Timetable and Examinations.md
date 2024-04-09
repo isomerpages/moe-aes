@@ -87,6 +87,10 @@ Letter to Parents
 <br>
 [2024 Sec 4E5NA WA2 Letter to Parents](/files/2024_Sec_4E5NA_WA2_Letter_to_Parents__updated_.pdf)
 <br>
+[2024 Sec 4NA WA2 Letter to Parent](/files/4b__2024_Sec_4NA_WA2_Letter_to_Parent.pdf)
+<br>
+[2024 Sec 4NT WA2 Letter to Parent](/files/4c__2024_Sec_4NT_WA2_Letter_to_Parent.pdf)
+
 Schedule
 <br>
 [2024 Sec 4&amp;5 WA2 Schedule](/files/2024_Sec_4_5_WA_2_Schedule.pdf)
