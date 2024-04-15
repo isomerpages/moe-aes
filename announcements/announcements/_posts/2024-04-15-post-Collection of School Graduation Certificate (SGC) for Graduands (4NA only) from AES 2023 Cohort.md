@@ -12,6 +12,5 @@ variant: tiptap
 <p>The School Graduation Certificate (SGC) for <strong>4NA (Class 4/4 &amp; 4/5) students</strong> will
 be ready for collection in the <strong>General Office</strong> starting <strong>Monday, 29 April 2024</strong>.
 Please bring along your personal identification to allow us to certify
-your identity during the collection process. Thank you.</p>
-<p></p>
-<p>from the school’s General Office</p>
+your identity during the collection process.</p>
+<p>Thank you.</p>
