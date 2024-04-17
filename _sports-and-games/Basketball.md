@@ -2,6 +2,7 @@
 title: Basketball
 permalink: /student-development/ccas/sports-and-games/basketball/
 description: ""
+variant: markdown
 ---
 ![](/images/basketball%20boys%202023.jpg)
 
@@ -16,7 +17,7 @@ Discipline – self-management in handling demands of academics and basketball 
 Focus – winning mindset
 Diligence – the concerted and consistent effort put in into trainings with values well-aligned to our school motto, Labor Omnia Vincit (Through Work Achieve Success)
 
-We subscribe to the ethos of ‘Making Every Basket Count’ to inspire our players to turn every opportunity into an opportunity to shine. The team also follows the philosophy “When training is tough, competition will be easy.” 
+We subscribe to the ethos of ‘Making Every Basket Count’ to inspire our players to turn every opportunity into an opportunity to shine.
 
 Our teams have done consistently well to finish among the top 8 positions in the West Zone National School Games (NSG) among over 40 other secondary schools, as well as at the National level.
 
@@ -26,7 +27,11 @@ Our teams have done consistently well to finish among the top 8 positions in the
 
 | Year| Activities/ Achievements | 
 | -------- | -------- | 
+| **2024**   |  National School Games (NSG): 4th position at West Zone ‘B’ Division Girls, Top 16 in Nationals   | 
 | **2023**   |  National School Games (NSG): 4th position at West Zone ‘B’ Division Girls, Top 16 in Nationals   | 
+|  |  BM U16 Basketball Invitational Championship 2023 ‘B’ Division Girls Team – 4th Position   | 
+|  |  BM U16 Basketball Invitational Championship 2023 ‘B’ Division Boys Team – 1st Position   | 
+|  |  Chong Pang Basketball Invitational Championship 2023 ‘B’ Division Girls Team – 2nd Runner-Up   | 
 | **2022**   | National School Games (NSG): 2nd position at West Zone ‘B’ Division Boys  | 
 |  |  T-Net Club 14-&-under Girls Basketball Tournament: 4th position  | 
 | **2021**   |  No NSG due to COVID-19 pandemic  | 
