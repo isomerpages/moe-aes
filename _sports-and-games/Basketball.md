@@ -4,9 +4,9 @@ permalink: /student-development/ccas/sports-and-games/basketball/
 description: ""
 variant: markdown
 ---
-![](/images/basketball%20boys%202023.jpg)
+![B Division Boys West Zone 2024](/images/B_Division_Boys_West_Zone_2024.jpg)
 
-![](/images/basketball%20girls%202023.jpg)
+![B Division Girls West Zone 2024](/images/B_Division_Girls_West_Zone_2024.jpg)
 
 ### About Us
 
