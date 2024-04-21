@@ -2,15 +2,24 @@
 title: Direct School Admission (DSA)
 permalink: /others/direct-school-admission-dsa/
 description: ""
+variant: markdown
 ---
-### AES DSA Open House 2023 cum dialogue with Principal on 13 May (Sat) at 9.00am
-
-Please register for our DSA Open House for **Basketball, Football or Judo** cum sharing session with our Principal and key personnel on **13 May (Sat) at 9am**.
-
-Please click [**HERE**](https://forms.gle/RVqdS1kLzxQ5DD9j8) to register for AES DSA Open House 2023 cum dialogue session. 
-
 ### Direct School Admission (DSA)
 
-Dear Parents and Primary 6 students,
+Dear Parents/Guardians and Primary 6 students,
 
-The MOE Direct School Admission (DSA) application period is 4 - 31 May 2023. Parents and P6 students who are keen to apply to Assumption English School via Basketball, Football or Judo programme, please click on [**\[AES DSA\]**](/student-development/ccas/direct-school-admission-dsa/) for more information and schedule of the DSA-Sec application stages.
+Direct School Admission for secondary schools (DSA-Sec) allows students to apply for a place in the school based on their talents and achievements.
+
+Assumption English School (AES) will be offering Direct School Admission in the following areas of talent:
+
+*   Basketball (Girls & Boys)
+*   Debating & Public Speaking (Girls & Boys)
+*   Floorball (Boys)
+*   Football (Boys)
+*   Judo (Girls & Boys)
+
+We invite students who wish to grow their talent and passion in these areas to become a part of our AES family in 2025.
+
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+You may access the following link [**\[AES DSA\]**](/student-development/ccas/direct-school-admission-dsa/) for specific details on how to apply to AES once DSA applications open in early-May.
