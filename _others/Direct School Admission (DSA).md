@@ -22,4 +22,4 @@ We invite students who wish to grow their talent and passion in these areas to b
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
-You may access the following link [**\[AES DSA\]**](/student-development/ccas/direct-school-admission-dsa/) for specific details on how to apply to AES once DSA applications open in early-May.
+You may access the following link AES DSA for specific details on how to apply to AES once DSA applications open in early-May.
