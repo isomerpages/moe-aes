@@ -2,7 +2,6 @@
 title: Direct School Admission (DSA)
 permalink: /student-development/ccas/direct-school-admission-dsa/
 description: ""
-third_nav_title: CCAs
 ---
 <p style="text-align:center;"><strong>Direct School Admission 2023 - Secondary (DSA-Sec) Exercise<br><br>Direct School Admission (DSA)<br>Sports – Basketball, Football &amp; Judo<br><br><br></strong></p>
 
