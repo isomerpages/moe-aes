@@ -95,9 +95,7 @@ to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="no
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 3 July 2024</strong>
-</p>
-<p><strong>(Wednesday)</strong>
+<p><strong>By 3 July 2024 (Wednesday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,30 +108,24 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 9 Sep 2024</strong>
-</p>
-<p><strong>(Monday)</strong>
+<p><strong>By 9 Sep 2024 (Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of DSA-Sec admission results by schools.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>All applicants will receive a letter on the selection outcome ie. Confirmed
 Offer, Waiting list or Unsuccessful from the school concern.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 Oct 2024 (Monday) –</strong>
-</p>
-<p><strong>25 Oct 2024 (Friday)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><em>Exercise School Preference Stage</em></strong>
+<p><strong>21 Oct 2024 (Monday) – 25 Oct 2024 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><em>Exercise School Preference Stage</em></strong>
+</p>
 <p>DSA-Sec candidates who receive at least one DSA-Sec offer may indicate
 up to three school preferences. They can do so online via the DSA-Sec Internet
 System (DSA-Sec IS) or at their primary schools.</p>
@@ -191,87 +183,66 @@ players to turn every opportunity into an opportunity to shine.</p>
 <p>Our teams have done consistently well to finish among the top 8 positions
 in the West Zone National School Games (NSG) among over 40 other secondary
 schools, as well as at the National level.</p>
-<p></p>
-<h4><u>[Football (for Boys only)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/)</u></h4>
-<p>AES is endorsed as a School Football Academy (SFA) which is part of the
-Unleash The Roar! (UTR!) national project which aims to unite Singaporeans
-through football and create more opportunities for young Singaporeans to
-develop their talents.&nbsp;</p>
-<p>As a School Football Academy, AES works closely with the Football Association
-of Singapore (FAS) and Sport Singapore (SportSG) to provide a conducive
-daily training environment to develop our footballers holistically while
-balancing their academic pursuits with football development. The SFA aims
-to provide a training environment with high quality coaching, led by our
-Spanish Head Coach, Mr Angel, assistant coaches, Mr Joseph Ng and Mr Fazrul
-Nawaz, complemented through the Sports Science and Technology approach
-with an emphasis on character development.&nbsp;</p>
-<p>Our collaboration with the Football Association of Singapore (FAS) also
-provides our footballers the opportunity to be exposed to specialised training
-such as Goalkeeper Strength and Fitness as well as Sports Science training.
-The school also partners with FAS by providing AES field as its training
-ground for the National Under15 Football team. The school will continue
-its partnership with FAS in future football development projects.</p>
-<p>AES Football boys’ teams compete actively at the Zonal and National School
-Games (NSG) competitions. The B Division Boys team finished as one of the
-Top 4 teams in the West Zone NSG competition in 2015 and 3rd in NSG B Boys
-League 5 Football Championships 2019. With a dedicated team of 5 teacher
-facilitators overseeing the weekly training sessions, the team adopts a
-developmental approach towards football development in our players.</p>
-<p>Through our Football programme, we aim to develop our players to have:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Good sportsmanship - AssumptionKnights who honour the rules of the game
-and take pride in fair play.</p>
-</li>
-<li>
-<p>Strong football skills and techniques.</p>
-</li>
-<li>
-<p>Teamwork.</p>
-</li>
-<li>
-<p>Sense of focus, commitment and respect for the sport.</p>
-</li>
-</ul>
-<h3><u>Programme</u></h3>
-<p>AES has a comprehensive developmental programme to develop and nurture
-our aspiring sports boys and girls into outstanding players anchored on
-values. While our programme focuses on developing the essential physical
-skills and knowledge in the various sports, it is designed to provide our
-students with a broad based of experiences that go beyond just playing
-the sports. These include</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Umpiring matches</p>
-</li>
-<li>
-<p>Organising inter-school tournaments for primary schools</p>
-</li>
-<li>
-<p>Coaching junior players</p>
-</li>
-<li>
-<p>Mental skills training programme for students and teachers</p>
-</li>
-<li>
-<p>Overseas training programme</p>
-</li>
-<li>
-<p>Student leadership training programme&nbsp; &nbsp;&nbsp;</p>
-</li>
-</ul>
-<p>We have a team of passionate, committed and experienced teachers and coaches
-who oversee the physical, social and emotional well-being as well as the&nbsp;academic
-progress&nbsp;of our players.</p>
+<blockquote>
+<p><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+</p>
+</blockquote>
+<p>AES has been endorsed as one of the School Football Academy (SFA) schools.
+This school-based academy is part of the Unleash The Roar! (UTR!) national
+project which aims to unite Singaporeans through football and create more
+opportunities for young Singaporeans to develop their talents.</p>
+<p>As an SFA school, AES works closely with the Football Association of Singapore
+(FAS) and Sport Singapore (SportSG) to provide a conducive daily training
+environment to develop our footballers holistically. Our collaboration
+with the FAS provides our footballers the opportunity to be exposed to
+specialised training such as Goalkeeper Strength and Fitness as well as
+Sports Science training,with an emphasis on character development.</p>
+<p>AES Football boys’ teams compete actively at the National School Games
+(NSG) competitions. This year, our ‘B’ Division Boys team competes in League
+5 and ‘C’ Division Boys team competes in League 1. With a dedicated team
+of 5 teacher facilitators overseeing the weekly training sessions, the
+team adopts a developmental approach towards football development in our
+players.</p>
+<p>The Football programme at AES aims to instil in our players the following
+outcomes:</p>
+<p>• Good sportsmanship - AssumptionKnights who honour the rules of the game
+and take pride in fair play;</p>
+<p>• Strong football skills and techniques, teamwork; as well as</p>
+<p>• Keen sense of focus, commitment and respect for the sport.</p>
+<blockquote>
+<p>Floorball<a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+</p>
+</blockquote>
+<p><strong>Our aim:</strong> To develop floorballers in character, leadership
+and sportsmanship through holistic programmes.</p>
+<p>Adrenaline rush! Teamwork! Exhilarating! These are just some words to
+describe floorball, an indoor hockey game that has drawn the attention
+of many youths despite being a relatively new sport.</p>
+<p>&nbsp;</p>
+<p>It is no surprise why floorball is so popular amongst youths. Simply,
+it is a sport that is easy for anyone to pick up and play. The game is
+played at a fast pace with lots of action and thrills for both players
+and audience. It is a safe and versatile sport, which requires only lightweight
+plastic sticks and a ball played at any open space, indoors or outdoors.</p>
+<p>&nbsp;</p>
+<p>AES is one of the pioneers in bringing floorball into secondary schools.
+AES Floorball has been an all-boys team since 2017 with the ultimate aim
+of winning the National Schools Floorball Championships. If you are looking
+for a fast-paced sport with lots of skills to develop you as a sportsperson
+and opportunities to forge lasting friendships with your teammates, Floorball
+is the CCA for you!</p>
 <h3></h3>
 <p>For more information about the DSA programme, you can read more&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.&nbsp;
 &nbsp;</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information and should you have
-any queries about the school DSA programme, please contact Mrs Chong Chay
-Hoon (Covering HOD PE &amp; CCA) at Tel: 6572 9113 or 6572 9100. Alternatively,
-you can email your queries to: &nbsp;</p>
+<p>For more information and should you have any queries about the school
+DSA programme, please contact Mrs Chong Chay Hoon (Covering HOD PE &amp;
+CCA) at Tel: 6572 9113 or 6572 9100. Alternatively, you can email your
+queries to: &nbsp;</p>
 <p><strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></strong>
 </p>
 <p></p>
 <h3><a href="/student-development/ccas/dsa/dsa-cultural-immersion-tour-to-johor-malaysia-2019/" rel="noopener noreferrer nofollow" target="_blank">DSA Sports Training cum Cultural Immersion Tour to Johor, Malaysia 2019</a></h3>
+<blockquote>
+<p></p>
+</blockquote>
 <p></p>
