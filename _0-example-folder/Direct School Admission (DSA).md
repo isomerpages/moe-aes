@@ -165,7 +165,7 @@ the National School Games Judo Championships in 2022 and 2023. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
 <blockquote>
-<p><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></strong>
 </p>
 </blockquote>
 <p>The AES Basketball programme aims to develop basketball players with the
@@ -184,7 +184,7 @@ players to turn every opportunity into an opportunity to shine.</p>
 in the West Zone National School Games (NSG) among over 40 other secondary
 schools, as well as at the National level.</p>
 <blockquote>
-<p><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football</a></strong>
 </p>
 </blockquote>
 <p>AES has been endorsed as one of the School Football Academy (SFA) schools.
@@ -210,7 +210,7 @@ and take pride in fair play;</p>
 <p>• Strong football skills and techniques, teamwork; as well as</p>
 <p>• Keen sense of focus, commitment and respect for the sport.</p>
 <blockquote>
-<p>Floorball<a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
 </blockquote>
 <p><strong>Our aim:</strong> To develop floorballers in character, leadership
@@ -218,31 +218,46 @@ and sportsmanship through holistic programmes.</p>
 <p>Adrenaline rush! Teamwork! Exhilarating! These are just some words to
 describe floorball, an indoor hockey game that has drawn the attention
 of many youths despite being a relatively new sport.</p>
-<p>&nbsp;</p>
 <p>It is no surprise why floorball is so popular amongst youths. Simply,
 it is a sport that is easy for anyone to pick up and play. The game is
 played at a fast pace with lots of action and thrills for both players
 and audience. It is a safe and versatile sport, which requires only lightweight
 plastic sticks and a ball played at any open space, indoors or outdoors.</p>
-<p>&nbsp;</p>
 <p>AES is one of the pioneers in bringing floorball into secondary schools.
 AES Floorball has been an all-boys team since 2017 with the ultimate aim
 of winning the National Schools Floorball Championships. If you are looking
 for a fast-paced sport with lots of skills to develop you as a sportsperson
 and opportunities to forge lasting friendships with your teammates, Floorball
 is the CCA for you!</p>
-<h3></h3>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
+</p>
+</blockquote>
+<p>AES prides itself for having a robust Debating and Public Speaking programme
+as part of the school’s Applied Learning Programme (ALP) titled <strong>SP</strong>eak <strong>E</strong>nglish
+with gr<strong>A</strong>ce and <strong>K</strong>nowledge (SPEAK). The
+SPEAK programme aims to nurture confident and eloquent communicators who
+can articulate their thoughts and opinions well.</p>
+<p><strong>Our SPEAK Framework:</strong>
+</p>
+<p>The programme makes use of a spiral progression of skills approach in
+developing speaking skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/speak_framework_2.png">
+</div>
+<p>The SPEAK Programme provides ample opportunities for all students to develop
+their speaking skills in an interactive and safe learning environment.
+These include projects at each level to showcase their speaking skills.
+Students who show a flair for speaking can showcase their talents in debating
+and oratorical contests and given student emcee roles at school events
+and programmes. We hope to continue building and enhancing students’ love
+for the language through the wide array of programmes we have.</p>
+<p></p>
 <p>For more information about the DSA programme, you can read more&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.&nbsp;
 &nbsp;</p>
 <p>For more information and should you have any queries about the school
-DSA programme, please contact Mrs Chong Chay Hoon (Covering HOD PE &amp;
-CCA) at Tel: 6572 9113 or 6572 9100. Alternatively, you can email your
-queries to: &nbsp;</p>
+DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively,
+you can email your queries to: &nbsp;</p>
 <p><strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></strong>
 </p>
-<p></p>
-<h3><a href="/student-development/ccas/dsa/dsa-cultural-immersion-tour-to-johor-malaysia-2019/" rel="noopener noreferrer nofollow" target="_blank">DSA Sports Training cum Cultural Immersion Tour to Johor, Malaysia 2019</a></h3>
-<blockquote>
-<p></p>
-</blockquote>
 <p></p>
