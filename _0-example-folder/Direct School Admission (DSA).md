@@ -48,27 +48,150 @@ is to allow applicants an opportunity to share more about their interest
 and passion on their chosen sport and will be arranged on the same say
 as the trial.</p>
 <p>All applications received will be acknowledged via email.</p>
+<p><strong><u>Important Considerations</u></strong>
+</p>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+</p>
+<p><em>Meeting all the above criteria does not guarantee the student will be shortlisted/given an offer.</em>
+</p>
+<p><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ requirements, and the programmes available to develop the area of talent.</em>
+</p>
+<p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</em>
+</p>
+<p>Key Stages of DSA Application 2024</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Important Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7 May 2024 (Tuesday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 June 2024 (Monday)</strong>
+</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing date of DSA application</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>By 3 July 2024</strong>
+</p>
+<p><strong>(Wednesday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will be notified and scheduled to attend a Skills
+Assessment &amp; Interview at a specific date.&nbsp;&nbsp;</p>
+<p>The Skills Assessment and Interview will be held at Assumption English
+School.</p>
 <p></p>
-<h4><u>[Judo (for Boys and Girls)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/judo/)</u></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>By 9 Sep 2024</strong>
+</p>
+<p><strong>(Monday)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notification of DSA-Sec admission results by schools.</p>
+<p>&nbsp;</p>
+<p>All applicants will receive a letter on the selection outcome ie. Confirmed
+Offer, Waiting list or Unsuccessful from the school concern.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>21 Oct 2024 (Monday) –</strong>
+</p>
+<p><strong>25 Oct 2024 (Friday)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><em>Exercise School Preference Stage</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec candidates who receive at least one DSA-Sec offer may indicate
+up to three school preferences. They can do so online via the DSA-Sec Internet
+System (DSA-Sec IS) or at their primary schools.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Useful MOE Links</u></strong>
+</p>
+<p>DSA-Sec Main Webpage <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>Instructions on Application (Mainstream students) <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+<p>Instructions on Application (Non Mainstream Students) <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p>Direct to DSA-Sec Portal (Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+<p>Direct to DSA-Sec Portal (Non Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+<p>DSA-Sec iFAQs <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p>DSA-Sec School Finder <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+<p></p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/judo/" rel="noopener noreferrer nofollow" target="_blank"><u>Judo</u></a></strong>
+</p>
+</blockquote>
 <p>AES has put in place a good training and developmental programme to develop
 the physical skills as well as character of our Judokas (Boys &amp; Girls).
 Over the past years, we have nurtured and developed many outstanding Judokas
 who have represented our Singapore Schools Team as well as Team Singapore
 at the youth and national levels.</p>
-<p>Our 'B' Boys' and 'B' Girls' Dvisions have emerged Top 3 positions in
+<p>Our ‘B’ Boys’ and ‘B’ Girls’ Dvisions have emerged Top 3 positions in
 the National School Games Judo Championships in 2022 and 2023. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
-<h4><u>[Basketball (for Boys and Girls)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/)</u></h4>
-<p>The AES Basketball (Boys &amp; Girls) team has consistently performed
-well at the Zonal and National School Games competitions. Our Basketballers
-are committed and disciplined in their sport while the school provides
-a conducive training environment for them to hone and develop their skills
-and achieve excellence in character building.</p>
-<p>Our 'B' Boys' Basketball team finished 2nd position at the West Zone Schools
-Sports Council (WZSSC) Basketball Championships 2022 held at the Jurong
-East Sports Centre on 29 April 2022 (Fri).</p>
+<blockquote>
+<p><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
+</p>
+</blockquote>
+<p>The AES Basketball programme aims to develop basketball players with the
+necessary skills, from match strategies and teamwork to time management
+skills, in order to excel as an athlete.</p>
+<p>With character development as our focus, we stress on the following three
+key values:</p>
+<p>• Discipline – self-management in handling demands of academics and basketball</p>
+<p>• Focus – winning mindset</p>
+<p>• Diligence – the concerted and consistent effort put in into trainings
+with values well-aligned to our school motto, Labor Omnia Vincit (Through
+Work Achieve Success)</p>
+<p>We subscribe to the ethos of ‘Making Every Basket Count’ to inspire our
+players to turn every opportunity into an opportunity to shine.</p>
+<p>Our teams have done consistently well to finish among the top 8 positions
+in the West Zone National School Games (NSG) among over 40 other secondary
+schools, as well as at the National level.</p>
+<p></p>
 <h4><u>[Football (for Boys only)](https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/)</u></h4>
 <p>AES is endorsed as a School Football Academy (SFA) which is part of the
 Unleash The Roar! (UTR!) national project which aims to unite Singaporeans
@@ -140,174 +263,7 @@ the sports. These include</p>
 <p>We have a team of passionate, committed and experienced teachers and coaches
 who oversee the physical, social and emotional well-being as well as the&nbsp;academic
 progress&nbsp;of our players.</p>
-<h3>AES DSA Selection Criteria</h3>
-<p><strong>1. CCA Achievements</strong>
-</p>
-<p>Applicants should preferably have represented their primary schools at
-the National School Games (NSG) competitions. Applicants who have represented
-their sport clubs/academy at external competitions are encouraged to apply.&nbsp;
-&nbsp;</p>
-<p><strong>2. Interest and Passion</strong>&nbsp;</p>
-<p>Students who demonstrate an interest or passion in pursing the chosen
-sport may apply. All shortlisted applicants will have to submit a short
-write-up (no more than 200 words) about their interest and passion of the
-chosen sport.&nbsp; &nbsp;&nbsp;</p>
-<p><strong>3. Skills Assessment (Trial)</strong>&nbsp;</p>
-<p>Only shortlisted applicants will be notified of the date of skills assessment
-(trial) which will include evaluation on specific game skills related to
-Basketball, Football or Judo, tactical game awareness and teamwork followed
-by dialogue with school leaders.</p>
-<p><strong>4.</strong>&nbsp;<strong>Dialogue with school leaders</strong>
-</p>
-<p>The intent of the dialogue with school leaders for the shortlisted applicants
-is to allow the applicant to share more about their interest and passion
-on their chosen sport and for our school leaders to get to know more about
-the applicants.&nbsp;&nbsp;</p>
-<p>All applications received will be acknowledged via email.</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-your child’s aptitude and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<h3>Key stages of DSA application 2023</h3>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Important Dates</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Process</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 May 2023 (Friday)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of DSA application</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>31 May 2023 (Wednesday)</strong>
-</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Closing date of DSA application</strong>
-</p>
-<p>All application forms to be submitted online via the DSA-Sec portal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>13 May 2023, Saturday<br>(9am - 11am)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>DSA Open House cum dialogue with Principal</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em>P6 parents and students (All are welcomed)</em></strong>
-</p>
-</li>
-<li>
-<p><strong><em>Please register&nbsp;<a href="https://forms.gle/NBPfQkEcMjwFkJp87" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u></a></em></strong>
-</p>
-</li>
-</ul>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>18 Jul 2023, Tuesday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st batch of shortlisted applicants will be notified for DSA Selection
-Trial&nbsp;</p>
-<p>DSA Selection Trial 1 cum Interview 1 (Basketball / Judo)
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>20 Jul 2023, Thursday</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd batch of shortlisted applicants will be notified for DSA Selection
-Trial DSA Selection Trial 2 cum Interview 2 (Football / Basketball)</p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>By 11 Sep 2023, Monday</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Notification of DSA-Sec admission results by schools.
-<br>All applicants will receive a letter on the selection outcome (ie. Confirmed
-Offer, Waiting List or Unsuccessful) from the school concerned.</p>
-<blockquote>
-<blockquote>
-<p></p>
-</blockquote>
-</blockquote>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>23 - 27 Oct 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Exercise School Preference Stage
-<br>DSA-Sec candidates who receive at least one DSA-Sec offer may indicate
-up to three school preferences. They can do so online via the DSA-Sec Internet
-System (DSA-Sec IS) or at their primary schools.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Useful MOE weblinks</h3>
-<p>DSA-Sec Main Webpage <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
-</p>
-<p>Instructions on Application (Mainstream students) <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
-</p>
-<p>Instructions on Application (Non Mainstream Students) <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
-</p>
-<p>Direct to DSA-Sec Portal (Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
-<p>Direct to DSA-Sec Portal (Non Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
-<p>DSA-Sec iFAQs <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
-</p>
-<p>DSA-Sec School Finder <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
-</p>
-<h3>AES DSA 5-A-Side Basketball Challenge Cup 2019</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkWN3khaogjn_xlYss1hk1lFOsra0uaWVmmBE8zDmwVuMoUfjxzdJ7446yV8IB1NL-i1B42XOh0Nkb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<h3>AES DSA 8-A-Side Football Challenge Cup 2019</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaPmoyt6kvMwaKoPG2wqfqFt6Rm5dUHE5_Y5mkHvaoBPhWL8LYzpr0XFf8foK0H18oT1htGB9CqTH2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
+<h3></h3>
 <p>For more information about the DSA programme, you can read more&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.&nbsp;
 &nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information and should you have
