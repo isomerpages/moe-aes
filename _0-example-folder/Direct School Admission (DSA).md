@@ -59,7 +59,11 @@ as the trial.</p>
 <p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
 <p>Key Stages of DSA Application 2024</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -240,6 +244,10 @@ SPEAK programme aims to nurture confident and eloquent communicators who
 can articulate their thoughts and opinions well.</p>
 <p><strong>Our SPEAK Framework:</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Framework_2024.jpg">
+</div>
 <p>The programme makes use of a spiral progression of skills approach in
 developing speaking skills.</p>
 <div class="isomer-image-wrapper">
@@ -257,7 +265,6 @@ for the language through the wide array of programmes we have.</p>
 &nbsp;</p>
 <p>For more information and should you have any queries about the school
 DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively,
-you can email your queries to: &nbsp;</p>
-<p><strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></strong>
+you can email your queries to: <strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></strong>
 </p>
 <p></p>
