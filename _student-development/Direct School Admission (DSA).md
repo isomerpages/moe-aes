@@ -156,6 +156,8 @@ System (DSA-Sec IS) or at their primary schools.</p>
 <p>DSA-Sec School Finder <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 <p></p>
+<p><strong><u>More details on the DSA talent areas:</u></strong>
+</p>
 <blockquote>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/judo/" rel="noopener noreferrer nofollow" target="_blank"><u>Judo</u></a></strong>
 </p>
@@ -262,10 +264,8 @@ and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
 <p></p>
-<p>For more information about the DSA programme, you can read more&nbsp;<strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.&nbsp;
-&nbsp;</p>
-<p>For more information and should you have any queries about the school
-DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively,
-you can email your queries to: <strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></strong>
+<p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
+</p>
+<p><em>Should you have any queries about the school DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively, you can email your queries to: </em><strong><em><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></em></strong>
 </p>
 <p></p>
