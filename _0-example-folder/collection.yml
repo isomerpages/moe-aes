@@ -2,7 +2,6 @@ collections:
   0-example-folder:
     output: true
     order:
-      - Direct School Admission (DSA).md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
