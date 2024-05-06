@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Asian Young Leaders for Human Fraternity (AYLHF).md
       - CCAs/CCAs.md
       - CCAs/LEAPS 2 0.md
