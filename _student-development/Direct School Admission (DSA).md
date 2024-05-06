@@ -58,7 +58,8 @@ as the trial.</p>
 </p>
 <p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
-<p>Key Stages of DSA Application 2024</p>
+<p><u>Key Stages of DSA Application 2024</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
