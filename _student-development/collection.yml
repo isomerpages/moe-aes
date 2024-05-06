@@ -3,14 +3,15 @@ collections:
     output: true
     order:
       - Asian Young Leaders for Human Fraternity (AYLHF).md
+      - CCAs/.keep
       - CCAs/CCAs.md
       - CCAs/LEAPS 2 0.md
       - CCAs/Sports and Games.md
       - CCAs/Uniformed Groups.md
       - CCAs/Performing Arts.md
       - CCAs/Club & Societies.md
-      - CCAs/.keep
       - Catholic Education.md
+      - Direct School Admission (DSA).md
       - Internationalisation.md
       - Student Council.md
       - Aesthetics Education.md
