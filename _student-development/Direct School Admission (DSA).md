@@ -94,7 +94,7 @@ to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="no
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing date of DSA application</strong>
+<p><strong>Closing date of DSA application at 3pm</strong>
 </p>
 </td>
 </tr>
