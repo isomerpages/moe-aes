@@ -67,4 +67,3 @@ As the Band secretary, I oversee the attendance for the band. However, it was no
 
 **Lucus Wong (4/6) - Percussion Section Leader** <br>
 Being a leader is not an easy role. During my band sessions, my section mates may not consistently be able to cooperate with me and follow my instructions. As time went by, I could get my section to cooperate well using different methods of instructions. I am glad to have this experience as a leader in a band. The role has taught me patience. Although it takes a lot of time and effort, the band will improve and do better for future performance.
-
