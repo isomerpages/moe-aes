@@ -2,13 +2,11 @@
 title: Floorball (Boys)
 permalink: /student-development/ccas/sports-and-games/floorball-boys/
 description: ""
+variant: markdown
 ---
-![](/images/floorball%202023.jpeg)
+![](/images/AES_Floorball___B_Division_1.jpg)
 ### About Us
-
-Adrenaline rush!
-Teamwork!
-Exhilarating!  
+Adrenaline rush! Teamwork! Exhilarating!
 
 These are just some words to describe floorball, an indoor hockey game that has drawn the attention of many youths despite being a relatively new sport.
 
@@ -17,11 +15,11 @@ It is no surprise why floorball is so popular amongst youths. Simply, it is a sp
 AES is one of the pioneers in bringing floorball into secondary schools. AES Floorball has been an all-boys team since 2017 with the ultimate aim of winning the National Schools Floorball Championships. If you are looking for a fast-paced sport with lots of skills to develop you as a sportsperson and opportunities to forge lasting friendships with your teammates, Floorball is the CCA for you!
 
 ### Activities/ Achievements
-
-
-
 | Year | Activities/ Achievements | 
 | -------- | -------- | 
+| **2024**    | Participated in NSG B Division Tournament  | 
 | **2023**    | Entered 2nd round for B Division    | 
 | **2022**    |  Participated in NSG B and C Division     | 
 | **2020**    |  Participated in NSG B and C Division     |
+
+![](/images/AES_Floorball___B_Division_2_.jpg)
