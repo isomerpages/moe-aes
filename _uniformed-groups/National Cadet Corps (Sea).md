@@ -30,6 +30,7 @@ To serve with pride and dedication, NCC!
 
 
 ### Activities/Achievements
+
 | Year | Name of Activity/ Achievement:|  
 | -------- | -------- | 
 | **2023**    | AES NCC (SEA) Unit Recognition-Distinction | 
