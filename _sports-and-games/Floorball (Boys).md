@@ -15,6 +15,7 @@ It is no surprise why floorball is so popular amongst youths. Simply, it is a sp
 AES is one of the pioneers in bringing floorball into secondary schools. AES Floorball has been an all-boys team since 2017 with the ultimate aim of winning the National Schools Floorball Championships. If you are looking for a fast-paced sport with lots of skills to develop you as a sportsperson and opportunities to forge lasting friendships with your teammates, Floorball is the CCA for you!
 
 ### Activities/ Achievements
+
 | Year | Activities/ Achievements | 
 | -------- | -------- | 
 | **2024**    | Participated in NSG B Division Tournament  | 
