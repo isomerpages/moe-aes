@@ -53,6 +53,10 @@ be as follows:</p>
 <p>Please kindly note that the bookshop will be closed on Fridays. Weekends
 and PH as well.</p>
 <p>Bookshop Operation will resume as per normal from 24 June onwards.</p>
+<p></p>
+<p>In addition, during the period of 1 June to 16 June, school office will
+be closed at 5:30pm.</p>
+<p></p>
 <p>Thank you.</p>
 <p></p>
 <p></p>
