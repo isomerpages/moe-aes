@@ -15,7 +15,7 @@ Singapore 678117
 **School Operating Time:** <br>
 6:30 a.m. to 6:30 p.m. <br>
 (Monday to Friday) <br>
-During the March school holidays, school office will **close at 5.00pm from 14 March and 15 March 2024.**
+During the June school holidays, school office will **close at 5.00pm from 27 May to 21 Jun 2024.**
 
 **Bus Services:** <br>
 67, 170, 170A, 176, 178, 961, 961M, 963, 970
