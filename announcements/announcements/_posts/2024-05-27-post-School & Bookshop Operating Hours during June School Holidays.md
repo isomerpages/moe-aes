@@ -1,15 +1,15 @@
 ---
-title: School & Bookshop Operating Hours during June Holidays
+title: School & Bookshop Operating Hours during June School Holidays
 permalink: /school-bookshop-operating-hours-during-june-holidays/
-date: 2024-05-23
+date: 2024-05-27
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
 <p>Dear Parents / Guardians / Students,</p>
-<p>The Operating Hours of the School Bookshop during the June Holidays will
-be as follows:</p>
+<p><strong><u>Bookshop Operating Hours during June Holidays (27 May to 21 Jun 2024)</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -54,8 +54,11 @@ be as follows:</p>
 and PH as well.</p>
 <p>Bookshop Operation will resume as per normal from 24 June onwards.</p>
 <p></p>
-<p>In addition, during the period of 1 June to 16 June, school office will
-be closed at 5:30pm.</p>
+<p><strong><u>Assumption English School Operating Hours during June Holidays (27 May to 21 Jun 2024)</u></strong>
+</p>
+<p>Mondays to Fridays operating hours 8.00am to 5.00pm. Closed on weekends
+and PH.</p>
+<p>Normal operation resumes after 24 June and onwards.</p>
 <p></p>
 <p>Thank you.</p>
 <p></p>
