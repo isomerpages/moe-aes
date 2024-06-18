@@ -2,8 +2,11 @@
 title: National Police Cadet Corps
 permalink: /student-development/ccas/uniformed-groups/national-police-cadet-corps/
 description: ""
+variant: markdown
 ---
-![](/images/npcc%20photo.jfif)
+![](/images/New_Old_Exco.jpg)
+
+![](/images/New_Exco_Team.jpg)
 ### About Us
 
 
@@ -21,6 +24,9 @@ May the unit continue to grow from strength to strength!
 
 | Year | Name of Activity/ Achievement | 
 | -------- | -------- | 
+|**2024** | SPF NPCC badge Awardee:&nbsp;<br>SSGT FERNANDEZ MITCHELL RAPHAEL WEI MING &amp; SSGT UDAYAKUMAR TAMILAMUTHAN |
 | **2023**   |  Unit Overall Proficiency Award - Distinction Award| 
+||SPF NPCC badge Awardee:&nbsp;<br>SSGT OTHELLO CHIU &amp; SSGT JOWEENA ANG
 | **2022**     | Unit Overall Proficiency Award - Distinction Award    | 
+|| SPF NPCC badge Awardee:&nbsp;<br> SSGT Loo Wei Yang &amp; SSGT Rachyl Soon Yi Ting |
 | **2021**     | Unit Overall Proficiency Award - Gold |
