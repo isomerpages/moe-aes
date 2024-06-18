@@ -27,7 +27,11 @@ AES Girl Guides participated in various events, such as World Thinking Day, Nati
 
 | Year | Name of Activity/ Achievement|
 | -------- | -------- | 
+|2024|  West DIvision Day&nbsp; <br> - 2nd placing for Recyclable Diorama <br> - 2nd placing for Green Genius Challenge |
 | 2023     | Puan Noor Aishah Award (GOLD) | 
+||West Division Day <br> -2nd placing for The World is in Your Hand <br> - 3rd placing for Poets for Peace
 | 2022     | Puan Noor Aishah Award (GOLD) | 
+|| West Division Day<br>- 2nd placing for Pin It Up!
 | 2021 | Puan Noor Aishah Award (GOLD) | 
+||West Division Day<br>- 3rd placing for Caption the Moment
 | 2020| Award not given out due to COVID-19 pandemic |
