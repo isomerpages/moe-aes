@@ -4,7 +4,6 @@ permalink: /student-development/ccas/uniformed-groups/girl-guides-girls/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Girl_Guides_2024_photo.png)
 
 ### About Us:
