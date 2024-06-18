@@ -2,8 +2,11 @@
 title: National Police Cadet Corps
 permalink: /student-development/ccas/uniformed-groups/national-police-cadet-corps/
 description: ""
+variant: markdown
 ---
-![](/images/npcc%20photo.jfif)
+![](/images/New_Old_Exco.jpg)
+
+![](/images/New_Exco_Team.jpg)
 ### About Us
 
 
