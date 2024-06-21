@@ -2,10 +2,11 @@
 title: For Teachers
 permalink: /useful-resources/for-teachers/
 description: ""
+variant: markdown
 ---
 *   [AES ICT TOOLBOX](https://sites.google.com/moe.edu.sg/aesicthelpdesk/teachers)
 *   [All Ears form builder](https://forms.moe.edu.sg/)
-*   [Defects & Issues Reporting System](https://docs.google.com/forms/d/e/1FAIpQLSe7d7yuBsxy67Np4SdIZfMQWQZ70lGnCc4PPm9niEkTAv00Nw/viewform)
+*   [Defects & Issues Reporting System](https://form.gov.sg/66179461dbe4150f8f72c687)
 *   [Form SG](https://assumptionenglish.moe.edu.sg/useful-resources/for-teachers/form-sg)
 *   [Go.gov.sg](https://assumptionenglish.moe.edu.sg/useful-resources/for-teachers/go-gov-sg)
 *   [HRMS](https://hrms.moe.gov.sg/)
