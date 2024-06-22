@@ -100,6 +100,6 @@ Topics to be assessed
 [2024 Sec 4&amp;5 WA2 - Topics to be Assessed ](/files/2024_Sec_4_5_WA2___Topics_to_be_Assessed__updated_2_April_.pdf)
 <br>
 <br>
-**1\. Timetable for Semester 2**
+**7. Timetable for Semester 2**
 <br>
 [AES 2024 Semester 2 Timetable (Updated on 22 June)](/files/AES_2024_SEM2_CLASS_Timetable_Final_22Jun_1038.pdf)
