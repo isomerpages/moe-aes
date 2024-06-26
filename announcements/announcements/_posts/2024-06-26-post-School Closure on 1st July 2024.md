@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Dear Parents / Guardians / Students,</p>
 <p></p>
-<p>School will be closed on 1 July 2024 (Youth Day).</p>
-<p>Normal operation resumes on 2 July and onwards.</p>
+<p>School will be closed on 1 July 2024 (Youth Day) and will resume on 2
+July.</p>
 <p></p>
-<p>Thank you</p>
+<p>Thank you.</p>
