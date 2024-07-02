@@ -147,10 +147,6 @@ System (DSA-Sec IS) or at their primary schools.</p>
 </p>
 <p>Instructions on Application (Non Mainstream Students) <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<p>Direct to DSA-Sec Portal (Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
-<p>Direct to DSA-Sec Portal (Non Mainstream Students) <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
 <p>DSA-Sec iFAQs <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 <p>DSA-Sec School Finder <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
