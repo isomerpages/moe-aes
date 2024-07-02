@@ -2,6 +2,7 @@
 title: St Gabriel’s Foundation Virtual Flag Day 2022
 permalink: /useful-resources/st-gabriel-s-foundation-virtual-flag-day-2022/
 description: ""
+variant: markdown
 ---
 **1st February 2022 - 31st March 2022**  
   
@@ -20,7 +21,7 @@ The St Gabriel’s Foundation appeals to your generosity to help them raise a to
 
  For more information, do visit [www.stgabrielsfoundation.sg](http://www.stgabrielsfoundation.sg/) 
 
-To donate, please visit [https://www.giving.sg/stgabrielsfoundation-sg/flagday2022](https://www.giving.sg/stgabrielsfoundation-sg/flagday2022)
+To donate, please visit [here](https://www.giving.sg/organisation/profile/5f06c743-76b6-43a9-b8dd-e4a8b6ece74e)
 
   
 
