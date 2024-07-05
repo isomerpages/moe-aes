@@ -132,7 +132,7 @@ consultation with the school.</p>
 under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see
 <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>)</p>
 <p>(ii) Health Promotion Board and school criteria in the use of healthy
-and nutritious ingredients. (Refer to <a href="https://www.sfa.gov.sg/food-retail/food-hygiene-practices-guidelines/food-hygiene-practices-guidelines" rel="noopener noreferrer nofollow" target="_blank">website</a>)</p>
+and nutritious ingredients. (Refer to <a href="https://www.sfa.gov.sg/food-retail/safe-food-practices-guidelines/safe-food-practices-guidelines" rel="noopener noreferrer nofollow" target="_blank">website</a>)</p>
 <p>(iii) Able to maintain high standard of food safety and personal hygiene.</p>
 <p>(iv) Healthy and fit to operate the stall.</p>
 </li>

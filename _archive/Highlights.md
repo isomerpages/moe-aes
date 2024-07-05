@@ -131,23 +131,8 @@ Every year, AssumptionKnights join this event to raise funds and give back to so
 
 The proceeds from the Flag Day will be channelled to help children and youth-in-need become socially integrated, responsible and contributing members of society.
 
-  
-You can go to [https://www.giving.sg/boys-town/virtualflagday2020](https://www.giving.sg/boys-town/virtualflagday2020) or scan the QR code.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/QR%20Code.png" alt="QR Code" style="width:30%;">  
-  
-
-
 Our AssumptionKnights have contributed in their own ways, by creating posters and videos to raise awareness of this fund-raising event.
 
-  
 
 <em>Boys’ Town Virtual Flag Day video by our AssumptionKnights<br>
 Wei Yang, Qijun, Lucas, Ernest and Paven from 2/2, 2020.</em>
