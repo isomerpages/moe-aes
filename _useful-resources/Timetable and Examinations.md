@@ -106,9 +106,13 @@ Topics to be assessed
 
 **8. Prelim for 4NA &amp; 4NT Students**
 <br>
+Schedule
+<br>
 [2024 Sec 4NA Prelim Exam Schedule](/files/2024_Sec_4NA_Prelim_Exam_Schedule.pdf)
 <br>
 [2024 Sec 4NT Prelim Exam Schedule](/files/2024_Sec_4NT_Prelim_Exam_Schedule__updated_.pdf)
+<br>
+Topics to be Assessed
 <br>
 [2024 Sec 4NA Prelim Exam Topics to be Assessed](/files/4N_A__Prelim_Exam_Details.pdf)
 <br>
