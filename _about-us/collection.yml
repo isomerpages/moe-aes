@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - People of AES.md
       - Principal's Message.md
       - AES Identity/.keep
       - AES Identity/Mission and Vision.md
