@@ -1,5 +1,5 @@
 collections:
-  aes-identity:
+  about-us:
     output: true
     order:
       - Principal's Message.md
