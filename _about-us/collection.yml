@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - People of AES.md
       - Principal's Message.md
       - AES Identity/.keep
       - AES Identity/Mission and Vision.md
@@ -19,6 +18,7 @@ collections:
       - School Management Committee/Non Financial Information.md
       - Organisation Chart.md
       - Teaching Staff.md
+      - People of AES.md
       - Achievements/.keep
       - Achievements/AES In the News.md
       - Achievements/Academic Achievements.md
