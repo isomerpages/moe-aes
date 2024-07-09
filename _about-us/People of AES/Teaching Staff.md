@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /about-aes/teaching-staff/
 description: ""
 variant: markdown
+third_nav_title: People of AES
 ---
 <p style="text-align:center;">Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.</p>
 

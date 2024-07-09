@@ -2,7 +2,7 @@
 title: Motto and Crest
 permalink: /about-aes/assumptions-identity/motto-and-crest/
 description: ""
-third_nav_title: Assumption's Identity
+third_nav_title: AES Identity
 ---
 <style>  
 img {  
@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/AES%20Crest.gif" alt="Motto and Crest" style="width:40%;">  
+<img src="/images/AES%20Crest.gif" alt="Motto and Crest" style="width:40%;">  
   
-</body>
+
 
 **School Motto**
 

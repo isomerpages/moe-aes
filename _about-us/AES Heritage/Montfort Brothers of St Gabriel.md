@@ -2,7 +2,7 @@
 title: Montfort Brothers of St Gabriel
 permalink: /about-aes/school-history/montfort-brothers-of-st-gabriel/
 description: ""
-third_nav_title: School History
+third_nav_title: AES Heritage
 ---
 The Montfort Brothers of St. Gabriel linked their foundation to St. Louis Marie de Montfort (1673 – 1716) in France. The first Brothers were associated with the founder, St. Louis Marie de Montfort, and assisted him in his missionary preaching in the western part of France. In the course of his mission in those parts of France, St. Louis Marie de Montfort established charitable schools for needy children. He entrusted this work to the early followers, from whom the group grew to be later known as the Montfort Brothers of St. Gabriel.
 

@@ -3,21 +3,22 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Assumption's Identity/.keep
-      - Assumption's Identity/Mission and Vision.md
-      - Assumption's Identity/School Values.md
-      - Assumption's Identity/Motto and Crest.md
-      - Assumption's Identity/School Song.md
-      - School History/.keep
-      - School History/School History.md
-      - School History/Montfort Brothers of St Gabriel.md
-      - School History/Story of Montfort in Dinan.md
+      - AES Identity/.keep
+      - AES Identity/Mission and Vision.md
+      - AES Identity/School Values.md
+      - AES Identity/Motto and Crest.md
+      - AES Identity/School Song.md
+      - AES Heritage/.keep
+      - AES Heritage/School History.md
+      - AES Heritage/Montfort Brothers of St Gabriel.md
+      - AES Heritage/Story of Montfort in Dinan.md
       - Montfortian Education Charter.md
       - School Management Committee/.keep
       - School Management Committee/School Management Committee.md
       - School Management Committee/Non Financial Information.md
-      - Organisation Chart.md
-      - Teaching Staff.md
+      - People of AES/Teaching Staff.md
+      - People of AES/Organisation Chart.md
+      - People of AES/.keep
       - Achievements/.keep
       - Achievements/AES In the News.md
       - Achievements/Academic Achievements.md

@@ -2,7 +2,7 @@
 title: Story of Montfort in Dinan
 permalink: /about-aes/school-history/story-of-montfort-in-dinan/
 description: ""
-third_nav_title: School History
+third_nav_title: AES Heritage
 ---
 <style>  
 img {  
@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dinan.jpeg" alt="Story of Montfort in Dinan" style="width:65%;">  
+<img src="/images/Dinan.jpeg" alt="Story of Montfort in Dinan" style="width:65%;">  
   
-</body>
+
 
 One night while returning from a mission in Dinan, Louis Marie found a poor and sick man all covered with sores on the street.
 

@@ -2,7 +2,7 @@
 title: School History
 permalink: /about-aes/school-history/
 description: ""
-third_nav_title: School History
+third_nav_title: AES Heritage
 ---
 Assumption English School was founded in 1953 by Brother Vincent, a Gabrielite Brother as one of the three components of Boys' Town.
 
@@ -18,9 +18,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%201.png" alt="School History" style="width:75%;">  
+<img src="/images/image%201.png" alt="School History" style="width:75%;">  
   
-</body>
+
   
 
   
@@ -35,9 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%202.png" alt="School History" style="width:75%;">  
+<img src="/images/image%202.png" alt="School History" style="width:75%;">  
   
-</body>
+
 
 In 1973, the Secondary section of CHIJ Bukit Timah merged with Boys’ Town English School and the school became a Co-educational Catholic mission School.
 
@@ -53,9 +53,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%203.png" alt="School History" style="width:75%;">  
+<img src="/images/image%203.png" alt="School History" style="width:75%;">  
   
-</body>
+
   
 
 The school progressed rapidly and in 1989, the school authorities decided to upgrade the facilities to better meet the demands of education for the new millennium.
@@ -71,9 +71,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%204.png" alt="School History" style="width:75%;">  
+<img src="/images/image%204.png" alt="School History" style="width:75%;">  
   
-</body>
+
   
 
 Building of the new school building started in 1993.
@@ -90,9 +90,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%205.png" alt="School History" style="width:75%;">  
+<img src="/images/image%205.png" alt="School History" style="width:75%;">  
   
-</body>
+
 
   
 
@@ -105,6 +105,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image%206.jpeg" alt="School History" style="width:75%;">  
-  
-</body>
+<img src="/images/image%206.jpeg" alt="School History" style="width:75%;">

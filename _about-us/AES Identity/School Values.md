@@ -2,7 +2,7 @@
 title: School Values
 permalink: /about-aes/assumptions-identity/school-values/
 description: ""
-third_nav_title: Assumption's Identity
+third_nav_title: AES Identity
 variant: markdown
 ---
 **CHRIST VALUES**
