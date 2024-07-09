@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - AES Heritage.md
       - Principal's Message.md
       - Assumption's Identity/.keep
       - Assumption's Identity/Mission and Vision.md
