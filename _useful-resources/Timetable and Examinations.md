@@ -118,7 +118,7 @@ Topics to be Assessed
 <br>
 [2024 Sec 4NT Prelim Exam Topics to be Assessed](/files/4N_T__Prelim_Exam_Details.pdf)
 
-**9. Weighted Assessment 3 (WA3) for Secondary 1, 2, 3***
+**9. Weighted Assessment 3 (WA3) for Secondary 1, 2, 3**
 <br>
 [2024 Sec 1 WA3 Letter &amp; Schedule](/files/1__2024_Sec_1_WA_3_Letter___Schedule.pdf)
 <br>
