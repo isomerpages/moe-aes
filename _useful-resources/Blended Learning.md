@@ -14,6 +14,9 @@ AES will be embarking on Blended Learning every term. Please see the confirmed B
 Term 3:
 ![](/images/HBL_Term_3_2024.png)
 
+Term 4:
+![](/images/BL_2024_T4.png)
+
 **The important links are as follows:**  
 1) Blended Learning briefing slides: [**go.gov.sg/aesblslides**](http://go.gov.sg/aesblslides)  
 2) Blended Learning lesson instructions:  

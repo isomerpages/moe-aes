@@ -60,6 +60,7 @@ third_nav_title: People of AES
 |3/1|Form Teacher|Ms Rossellini Tan Yeling|
 |3/1|Form Teacher|Ms Ummahani Binte Nur Badren|
 |3/2|Form Teacher|Ms Atikah Sa'ad|
+|3/2|Form Teacher|Ms Sangeetha D/O Asokan|
 |3/3|Form Teacher|Ms Meera Devi|
 |3/3|Form Teacher|Mr Low Jian Hung|
 |3/3|Form Teacher|Mr Neville Teo Soong Hee|
@@ -75,6 +76,7 @@ third_nav_title: People of AES
 |4/2|Form Teacher|Ms Denise Lee|
 |4/3|Form Teacher|Ms Lilian Li|
 |4/3|Form Teacher|Ms Manjit Kaur|
+|4/3|Form Teacher|Ms Hannah Zhang Shu Mei|
 |4/4|Form Teacher|Mr Joshua Yeo|
 |4/5|Form Teacher|Mr Aravind|
 |4/6|Form Teacher|Ms Azra Zaheera|
