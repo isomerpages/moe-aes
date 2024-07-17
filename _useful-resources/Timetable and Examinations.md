@@ -127,3 +127,9 @@ Topics to be Assessed
 [2024 Sec 3E WA3 Letter &amp; Schedule](/files/3__2024_Sec_3E_WA_3_Letter___Schedule.pdf)
 <br>
 [2024 Sec 3N WA3 Letter &amp; Schedule](/files/4__2024_Sec_3NA___3NT_WA_3_Letter___Schedule.pdf)
+
+**10. Prelim for 4E &amp; 5NA Students**
+<br>
+[2024 4E5NA Prelim Schedule](/files/2024_4E5N_Prelim_Schedule.pdf)
+<br>
+[2024 4E5NA Prelim Exam Topics to be Assessed](/files/2024_4E5N_Prelim_Exam_Details.pdf)
