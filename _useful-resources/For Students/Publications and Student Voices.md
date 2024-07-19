@@ -7,7 +7,7 @@ variant: markdown
 ---
 [AES e-Manna](/useful-resources/for-students/publications-and-student-voices/aes-e-manna/)
 
-[Student Council Website](https://www.aesstudentcouncil.org/)
+[AES Student Council Instagram](https://www.instagram.com/aes_sc/?hl=en)
 
 [Instagram (AES Manna)](https://www.instagram.com/aes_manna/)
 
