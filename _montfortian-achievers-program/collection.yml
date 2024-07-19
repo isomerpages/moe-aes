@@ -1,5 +1,5 @@
 collections:
-  monfortian-achievers-programme:
+  montfortian-achievers-program:
     output: true
     order:
       - Education & Career Guidance (ECG).md
