@@ -27,8 +27,8 @@ third_nav_title: People of AES
 | -------- | -------- | 
 | Mrs Ong-Yew Gui Mei   | Subject Head Chinese Language    |
 | Mr Tang Kok Bin    | Subject Head Infocomm Technology   | 
-|  Mr Desmond Wong   | Subject Head Student Management   | 
-|  Ms Natalie Han    | Subject Head English Literature  | 
+|  Mr Desmond Wong Wei Jie  | Subject Head Student Management   | 
+|  Ms Natalie Han Su-Yin   | Subject Head English Literature  | 
 |  Ms Camille Koh Eng Guan    | Subject Head Aesthetics | 
 | Ms Fasihah Bte Rahmat| Subject Head Student Wellbeing     | 
 | Mr Suhaimi Bin Sahmat |Subject Head Malay Language| 
@@ -37,8 +37,7 @@ third_nav_title: People of AES
 | Ms Diana Bte Abu Bakar (Mrs Norman)| Senior Teacher Mathematics| 
 | Mr Lee Wung Yew| Senior Teacher Physical Education| 
 | Mrs Ong Hsia Li | Senior Teacher Art| 
-| Ms Cryst Tan| Senior Teacher Social Studies| 
-| Mdm Yin Na| Lead Teacher Chinese Language| 
+| Ms Cryst Tan Tee Wah| Senior Teacher Social Studies| 
 
 | **Name** | **Designation**|
 | -------- | -------- | 
