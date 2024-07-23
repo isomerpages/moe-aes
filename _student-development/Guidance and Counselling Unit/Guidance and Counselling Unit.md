@@ -159,3 +159,6 @@ Website: [https://www.babes.org.sg/](https://www.babes.org.sg/)
 | -------- | -------- |
 |Seniors &amp; Caregivers requiring community care services| AIC Hotline: 1800 650 6060|
 |Counselling for families facing relationship issues| Hotline: 1800 111 2222|
+|Financial assistance &amp; Support for lower-income or vulnerable individuals and families with social / emotional issues| Hotline: 1800 222 0000|
+|Employment Assistance &amp; Career Advisory| Hotline: 6474 0606|
+|Person experiencing any form of violence or abuse| Hotline: 1800 777 0000|
