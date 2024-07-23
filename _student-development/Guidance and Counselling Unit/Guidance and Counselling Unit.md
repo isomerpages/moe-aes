@@ -33,7 +33,8 @@ Students can schedule an appointment by approaching your form teacher or staff i
 MySkillsFuture for students is a one-stop platform to help you better understand yourself, your interests and strengths. You can use relevant information and tools to explore different education and career pathways! This portal will help you identify career goals and make informed education and career choices. Discover more about yourself, explore the different education and career pathways and start planning for your future!
 
 Useful Links on MySkillsFuture Portal ([https://www.myskillsfuture.gov.sg/content/student/en/secondary.html]()):
-<br>
+
+
 |**Useful Details**|**Link**|
 | -------- | -------- |
 |Education Landscape| https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/education-landscape.html|
@@ -155,6 +156,7 @@ Website: [https://www.babes.org.sg/](https://www.babes.org.sg/)
 
 
 ### **Family Support Services**
+
 |**Social Service**|**Detail**|
 | -------- | -------- |
 |Seniors &amp; Caregivers requiring community care services| AIC Hotline: 1800 650 6060|
