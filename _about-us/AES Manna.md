@@ -30,22 +30,13 @@ variant: tiptap
 <br>
 <br>
 </p>
-<h2>2019</h2>
-<p><strong><a href="https://joom.ag/5zna" rel="noopener noreferrer nofollow" target="_blank">JANUARY</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/oIZa" rel="noopener noreferrer nofollow" target="_blank">FEBRUARY</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/7Zha" rel="noopener noreferrer nofollow" target="_blank">MARCH</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/2Roa" rel="noopener noreferrer nofollow" target="_blank">APRIL</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/xaze" rel="noopener noreferrer nofollow" target="_blank">MAY</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/RQ4e" rel="noopener noreferrer nofollow" target="_blank">JUNE</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/Du8e" rel="noopener noreferrer nofollow" target="_blank">JULY</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/4ARe" rel="noopener noreferrer nofollow" target="_blank">AUGUST</a></strong>
-</p>
-<p><strong><a href="https://joom.ag/aVte" rel="noopener noreferrer nofollow" target="_blank">OCTOBER</a></strong>
-</p>
+<h2>2019</h2><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Zow_jQE9a2EtLclWrC7QD0VYWv4ujW7m/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_1__January_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ES8aQMKjgaLNAeZL_uZg4rieeZDXf9U8/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_2__February_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Hrn-OClbO5l9D8lFO-x0C35M4VbXftdd/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_3__March_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13hmN8UGRvr1nICbWseIZDjD1zM-4CVgS/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_4__April_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Al1vMhkvlMXaqVUaSKonIsWvGeCegLbD/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_5__May_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/13iuWQdk0Ee10Z6xQepWE1RYrbNB9GKp-/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_6__June_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1csEUtvgDQRINbre6wQxG7uAvPvpF9LRB/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_7__July_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/18wwk1nbTag0gnHI22h5VwwZfqdee4xhr/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_8__August_2019__Cover_Page.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1hZ2f930gjH3Gci8PNi7RYcWV-pRxAmPF/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manna_Issue_9__October_2019__Cover_Page.jpg"></a>
+<p></p>
