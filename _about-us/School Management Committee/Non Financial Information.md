@@ -12,7 +12,7 @@ variant: markdown
 
 ----
 
-<p style="text-align:left;"><strong>Name of Contact Person:</strong> Mr Cheng Senyuan <br><strong>Telephone No:</strong> 65729100 <br><strong>Fax No:</strong> 67636560 <br><strong>Email Address:</strong> &nbsp;aes@moe.edu.sg  <br><strong>Website Address:</strong> <a href="https://assumptionenglish.moe.edu.sg/">https://assumptionenglish.moe.edu.sg</a></p>
+<p style="text-align:left;"><strong>Name of Contact Person:</strong> Mr Emran Bin Yatim <br><strong>Telephone No:</strong> 65729100 <br><strong>Fax No:</strong> 67636560 <br><strong>Email Address:</strong> &nbsp;aes@moe.edu.sg  <br><strong>Website Address:</strong> <a href="https://assumptionenglish.moe.edu.sg/">https://assumptionenglish.moe.edu.sg</a></p>
 
 ----
   
