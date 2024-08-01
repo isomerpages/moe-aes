@@ -8,6 +8,7 @@ Dear Parents/Guardians
 
 **Support for St Gabriel’s Foundation (SGF) Charity Movie 2024**
 
+![](/images/AES_SGF_Charity_Movie_2024_Landscape.jpg)
 **Lights, Camera, Education**: Fuel our holistic programmes and get a Pass to a Cinematic Journey by supporting the St Gabriel’s Foundation Charity Movie Campaign 2024.
 
 Reel into this fundraiser together to further support meaningful holistic programmes organised for the students in our seven (7) institutions. This is how you can help:
@@ -33,7 +34,8 @@ These are some key points to note (for full terms and conditions, please refer t
 *   Golden Village will not be responsible for any lost vouchers.
 *   Golden Village will not accept expired vouchers and entertain revalidation requests.
 
-To donate, please fill up the attached response form or contact the school at&nbsp;65729100&nbsp;or email&nbsp;[aes@moe.edu.sg](mailto:aes@moe.edu.sg).
+To donate, please fill up the [attached response form](/files/AES_Charity_Movie_2024_Response_Form.pdf) or contact the school at&nbsp;65729100&nbsp;or email&nbsp;[aes@moe.edu.sg](mailto:aes@moe.edu.sg).
+
 
 
 For General Enquiries, please contact St Gabriel's Foundation at&nbsp;89111359&nbsp;or email [enquiry@stgabrielsfoundation.org](mailto:enquiry@stgabrielsfoundation.org).
