@@ -4,7 +4,7 @@ permalink: /useful-resources/st-gabriel-s-foundation-charity-movie-2024/
 description: ""
 variant: markdown
 ---
-Dear Parents/Guardians
+Dear Parents/Guardians,
 
 **Support for St Gabriel’s Foundation (SGF) Charity Movie 2024**
 
