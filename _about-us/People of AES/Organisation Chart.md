@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: People of AES
 ---
-| **Name** | **Designation** | 
+| **Name** | **Designation**|
 | -------- | -------- | 
 | Mr Vincent Toh | Principal | 
 |Ms Wong Ker Sin    | Vice Principal     | 
@@ -18,6 +18,7 @@ third_nav_title: People of AES
 | Mr Taufeeq Affandey | HOD Craft & Technology   | 
 | Mr Ng Shi Han    |  HOD Character & Citizenship Education    | 
 | Mr Balbinder Singh   |  HOD Physical Education & CCA     | 
+| Ms Chan Siming   |  HOD Infocomm Technology| 
 | Mrs Chong-Kee Chay Hoon  | School Staff Developer     | 
 | Ms Tan Wee Lin   | Year Head (Upper Sec)| 
 | Ms Sheryl Kaur    | Year Head (Lower Sec)| 
