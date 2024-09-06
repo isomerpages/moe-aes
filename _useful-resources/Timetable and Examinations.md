@@ -133,3 +133,47 @@ Topics to be Assessed
 [2024 4E5NA Prelim Schedule](/files/2024_4E5N_Prelim_Schedule.pdf)
 <br>
 [2024 4E5NA Prelim Exam Topics to be Assessed](/files/2024_4E5N_Prelim_Exam_Details.pdf)
+
+
+**11. End of Year Examinations for Secondary 1, 2, 3**
+<br>
+Schedule
+<br>
+[2024 Sec 1 G1 Schedule](/files/Sec_1_G1_Schedule.pdf)
+<br>
+[2024 Sec 1 G2 Schedule](/files/Sec_1_G2_Schedule.pdf)
+<br>
+[2024 Sec 1 G3 Schedule](/files/Sec_1_G3_Schedule.pdf)
+<br>
+[2024 Sec 2 Express Schedule](/files/Sec_2_Exp_Schedule.pdf)
+<br>
+[2024 Sec 2NA Schedule](/files/Sec_2_NA_Schedule.pdf)
+<br>
+[2024 Sec 2NT Schedule](/files/Sec_2_NT_Schedule.pdf)
+<br>
+[2024 Sec 3 Express Schedule](/files/Sec_3_Exp_Schedule.pdf)
+<br>
+[2024 Sec 3NA Schedule](/files/Sec_3_NA_Schedule.pdf)
+<br>
+[2024 Sec 3NT Schedule](/files/Sec_3_NT_Schedule.pdf)
+<br>
+
+Topics to be assessed and Format
+<br>
+[2024 Sec 1 G1 Topics &amp; Format](/files/Sec_1_G1_Topics___Format.pdf)
+<br>
+[2024 Sec 1 G2 Topics &amp; Format](/files/Sec_1_G2_Topics___Format.pdf)
+<br>
+[2024 Sec 1 G3 Topics &amp; Format](/files/Sec_1_G3_Topics___Format.pdf)
+<br>
+[2024 Sec 2 Express Topics &amp; Format](/files/Sec_2_Exp_Topics___Format.pdf)
+<br>
+[2024 Sec 2NA Topics &amp; Format](/files/Sec_2_NA_Topics___Format.pdf)
+<br>
+[2024 Sec 2 NT Topics &amp; Format](/files/Sec_2_NT_Topics___Format.pdf)
+<br>
+[2024 Sec 3 Express Topics &amp; Format](/files/Sec_3_Exp_Topics___Format.pdf)
+<br>
+[2024 Sec 3NA Topics &amp; Format](/files/Sec_3_NA_Topics___Format.pdf)
+<br>
+[2024 Sec 3NT Topics &amp; Format](/files/Sec_3_NT_Topics___Format.pdf)
