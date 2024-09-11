@@ -158,9 +158,9 @@ Topics to be assessed and Format
 <br>
 [2024 Sec 1 G1 Topics &amp; Format](/files/Sec_1_G1_Topics___Format.pdf)
 <br>
-[2024 Sec 1 G2 Topics &amp; Format](/files/Sec_1_G2_Topics___Format.pdf)
+[2024 Sec 1 G2 Topics &amp; Format](/files/Sec_1_G2_Topics___Format__upd_11_Sep_.pdf)
 <br>
-[2024 Sec 1 G3 Topics &amp; Format](/files/Sec_1_G3_Topics___Format.pdf)
+[2024 Sec 1 G3 Topics &amp; Format](/files/Sec_1_G3_Topics___Format__upd_11_Sep_.pdf)
 <br>
 [2024 Sec 2 Express Topics &amp; Format](/files/Sec_2_Exp_Topics___Format.pdf)
 <br>
