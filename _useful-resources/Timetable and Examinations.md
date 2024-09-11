@@ -147,8 +147,7 @@ Schedule
 <br>
 [2024 Sec 2NT Schedule](/files/Sec_2_NT_Schedule.pdf)
 <br>
-[2024 Sec 3 Express Schedule](/files/Sec_3_Exp_Schedule.pdf)
-<br>
+[2024 Sec 3 Express Schedule](/files/Sec_3_Exp_Schedule.pdf[2024 Sec 3 Express Topics &amp; Format (rev)]<br>
 [2024 Sec 3NA Schedule](/files/Sec_3_NA_Schedule.pdf)
 <br>
 [2024 Sec 3NT Schedule](/files/Sec_3_NT_Schedule.pdf)
@@ -168,7 +167,7 @@ Topics to be assessed and Format
 <br>
 [2024 Sec 2 NT Topics &amp; Format](/files/Sec_2_NT_Topics___Format.pdf)
 <br>
-[2024 Sec 3 Express Topics &amp; Format](/files/Sec_3_Exp_Topics___Format.pdf)
+[2024 Sec 3 Express Topics &amp; Format][REVISION](/files/6__2024_End_of_Year_Examination__Topics_to_be_Assessed_xlsx__S3E_.pdf)(/files/Sec_3_Exp_Topics___Format.pdf)
 <br>
 [2024 Sec 3NA Topics &amp; Format](/files/Sec_3_NA_Topics___Format.pdf)
 <br>
