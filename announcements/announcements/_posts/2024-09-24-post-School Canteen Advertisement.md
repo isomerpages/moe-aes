@@ -1,7 +1,7 @@
 ---
 title: School Canteen Advertisement
 permalink: /announcements/school-canteen-advertisement/permalink/
-date: 2024-06-27
+date: 2024-09-24
 layout: post
 description: ""
 image: ""
@@ -18,7 +18,7 @@ vacant.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Type of Stall</u></strong>
+<p><strong><u>Type of Stall (Choose one ONLY)</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,7 +35,7 @@ vacant.</p>
 <p>Western Food Stall (Halal)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>31 July 2024, Wednesday</p>
+<p>31 October 2024, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any sort of staple Western food is acceptable.</p>
@@ -46,7 +46,7 @@ vacant.</p>
 <p>Halal Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any sort of cuisines other than Western and Malay is acceptable.</p>
+<p>Any sort of cuisines <u>other than Western and Malay</u> is acceptable.</p>
 <p>E.g. Korean, Thai, etc.</p>
 </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Blended Learning 2024
-date: 2024-07-17
+date: 2024-09-23
 layout: link
 description: ""
 image: ""
