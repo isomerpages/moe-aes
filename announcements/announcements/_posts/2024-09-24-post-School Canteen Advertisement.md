@@ -32,7 +32,7 @@ vacant.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food Stall (Halal)</p>
+<p>(1) Western Food Stall (Halal)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>31 October 2024, Wednesday</p>
@@ -43,7 +43,7 @@ vacant.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Stall</p>
+<p>(2) Halal Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any sort of cuisines <u>other than Western and Malay</u> is acceptable.</p>
