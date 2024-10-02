@@ -2,6 +2,7 @@
 title: Choir
 permalink: /student-development/ccas/performing-arts/choir/
 description: ""
+variant: markdown
 ---
 ![](/images/choir%20photo.png)
 ### About Us
@@ -13,7 +14,8 @@ Through the harmonious blending of voices, choir members create captivating perf
 ### Activities/Achievements
 
 | Year| Activities/ Achievements | 
-| -------- | -------- | 
+| -------- | -------- |
+|**2024** | Singapore International Choral Festival (Sliver award) |
 |**2023**     | SYF Certificate of Accomplishment   | 
 |   | Schools’ Choir Exchange   | 
 |     | Your Unique Voice concert @ The Arts House   | 
