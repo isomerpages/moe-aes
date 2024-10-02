@@ -1,5 +1,5 @@
 ---
-title: MOE Financial Assistance (FAS) Form
+title: MOE Financial Assistance (FAS) Details
 date: 2024-10-02
 layout: link
 description: ""
