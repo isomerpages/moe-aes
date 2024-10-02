@@ -33,6 +33,7 @@ To serve with pride and dedication, NCC!
 
 | Year | Name of Activity/ Achievement:|  
 | -------- | -------- | 
+|**2024**| NCC Outstanding Cadet Award (Sea District)- MSG Caleb Ew Yin Feng|
 | **2023**    | AES NCC (SEA) Unit Recognition-Distinction | 
 |    | NCC Outstanding Cadet Award (Sea District) - MSG Isaac William Noronha | 
 | **2022** | AES NCC (SEA) Unit Recognition-Distinction   | 
