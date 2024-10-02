@@ -4,7 +4,7 @@ permalink: /student-development/ccas/performing-arts/choir/
 description: ""
 variant: markdown
 ---
-![](/images/choir%20photo.png)
+![Choir 2024](/images/1_SICF_2.jpg)
 ### About Us
 
 AES Choir offers students a unique opportunity to explore and develop their musical talents while fostering a sense of teamwork and artistic expression. We aim to develop individuals with a passion for music through singing and appreciation of different music forms. 
