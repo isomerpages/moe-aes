@@ -4,7 +4,7 @@ permalink: /student-development/ccas/uniformed-groups/red-cross-youth/
 description: ""
 variant: markdown
 ---
-![](/images/rcy%20photo.jpeg)
+![RCY 2024](/images/2__RCY_CCA_Leaders.jpg)
 
 ### About Us
 

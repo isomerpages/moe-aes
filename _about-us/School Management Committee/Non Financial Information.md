@@ -54,7 +54,7 @@ To realise the school's vision to produce 'Men and Women of Character and Learni
 | 8     | TAN MENG PEOW, OLIVER    | MEMBER    |
 | 9    | TEO POH KHENG ALVIN   | MEMBER    |
 | 10    |ANG THIAM HUAT ARTHUR   | MEMBER     |
-| 11     | ROLAND YEOW    | EX-OFFICIO MEMBER   |
+
 
 **Auditor** <br>
 LO HOCK LING &amp; CO

@@ -2,6 +2,7 @@
 title: Dance Ensemble
 permalink: /student-development/ccas/performing-arts/dance-ensemble/
 description: ""
+variant: markdown
 ---
 ![](/images/dance%20syf.jpg)
 ### About Us
@@ -15,6 +16,7 @@ In AESDE, we work together as a team by relying on each other’s strengths to p
 
 | Year | Activities/ Achievements | 
 | -------- | -------- |
+| **2024**     | VPA Showcase (Lumiere): Into the Woods    | 
 | **2023**     | SYF Certificate of Distinction    | 
 |**2021**    |  SYF Certificate of Accomplishment  |
 |**2020**    |  Senja-Cashew Chinese New Year Celebration Performance |

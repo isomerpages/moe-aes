@@ -4,7 +4,7 @@ permalink: /student-development/ccas/club-n-societies/green-club/
 description: ""
 variant: markdown
 ---
-![](/images/green%20club%20photo.jpg)
+![Green club 2024](/images/1_2024_Green_Club_members_at_the_edible_garden.jpg)
 
 ### About Us:
 
@@ -21,8 +21,8 @@ We hope to continue championing recycled arts in the school by setting up art an
 
 | Year | Activities/ Achievements | 
 | -------- | -------- | 
-| 2024     | Upcycling crafting     | 
+| 2024     | Upcycling crafting, Horticulture     | 
 | 2023     | Cooking with sustainability   | 
 | 2022     | Planting with composting    | 
 | 2021     | Biodiversity Trail    | 
-| 2020     | Terrarium making     | 
+| 2020     | Terrarium making     |

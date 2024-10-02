@@ -2,9 +2,9 @@
 title: Young Montfortian Associates
 permalink: /club-and-societies/permalink/
 description: ""
+variant: markdown
 ---
-
-![](/images/yma%202023.png)
+![YMA 2024](/images/7Bxv_YMA_1.jpg)
 ### About Us
 
 Young Montfortian Associates (YMA) was set up with the aim of forming our young Catholic students in the Spirituality of our Founder Saint, Louis Marie Grignion de Montfort.  

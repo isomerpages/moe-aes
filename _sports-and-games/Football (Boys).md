@@ -5,6 +5,10 @@ description: ""
 variant: markdown
 ---
 ![](/images/AES_Football.jpg)
+B-Div Team
+
+![Football C-Div 2024](/images/C_Div_Team.png)
+C-Div Team
 
 ### About Us
 
@@ -26,7 +30,7 @@ Our collaboration with FAS provides our footballers the opportunity to be expose
 | Year | Activities/ Achievements| 
 | -------- | -------- |
 | **2024**| Finished 3rd in Pool Round, 3rd in League 5 Group stage – ‘B’ Division Boys| 
-|  | On-going in League 1 – ‘C’ Division Boys| 
+|  | Finished 4th in League 1 – ‘C’ Division Boys| 
 | **2023**|Finished 5th in Pool Round, 3rd in League 5 – ‘B’ Division Boys| 
 |     | Finished 2nd in Pool Round, Quarter finalist in League 2 – ‘C’ Division Boys| 
 | **2022**    |Finished 5th in the group stages – ‘B’ Division Boys| 
