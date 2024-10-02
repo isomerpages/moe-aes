@@ -2,8 +2,9 @@
 title: Softball (Girls)
 permalink: /student-development/ccas/sports-and-games/softball-girls/
 description: ""
+variant: markdown
 ---
-![](/images/softball%202023.png)
+![Softball 2024](/images/Softball_1.jpg)
 
 ### About Us
 
@@ -17,6 +18,7 @@ The AES Rangers are thankful for the constant support from one another, their pa
 
 | Year |  Activities/ Achievements |
 | -------- | -------- | 
+| **2024**    | Participated in NSG B and C Division     |
 | **2023**    | Participated in NSG B and C Division     | 
 | **2022**    | Participated in NSG B and C Division     | 
-| **2020**    | Participated in NSG B and C Division     | 
+| **2020**    | Participated in NSG B and C Division     |
