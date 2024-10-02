@@ -23,7 +23,7 @@ third_nav_title: People of AES
 |1 Vincent|Form Teacher|Mr Tommy Lee Shu Hsi|
 |1 Adolphus|Form Teacher|Mr Arnold Teo Kun Ho|
 |1 Adolphus|Form Teacher|Ms Shannon Low Shi Ting|
-|1 Raymond| Form Teacher|Mr Paventhren S/O Kanagarethinan|
+|1 Raymond| Form Teacher|Mr Pavethren S/O Kanagarethinam|
 |1 Raymond|Form Teacher|Mdm Cynthia Wong Lin Yun|
 |1 Emmanuel|Form Teacher|Mr Leet Tagore|
 |1 Emmanuel| Form Teacher|Ms Nurin Huda Binte Hanif|
