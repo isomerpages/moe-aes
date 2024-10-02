@@ -5,6 +5,9 @@ description: ""
 variant: markdown
 ---
 ![](/images/AES_Floorball___B_Division_1.jpg)
+B-Div School Team
+![Floorball 2024](/images/3.jpg)
+C-Div School Team
 ### About Us
 Adrenaline rush! Teamwork! Exhilarating!
 
@@ -18,9 +21,9 @@ AES is one of the pioneers in bringing floorball into secondary schools. AES Flo
 
 | Year | Activities/ Achievements | 
 | -------- | -------- | 
-| **2024**    | Participated in NSG B Division Tournament  | 
-| **2023**    | Entered 2nd round for B Division    | 
-| **2022**    |  Participated in NSG B and C Division     | 
-| **2020**    |  Participated in NSG B and C Division     |
+| **2024**    | Participated in NSG B and C Division Tournament  | 
+| **2023**    | Entered 2nd round for B Division Tournament  | 
+| **2022**    |  Participated in NSG B and C Division Tournament    | 
+| **2020**    |  Participated in NSG B and C Division Tournament     |
 
 ![](/images/AES_Floorball___B_Division_2_.jpg)
