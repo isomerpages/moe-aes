@@ -19,6 +19,4 @@ the timetable for After EOY Exams.</p>
 to school.</p>
 <p>18 Oct (Friday): It is Promotion Day&nbsp;so students need not report
 to school as well.</p>
-<p></p>
-<p>Thank you.</p>
 <p>Mon, 21 Oct: Continue with corrections/ lessons</p>
