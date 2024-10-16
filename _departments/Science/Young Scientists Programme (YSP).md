@@ -3,32 +3,23 @@ title: Young Scientists Programme (YSP)
 permalink: /departments/science/young-scientists-programme-ysp/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-**Young Scientists Programme**, formerly named the&nbsp;**Scholars’ Programme**, was introduced in 2007. The Young Scientists Programme is a privileged programme that develops high-achieving Science students in critical thinking and problem solving, so as to prepare them to handle real-world problems of the 21st Century, through innovation and inquiry. Through the gargantuan of partnerships and collaborations with various educational institutions, the Young Scientists Programme seeks to provide exposure and substantial learning opportunities for its students in the area of Science.
+The **Young Scientists Programme (YSP)**, formerly named the **Scholars’ Programme**, was introduced in 2007. It is a special programme for students interested in Science to further deepen their scientific knowledge and develop their critical thinking and problem solving skills. Through learning journeys, competitions, workshops and collaborations with various educational institutions, the YSP seeks to provide exposure and substantial learning opportunities for our students in the area of Science.
 
   
-### Our vision
-
-  
+### Our Vision
 
 A community of passionate, independent and self-directed leaders capable of empowering their peers towards academic achievement and being active contributors towards their community.
-
   
 
-### Our mission
-  
-
+### Our Mission
 To provide a learning platform for our students to ignite their passion, stretch their critical thinking and problem-solving skills and extend their learning to science-related careers.
 
-  
-
 **_To achieve this mission, we engaged several strategies:_**
-
-  
-
 *   To develop students with the aptitude and attitude for Science
 *   To provide opportunities for students to become active contributors who initiate and lead projects beyond the curriculum
-*   To provide exposure through STRETCH programmes and competitions
+*  To provide exposure through activities, workshops and competitions
 
   
 
