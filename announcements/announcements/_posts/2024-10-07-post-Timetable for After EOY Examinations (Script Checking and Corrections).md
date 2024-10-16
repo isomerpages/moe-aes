@@ -22,5 +22,3 @@ to school as well.</p>
 <p></p>
 <p>Thank you.</p>
 <p></p>
-<p></p>
-<p></p>
