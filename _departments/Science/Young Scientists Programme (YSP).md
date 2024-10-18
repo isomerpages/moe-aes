@@ -38,3 +38,15 @@ These are some of external competitions and programmes that a student may take p
 * National STEM Challenge 
 * Learning Journey @ Green Lab Singapore
 * Plastic Recycling Workshop @ Science Centre Singapore
+
+![](/images/Pic_1.jpg)
+
+![](/images/Pic_2.jpg)
+
+![](/images/Pic_3.jpg)
+
+![](/images/Pic_4.jpg)
+
+![](/images/Pic_5.jpg)
+
+![](/images/Pic_6.jpg)
