@@ -2,7 +2,6 @@ collections:
   0-example-folder:
     output: true
     order:
-      - COVID 19 Vaccination Exercise.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
