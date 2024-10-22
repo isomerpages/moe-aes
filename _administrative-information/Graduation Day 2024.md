@@ -4,8 +4,10 @@ permalink: /useful-resources/for-students/administrative-information/graduation-
 description: ""
 variant: tiptap
 ---
-Greetings,  
-  
-Please view the Graduation Day 2021 E-Booklet from the pdf below,  
-  
-[Grad Day Programme ebooklet 2021.pdf](/files/Grad%20Day%20Programme%20ebooklet%202021%20final%201.pdf)
+<p>Greetings,</p>
+<p>Please view the Graduation Day 2021 E-Booklet from the <a href="https://go.gov.sg/aesgradbooklet24" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Graduation_Day.jpg">
+</div>
+<p>Thank you.</p>
