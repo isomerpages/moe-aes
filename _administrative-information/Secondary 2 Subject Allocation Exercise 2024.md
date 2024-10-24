@@ -23,7 +23,7 @@ school professional judgement.</p>
 <br><a href="https://drive.google.com/drive/folders/1vITgGpxdDuzKqY0LOckzbhke6wwiy64G?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <p><strong>(2) Letter to parents</strong>
-<br><a href="/files/S2_sub_allocation_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 Subject Allocation Exercise (Letter to parents)</a>
+<br><a href="/files/S2_sub_allocation_2024_edited.pdf" rel="noopener nofollow" target="_blank">Sec 2 Subject Allocation Exercise (Letter to parents)</a>
 </p>
 <p><strong>(3) Briefing slides for students (with Step-by-Step Guide for All Ears)</strong>
 <br><a href="https://go.gov.sg/aessub-slides" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/aessub-slides</a>
