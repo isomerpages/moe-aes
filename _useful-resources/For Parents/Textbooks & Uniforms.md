@@ -6,36 +6,51 @@ third_nav_title: For Parents
 variant: markdown
 ---
 School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
-##### **School Bookshop and Uniform Operating Hours**
-School Bookshop is located at Level 2, Canteen.
 
-**Monday to Thursday:** <br> 
+  
+[**School Bookshop and Uniform Operating Hours**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)
+
+**Monday to Thursday** <br>
 8:30am to 3:00pm
 
-**Friday:** <br> 
+**Friday** <br>
 8:30am to 2:30pm
 
-**FAS Redemption Period:** <br>
-4 December 2023 to 8 December 2023
-
-Pre-Ordering of Textbooks and Uniforms will commence on 6 November 2023 and end on 15 December 2023 at [https://asenciobookshop.sg/](https://asenciobookshop.sg/)
   
-Please note that the books and stationery items required for the various streams are ticked in the booklist.  
+**FAS Redemption Period** <br>
+9 December 2024 to 13 December 2024
 
-#### Secondary 1
-[Assumption English School Booklist 2024 Sec 1](/files/assumption%20english%20school%20booklist%202024%20sec%201.pdf)
+  
+
+Pre-Ordering of Textbooks and Uniforms will commence on 6 November 2024 and end on 17 December 2024 at&nbsp;**[https://asencio.com.sg](https://asencio.com.sg/)**
+
+Parents are **strongly encouraged** to order online and opt for **self-collection** at AES bookshop or home delivery. <br>
+Please note that the books and stationery items required for the various streams are ticked in the booklist.
 
 
-#### Secondary 2
-[Assumption English School Booklist 2024 Sec 2](/files/assumption%20english%20school%20booklist%202024%20sec%202.pdf)
+Secondary 1
+-----------
+[Assumption English School Booklist 2025 Sec 1](/files/Assumption_English_School_Sec_1.pdf)
 
-#### Secondary 3
-[Assumption English School Booklist 2024 Sec 3](/files/assumption%20english%20school%20booklist%202024%20sec%203.pdf)
+Secondary 2
+-----------
 
-#### Secondary 4 &amp; 5
-[Assumption English School Booklist 2024 Sec 4](/files/assumption%20english%20school%20booklist%202024%20sec%204.pdf)
+[Assumption English School Booklist 2025 Sec 2](/files/Assumption_English_School_Sec_2.pdf)
 
-[Assumption English School Booklist 2024 Sec 5](/files/assumption%20english%20school%20booklist%202024%20sec%205.pdf)
+Secondary 3
+-----------
+[Assumption English School Booklist 2025 Sec 3](/files/Assumption_English_School_Sec_3.pdf)
 
-Kindly take note the different sales dates for respective levels:
-![Bookshop Collection Dates](/images/bookshop%20collection%20dates.JPG)
+Secondary 4 &amp; 5
+---------------
+[Assumption English School Booklist 2025 Sec 4](/files/Assumption_English_School_Sec_4.pdf)
+<br>
+[Assumption English School Booklist 2025 Sec 5](/files/Assumption_English_School_Sec_5.pdf)
+
+Kindly take note of the sales dates for each respective level:
+![](/images/Bookstore_Dates.png)
+
+**Important Notes:**<br>
+Bookshop accepts **cash** payments only.<br>
+Bookshop will be **closed** on 24 to 25 Dec (Eve of Public Holiday and Public Holiday) and 31 Dec (New Year's Eve). <br>
+For Primary 6 students, parents can order online after the posting results are in. Online orders will be closed on **21 Dec @ 2359 hrs**. Available for walk-ins on the dates stated above.
