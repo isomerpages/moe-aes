@@ -7,11 +7,10 @@ third_nav_title: Mother Tongue Languages
 ---
 ![](/images/MT1.JPG)
 
-**Head of Department, MTL**: Ms Siti Noordiana Binte Sulaiman <br>
 **Subject Head, Chinese Language**: Mrs Ong-Yew Gui Mei <br>
-**Lead Teacher, Chinese Language**: Mdm Yin Na <br>
+**Subject Head, Malay Language**: Mr Suhaimi Bin Sahmat <br>
 
-**Chinese Language Unit Teachers**: Mr Lim Ding Han, Ms Sim Yeng Suann, Ms Kong Yean Ha and Ms Huang Meiting <br>
+**Chinese Language Unit Teachers**: Ms Sim Yeng Suann, Ms Kong Yean Ha, Ms Huang Meiting, Ms Zhou Jie, Mr Tan How Wei <br>
 **Malay Language Unit Teachers**: Ms Fasihah Binte Rahmat (Subject Head, Student Well-being), Ms Azra Zaheera Binte Hairuddin and Ms Siti Mardia Binte Abu Samah <br>
 
 **Subjects Offered**: <br>
