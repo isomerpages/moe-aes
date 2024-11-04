@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>2024</h3><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1mDh5k71Nit5kApfsozz-2IqvINNU_96i/view"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Issue_27_70th_Anniversary_Edition.jpg"></a>
-<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1mDh5k71Nit5kApfsozz-2IqvINNU_96i/view">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Issue_27_70th_Anniversary_Edition.jpg">
-</a><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1U8CxuKwuQrgJUw6ZYvxnB_-0uE26Oi5H/view"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Manna_Issue_28__Jan___Mar_2024__Together__from_strength_to_strength_Page_01.jpg"></a>
+<a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1U8CxuKwuQrgJUw6ZYvxnB_-0uE26Oi5H/view">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Manna_Issue_28__Jan___Mar_2024__Together__from_strength_to_strength_Page_01.jpg">
+</a>
 <h3>2023</h3><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ogtPffDZhelzf26Cgb4Inp1AZvO5A6DU/view"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Manna_Issue_24___2023.jpg"></a>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1weo5BcI2-TNEVvrIf1739_3-gafLiUU5/view"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Manna___Issue_25___2023.jpg"></a>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1OAXB3nlMBkNj9N4hNepRy_f--KOglDzp/view"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Manna_Issue_26___2023.jpg"></a>
