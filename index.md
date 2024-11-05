@@ -15,9 +15,9 @@ sections:
         - title: Direct School Admission (DSA)
           description: ""
           url: /others/direct-school-admission-dsa/
-        - title: AES School Prospectus 2023
+        - title: AES School Prospectus 2024
           description: (Click HERE to for more info!)
-          url: https://online.fliphtml5.com/dmscx/rpnl/
+          url: https://online.fliphtml5.com/hbup/joka/
   - resources:
       title: Announcements
       button: View more
