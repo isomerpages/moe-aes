@@ -25,6 +25,8 @@ sections:
       url: https://www.assumptionenglish.moe.edu.sg/useful-resources/for-parents/aes-open-house-2024/
       image: /images/Outreach__AES_Open_House_Postcard_Design_1__148_5_x_105_mm___1_.jpg
       alt: Image alt text
+      description: "Whats sets AES apart from the other schools?   Find out about our
+        school programmes and learning environment at our Open House!  #AEyeS!"
   - resources:
       title: Announcements
       button: View more
