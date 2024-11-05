@@ -4,7 +4,7 @@ permalink: /useful-resources/for-parents/aes-open-house-2023/
 description: ""
 variant: markdown
 ---
-![](/images/aes%20open%20house%202023.jpeg)
+![](/images/Outreach__AES_Open_House_Postcard_Design_1__148_5_x_105_mm___1_.jpg)
 
 # The ONLY Catholic co-educational Secondary School in the West.
 ****
