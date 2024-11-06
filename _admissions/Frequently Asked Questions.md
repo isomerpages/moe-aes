@@ -106,7 +106,7 @@ to the school during morning assembly as part of the programme. The programme
 was recently featured in MOE Facebook page and Schoolbag.sg for building
 confidence in budding public speakers. We were also invited to present
 at the 2017 MOE EXCEL Fest to share with other schools about this programme.
-We are not in our 4th year of implementation and all current AssumptionKnights
+We are in our 4th year of implementation and all current AssumptionKnights
 have experienced ALP as part of their education in AES.</p>
 <p><strong>7. What are the subjects offered in the school? [Subject based banding]</strong>
 </p>
