@@ -4,7 +4,8 @@ permalink: /useful-resources/for-students/administrative-information/textbooks-n
 description: ""
 variant: markdown
 ---
-School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/](https://asencio.com.sg/))
+School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd
+[https://asenciobookshop.sg/](https://asenciobookshop.sg/)
 
   
 [**School Bookshop and Uniform Operating Hours**](https://assumptionenglish-moe-edu-sg-admin.cwp.sg/useful-resources/for-parents/textbooks-n-uniform-sales)
@@ -23,7 +24,7 @@ School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd ([https://asencio.com.sg/]
 
   
 
-Pre-Ordering of Textbooks and Uniforms will commence on 6 November 2024 and end on 17 December 2024 at&nbsp;**[https://asencio.com.sg](https://asencio.com.sg/)**
+Pre-Ordering of Textbooks and Uniforms will commence on 6 November 2024 and end on 17 December 2024 at&nbsp;**[https://asenciobookshop.sg/](https://asenciobookshop.sg/)**
 
 Parents are **strongly encouraged** to order online and opt for **self-collection** at AES bookshop or home delivery. <br>
 Please note that the books and stationery items required for the various streams are ticked in the booklist.
