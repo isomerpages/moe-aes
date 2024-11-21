@@ -112,7 +112,7 @@ have experienced ALP as part of their education in AES.</p>
 </p>
 <p>Since 2017, AES is one of the few schools to offer Subject Based Banding
 (SBB) to higher ability students to take the subject(s) at a more challenging
-level. E.g. G2 students may opt to take English at the G1 level if they
+level. E.g. G2 students may opt to take English at the G3 level if they
 have achieved at least A at the PSLE. (Ref. Annex-Information on SBB for
 more detailed example scenarios and eligibility criteria.) For Upper Secondary
 students, besides the core subjects such as English, MT, Math and Science,
