@@ -1,6 +1,6 @@
 ---
-title: MOE Financial Assistance (FAS) Details
-date: 2024-10-02
+title: MOE Financial Assistance (FAS) 2025 Application
+date: 2024-12-16
 layout: link
 description: ""
 image: ""
