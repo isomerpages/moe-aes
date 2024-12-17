@@ -11,4 +11,4 @@ variant: markdown
 
 [Graduation Day 2024](/useful-resources/for-students/administrative-information/graduation-day-2024)
 
-[Secondary 1 Registration for 2024](https://www.assumptionenglish.moe.edu.sg/useful-resources/for-students/administrative-information/secondary-1-registration-for-2024/)
+[Secondary 1 Registration for 2025](https://www.assumptionenglish.moe.edu.sg/useful-resources/for-students/administrative-information/secondary-1-registration-for-2025/)
