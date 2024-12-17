@@ -18,6 +18,9 @@ sections:
         - title: AES School Prospectus 2024
           description: (Click HERE to for more info!)
           url: https://online.fliphtml5.com/hbup/joka/
+  - resources:
+      title: Announcements
+      button: View more
   - infopic:
       title: AES Open House 2024
       id: infopic
@@ -27,7 +30,4 @@ sections:
       alt: Image alt text
       description: "Whats sets AES apart from the other schools?   Find out about our
         school programmes and learning environment at our Open House!  #AEyeS!"
-  - resources:
-      title: Announcements
-      button: View more
 ---
