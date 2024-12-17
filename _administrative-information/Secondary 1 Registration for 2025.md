@@ -65,8 +65,8 @@ will be studying.</p>
 </ul>
 <h4><strong>Appeal for transfer into Assumption English School</strong></h4>
 <p>Student who would like to appeal to transfer into AES for various reasons
-should download and complete this&nbsp;<strong><a href="/files/Online_Appeal_to_AES_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>appeal application form</u></a></strong>
-<a href="/files/Online_Appeal_to_AES_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>and submit it together with supporting documents via email to&nbsp;<strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aes@moe.edu.sg</u></a></strong> by&nbsp;<strong>20 December 2024, 5.00 p.m.</strong>&nbsp;</p>
+should download and complete this&nbsp;<strong><a href="/files/Online_Appeal_to_AES_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>appeal application form</u></a></strong>and
+submit it together with supporting documents via email to&nbsp;<strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aes@moe.edu.sg</u></a></strong> by&nbsp;<strong>20 December 2024, 5.00 p.m.</strong>&nbsp;</p>
 <p></p>
 <p>Consideration for any transfer is based on the following:</p>
 <ul>
