@@ -22,8 +22,8 @@ You can complete the registration online by clicking on this <a href="https://go
 The online registration will close at <strong>5pm on Thursday, 19 December 2024</strong>.&nbsp;</p>
 <p>Read through the&nbsp;<a href="/files/Sec_1_Registration_Info_Kit_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 information kit</a>&nbsp;for
 key administrative information on various matters.&nbsp;</p>
-<p>Students who wish to appeal for transfer must still register online on
-the link above on <u>18 December 2024</u>.</p>
+<p>Students who wish to appeal for transfer out of AES must still proceed
+to register online on the link above.</p>
 <h4><strong>Administrative Information</strong></h4>
 <p>After the Secondary 1 Posting Results are released, the school will send
 a letter of offer via Parents Gateway to parents within the next two days
@@ -65,8 +65,8 @@ will be studying.</p>
 </ul>
 <h4><strong>Appeal for transfer into Assumption English School</strong></h4>
 <p>Student who would like to appeal to transfer into AES for various reasons
-should download and complete this&nbsp;<strong><a href="/files/Online_Appeal_to_AES_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>appeal application form</u></a></strong>and
-submit it together with supporting documents via email to&nbsp;<strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aes@moe.edu.sg</u></a></strong> by&nbsp;<strong>20 December 2024, 5.00 p.m.</strong>&nbsp;</p>
+should download and complete this&nbsp;<strong><a href="/files/Online_Appeal_to_AES_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>appeal application form </u></a></strong>and
+submit it together with supporting documents via email at&nbsp;<strong><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aes@moe.edu.sg</u></a></strong> by&nbsp;<strong>20 December 2024, 5.00 p.m.</strong>&nbsp;</p>
 <p></p>
 <p>Consideration for any transfer is based on the following:</p>
 <ul>
