@@ -17,8 +17,7 @@ third_nav_title: People of AES
 |_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
 |Lower Sec|Year Head|Ms Sheryl Kaur|
-|Level 1|Level Academic Supervisor|Mr Lee Wung Yew|
-|Level 1|Student Management Teacher|Mr Muhd Sadik|
+|Level 1|Student Management Teacher|Ms Nurin Huda Binte Hanif|
 |1 Vincent|Form Teacher|Mr Jared Tan Hong Jie|
 |1 Vincent|Form Teacher|Mr Tommy Lee Shu Hsi|
 |1 Adolphus|Form Teacher|Mr Arnold Teo Kun Ho|
