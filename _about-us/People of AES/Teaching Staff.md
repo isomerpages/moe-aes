@@ -58,26 +58,25 @@ third_nav_title: People of AES
 |Upper Sec|Year Head| Ms Tan Wee Lin|
 |Level 3|Student Management Teacher|Mr Chan Keng Kok|
 |3 George|Form Teacher|Ms Kong Yean Ha|
-|3 George|Form Teacher|Ms Ummahani Binte Nur Badren|
-|3/2|Form Teacher|Ms Atikah Bte Sa'ad|
-|3/2|Form Teacher|Ms Sangeetha D/O Asokan|
-|3/3|Form Teacher|Ms Meera Devi|
-|3/3|Form Teacher|Mr Low Jian Hung|
-|3/3|Form Teacher|Mr Neville Teo Soong Hee|
-|3/4|Form Teacher|Ms Siti Mardia Binte Abu Samah|
-|3/4|Form Teacher|Ms Shereen Ling Hsueh Li|
-|3/5|Form Teacher|Ms Valerie Chan Zhi Jia|
-|3/5|Form Teacher|Ms Mary Claire John|
-|3/6|Form Teacher|Mr Nor Mohammad Bin Isa|
-|3/6|Form Teacher|Ms Suann Sim|
-|Level 4|Level Academic Supervisor|Mrs Diana Norman|
-|Level 4|Student Management Teacher|Ms Feline Tong Yin Sze|
-|4/1|Form Teacher|Ms Lim Zi Xin|
-|4/2|Form Teacher|Ms Denise Lee Yuan Ying|
-|4/3|Form Teacher|Ms Lilian Li Liliang|
-|4/3|Form Teacher|Ms Manjit Kaur Kartar Singh|
-|4/3|Form Teacher|Ms Hannah Zhang Shu Mei|
-|4/4|Form Teacher|Mr Joshua Yeo Huan|
-|4/5|Form Teacher|Mr P Aravind|
-|4/6|Form Teacher|Ms Azra Zaheera Binte Hairuddin|
-|5/1|Form Teacher|Ms Cryst Tan Tee Wah|
+|3 George|Form Teacher|Ms Toh See Min Stefanie|
+|3 Noel|Form Teacher|Ms Tan Wei Jia Zenda|
+|3 Noel|Form Teacher|Mr Alvin Lee Wei Jie|
+|3 Emmanuel|Form Teacher|Mr Muhammad Hasanul Arifin|
+|3 Emmanuel|Form Teacher|Ms Denise Lee Yuan Ying|
+|3 Raymond|Form Teacher|Mrs Diana Norman|
+|3 Raymond|Form Teacher|Ms Nadhirah Zainuddin|
+|3 Adolphus|Form Teacher|Mr Tan Kwang Chee|
+|3 Adolphus|Form Teacher|Ms Sufianna Binte Abas|
+|3 Vincent|Form Teacher|Mr P Aravind|
+|3 Vincent|Form Teacher|Mr Lee Wung Yew|
+|Level 4|Student Management Teacher|Mr Neville Teo Soong Hee|
+|4/1|Form Teacher|Ms Rossellini Tan Yeling|
+|4/2|Form Teacher|Ms Manjit Kaur Kartar Singh|
+|4/3|Form Teacher|Mrs Ong Hsia Li|
+|4/4|Form Teacher|Ms Shereen Ling Hsueh Li|
+|4/4|Form Teacher|Ms Siti Mardia Binte Abu Samah|
+|4/5|Form Teacher|Ms Valerie Chan Zhi Jia|
+|4/5|Form Teacher|Ms Fasihah Bte Rahmat|
+|4/6|Form Teacher|Mr Nor Mohammad Bin Isa|
+|4/6|Form Teacher|Ms Suann Sim|
+|5/1|Form Teacher|Mr Joshua Yeo Huan|
