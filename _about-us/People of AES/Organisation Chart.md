@@ -11,7 +11,7 @@ third_nav_title: People of AES
 |Ms Wong Ker Sin    | Vice Principal     | 
 | Mr Brian Tan Weiming  | Vice Principal  | 
 | Mr Quek Ser Hiang  | Vice Principal (Administration)    | 
-| Ms Phay Ee Lyn    | HOD English Language    | 
+| Ms Meenatchi D/O Ramasamy | HOD English Language | 
 |Mr Kenny Sng | HOD Mathematics | 
 | Mr Dennis Wang Yingquan | HOD Science     | 
 |Ms Raine Seah Hui Ling| HOD Humanities | 
@@ -22,6 +22,7 @@ third_nav_title: People of AES
 | Mrs Chong-Kee Chay Hoon  | School Staff Developer     | 
 | Ms Tan Wee Lin   | Year Head (Upper Sec)| 
 | Ms Sheryl Kaur    | Year Head (Lower Sec)| 
+| Ms Goh Kai Xin| Assistant Year Head (Level 1)|
 
 
 | **Name** | **Designation**|
@@ -29,6 +30,7 @@ third_nav_title: People of AES
 | Mrs Ong-Yew Gui Mei   | Subject Head Chinese Language    |
 | Mr Tang Kok Bin    | Subject Head Infocomm Technology   | 
 |  Mr Desmond Wong Wei Jie  | Subject Head Student Management   | 
+|Ms Denise Lee Yuan Ying|Subject Head Student Leadership| 
 |  Ms Natalie Han Su-Yin   | Subject Head English Literature  | 
 |  Ms Camille Koh Eng Guan    | Subject Head Aesthetics | 
 | Ms Fasihah Bte Rahmat| Subject Head Student Wellbeing     | 
@@ -44,3 +46,4 @@ third_nav_title: People of AES
 | -------- | -------- | 
 | Mr New Lam Heng| Operation Manager |
 | Mr Mike Ho Yin Choy| Operation Manager |
+|Mdm Lee Lai Hoong|Administration Manager|
