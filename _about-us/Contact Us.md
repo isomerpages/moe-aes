@@ -16,7 +16,11 @@ Singapore 678117
 6:30 a.m. to 6:30 p.m. <br>
 (Monday to Friday) <br>
 
-Please be informed that the school will be closed at 12 noon for the upcoming Christmas Eve, on Tuesday 24 December 2024 and New Year Eve, on 31 December 2024. <br>
+**Bookshop Operating Time:** <br>
+9 a.m. to 3p.m. <br>
+(Monday to Thursday) <br>
+9 a.m. to 2:30 p.m. <br>
+(Friday) <br>
 
 
 **Bus Services:** <br>
