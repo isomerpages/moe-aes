@@ -12,12 +12,10 @@ School Bookshop &amp; Uniform Vendor: Asencio Pte Ltd
 **School Bookshop and Uniform Operating Hours**
 
 **Monday to Thursday** <br>
-8.30am to 3.00pm
-
-  
+9am to 3.00pm
 
 **Friday** <br>
-8.30am to 2.30pm
+9am to 2.30pm
 
   
 **FAS Redemption Period** <br>
