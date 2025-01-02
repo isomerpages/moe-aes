@@ -4,25 +4,27 @@ permalink: /about-aes/principals-message/
 description: ""
 variant: markdown
 ---
-**Together, from Strength to Strength - Labor Omnia Vincit**
+**Growing Together – Learn with Joy, Lead with Purpose**
 
-I would like to express our gratitude to Mr Benjamin Kwok for his exceptional leadership of the school from 2018 to 2023. We wish him all the best as he embarks on his next leadership journey as principal of Crest Secondary School.
+Our theme, "Growing Together – Learn with Joy, Lead with Purpose," signals our continual desire to foster a supportive and inclusive environment where both students and staff can flourish and learn.
+<br>
+As a Catholic mission school, we uphold the belief that character development is integral to the educational journey. Inspired by the founding figure of our mission, St. Louis Marie de Montfort, we are committed to serve others. Our CHRIST values - Compassion, Humility, Respect, Integrity, Sense of Responsibility, and Trust - guide our students to grow stronger and encouraging them to lead lives that prioritize others' well-being alongside their own achievements. &nbsp;We strive to help our students discover their unique strengths and work with one another to achieve greater good.
 
-As we begin a new academic year, I am reminded of the sense of togetherness that has brought our school to where it is today. Last year, we celebrated our 70th anniversary, and I am grateful to the many stakeholders who have contributed to our success over the years. With the continued support and love of everyone, I am confident that our school will continue to grow from strength to strength.
+**Learn with Joy**
+<br>
+This academic year, we emphasise fostering a love for learning with curiosity and creativity. While the journey of learning requires effort, it can be a fulfilling endeavor. Teachers will guide their students to actively nurture a curious mindset and a zest for life. &nbsp;
 
-**Character Strength**
+We are committed to equipping every student for the future through our forward-looking curriculum in a technology-enabled environment. &nbsp;Students gain confidence through our SPEAK Applied Learning Programme, as they are given opportunities to speak on various platforms.&nbsp; The overall curriculum is also designed to enable them to attain 21st Century Skills and Competencies.
 
-As a Catholic mission school, we believe that character strength is an important part of the educational experience. Drawing inspiration from the founding Father of our mission, St Louis Marie de Monfort, our staff and students care deeply about the last, the least, and the lost. &nbsp;Embedded in our CHRIST values of Compassion, Humility, Respect, Integrity, Sense of Responsibility, and Trust is our desire to see our students grow from strength to strength and become men and women who believe not just in doing well in life but in living for others. This is an ongoing work and will remain a main focus of our school.
+**Lead with Purpose**
+<br>
+Embracing Montfort's spirit, we nurture purpose-driven leaders with a genuine desire to serve and make a meaningful impact. The AES Dinan Leadership Programme offers students the chance to develop their leadership skills and competencies through service learning.&nbsp;
 
-**Strength in preparing every student for the future**
+They will foster friendship ties with international visitors through the annual Asian Youth Leaders for Human Fraternity (AYLHF) programme where visitors from Asian countries such as Japan, Korea, Thailand and Indonesia come together to appreciate one another’s culture and discuss how we work towards a better world everyone.
 
-We are committed to preparing every student for the future with our forward-looking curriculum. Our students find the motivation to do well in life as they go through the well-designed educational experiences at AES. Notably, our Learning for Life Programme (LLP), the Dinan Leadership Programme provides opportunities for students to develop leadership and 21st Century Skills through service learning. We also harness technology to enhance classroom experiences and 21st Century Competencies of our students. We will continue to invest time and resources to equip our teachers and empower our students.
-
-**Labor Omnia Vincit – Through work achieve success.**
-
-At Assumption English School, we believe every student has unique strengths which can be used for common good. They will have opportunities to ask of themselves “Can I really offer something?” and “Can I contribute?” in every aspect of their school and life.
-
-As we embark on the new year, we want to place our trust in God and His provision and believe that we can do all things through Him who strengthens us (Philippians 4:13).
+**Growing Together**
+<br>
+As we embark on this new year, we place our trust in God for His guidance and blessings, firmly believing that "in all things God works for the good of those who love him, who have been called according to his purpose." (Romans 8:28)
 
 **_Mr Vincent Toh_** <br>
 _Principal_ <br>
