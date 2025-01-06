@@ -9,5 +9,4 @@ variant: markdown
 
 [ACE Learning](https://www.ace-learning.com/)
 
-[Student Handbook 2024](https://drive.google.com/file/d/1J7T5t3fVibODqyAO8hs9MIYc9U4b0YMP/view?usp=sharing)
-
+[Student Handbook 2025](/files/Student_Handbook_2025__updated_.pdf)
