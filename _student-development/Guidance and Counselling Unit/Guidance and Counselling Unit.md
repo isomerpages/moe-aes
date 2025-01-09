@@ -14,7 +14,7 @@ Assumption English School is committed in ensuring the social, emotional, spirit
 
 The Guidance Unit consists of School Counsellors, Special Education Needs Officer (SEN Officer), Student Welfare Officer (SWO) and Education &amp; Career Guidance (ECG) Counsellor.
 
-School Counsellors help students to manage difficult thoughts, feelings, and behaviors through individual counselling sessions or group work.
+School Counsellors use their specialised knowledge and skills in counselling to support the students' personal, social and emotional growth and development, with a positive impact on their academic performance and career readiness.
 
 Special Education Needs Officer (SEN Officer) supports students with mild special educational needs by providing direct intervention through individual / small group intervention support.
 
@@ -24,8 +24,9 @@ Education &amp; Career Guidance (ECG) Counsellor provides education and career g
 
 Students can schedule an appointment by approaching your form teacher or staff in general office for a referral. 
 
-![](/images/desmond_suxin.png)
-![](/images/irene_wendy.png)
+![](/images/Senior_SC.png)
+![](/images/SX_and_Wendy.png)
+![](/images/Audrey.png)
 
 ### **Education and Career Guidance**
 #### MySkillsFuture
