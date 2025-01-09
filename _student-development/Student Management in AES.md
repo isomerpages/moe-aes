@@ -4,8 +4,7 @@ permalink: /student-development/student-management-in-aes/
 description: ""
 variant: markdown
 ---
-
-![](/images/SMC_2024.png)
+![](/images/SMT_2025.png)
 The Student Management Team (SMT) is part of the Student Development Team (SDT) in AES. On top of managing disciplinary issues, the SMT actively promotes a positive culture of care in school with the use of Restorative Practice and seeks to integrate the teaching of pro-social skills in our day-to-day interaction with the Assumptionknights.
 
   
