@@ -1,5 +1,5 @@
 ---
-title: Straits Times School Pocket Money Fund (STSPMF) 2025 Cycle 1
+title: Straits Times School Pocket Money Fund (STSPMF) 2025 Cycle 2
 permalink: /useful-resources/for-parents/syspmf-application/
 variant: tiptap
 description: ""
@@ -11,11 +11,13 @@ families.</p>
 <p>Students who&nbsp;<strong>meet the criteria</strong>&nbsp;will be able
 to apply for the fund through their respective participating mainstream
 schools.</p>
-<p>To apply, you&nbsp;may submit the&nbsp;<a href="/files/Annex_A___B.pdf" rel="noopener noreferrer nofollow" target="_blank">softcopy application</a>&nbsp;along with
-supporting documents via our school's email address&nbsp;(<a href="aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a>),
+<p>To apply, you&nbsp;may submit the&nbsp;<a href="/files/Annex_A___B___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">softcopy application</a>&nbsp;along
+with supporting documents via our school's email address&nbsp;(<a href="aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a>),
 subject title “STSPMF 2025” or hardcopy application to the general office.</p>
-<p>Application deadline is on&nbsp;<strong><u>6 Sep 2024, 3pm</u></strong>.</p>
-<p><strong>*Please note that STSPMF is not the same as&nbsp;MOE Financial Assistance Scheme.</strong>
+<p>Application deadline is on&nbsp;<strong><u>31 Jan 2025</u></strong>.</p>
+<p><strong><em>***Note: <u>Students under MOE/SPED FAS or Com Care Assistance</u> will only need to submit Annex A (Application form) with the following document:</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MOE/SPED FAS or Com Care Assistance letter indicating period of assistance (Applicant/Student must be under assistance when applying for STSPMF.)</strong>
 </p>
 <p></p>
 <p><strong><u>Eligibility Criteria</u></strong>
@@ -44,8 +46,7 @@ schooling years or 48 months for post-secondary schooling years.</p>
 </p>
 <p>The Straits Times School Pocket Money Fund provides pocket money for children
 from low-income families through disbursing schools on a monthly basis.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beneficiaries enrolled in secondary education
-will receive $100/month</p>
+<p>Beneficiaries enrolled in secondary education will receive $100/month</p>
 <p><strong>* STSPMF beneficiaries are provided with a maximum of 24 months of assistance during their entire primary to secondary schooling years.</strong>
 </p>
 <p><strong>* For STSPMF beneficiaries enrolled in post-secondary education, the maximum period of assistance is 48 months regardless of the duration of assistance received previously in their primary-to-secondary schooling years</strong>.</p>
