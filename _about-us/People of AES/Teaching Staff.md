@@ -27,7 +27,7 @@ third_nav_title: People of AES
 |1 John|Form Teacher|Mr Tang Kok Bin|
 |1 John|Form Teacher|Ms Estella Tan Ying Yee|
 |1 Emmanuel|Form Teacher|Mdm Sumiate Bte Hassan|
-|1 Emmanuel| Form Teacher|Mdm Dieh Ye Woon|
+|1 Emmanuel| Form Teacher|Mrs Cheong Ye Woon|
 |1 Noel|Form Teacher|Ms Lilian Li Liliang|
 |1 Noel|Form Teacher|Mr Ong Kong Sing|
 |1 George|Form Teacher|Ms Wang Lee Keow|
@@ -72,7 +72,8 @@ third_nav_title: People of AES
 |Level 4|Student Management Teacher|Mr Neville Teo Soong Hee|
 |4/1|Form Teacher|Ms Rossellini Tan Yeling|
 |4/2|Form Teacher|Ms Manjit Kaur Kartar Singh|
-|4/3|Form Teacher|Mrs Ong Hsia Li|
+|4/2|Form Teacher|Mrs Ong Hsia Li|
+|4/3|Form Teacher|Ms Siti Nur Nabilah|
 |4/4|Form Teacher|Ms Shereen Ling Hsueh Li|
 |4/4|Form Teacher|Ms Siti Mardia Binte Abu Samah|
 |4/5|Form Teacher|Ms Valerie Chan Zhi Jia|
