@@ -9,13 +9,8 @@ Blended Learning provides an educational experience for our students through the
 **Objectives of Blended Learning:**  
 ![](/images/Objectives_of_BL__1_.png)
 
-AES will be embarking on Blended Learning every term. Please see the confirmed Blended Learning dates for 2024: 
-
-Term 3:
-![](/images/HBL_Term_3_2024.png)
-
-Term 4:
-![](/images/BL_2024_T4.png)
+AES will be embarking on Blended Learning every term. Please see the confirmed Blended Learning dates for 2025 Semester 1: 
+![](/images/BL_2025_Sem_2.png)
 
 **The important links are as follows:**  
 1) Blended Learning briefing slides: [**go.gov.sg/aesblslides**](http://go.gov.sg/aesblslides)  
