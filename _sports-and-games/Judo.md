@@ -24,8 +24,8 @@ AES Judokas train 2-3 times weekly. Each CCA training is focused on physical con
 
 | Year | Activities/ Achievements| 
 | -------- | -------- | 
-| **2024 National School Games**  |'B' Boys' Division: **TEAM THIRD** <br>1 Gold, 1 Sliver, 3 Bronze, 7 in Top 8 positions |
-|     | 'B’ Girls' Division: **TEAM SECOND** <br> 1 Gold, 1 Bronze, 2 in Top 8 positions   |
+| **2024 National School Games**  |'B' Boys' Division: **TEAM THIRD** <br> 1 Gold, 1 Bronze, 2 in Top 8 positions |
+|     | 'B’ Girls' Division: **TEAM SECOND** <br> 1 Gold, 1 Sliver, 3 Bronze, 7 in Top 8 positions  |
 |     | 'C' Boys' Division: **TEAM FOURTH** <br> 2 Bronze    |
 |     | ‘C’ Girls' Division: **TEAM THIRD** <br>1 Silver, 3 Bronze, 7 in Top 8 positions     |
 | **2024 SJF Kyu Grade Judo Championships**  | 1 Gold, 6 Silver, 9 Bronze|
