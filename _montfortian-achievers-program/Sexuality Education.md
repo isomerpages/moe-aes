@@ -67,19 +67,19 @@ b.&nbsp;Character and Citizenship Education (CCE)
         
 **_eTeens_** **Programme**:
 
-8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. 
 
-**At Assumption English School, the _eTeens_ programme will be implemented as follows in 2024:**
+**At Assumption English School, the _eTeens_ programme will be implemented as follows in 2025:**
 
-![](/images/eTeens.jpg)
+![](/images/eteens.png)
 
 
 **Information for Parents**
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** and **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](http://go.gov.sg/aes-sed). The completed form is to be submitted by 14/02/2024.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** and **_eTeens_ programme** need to complete an opt-out form via this [form](http://go.gov.sg/aes-sed). The completed form is to be submitted by 14/02/2025.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65729100 for discussion or to seek clarification about the school’s Sexuality Education programme.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65729100 or aes@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
