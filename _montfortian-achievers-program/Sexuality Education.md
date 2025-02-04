@@ -9,19 +9,26 @@ variant: markdown
 1.&nbsp;Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2\. The&nbsp;**Goals**&nbsp;of Sexuality Education are to:  
-(a)&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;  
-(b)&nbsp;To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
-(c)&nbsp;To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
+(a)&nbsp;Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
+<br>
+(b)&nbsp;Guide students to make wise, informed and responsible decisions on sexuality matters.
+<br>
+(c)&nbsp;Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
+
 
 3\. The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
+<br>
 (a)&nbsp;Love and respect yourself as you love and respect others;
+<br>
 (b)&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
+<br>
 (c)&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and
+<br>
 (d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Assumption English School Sexuality Education Programme for 2024**
+**Overview of Assumption English School Sexuality Education Programme for 2025**
 
 4.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;
 
@@ -34,29 +41,28 @@ b.&nbsp;Character and Citizenship Education (CCE)
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Assumption English School, the following Sexuality Education lessons will be taught in 2024:**
+**At Assumption English School, the following Sexuality Education lessons will be taught in 2025:**
 
 **Secondary 1**
-![](/images/SEd_Sec_1_1.jpg)
-![](/images/SEd_Sec_1_2.jpg)
+![](/images/SEd_Sec_1.png)
+![](/images/SEd_Sec_1_2.png)
 
 **Secondary 2**
-![](/images/SEd_Sec_2_1.jpg)
-![](/images/SEd_Sec_2_2.jpg)
-![](/images/SEd_Sec_2_3.jpg)
+![](/images/SEd_Sec_2_1.png)
+![](/images/SEd_Sec_2_2.png)
+![](/images/SEd_Sec_2_3.png)
 
 **Secondary 3**
-![](/images/SEd_Sec_3_1.jpg)
-![](/images/SEd_Sec_3_2.jpg)
-![](/images/SEd_Sec_3_3.jpg)
+![](/images/SEd_Sec_3_1.png)
+![](/images/SEd_Sec_3_2.png)
 
 **Secondary 4**
-![](/images/SEd_Sec_4_1.jpg)
-![](/images/SEd_Sec_4_2.jpg)
-![](/images/SEd_Sec_4_3.jpg)
+![](/images/SEd_Sec_4_1.png)
+![](/images/SEd_Sec_4_2.png)
+![](/images/SEd_Sec_4_3.png)
 
 **Secondary 5**
-![](/images/SEd_Sec_5.jpg)
+![](/images/SEd_Sec_5.png)
 
         
 **_eTeens_** **Programme**:
