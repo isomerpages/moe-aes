@@ -2,11 +2,8 @@
 title: Key Programmes
 permalink: /others/key-programmes/
 description: ""
+variant: markdown
 ---
-### AES Self-Development Programme (SDP)
-
-**[Information on SDP](/useful-resources/aes-self-development-programme-sdp/)**
-
 ### Learning for Life Programme (LLP)
 
 [**_"DINAN"_** Leadership Programme](/student-development/learning-for-life-programme-llp/)
