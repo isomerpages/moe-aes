@@ -1,6 +1,6 @@
 ---
 title: AES 2025 Timetables and Examination Schedules
-date: 2025-01-11
+date: 2025-02-05
 layout: link
 description: ""
 image: ""
