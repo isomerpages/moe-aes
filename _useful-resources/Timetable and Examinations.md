@@ -13,7 +13,7 @@ Dear students, please click the link below to access the following:
 [AES 2025 Semester 1 Timetable (Updated on 11 Jan)](/files/AES_2025_Semester_1_Timetable__Updated_on_11_Jan_.pdf)
 <br>
 
-**WA1 Schedule**
+**WA1 Schedule and Format**
 <br>
 [Sec 1 WA1 Schedule](/files/1__2025_Sec_1_WA1_Schedule.pdf)
 <br>
