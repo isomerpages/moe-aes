@@ -1,5 +1,5 @@
 ---
-title: Green Club
+title: Green Club (Only for current Sec 4s)
 permalink: /student-development/ccas/club-n-societies/green-club/
 description: ""
 variant: markdown
