@@ -7,4 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-During the March school holidays, school office will **close at 5.00pm from 14 March and 15 March 2024.**
+Dear Parents / Guardians,
+
+During the March school holidays, the school will operate from **8am to 5pm.**
+
+The bookshop will be operating from **9am to 12.30pm.**
