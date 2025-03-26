@@ -10,13 +10,6 @@ variant: markdown
 622 Upper Bukit Timah Road, <br>
 Singapore 678117<br>
 
-**School Operating Time During March Holidays:**<br>
-*8am to 5pm <br>
-(Monday to Friday) <br>*
-
-**Bookshop Operating Time During March Holidays:** <br>
-*9am to 12.30pm <br>
-(Monday to Friday) <br>*
   
 
 **School Operating Time:** <br>
