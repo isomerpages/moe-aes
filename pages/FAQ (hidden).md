@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions
-permalink: /faq/
+title: FAQ (hidden)
+permalink: /faq-hidden/
 variant: tiptap
 description: ""
 ---
