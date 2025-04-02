@@ -1,5 +1,0 @@
-collections:
-  admissions:
-    output: true
-    order:
-      - AES Open House 2024.md
