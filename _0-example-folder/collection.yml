@@ -2,7 +2,6 @@ collections:
   0-example-folder:
     output: true
     order:
-      - Frequently Asked Questions.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
