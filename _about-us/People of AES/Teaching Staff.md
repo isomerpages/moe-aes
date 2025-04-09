@@ -30,6 +30,7 @@ third_nav_title: People of AES
 |1 Emmanuel| Form Teacher|Mrs Cheong Ye Woon|
 |1 Noel|Form Teacher|Ms Lilian Li Liliang|
 |1 Noel|Form Teacher|Mr Ong Kong Sing|
+|1 Noel|Form Teacher|Mr Marcus Tye|
 |1 George|Form Teacher|Ms Wang Lee Keow|
 |1 George|Form Teacher|Ms Meera Devi|
 |Level 2|Student Management Teacher|Mr Muhd Sadik|
@@ -69,6 +70,7 @@ third_nav_title: People of AES
 |3 Adolphus|Form Teacher|Ms Sufianna Binte Abas|
 |3 Vincent|Form Teacher|Mr P Aravind|
 |3 Vincent|Form Teacher|Mr Lee Wung Yew|
+|3 Vincent|Form Teacher|Ms Xu Yi|
 |Level 4|Student Management Teacher|Mr Neville Teo Soong Hee|
 |4/1|Form Teacher|Ms Rossellini Tan Yeling|
 |4/2|Form Teacher|Ms Manjit Kaur Kartar Singh|
