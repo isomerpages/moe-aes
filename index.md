@@ -4,7 +4,7 @@ title: Assumption English School
 description: Assumption English School
 image: /images/aes homepage logo.png
 permalink: /
-notification: ""
+notification: Men and Women of Character and Learning, in the Service of God and Community
 sections:
   - hero:
       background: /images/aes homepage.gif
