@@ -31,12 +31,12 @@ participation in sports. Relevant experience such as representing their
 primary schools at the National School Games (NSG) level or representing
 their sport clubs/academy at external competitions are considered but not
 necessary.</p>
-<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates (Boys and Girls)</strong>
+<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates (Boys &amp; Girls)</strong>
 </p>
 <p>Applicants should demonstrate potential in Public Speaking and/or Debating.
 Applicants with relevant experience in these areas and/or represented their
 schools are encouraged to apply.</p>
-<p><strong>c.&nbsp;&nbsp;&nbsp; Community Youth Leadership (Boys and Girls)</strong>
+<p><strong>c.&nbsp;&nbsp;&nbsp; Community Youth Leadership (Boys &amp; Girls)</strong>
 </p>
 <p>We invite applicants from students eager to develop as leaders and contribute
 to the community. We are looking for individuals who demonstrate:</p>
@@ -75,7 +75,7 @@ as the trial.</p>
 </p>
 <p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
-<p><u>Key Stages of DSA Application 2024</u>
+<p><u>Key Stages of DSA Application 2025</u>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -133,7 +133,7 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 4 Sep 2024 (Monday)</strong>
+<p><strong>By 4 Sep 2025 (Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>27 Oct 2024 (Monday) – 31 Oct 2024 (Friday)</strong>
+<p><strong>27 Oct 2025 (Monday) – 31 Oct 2025 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
