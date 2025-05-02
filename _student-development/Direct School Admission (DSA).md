@@ -40,16 +40,16 @@ schools are encouraged to apply.</p>
 </p>
 <p>We invite applicants from students eager to develop as leaders and contribute
 to the community. We are looking for individuals who demonstrate:</p>
-<p>A strong passion of service and positive attitude towards helping their
-peers, school and community, ideally supported by experience in volunteer
-activities.</p>
-<p>Good character, evidenced by a Conduct Grade of at least "Very Good" in
-Primary 5 (overall) and Primary 6 (mid-year).</p>
-<p>Leadership potential, shown through prior leadership roles in primary
-school (e.g. Prefect, Chairperson, CCA Leader) and experience in planning
-or organising school or community events (e.g. Teachers' Day, Values in
-Action, Sport Day). Other forms of service to the community will also be
-considered.</p>
+<p>A <strong>strong passion of service</strong> and positive attitude towards
+helping their peers, school and community, ideally supported by experience
+in volunteer activities.</p>
+<p><strong>Good character</strong>, evidenced by a Conduct Grade of at least
+"Very Good" in Primary 5 (overall) and Primary 6 (mid-year).</p>
+<p><strong>Leadership potential</strong>, shown through prior leadership
+roles in primary school (e.g. Prefect, Chairperson, CCA Leader) and experience
+in planning or organising school or community events (e.g. Teachers' Day,
+Values in Action, Sport Day). Other forms of service to the community will
+also be considered.</p>
 <p>Do note that the Community Youth Leadership Programme at AES is not a
 CCA and successful applicants are still expected to take up a CCA.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills Assessment/Trials</strong>
@@ -95,18 +95,18 @@ as the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2024 (Tuesday)</strong>
+<p><strong>7 May 2025 (Wednesday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 June 2024 (Monday)</strong>
+<p><strong>3 June 2024 (Tuesday)</strong>
 </p>
 <p></p>
 </td>
@@ -117,32 +117,36 @@ to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="no
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 3 July 2024 (Wednesday)</strong>
+<p><strong>By 3 July 2025 (Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be notified and scheduled to attend a Skills
-Assessment &amp; Interview at a specific date.&nbsp;&nbsp;</p>
-<p>The Skills Assessment and Interview will be held at Assumption English
-School.</p>
+<p>You will receive notification from the school by 3 July if your child
+has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 <p></p>
+<p>Shortlisted applicants will be notified and scheduled to attend a Skills
+Assessment &amp; Interview at a specific date.</p>
+<p></p>
+<p>The Skills Assessment &amp; Interview will be held in Assumption English
+School.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 9 Sep 2024 (Monday)</strong>
+<p><strong>By 4 Sep 2024 (Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of DSA-Sec admission results by schools.</p>
 <p></p>
 <p>All applicants will receive a letter on the selection outcome ie. Confirmed
-Offer, Waiting list or Unsuccessful from the school concern.</p>
+Offer, Waiting list or Unsuccessful between 25 Aug to 4 Sep 2025 from the
+school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 Oct 2024 (Monday) – 25 Oct 2024 (Friday)</strong>
+<p><strong>27 Oct 2024 (Monday) – 31 Oct 2024 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
