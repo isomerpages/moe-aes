@@ -21,20 +21,37 @@ and non-academic achievements and talents.&nbsp;</p>
 <p>Students who demonstrate an interest or passion in pursuing the chosen
 area may apply. All shortlisted applicants will have to submit a short
 write-up (no more than 200 words) about their interest and passion of the
-chosen sport.&nbsp;&nbsp;&nbsp;</p>
+chosen DSA area.&nbsp;&nbsp;&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Demonstrated Potential and Aptitude&nbsp;&nbsp;</strong>
 </p>
 <p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Girls &amp; Boys), Floorball (Boys), Football (Boys) and Judo (Girls &amp; Boys)</strong>
 </p>
 <p>Applicants should demonstrate sporting potential. This includes active
-participation in sports, relevant experience such as representing their
+participation in sports. Relevant experience such as representing their
 primary schools at the National School Games (NSG) level or representing
-their sport clubs/academy at external competitions.&nbsp;&nbsp;</p>
-<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates</strong>
+their sport clubs/academy at external competitions are considered but not
+necessary.</p>
+<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates (Boys and Girls)</strong>
 </p>
 <p>Applicants should demonstrate potential in Public Speaking and/or Debating.
 Applicants with relevant experience in these areas and/or represented their
 schools are encouraged to apply.</p>
+<p><strong>c.&nbsp;&nbsp;&nbsp; Community Youth Leadership (Boys and Girls)</strong>
+</p>
+<p>We invite applicants from students eager to develop as leaders and contribute
+to the community. We are looking for individuals who demonstrate:</p>
+<p>A <strong>strong passion of service</strong> and positive attitude towards
+helping their peers, school and community, ideally supported by experience
+in volunteer activities.</p>
+<p><strong>Good character</strong>, evidenced by a Conduct Grade of at least
+"Very Good" in Primary 5 (overall) and Primary 6 (mid-year).</p>
+<p><strong>Leadership potential</strong>, shown through prior leadership
+roles in primary school (e.g. Prefect, Chairperson, CCA Leader) and experience
+in planning or organising school or community events (e.g. Teachers' Day,
+Values in Action, Sport Day). Other forms of service to the community will
+also be considered.</p>
+<p>Do note that the Community Youth Leadership Programme at AES is not a
+CCA and successful applicants are still expected to take up a CCA.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills Assessment/Trials</strong>
 </p>
 <p>Only shortlisted applicants will receive an invitation to attend a skills
@@ -78,18 +95,18 @@ as the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2024 (Tuesday)</strong>
+<p><strong>7 May 2025 (Wednesday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 June 2024 (Monday)</strong>
+<p><strong>3 June 2024 (Tuesday)</strong>
 </p>
 <p></p>
 </td>
@@ -100,32 +117,36 @@ to 3 Jun 2024, 3pm. For more details, please refer to MOE website – <a rel="no
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 3 July 2024 (Wednesday)</strong>
+<p><strong>By 3 July 2025 (Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be notified and scheduled to attend a Skills
-Assessment &amp; Interview at a specific date.&nbsp;&nbsp;</p>
-<p>The Skills Assessment and Interview will be held at Assumption English
-School.</p>
+<p>You will receive notification from the school by 3 July if your child
+has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 <p></p>
+<p>Shortlisted applicants will be notified and scheduled to attend a Skills
+Assessment &amp; Interview at a specific date.</p>
+<p></p>
+<p>The Skills Assessment &amp; Interview will be held in Assumption English
+School.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 9 Sep 2024 (Monday)</strong>
+<p><strong>By 4 Sep 2024 (Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of DSA-Sec admission results by schools.</p>
 <p></p>
 <p>All applicants will receive a letter on the selection outcome ie. Confirmed
-Offer, Waiting list or Unsuccessful from the school concern.</p>
+Offer, Waiting list or Unsuccessful between 25 Aug to 4 Sep 2025 from the
+school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 Oct 2024 (Monday) – 25 Oct 2024 (Friday)</strong>
+<p><strong>27 Oct 2024 (Monday) – 31 Oct 2024 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,7 +184,7 @@ the physical skills as well as character of our Judokas (Boys &amp; Girls).
 Over the past years, we have nurtured and developed many outstanding Judokas
 who have represented our Singapore Schools Team as well as Team Singapore
 at the youth and national levels.</p>
-<p>Our ‘B’ Boys’ and ‘B’ Girls’ Dvisions have emerged Top 3 positions in
+<p>Our ‘B’ Boys’ and ‘B’ Girls’ Divisions have emerged Top 3 positions in
 the National School Games Judo Championships in 2022 and 2023. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
@@ -199,20 +220,21 @@ opportunities for young Singaporeans to develop their talents.</p>
 environment to develop our footballers holistically. Our collaboration
 with the FAS provides our footballers the opportunity to be exposed to
 specialised training such as Goalkeeper Strength and Fitness as well as
-Sports Science training,with an emphasis on character development.</p>
+Sports Science training, with an emphasis on character development.</p>
 <p>AES Football boys’ teams compete actively at the National School Games
 (NSG) competitions. This year, our ‘B’ Division Boys team competes in League
 5 and ‘C’ Division Boys team competes in League 1. With a dedicated team
 of 5 teacher facilitators overseeing the weekly training sessions, the
 team adopts a developmental approach towards football development in our
 players.</p>
-<p>The Football programme at AES aims to instil in our players the following
+<p>The Football programme at AES aims to instill in our players the following
 outcomes:</p>
 <p>• Good sportsmanship - AssumptionKnights who honour the rules of the game
 and take pride in fair play;</p>
 <p>• Strong football skills and techniques, teamwork; as well as</p>
 <p>• Keen sense of focus, commitment and respect for the sport.</p>
 <blockquote>
+<p></p>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
 </blockquote>
@@ -232,6 +254,24 @@ of winning the National Schools Floorball Championships. If you are looking
 for a fast-paced sport with lots of skills to develop you as a sportsperson
 and opportunities to forge lasting friendships with your teammates, Floorball
 is the CCA for you!</p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/softball-girls/" rel="noopener noreferrer nofollow" target="_blank">Softball</a></strong>
+</p>
+</blockquote>
+<p>To a softball player, nothing can quite match the thrill of clinching
+a solid hit, or the excitement of stopping a drive rushing as you as fast
+as a car. But apart from the desire for an adrenaline rush, our softball
+girls also need the courage to stand their ground, the determination to
+train for hours in the sweltering heat, and the heart to work closely with
+each of their teammates.</p>
+<p>After months of grueling training each year, the girls test their mettle
+on the pitch, and have never been found wanting. With the grit and tenacity
+they showed in their games, the AES Rangers are always able to come back
+to school with their heads held high.</p>
+<p>Join the AES Softball Rangers to be part of a team with more than 30 years
+of heritage, to develop fortitude and resilience through the sweat you
+put into practice on the field, and to learn mastery both of yourself and
+the sport.</p>
 <blockquote>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
 </p>
@@ -259,6 +299,20 @@ Students who show a flair for speaking can showcase their talents in debating
 and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener nofollow" target="_blank">Community Youth Leadership</a></strong>
+</p>
+</blockquote>
+<p>Through the school’s "DINAN" Leadership Programme, students can learn
+the core principles of servant leadership, inspired by St. Louis Marie
+de Montfort's humility and compassion, understanding that genuine leadership
+grows from a foundation of service ("Learn to serve, Serve to lead, Lead
+to Inspire").</p>
+<p>The programme provides authentic service-learning opportunities for students
+to cultivate essential values, develop their capacity to serve effectively,
+and ultimately learn how to lead and inspire others within their school
+community, fostering personal growth, teamwork, and a deep understanding
+of the interconnectedness between serving and leading.</p>
 <p></p>
 <p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
 </p>
