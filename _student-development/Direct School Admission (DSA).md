@@ -21,20 +21,37 @@ and non-academic achievements and talents.&nbsp;</p>
 <p>Students who demonstrate an interest or passion in pursuing the chosen
 area may apply. All shortlisted applicants will have to submit a short
 write-up (no more than 200 words) about their interest and passion of the
-chosen sport.&nbsp;&nbsp;&nbsp;</p>
+chosen DSA area.&nbsp;&nbsp;&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Demonstrated Potential and Aptitude&nbsp;&nbsp;</strong>
 </p>
 <p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Girls &amp; Boys), Floorball (Boys), Football (Boys) and Judo (Girls &amp; Boys)</strong>
 </p>
 <p>Applicants should demonstrate sporting potential. This includes active
-participation in sports, relevant experience such as representing their
+participation in sports. Relevant experience such as representing their
 primary schools at the National School Games (NSG) level or representing
-their sport clubs/academy at external competitions.&nbsp;&nbsp;</p>
-<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates</strong>
+their sport clubs/academy at external competitions are considered but not
+necessary.</p>
+<p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates (Boys and Girls)</strong>
 </p>
 <p>Applicants should demonstrate potential in Public Speaking and/or Debating.
 Applicants with relevant experience in these areas and/or represented their
 schools are encouraged to apply.</p>
+<p><strong>c.&nbsp;&nbsp;&nbsp; Community Youth Leadership (Boys and Girls)</strong>
+</p>
+<p>We invite applicants from students eager to develop as leaders and contribute
+to the community. We are looking for individuals who demonstrate:</p>
+<p>A strong passion of service and positive attitude towards helping their
+peers, school and community, ideally supported by experience in volunteer
+activities.</p>
+<p>Good character, evidenced by a Conduct Grade of at least "Very Good" in
+Primary 5 (overall) and Primary 6 (mid-year).</p>
+<p>Leadership potential, shown through prior leadership roles in primary
+school (e.g. Prefect, Chairperson, CCA Leader) and experience in planning
+or organising school or community events (e.g. Teachers' Day, Values in
+Action, Sport Day). Other forms of service to the community will also be
+considered.</p>
+<p>Do note that the Community Youth Leadership Programme at AES is not a
+CCA and successful applicants are still expected to take up a CCA.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills Assessment/Trials</strong>
 </p>
 <p>Only shortlisted applicants will receive an invitation to attend a skills
