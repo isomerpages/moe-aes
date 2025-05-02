@@ -106,7 +106,7 @@ to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="no
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 June 2024 (Tuesday)</strong>
+<p><strong>3 June 2025 (Tuesday)</strong>
 </p>
 <p></p>
 </td>

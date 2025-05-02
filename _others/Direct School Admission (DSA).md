@@ -13,7 +13,7 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to apply
 Assumption English School (AES) will be offering Direct School Admission in the following areas of talent:
 
 *   Basketball (Girls & Boys)
-*   Community Youth Leadership
+*   Community Youth Leadership (Girls & Boys)
 *   Debating & Public Speaking (Girls & Boys)
 *   Floorball (Boys)
 *   Football (Boys)
