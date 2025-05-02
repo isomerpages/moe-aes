@@ -184,7 +184,7 @@ the physical skills as well as character of our Judokas (Boys &amp; Girls).
 Over the past years, we have nurtured and developed many outstanding Judokas
 who have represented our Singapore Schools Team as well as Team Singapore
 at the youth and national levels.</p>
-<p>Our ‘B’ Boys’ and ‘B’ Girls’ Dvisions have emerged Top 3 positions in
+<p>Our ‘B’ Boys’ and ‘B’ Girls’ Divisions have emerged Top 3 positions in
 the National School Games Judo Championships in 2022 and 2023. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
@@ -220,20 +220,21 @@ opportunities for young Singaporeans to develop their talents.</p>
 environment to develop our footballers holistically. Our collaboration
 with the FAS provides our footballers the opportunity to be exposed to
 specialised training such as Goalkeeper Strength and Fitness as well as
-Sports Science training,with an emphasis on character development.</p>
+Sports Science training, with an emphasis on character development.</p>
 <p>AES Football boys’ teams compete actively at the National School Games
 (NSG) competitions. This year, our ‘B’ Division Boys team competes in League
 5 and ‘C’ Division Boys team competes in League 1. With a dedicated team
 of 5 teacher facilitators overseeing the weekly training sessions, the
 team adopts a developmental approach towards football development in our
 players.</p>
-<p>The Football programme at AES aims to instil in our players the following
+<p>The Football programme at AES aims to instill in our players the following
 outcomes:</p>
 <p>• Good sportsmanship - AssumptionKnights who honour the rules of the game
 and take pride in fair play;</p>
 <p>• Strong football skills and techniques, teamwork; as well as</p>
 <p>• Keen sense of focus, commitment and respect for the sport.</p>
 <blockquote>
+<p></p>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
 </blockquote>
@@ -253,6 +254,24 @@ of winning the National Schools Floorball Championships. If you are looking
 for a fast-paced sport with lots of skills to develop you as a sportsperson
 and opportunities to forge lasting friendships with your teammates, Floorball
 is the CCA for you!</p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/softball-girls/" rel="noopener noreferrer nofollow" target="_blank">Softball</a></strong>
+</p>
+</blockquote>
+<p>To a softball player, nothing can quite match the thrill of clinching
+a solid hit, or the excitement of stopping a drive rushing as you as fast
+as a car. But apart from the desire for an adrenaline rush, our softball
+girls also need the courage to stand their ground, the determination to
+train for hours in the sweltering heat, and the heart to work closely with
+each of their teammates.</p>
+<p>After months of grueling training each year, the girls test their mettle
+on the pitch, and have never been found wanting. With the grit and tenacity
+they showed in their games, the AES Rangers are always able to come back
+to school with their heads held high.</p>
+<p>Join the AES Softball Rangers to be part of a team with more than 30 years
+of heritage, to develop fortitude and resilience through the sweat you
+put into practice on the field, and to learn mastery both of yourself and
+the sport.</p>
 <blockquote>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
 </p>
@@ -280,6 +299,20 @@ Students who show a flair for speaking can showcase their talents in debating
 and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener nofollow" target="_blank">Community Youth Leadership</a></strong>
+</p>
+</blockquote>
+<p>Through the school’s "DINAN" Leadership Programme, students can learn
+the core principles of servant leadership, inspired by St. Louis Marie
+de Montfort's humility and compassion, understanding that genuine leadership
+grows from a foundation of service ("Learn to serve, Serve to lead, Lead
+to Inspire").</p>
+<p>The programme provides authentic service-learning opportunities for students
+to cultivate essential values, develop their capacity to serve effectively,
+and ultimately learn how to lead and inspire others within their school
+community, fostering personal growth, teamwork, and a deep understanding
+of the interconnectedness between serving and leading.</p>
 <p></p>
 <p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
 </p>
