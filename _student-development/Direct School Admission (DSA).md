@@ -133,7 +133,7 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 4 Sep 2025 (Monday)</strong>
+<p><strong>Between 25 Aug 2025 (Monday) to 4 Sep 2025 (Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
