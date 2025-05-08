@@ -24,7 +24,7 @@ write-up (no more than 200 words) about their interest and passion of the
 chosen DSA area.&nbsp;&nbsp;&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Demonstrated Potential and Aptitude&nbsp;&nbsp;</strong>
 </p>
-<p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Girls &amp; Boys), Floorball (Boys), Football (Boys) and Judo (Girls &amp; Boys)</strong>
+<p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Girls &amp; Boys), Floorball (Boys), Football (Boys), Judo (Girls &amp; Boys) and Softball (Girls)</strong>
 </p>
 <p>Applicants should demonstrate sporting potential. This includes active
 participation in sports. Relevant experience such as representing their
@@ -133,7 +133,7 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 4 Sep 2025 (Monday)</strong>
+<p><strong>Between 25 Aug 2025 (Monday) to 4 Sep 2025 (Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
