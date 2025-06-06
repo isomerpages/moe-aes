@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - AES Identity/Student Outcomes.md
       - AES Identity/.keep
       - AES Identity/Mission and Vision.md
       - AES Identity/School Values.md
+      - AES Identity/Student Outcomes.md
       - AES Identity/Motto and Crest.md
       - AES Identity/School Song.md
       - AES Heritage/.keep
