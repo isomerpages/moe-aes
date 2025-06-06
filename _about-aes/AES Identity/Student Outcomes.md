@@ -71,7 +71,7 @@ apply their knowledge in authentic tasks.</p>
 <p>AssumptionKnights are creative in coming up with solutions to different
 issues while focusing on discovery and self-exploration.&nbsp;</p>
 <blockquote>
-<p><strong> CHARITY</strong>
+<p><strong>CHARITY</strong>
 </p>
 </blockquote>
 <p>“Those whom the world rejects must move you the most”</p>
