@@ -9,10 +9,9 @@ third_nav_title: People of AES
 
 <p style="text-align:center;">All enquiries should be emailed to the school's generic email: <a href="mailto:aes@moe.edu.sg">aes@moe.edu.sg</a></p>
 
-
+![](/images/All_EDUCATION_OFFICERS_S8R_GROUP_FORMAL_2.jpg)
 
 ### Lower Secondary Teachers
-
 
 |_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
@@ -47,12 +46,7 @@ third_nav_title: People of AES
 |2 George|Form Teacher|Ms Huang Meiting|
 |2 George|Form Teacher|Ms Adeline Tay Hui En|
 
-	
-	
-	
-	
 ### Upper Secondary Teachers
-
 
 |_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
 | -------- | -------- | -------- |
@@ -83,3 +77,13 @@ third_nav_title: People of AES
 |4/6|Form Teacher|Mr Nor Mohammad Bin Isa|
 |4/6|Form Teacher|Ms Suann Sim|
 |5/1|Form Teacher|Mr Joshua Yeo Huan|
+
+### Flexi-Adjunct Teachers
+|_**Name**_ |_**Subject**_|
+| -------- | -------- | 
+|Mdm Chang Ngiet Moi|Chinese Language|
+|Mdm Tan Siu Lian|Chinese Language|
+|Mr Ng Chor Tan|Design and Technology|
+|Ms Rebecca Kan|English Language|
+|Ms Elise Eng|Food and Consumer Studies|
+|Sister Dorothy Lim|Gear Up and Pastoral Care|
