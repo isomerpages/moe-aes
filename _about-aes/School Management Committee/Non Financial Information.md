@@ -48,12 +48,13 @@ To realise the school's vision to produce 'Men and Women of Character and Learni
 | 2    |  DOMINIC YEO KOH TUAN KIOK   | SUPERVISOR     |
 | 3     |TEO CHEOW TONG   | TREASURER     |
 | 4    | VINCENT TOH    | SECRETARY     |
-| 5    | CHUA CHEN HOW   | MEMBER     |
-| 6     |KHAW GIM HONG     |MEMBER     |
-| 7    | LAWRENCE CHONG    | MEMBER    |
-| 8     | TAN MENG PEOW, OLIVER    | MEMBER    |
-| 9    | TEO POH KHENG ALVIN   | MEMBER    |
-| 10    |ANG THIAM HUAT ARTHUR   | MEMBER     |
+| 5    | ANG THIAM HUAT ARTHUR | MEMBER     |
+| 6    | CHUA CHEN HOW   | MEMBER     |
+| 7    | JAMES CHER LEW HIONG   | MEMBER     |
+| 8     |KHAW GIM HONG     |MEMBER     |
+| 9    | LAWRENCE CHONG    | MEMBER    |
+| 10     | TAN MENG PEOW, OLIVER    | MEMBER    |
+| 11    | TEO POH KHENG ALVIN   | MEMBER    |
 
 
 **Auditor** <br>
