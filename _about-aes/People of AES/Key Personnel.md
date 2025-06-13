@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: People of AES
 ---
+![](/images/EXECUTIVE_COMMITTEE.jpg)
+
 | **Name** | **Designation**|
 | -------- | -------- | 
 | Mr Vincent Toh | Principal | 
@@ -22,7 +24,6 @@ third_nav_title: People of AES
 | Mrs Chong-Kee Chay Hoon  | School Staff Developer     | 
 | Ms Tan Wee Lin   | Year Head (Upper Sec)| 
 | Ms Sheryl Kaur    | Year Head (Lower Sec)| 
-| Ms Goh Kai Xin| Assistant Year Head (Level 1)|
 
 
 | **Name** | **Designation**|
@@ -41,6 +42,7 @@ third_nav_title: People of AES
 | Mr Lee Wung Yew| Senior Teacher Physical Education| 
 | Mrs Ong Hsia Li | Senior Teacher Art| 
 | Ms Cryst Tan Tee Wah| Senior Teacher Social Studies| 
+| Ms Goh Kai Xin| Assistant Year Head (Level 1)|
 
 | **Name** | **Designation**|
 | -------- | -------- | 
