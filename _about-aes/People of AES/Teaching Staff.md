@@ -2,88 +2,756 @@
 title: Teaching Staff
 permalink: /about-aes/teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: People of AES
 ---
-<p style="text-align:center;">Please call the school main hotline (6572 9100) if you wish to speak to any one of the teachers.</p>
-
-<p style="text-align:center;">All enquiries should be emailed to the school's generic email: <a href="mailto:aes@moe.edu.sg">aes@moe.edu.sg</a></p>
-
-![](/images/All_EDUCATION_OFFICERS_S8R_GROUP_FORMAL_2.jpg)
-
-### Lower Secondary Teachers
-
-|_**Level/Class**_|_**Designation**_|_**Form Teacher**_|
-| -------- | -------- | -------- |
-|Lower Sec|Year Head|Ms Sheryl Kaur|
-|Level 1|Student Management Teacher|Ms Nurin Huda Binte Hanif|
-|1 Vincent|Form Teacher|Ms Zhou Jie|
-|1 Vincent|Form Teacher|Ms Goh Kai Xin|
-|1 Adolphus|Form Teacher|Ms Yee Yunn Kymn|
-|1 Adolphus|Form Teacher|Ms Valerie Co|
-|1 Raymond| Form Teacher|Ms Azra Zaheera Binte Hairuddin|
-|1 Raymond|Form Teacher|Ms Sarah Ong Jia Qi|
-|1 John|Form Teacher|Mr Tang Kok Bin|
-|1 John|Form Teacher|Ms Estella Tan Ying Yee|
-|1 Emmanuel|Form Teacher|Mdm Sumiate Bte Hassan|
-|1 Emmanuel| Form Teacher|Mrs Cheong Ye Woon|
-|1 Noel|Form Teacher|Ms Lilian Li Liliang|
-|1 Noel|Form Teacher|Mr Ong Kong Sing|
-|1 Noel|Form Teacher|Mr Marcus Tye|
-|1 George|Form Teacher|Ms Wang Lee Keow|
-|1 George|Form Teacher|Ms Meera Devi|
-|Level 2|Student Management Teacher|Mr Muhd Sadik|
-|2 Vincent|Form Teacher|Mr Jared Tan Hong Jie|
-|2 Vincent|Form Teacher|Mr Suhaimi Bin Sahmat|
-|2 Adolphus|Form Teacher|Mr Arnold Teo Kun Ho|
-|2 Adolphus|Form Teacher|Ms Shannon Low Shi Ting|
-|2 Raymond|Form Teacher|Mr Pavethren S/O Kanagarethinam|
-|2 Raymond|Form Teacher|Mdm Cynthia Wong Lin Yun|
-|2 Emmanuel|Form Teacher|Mr Leet Tagore|
-|2 Emmanuel|Form Teacher|Ms Badariah Bte Abdul Lathif|
-|2 Noel|Form Teacher|Mdm Seet Yoke Chee|
-|2 Noel|Form Teacher|Ms Teo Sin En|
-|2 George|Form Teacher|Ms Huang Meiting|
-|2 George|Form Teacher|Ms Adeline Tay Hui En|
-
-### Upper Secondary Teachers
-
-|_**Level/Class**_ |_**Designation**_|_**Form Teacher**_|
-| -------- | -------- | -------- |
-|Upper Sec|Year Head| Ms Tan Wee Lin|
-|Level 3|Student Management Teacher|Mr Chan Keng Kok|
-|3 George|Form Teacher|Ms Kong Yean Ha|
-|3 George|Form Teacher|Ms Toh See Min Stefanie|
-|3 Noel|Form Teacher|Ms Tan Wei Jia Zenda|
-|3 Noel|Form Teacher|Mr Alvin Lee Wei Jie|
-|3 Emmanuel|Form Teacher|Mr Muhammad Hasanul Arifin|
-|3 Emmanuel|Form Teacher|Ms Denise Lee Yuan Ying|
-|3 Raymond|Form Teacher|Mrs Diana Norman|
-|3 Raymond|Form Teacher|Ms Nadhirah Zainuddin|
-|3 Adolphus|Form Teacher|Mr Tan Kwang Chee|
-|3 Adolphus|Form Teacher|Ms Sufianna Binte Abas|
-|3 Vincent|Form Teacher|Mr P Aravind|
-|3 Vincent|Form Teacher|Mr Lee Wung Yew|
-|3 Vincent|Form Teacher|Ms Xu Yi|
-|Level 4|Student Management Teacher|Mr Neville Teo Soong Hee|
-|4/1|Form Teacher|Ms Rossellini Tan Yeling|
-|4/2|Form Teacher|Ms Manjit Kaur Kartar Singh|
-|4/2|Form Teacher|Mrs Ong Hsia Li|
-|4/3|Form Teacher|Ms Siti Nur Nabilah|
-|4/4|Form Teacher|Ms Shereen Ling Hsueh Li|
-|4/4|Form Teacher|Ms Siti Mardia Binte Abu Samah|
-|4/5|Form Teacher|Ms Valerie Chan Zhi Jia|
-|4/5|Form Teacher|Ms Fasihah Bte Rahmat|
-|4/6|Form Teacher|Mr Nor Mohammad Bin Isa|
-|4/6|Form Teacher|Ms Suann Sim|
-|5/1|Form Teacher|Mr Joshua Yeo Huan|
-
-### Flexi-Adjunct Teachers
-|_**Name**_ |_**Subject**_|
-| -------- | -------- | 
-|Mdm Chang Ngiet Moi|Chinese Language|
-|Mdm Tan Siu Lian|Chinese Language|
-|Mr Ng Chor Tan|Design and Technology|
-|Ms Rebecca Kan|English Language|
-|Ms Elise Eng|Food and Consumer Studies|
-|Sister Dorothy Lim|Gear Up and Pastoral Care|
+<p>Please call the school main hotline (6572 9100) if you wish to speak to
+any one of the teachers.</p>
+<p>All enquiries should be emailed to the school's generic email: <a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_EDUCATION_OFFICERS_S8R_GROUP_FORMAL_2.jpg">
+</div>
+<h3>Lower Secondary Teachers</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><em>Level/Class</em></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><em>Designation</em></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><em>Form Teacher</em></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sheryl Kaur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurin Huda Binte Hanif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhou Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Kai Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yee Yunn Kymn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Co</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Azra Zaheera Binte Hairuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Ong Jia Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Kok Bin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Estella Tan Ying Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sumiate Bte Hassan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheong Ye Woon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lilian Li Liliang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kong Sing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Tye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Lee Keow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Meera Devi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Sadik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jared Tan Hong Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suhaimi Bin Sahmat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Arnold Teo Kun Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shannon Low Shi Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pavethren S/O Kanagarethinam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cynthia Wong Lin Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leet Tagore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Badariah Bte Abdul Lathif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Seet Yoke Chee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Sin En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Meiting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Tay Hui En</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Upper Secondary Teachers</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><em>Level/Class</em></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><em>Designation</em></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><em>Form Teacher</em></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wee Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Keng Kok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kong Yean Ha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh See Min Stefanie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wei Jia Zenda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Noel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Lee Wei Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hasanul Arifin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Emmanuel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Denise Lee Yuan Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Diana Norman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nadhirah Zainuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kwang Chee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Adolphus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sufianna Binte Abas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr P Aravind</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Wung Yew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neville Teo Soong Hee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rossellini Tan Yeling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Manjit Kaur Kartar Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong Hsia Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur Nabilah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shereen Ling Hsueh Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Mardia Binte Abu Samah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Chan Zhi Jia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fasihah Bte Rahmat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nor Mohammad Bin Isa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suann Sim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5/1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Yeo Huan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Flexi-Adjunct Teachers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><em>Name</em></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><em>Subject</em></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chang Ngiet Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Siu Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Chor Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rebecca Kan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elise Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sister Dorothy Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gear Up and Pastoral Care</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
