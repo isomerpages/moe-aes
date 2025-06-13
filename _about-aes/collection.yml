@@ -2,6 +2,7 @@ collections:
   about-aes:
     output: true
     order:
+      - MGEI/Montfortian Education Charter.md
       - MGEI/.keep
       - Principal's Message.md
       - AES Identity/.keep
