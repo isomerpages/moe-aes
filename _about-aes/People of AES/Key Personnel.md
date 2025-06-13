@@ -2,50 +2,328 @@
 title: Key Personnel
 permalink: /about-aes/key-personnel/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: People of AES
 ---
-![](/images/EXECUTIVE_COMMITTEE.jpg)
-
-| **Name** | **Designation**|
-| -------- | -------- | 
-| Mr Vincent Toh | Principal | 
-|Ms Wong Ker Sin    | Vice Principal     | 
-| Mr Brian Tan Weiming  | Vice Principal  | 
-| Mr Quek Ser Hiang  | Vice Principal (Administration)    | 
-| Ms Meenatchi D/O Ramasamy | HOD English Language | 
-|Mr Kenny Sng | HOD Mathematics | 
-| Mr Dennis Wang Yingquan | HOD Science     | 
-|Ms Raine Seah Hui Ling| HOD Humanities | 
-| Mr Taufeeq Affandey | HOD Craft & Technology   | 
-| Mr Ng Shi Han    |  HOD Character & Citizenship Education    | 
-| Mr Balbinder Singh   |  HOD Physical Education & CCA     | 
-| Ms Chan Siming   |  HOD Infocomm Technology| 
-| Mrs Chong-Kee Chay Hoon  | School Staff Developer     | 
-| Ms Tan Wee Lin   | Year Head (Upper Sec)| 
-| Ms Sheryl Kaur    | Year Head (Lower Sec)| 
-
-
-| **Name** | **Designation**|
-| -------- | -------- | 
-| Mrs Ong-Yew Gui Mei   | Subject Head Chinese Language    |
-| Mr Tang Kok Bin    | Subject Head Infocomm Technology   | 
-|  Mr Desmond Wong Wei Jie  | Subject Head Student Management   | 
-|Ms Denise Lee Yuan Ying|Subject Head Student Leadership| 
-|  Ms Natalie Han Su-Yin   | Subject Head English Literature  | 
-|  Ms Camille Koh Eng Guan    | Subject Head Aesthetics | 
-| Ms Fasihah Bte Rahmat| Subject Head Student Wellbeing     | 
-| Mr Suhaimi Bin Sahmat |Subject Head Malay Language| 
-| Ms Feline Tong Yin Sze |Subject Head History| 
-|Ms Lim Zi Xin | Level Head Science| 
-| Ms Diana Bte Abu Bakar (Mrs Norman)| Senior Teacher Mathematics| 
-| Mr Lee Wung Yew| Senior Teacher Physical Education| 
-| Mrs Ong Hsia Li | Senior Teacher Art| 
-| Ms Cryst Tan Tee Wah| Senior Teacher Social Studies| 
-| Ms Goh Kai Xin| Assistant Year Head (Level 1)|
-
-| **Name** | **Designation**|
-| -------- | -------- | 
-| Mr New Lam Heng| Operation Manager |
-| Mr Mike Ho Yin Choy| Operation Manager |
-|Mdm Lee Lai Hoong|Administration Manager|
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXECUTIVE_COMMITTEE.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Ker Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brian Tan Weiming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Ser Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Administration)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Meenatchi D/O Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenny Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Wang Yingquan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Raine Seah Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Taufeeq Affandey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Craft &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Shi Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Balbinder Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Physical Education &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Siming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chong-Kee Chay Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wee Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sheryl Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong-Yew Gui Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Kok Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Wong Wei Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Denise Lee Yuan Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Natalie Han Su-Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head English Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Camille Koh Eng Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fasihah Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Wellbeing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Suhaimi Bin Sahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Feline Tong Yin Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Zi Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Bte Abu Bakar (Mrs Norman)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Wung Yew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong Hsia Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cryst Tan Tee Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Level 1)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr New Lam Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mike Ho Yin Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Lai Hoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
