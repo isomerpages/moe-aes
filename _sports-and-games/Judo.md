@@ -1,6 +1,6 @@
 ---
 title: Judo
-permalink: /student-development/ccas/sports-and-games/judo/
+permalink: /character/ccas/sports-and-games/judo/
 description: ""
 variant: markdown
 ---

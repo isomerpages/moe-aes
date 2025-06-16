@@ -1,6 +1,6 @@
 ---
 title: Dance Ensemble
-permalink: /student-development/ccas/performing-arts/dance-ensemble/
+permalink: /character/ccas/performing-arts/dance-ensemble/
 description: ""
 variant: markdown
 ---

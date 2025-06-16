@@ -1,6 +1,6 @@
 ---
 title: Floorball (Boys)
-permalink: /student-development/ccas/sports-and-games/floorball-boys/
+permalink: /character/ccas/sports-and-games/floorball-boys/
 description: ""
 variant: markdown
 ---

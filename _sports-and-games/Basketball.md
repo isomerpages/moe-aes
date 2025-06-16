@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /student-development/ccas/sports-and-games/basketball/
+permalink: /character/ccas/sports-and-games/basketball/
 description: ""
 variant: markdown
 ---

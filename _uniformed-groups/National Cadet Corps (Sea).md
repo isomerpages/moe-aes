@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps (Sea)
-permalink: /student-development/ccas/uniformed-groups/national-cadet-corps-sea/
+permalink: /character/ccas/uniformed-groups/national-cadet-corps-sea/
 description: ""
 variant: markdown
 ---

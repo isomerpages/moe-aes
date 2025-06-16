@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /student-development/ccas/performing-arts/choir/
+permalink: /character/ccas/performing-arts/choir/
 description: ""
 variant: markdown
 ---

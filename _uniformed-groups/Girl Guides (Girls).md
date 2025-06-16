@@ -1,6 +1,6 @@
 ---
 title: Girl Guides (Girls)
-permalink: /student-development/ccas/uniformed-groups/girl-guides-girls/
+permalink: /character/ccas/uniformed-groups/girl-guides-girls/
 description: ""
 variant: markdown
 ---

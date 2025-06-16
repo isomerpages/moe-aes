@@ -1,6 +1,6 @@
 ---
 title: Football (Boys)
-permalink: /student-development/ccas/sports-and-games/football-boys/
+permalink: /character/ccas/sports-and-games/football-boys/
 description: ""
 variant: markdown
 ---

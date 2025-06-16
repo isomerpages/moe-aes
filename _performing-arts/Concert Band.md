@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /student-development/ccas/performing-arts/concert-band/
+permalink: /character/ccas/performing-arts/concert-band/
 description: ""
 variant: markdown
 ---

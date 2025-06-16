@@ -1,6 +1,6 @@
 ---
 title: Young Montfortian Associates
-permalink: /club-and-societies/permalink/
+permalink: /character/ccas/club-n-societies/young-montfortian-associates/
 description: ""
 variant: markdown
 ---
