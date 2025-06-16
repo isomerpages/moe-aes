@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - CCAs/.keep
-      - CCAs.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
