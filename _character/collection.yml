@@ -2,6 +2,7 @@ collections:
   character:
     output: true
     order:
+      - CCAs/Sports and Games.md
       - CCAs/LEAPS 2 0.md
       - CCAs/CCAs.md
       - CCAs/.keep
