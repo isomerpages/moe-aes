@@ -2,12 +2,12 @@ collections:
   character:
     output: true
     order:
-      - CCAs/Club & Societies.md
-      - CCAs/Performing Arts.md
-      - CCAs/Uniformed Groups.md
-      - CCAs/Sports and Games.md
-      - CCAs/LEAPS 2 0.md
-      - CCAs/CCAs.md
       - CCAs/.keep
+      - CCAs/CCAs.md
+      - CCAs/LEAPS 2 0.md
+      - CCAs/Sports and Games.md
+      - CCAs/Uniformed Groups.md
+      - CCAs/Performing Arts.md
+      - CCAs/Club & Societies.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
