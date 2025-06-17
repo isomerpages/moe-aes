@@ -2,45 +2,55 @@
 title: Judo
 permalink: /character/ccas/sports-and-games/judo/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![Judo 2024 B-Div](/images/2_JUDO_B_DIV_NSG_2024.png)
-B-Div NSG
-
-![Judo C-Div 2024](/images/Judo_C_Div_2024.png)
-C-Div NSG
-
-### About Us
-
-“Still your Mind, Crush a Mountain”
-
-The AES Judo programme aims to instil in our Judokas the values of self-discipline and respect for others, as well as to develop mental and physical resilience, faster reflexes, better body coordination and concentration.&nbsp;
-
-AES Judokas train 2-3 times weekly. Each CCA training is focused on physical conditioning, learning new Judo moves and practising safe break fall techniques, so that we may become more proficient in the sport in a safe manner. The team is mentored by main coach, Mohamad Faizal (SJF Director in Coaching and Education), and he is supported by assistant coach, Gu Jiayao, and 3 teachers-in-charge.
-
-
-### Activities/ Achievements
-
-
-| Year | Activities/ Achievements| 
-| -------- | -------- | 
-| **2024 National School Games**  |'B' Boys' Division: **TEAM THIRD** <br> 1 Gold, 1 Bronze, 2 in Top 8 positions |
-|     | 'B’ Girls' Division: **TEAM SECOND** <br> 1 Gold, 1 Sliver, 3 Bronze, 7 in Top 8 positions  |
-|     | 'C' Boys' Division: **TEAM FOURTH** <br> 2 Bronze    |
-|     | ‘C’ Girls' Division: **TEAM THIRD** <br>1 Silver, 3 Bronze, 7 in Top 8 positions     |
-| **2024 SJF Kyu Grade Judo Championships**  | 1 Gold, 6 Silver, 9 Bronze|
-| **2023 National School Games**  |'B' Boys' Division: **TEAM THIRD** <br>1 Gold, 3 in Top 8 positions |
-|     | 'B’ Girls' Division: **TEAM SECOND** <br>5 Silver, 5 in Top 8 positions   |
-|     | 'C' Boys' Division: **TEAM THIRD** <br>1 Gold, 2 Bronzes, 3 in Top 8 positions    |
-|     | ‘C’ Girls' Division: <br>1 Silver, 2 Bronzes, 3 in Top 8 positions     |
-| **2023 SJF Kyu Grade Judo Championships**  | 3 Gold, 3 Silver, 7 Bronze   |
-| **2023 SA Judo Academy Age Group Judo Championship**| 2 Gold, 2 Silver, 4 Bronze  |
-| **2022 National School Games**  | B' Boys' Division: **TEAM SECOND** <br>2 Golds, 1 Silver, 4 in Top 8 positions  |
-|   | ‘B’ Girls' Division: **TEAM THIRD** <br>1 Silver, 1 Bronze  |
-|   | 'C' Boys' Division: 1 Silver, 2 in Top 8 positions  |
-|   | 'C’ Girls' Division: **TEAM FOURTH** <br>2 Silvers|
-| **2022 Singapore Schools Sports Council**  | 3 Colours Awards, 2 Sportsmanship Awards     |
-| **2022 SJF Kyu Grade Judo Championships**  | 1 Gold, 2 Silver, 8 Bronze     |
-| **2020 National School Games**  | No National School games due to COVID-19 pandemic  |
-| **2020 SA Judo Academy Kyu Grade Judo Championship**  | 1 Silver, 1 Bronze, 1 in 5th position |
-|  **The Dojo Champs** |  1 Gold, 3 Silver, 2 Bronze |
+<h4><strong><u>Motto</u></strong>: </h4>
+<p><strong><em>“Still your Mind, Crush a Mountain”</em></strong>
+</p>
+<h4><strong><u>About Us</u></strong></h4>
+<p>The AES Judo programme is designed to inculcate in our Judokas the values
+of self-discipline and respect for others, while also fostering the development
+of mental and physical resilience, quicker reflexes, improved body coordination,
+and enhanced concentration.</p>
+<p>The AES Judokas engage in training sessions 2-3 times a week. Each CCA
+training session is dedicated to physical conditioning, acquiring new Judo
+techniques, and practising safe break fall methods, thereby enhancing proficiency
+in the sport in a secure manner. The team is under the guidance of the
+head coach, Azfar (Head Coach of School Of Judo), along with four teachers-in-charge.</p>
+<p></p>
+<p>This year, we are delighted to announce the remarkable achievements of
+AES Judokas in the following competitions:</p>
+<p><strong><u>National School Games 2025</u></strong>
+</p>
+<ul>
+<li>
+<p>‘B’ Division (Boys’) Team&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>2 Silver, 1 Bronze, 5 in Top 8 positions</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>‘B’ Division (Girls’) Team – <strong>Second</strong>
+</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>1 Gold, 2 Silver, 1 Bronze, 10 in Top 8 positions</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>C Division will be in July</p>
+</li>
+</ul>
+<p><strong>Training sessions</strong>: Tuesdays, Thursdays and Fridays</p>
+<p><strong>Come and follow us on our Instagram: aes_judo</strong>
+</p>
+<p>
+<br>
+</p>
