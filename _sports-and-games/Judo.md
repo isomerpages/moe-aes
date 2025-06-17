@@ -4,7 +4,7 @@ permalink: /character/ccas/sports-and-games/judo/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>Motto</u></strong>: </h4>
+<h4><strong><u>Motto</u></strong>:</h4>
 <p><strong><em>“Still your Mind, Crush a Mountain”</em></strong>
 </p>
 <h4><strong><u>About Us</u></strong></h4>
