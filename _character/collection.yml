@@ -2,8 +2,6 @@ collections:
   character:
     output: true
     order:
-      - GABRIEL Programme.md
-      - Student Management in AES.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
       - CCAs/.keep
@@ -16,3 +14,5 @@ collections:
       - CCE/.keep
       - CCE/Monfortian Achievers' Programme (MAP).md
       - CCE/Sexuality Education.md
+      - Student Management in AES.md
+      - GABRIEL Programme.md
