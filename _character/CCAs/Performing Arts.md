@@ -11,3 +11,5 @@ variant: tiptap
 </p>
 <p><a href="https://assumptionenglish.moe.edu.sg/character/ccas/performing-arts/dance-ensemble/" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
 </p>
+<p><a href="https://assumptionenglish.moe.edu.sg/character/ccas/club-n-societies/english-language-drama-and-debate-society/" rel="noopener noreferrer nofollow" target="_blank">English Language Drama and Debate Society</a>
+</p>
