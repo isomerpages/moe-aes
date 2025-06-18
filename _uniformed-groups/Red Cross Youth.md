@@ -4,9 +4,6 @@ permalink: /character/ccas/uniformed-groups/red-cross-youth/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/World_Red_Cross_Day.jpg">
-</div>
 <h4>About Us</h4>
 <p>“Seldom seen but ever-present” – this remains the unofficial motto of
 the Red Cross Youth (RCY) Co-Curricular Activity (CCA) as we continue to
