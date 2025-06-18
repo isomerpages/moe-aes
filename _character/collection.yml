@@ -2,6 +2,7 @@ collections:
   character:
     output: true
     order:
+      - GABRIEL Programme.md
       - Student Management in AES.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
