@@ -2,6 +2,7 @@ collections:
   character:
     output: true
     order:
+      - CCE/Monfortian Achievers' Programme (MAP).md
       - CCE/.keep
       - Sexuality Education.md
       - CCAs/.keep
