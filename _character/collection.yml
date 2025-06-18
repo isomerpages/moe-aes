@@ -2,9 +2,8 @@ collections:
   character:
     output: true
     order:
-      - CCE/Sexuality Education.md
-      - CCE/Monfortian Achievers' Programme (MAP).md
-      - CCE/.keep
+      - Learning for Life Programme (LLP).md
+      - Student Council.md
       - CCAs/.keep
       - CCAs/CCAs.md
       - CCAs/LEAPS 2 0.md
@@ -12,5 +11,6 @@ collections:
       - CCAs/Uniformed Groups.md
       - CCAs/Performing Arts.md
       - CCAs/Club & Societies.md
-      - Learning for Life Programme (LLP).md
-      - Student Council.md
+      - CCE/.keep
+      - CCE/Sexuality Education.md
+      - CCE/Monfortian Achievers' Programme (MAP).md
