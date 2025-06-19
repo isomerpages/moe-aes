@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Info Comm Technology (ICT)/.keep
       - English Language & Literature/.keep
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
@@ -23,4 +22,5 @@ collections:
       - Humanities.md
       - Craft & Technology.md
       - Physical Education (PE).md
+      - Info Comm Technology (ICT)/.keep
       - CCE/.keep
