@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Value In Action (VIA).md
       - Asian Young Leaders for Human Fraternity (AYLHF).md
       - Catholic Education.md
       - Internationalisation.md
