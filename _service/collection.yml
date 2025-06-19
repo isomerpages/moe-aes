@@ -1,0 +1,4 @@
+collections:
+  service:
+    output: true
+    order: []
