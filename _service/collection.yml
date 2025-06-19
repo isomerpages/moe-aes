@@ -1,5 +1,4 @@
 collections:
   service:
     output: true
-    order:
-      - Value In Action (VIA).md
+    order: []
