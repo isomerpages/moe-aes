@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  service:
     output: true
     order:
       - Value In Action (VIA).md
