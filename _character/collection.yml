@@ -2,7 +2,6 @@ collections:
   character:
     output: true
     order:
-      - Guidance and Counselling Unit.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
       - CCAs/.keep
@@ -17,3 +16,4 @@ collections:
       - CCE/Sexuality Education.md
       - Student Management in AES.md
       - GABRIEL Programme.md
+      - Guidance and Counselling Unit.md
