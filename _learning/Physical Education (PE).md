@@ -2,54 +2,30 @@
 title: Physical Education (PE)
 permalink: /departments/physical-education-pe/
 description: ""
+variant: tiptap
 ---
-In AES, our students&nbsp;**P.L.A.Y.**&nbsp;during PE. The department aims to cultivate Assumptionknights in “P.L.A.Y. –&nbsp;**P**urposeful&nbsp;**L**iving&nbsp;**A**ctive lifest**Y**le” so as to educate them in pursuing a purposeful and physically active lifestyle through active participation in sports and games.
-
-  
-
-AssumptionKnights have the opportunity to engage in a diverse range of sports and games, including Badminton, Basketball, Football, Floorball, Tchoukball, and Volleyball, during their PE classes.
-
- Apart from learning different sports and games, students acquire knowledge and skills in orienteering, outdoor cooking and camp craft through the Outdoor Education (OE) module. Through OE, our students develop an attitude of care and appreciation for the outdoor and environment. All Secondary 3 students are given the opportunity to participate and experience the MOE-Outward Bound Singapore (OBS) Challenge programme. The programme helps in developing the strengths in our students to overcome challenges in the outdoors and acquire life skills such as resilience and ruggedness.
-
-  
-#### Programmes
-
-##### **Fun Run-cum-Home Walk**
-![](/images/homewalk7.JPG)
-
-![](/images/rsz_1homewalk4.jpg)
-
-![](/images/rsz_4funrun2.jpg)
-
-
-##### **NAPFA assessment**
-
-![](/images/14-1%20napfa1.jpg)
-
-![](/images/14-1%20napfa3.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>At Assumption English School, our Physical Education (PE) programme is
+all about <em>student-centered learning</em> – where every student’s growth,
+interests, and experiences shape the way we teach.</p>
+<p>Our lessons are active, engaging, and meaningful. Instead of just running
+drills, we use fun, game-based approaches like <strong>Teaching Games for Understanding (TGfU)</strong> and <strong>Non-Linear Pedagogy</strong>.
+These help students become better thinkers, team players, and confident
+decision-makers during real game situations.</p>
+<p>We believe in <em>learning through play</em> – using modified games to teach
+strategy, movement, and communication. Students explore, adapt, and reflect,
+building both skill and a love for physical activity.</p>
+<p>Beyond the court, our <strong>Outdoor Education</strong> programme connects
+students with nature through activities like the Sec 1 Camp, Sec 3 Outward
+Bound Singapore (OBS), hiking, and team challenges. These experiences build
+resilience, self-awareness, and responsibility.</p>
+<p>We also celebrate learning through exciting events like the <strong>Inter-class Games</strong> and
+the <strong>AssumptionKnight Challenge</strong> – giving students the chance
+to compete, collaborate, and shine in a supportive environment.</p>
+<p>More than just sports, our PE programme inspires <em>lifelong well-being</em>,
+teamwork, and personal excellence – preparing students to move, think,
+and grow in all aspects of life.</p>
+<h4><strong><u>Highlights Programmes</u></strong></h4>
+<blockquote>
+<p>AssumptionKnight Challenge</p>
+</blockquote>
+<p></p>
