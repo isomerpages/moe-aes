@@ -165,7 +165,7 @@ in.</p>
 <p></p>
 <h4><strong>AES Humanities READ</strong></h4>
 <p>Click on the&nbsp;link below to access the Humanities Reading Site!</p>
-<p><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a> </strong>
+<p><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
 </p>
 <p>
 <br>
