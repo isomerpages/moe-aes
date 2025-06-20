@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Blended Learning.md
       - English Language & Literature/.keep
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
@@ -27,3 +26,4 @@ collections:
       - Info Comm Technology (ICT)/Technology Enabled Learning.md
       - Info Comm Technology (ICT)/Personal Learning Devices (PLDs).md
       - Aesthetics Education.md
+      - Blended Learning.md
