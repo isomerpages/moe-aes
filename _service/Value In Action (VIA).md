@@ -17,11 +17,11 @@ programme is a multi-prong approach which builds on progressive and engaging
 experiences of our students as they move on from year to year.</p>
 <p>Assumption English School uses a multi-prong approach VIA based on:</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="566" width="872" alt="A close-up of a school
-
-AI-generated content may be incorrect." src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjf5LJYkoJIm12sDlYM1LRaCkkIuAStJhv13zCPAOKd3rubNmlizs8QUaPzo48mxfx6AoHFjn2tWlo_uHMsXcXH0ckVQnJoqTRODHYxpXyTeU_GfyLHf7ORtmk2DT2dts2fXRCs3HOnkcQpL8dxEo?key=s-EEnCIs4gva2jXwCRdqxA">
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="A close-up of a school
+<p>AI-generated content may be incorrect.&quot; width=&quot;872&quot; height=&quot;566&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;></p></div>
 <p></p>
+<ul class=" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjf5LJYkoJIm12sDlYM1LRaCkkIuAStJhv13zCPAOKd3rubNmlizs8QUaPzo48mxfx6AoHFjn2tWlo_uHMsXcXH0ckVQnJoqTRODHYxpXyTeU_GfyLHf7ORtmk2DT2dts2fXRCs3HOnkcQpL8dxEo?key=s-EEnCIs4gva2jXwCRdqxA">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>VIA contribution is recorded in their individual CCA-VIA records and used
