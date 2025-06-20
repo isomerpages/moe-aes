@@ -2,14 +2,14 @@ collections:
   useful-resources:
     output: true
     order:
-      - Direct School Admission (DSA).md
       - Calendar and Happenings.md
+      - For Students/.keep
       - For Students/School based Resources and Information.md
       - For Students/Publications and Student Voices.md
       - For Students/Administrative Information.md
       - For Students/Education and Career Guidance (ECG).md
       - For Students/Reading Materials.md
-      - For Students/.keep
+      - For Parents/.keep
       - For Parents/Straits Times School Pocket Money Fund (STSPMF) 2025 Cycle
         2.md
       - For Parents/Parents Support Group (PSG).md
@@ -19,8 +19,8 @@ collections:
       - For Parents/Textbooks & Uniforms.md
       - For Parents/Parent and School Communication Policy.md
       - For Parents/Group Personal Accident Insurance for Students.md
-      - For Parents/.keep
       - For Teachers.md
       - For Alumni.md
       - Timetable and Examinations.md
+      - Direct School Admission (DSA).md
       - St Gabriel's Foundation Charity Movie 2024.md
