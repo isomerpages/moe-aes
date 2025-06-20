@@ -2,8 +2,8 @@ collections:
   useful-resources:
     output: true
     order:
-      - For Students.md
       - Calendar and Happenings.md
+      - For Students.md
       - For Students/.keep
       - For Students/School based Resources and Information.md
       - For Students/Publications and Student Voices.md
