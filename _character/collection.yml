@@ -1,0 +1,19 @@
+collections:
+  character:
+    output: true
+    order:
+      - Learning for Life Programme (LLP).md
+      - Student Council.md
+      - CCAs/.keep
+      - CCAs/CCAs.md
+      - CCAs/LEAPS 2 0.md
+      - CCAs/Sports and Games.md
+      - CCAs/Uniformed Groups.md
+      - CCAs/Performing Arts.md
+      - CCAs/Club & Societies.md
+      - CCE/.keep
+      - CCE/Monfortian Achievers' Programme (MAP).md
+      - CCE/Sexuality Education.md
+      - Student Management in AES.md
+      - GABRIEL Programme.md
+      - Guidance and Counselling Unit.md

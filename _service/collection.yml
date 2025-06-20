@@ -1,0 +1,8 @@
+collections:
+  service:
+    output: true
+    order:
+      - Value In Action (VIA).md
+      - Asian Young Leaders for Human Fraternity (AYLHF).md
+      - Internationalisation.md
+      - Catholic Education.md

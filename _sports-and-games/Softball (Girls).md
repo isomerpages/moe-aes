@@ -1,6 +1,6 @@
 ---
 title: Softball (Girls)
-permalink: /student-development/ccas/sports-and-games/softball-girls/
+permalink: /character/ccas/sports-and-games/softball-girls/
 description: ""
 variant: markdown
 ---

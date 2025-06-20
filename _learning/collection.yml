@@ -1,0 +1,29 @@
+collections:
+  learning:
+    output: true
+    order:
+      - Blended Learning.md
+      - English Language & Literature/.keep
+      - English Language & Literature/Applied Learning Programme.md
+      - English Language & Literature/ALP Productions.md
+      - English Language & Literature/Theatrical Experience.md
+      - English Language & Literature/2021 Soiréé Under The Stars.md
+      - English Language & Literature/2020 Emmanuel Lumiére Film Festival.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Overview.md
+      - Mother Tongue Languages/MT Fortnight Programme.md
+      - Mother Tongue Languages/Chinese Language Programmes.md
+      - Mother Tongue Languages/Malay Language Programmes.md
+      - Mother Tongue Languages/MTL Extensive Reading Programme.md
+      - Mathematics.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Science Experiential Projects (SEP).md
+      - Science/Young Scientists Programme (YSP).md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education (PE).md
+      - Info Comm Technology (ICT)/.keep
+      - Info Comm Technology (ICT)/Technology Enabled Learning.md
+      - Info Comm Technology (ICT)/Personal Learning Devices (PLDs).md
+      - Aesthetics Education.md
