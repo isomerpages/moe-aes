@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/66179461dbe4150f8f72c687" rel="noopener noreferrer nofollow" target="_blank">Defects &amp; Issues Reporting System</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqUExraHMspu5K1kikzy-rpvCM-gZAV7_36gC1G_saf57QWw/viewform" rel="noopener noreferrer nofollow" target="_blank">Defects &amp; Issues Reporting System</a>
 </p>
 </li>
 <li>
