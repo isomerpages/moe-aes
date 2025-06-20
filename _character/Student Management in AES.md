@@ -1,6 +1,6 @@
 ---
 title: Student Management in AES
-permalink: /student-development/student-management-in-aes/
+permalink: /character/student-management-in-aes/
 description: ""
 variant: markdown
 ---

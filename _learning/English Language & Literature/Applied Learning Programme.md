@@ -1,8 +1,9 @@
 ---
 title: Applied Learning Programme
-permalink: /departments/english-language-and-literature/applied-learning-programme/
+permalink: /learning/english-language-and-literature/applied-learning-programme/
 description: ""
 third_nav_title: English Language & Literature
+variant: tiptap
 ---
 English Language and Literature Programme
 -----------------------------------------

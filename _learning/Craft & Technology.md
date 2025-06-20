@@ -1,6 +1,6 @@
 ---
 title: Craft & Technology
-permalink: /departments/craft-n-technology/
+permalink: /learning/craft-n-technology/
 description: ""
 variant: tiptap
 ---

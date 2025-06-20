@@ -1,6 +1,6 @@
 ---
 title: Malay Language Programmes
-permalink: /departments/mother-tongue-languages/malay-language-programmes/
+permalink: /learning/mother-tongue-languages/malay-language-programmes/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages

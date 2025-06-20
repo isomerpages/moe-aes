@@ -1,18 +1,19 @@
 ---
 title: Science Experiential Projects (SEP)
-permalink: /departments/science/science-experiential-projects-sep/
+permalink: /learning/science/science-experiential-projects-sep/
 description: ""
 third_nav_title: Science
+variant: tiptap
 ---
 All Secondary 1 – 3 students will experience a Science Experiential Project (SEP) each year in their AES Science journey.  
 
   
 
-The designed SEP focusses on providing learning opportunities for Lower Secondary students to apply their knowledge and skills in Science to **solve real-world problems**.
+The designed SEP focusses on providing learning opportunities for Lower Secondary students to apply their knowledge and skills in Science to&nbsp;**solve real-world problems**.
 
   
 
-It uses the **design-inquiry approach** which helps students to appreciate the relevance and value of what they have learnt in Science concepts and equip them with skills such as design thinking and problem-solving which are essential in the 21st century workforce.
+It uses the&nbsp;**design-inquiry approach**&nbsp;which helps students to appreciate the relevance and value of what they have learnt in Science concepts and equip them with skills such as design thinking and problem-solving which are essential in the 21st&nbsp;century workforce.
 
   
 
@@ -23,9 +24,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SPP.png" alt="Science Experiential Projects (SEP)" style="width:70%;">  
+<img src="/images/SPP.png" alt="Science Experiential Projects (SEP)" style="width:70%;">  
   
-</body>
+
   
 
 **Example - Secondary 1 Science: Water Filtration Project**
@@ -39,9 +40,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-1.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-1.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -51,9 +52,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-2.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-2.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -63,9 +64,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-3.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-3.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -75,9 +76,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-4.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-4.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -87,9 +88,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-5.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-5.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -99,9 +100,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-6.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-6.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -111,9 +112,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-7.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-7.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>
 
 <style>  
@@ -123,7 +124,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Section%202-8.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
+<img src="/images/Section%202-8.jpeg" alt="Secondary 1 Science: Water Filtration Project" style="width:70%;">  
   
-</body>
+
 <br>

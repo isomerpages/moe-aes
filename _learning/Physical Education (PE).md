@@ -1,6 +1,6 @@
 ---
 title: Physical Education (PE)
-permalink: /departments/physical-education-pe/
+permalink: /learning/physical-education-pe/
 description: ""
 variant: tiptap
 ---

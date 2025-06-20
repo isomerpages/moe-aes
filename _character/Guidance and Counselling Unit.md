@@ -1,6 +1,6 @@
 ---
 title: Guidance and Counselling Unit
-permalink: /student-development/guidance-and-counselling-unit/
+permalink: /character/guidance-and-counselling-unit/
 description: ""
 variant: tiptap
 ---

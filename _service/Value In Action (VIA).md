@@ -1,6 +1,6 @@
 ---
 title: Value In Action (VIA)
-permalink: /departments/character-n-citizenship-education-cce/value-in-action-via/
+permalink: /service/value-in-action-via/
 description: ""
 variant: tiptap
 ---

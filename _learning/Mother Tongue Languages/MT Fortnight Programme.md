@@ -1,6 +1,6 @@
 ---
 title: MT Fortnight Programme
-permalink: /departments/mother-tongue-languages/mt-fortnight-programme/
+permalink: /learning/mother-tongue-languages/mt-fortnight-programme/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages

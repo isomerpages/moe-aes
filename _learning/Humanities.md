@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /departments/humanities/
+permalink: /learning/humanities/
 description: ""
 variant: tiptap
 ---

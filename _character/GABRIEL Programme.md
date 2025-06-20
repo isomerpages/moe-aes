@@ -1,6 +1,6 @@
 ---
 title: GABRIEL Programme
-permalink: /student-development/gabriel-programme/
+permalink: /character/gabriel-programme/
 description: ""
 variant: tiptap
 ---

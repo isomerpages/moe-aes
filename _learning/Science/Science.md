@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /departments/science/
+permalink: /learning/science/
 description: ""
 third_nav_title: Science
 variant: markdown

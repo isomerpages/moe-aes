@@ -1,6 +1,6 @@
 ---
 title: Catholic Education
-permalink: /student-development/catholic-education/
+permalink: /service/catholic-education/
 description: ""
 variant: markdown
 ---

@@ -1,6 +1,6 @@
 ---
 title: Calendar and Happenings
-permalink: /calendar-and-happenings/
+permalink: /useful-resources/calendar-and-happenings/
 variant: tiptap
 description: ""
 ---

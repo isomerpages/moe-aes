@@ -1,7 +1,8 @@
 ---
 title: Asian Young Leaders for Human Fraternity (AYLHF)
-permalink: /student-development/permalink/
+permalink: /service/aylhf/
 description: ""
+variant: tiptap
 ---
 ![](https://www.assumptionenglish.moe.edu.sg/images/Asian%20Young%20Leaders%20for%20Human%20Fraternity%202023.jpg)
 

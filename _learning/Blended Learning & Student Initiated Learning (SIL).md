@@ -1,6 +1,6 @@
 ---
 title: Blended Learning & Student Initiated Learning (SIL)
-permalink: /useful-resources/blended-learning/
+permalink: /learning/blended-learning/
 description: ""
 variant: markdown
 ---

@@ -1,7 +1,8 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics/
+permalink: /learning/mathematics/
 description: ""
+variant: tiptap
 ---
 Assumption English School mathematics teachers believe in imbuing students with an appreciation of mathematics and help them see the relevance of mathematics in their daily lives.
 

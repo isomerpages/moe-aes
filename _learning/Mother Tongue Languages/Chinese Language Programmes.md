@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Programmes
-permalink: /departments/mother-tongue-languages/chinese-language-programmes/
+permalink: /learning/mother-tongue-languages/chinese-language-programmes/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages

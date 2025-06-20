@@ -1,6 +1,6 @@
 ---
 title: MTL Extensive Reading Programme
-permalink: /departments/mother-tongue-languages/mtl-extensive-reading-programme/
+permalink: /learning/mother-tongue-languages/mtl-extensive-reading-programme/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages

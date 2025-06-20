@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /departments/mother-tongue-languages/overview/
+permalink: /learning/mother-tongue-languages/overview/
 variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages

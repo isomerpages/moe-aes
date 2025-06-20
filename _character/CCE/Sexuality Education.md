@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /departments/cce/monfortian-achievers-programme-map/sexuality-education/
+permalink: /character/cce/monfortian-achievers-programme-map/sexuality-education/
 description: ""
 variant: tiptap
 third_nav_title: CCE

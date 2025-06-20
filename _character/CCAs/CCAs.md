@@ -1,6 +1,6 @@
 ---
 title: CCAs
-permalink: /character/ccas/permalink/
+permalink: /character/ccas/
 variant: tiptap
 description: ""
 third_nav_title: CCAs

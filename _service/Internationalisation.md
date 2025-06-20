@@ -1,6 +1,6 @@
 ---
 title: Internationalisation
-permalink: /student-development/internationalisation/
+permalink: /service/internationalisation/
 description: ""
 variant: tiptap
 ---
