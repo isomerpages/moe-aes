@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar and Happenings.md
-      - For Students/For Students.md
       - For Students/.keep
       - For Students/School based Resources and Information.md
       - For Students/Publications and Student Voices.md
