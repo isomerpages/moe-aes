@@ -109,8 +109,8 @@ enhance leadership, and promote teamwork and discipline.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rossellini Tan</p>
-<p>Ms Teo Sin En</p>
+<p>Ms Rossellini Tan
+<br>Ms Teo Sin En</p>
 </td>
 </tr>
 </tbody>
