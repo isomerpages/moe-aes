@@ -7,27 +7,42 @@ permalink: /
 notification: Men and Women of Character and Learning, in the Service of God and Community
 sections:
   - hero:
-      background: /images/aes homepage.gif
+      background: /images/Banner_GIF.gif
       key_highlights:
-        - title: Key Programmes
-          description: ""
-          url: /others/key-programmes/
-        - title: Direct School Admission (DSA)
-          description: ""
-          url: /others/direct-school-admission-dsa/
+        - title: LATEST HAPPENINGS
+          description: Check out our Instagram!
+          url: https://www.instagram.com/assumptionenglishsch
+        - title: Nourishing Minds, Enriching Souls
+          description: Hear our STUDENT VOICES!
+          url: https://go.gov.sg/aes-manna
         - title: AES School Prospectus 2024
-          description: (Click HERE to for more info!)
+          description: Click HERE for more info!
           url: https://online.fliphtml5.com/hbup/joka/
-  - resources:
-      title: Announcements
-      button: View more
+  - infobar:
+      title: "AES: A most beLOVEd school in the West"
+      id: infobar
   - infopic:
-      title: AES Open House 2024
+      title: Legacy
       id: infopic
-      button: Click for more info
-      url: https://www.assumptionenglish.moe.edu.sg/useful-resources/for-parents/aes-open-house-2024/
-      image: /images/Outreach__AES_Open_House_Postcard_Design_1__148_5_x_105_mm___1_.jpg
-      alt: Image alt text
-      description: "Whats sets AES apart from the other schools?   Find out about our
-        school programmes and learning environment at our Open House!  #AEyeS!"
+      description: Currently, AES is the only co-educational Catholic secondary school
+        in the Western part of Singapore.
+      image: /images/IMG_4875_min.jpg
+  - infopic:
+      title: Opportunities for All
+      id: infopic
+      description: At AES, we believe education is a journey of self-discovery where
+        students discover their interests, strengths and talents.
+      image: /images/IMG_4987_min.jpg
+  - infopic:
+      title: Values-Focused Education
+      id: infopic
+      description: AES emphasises character and values education, inspired by our
+        patron saint, St Louis-Marie Grignion de Montfort.
+      image: /images/IMG_4919_min.jpg
+  - infopic:
+      title: Engaged Learning
+      id: infopic
+      description: Teaching and learning is designed to nurture collaborative,
+        self-directed & future-ready students.
+      image: /images/IMG_4778_min.jpg
 ---
