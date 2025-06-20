@@ -1,5 +1,5 @@
 ---
-title: Blended Learning
+title: Blended Learning & Student Initiated Learning (SIL)
 permalink: /useful-resources/blended-learning/
 description: ""
 variant: markdown
