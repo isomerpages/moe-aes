@@ -27,22 +27,26 @@ sections:
       description: Currently, AES is the only co-educational Catholic secondary school
         in the Western part of Singapore.
       image: /images/IMG_4875_min.jpg
+      alt: Legacy
   - infopic:
       title: Opportunities for All
       id: infopic
       description: At AES, we believe education is a journey of self-discovery where
         students discover their interests, strengths and talents.
       image: /images/IMG_4987_min.jpg
+      alt: Opportunities for All
   - infopic:
       title: Values-Focused Education
       id: infopic
       description: AES emphasises character and values education, inspired by our
         patron saint, St Louis-Marie Grignion de Montfort.
       image: /images/IMG_4919_min.jpg
+      alt: Values-Focused Education
   - infopic:
       title: Engaged Learning
       id: infopic
       description: Teaching and learning is designed to nurture collaborative,
         self-directed & future-ready students.
       image: /images/IMG_4778_min.jpg
+      alt: Engaged Learning
 ---
