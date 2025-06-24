@@ -5,6 +5,14 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
+<p>Follow Us!</p>
+</blockquote>
+<p><a href="https://www.instagram.com/assumptionenglishsch" rel="noopener nofollow" target="_blank">AES Official Instagram</a>
+<br><a href="https://go.gov.sg/aes-manna" rel="noopener noreferrer nofollow" target="_blank"><u>AES Manna: Nourishing Minds, Enriching Souls</u></a>
+<br><a href="https://www.instagram.com/aes_sc/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>AES Student Council Instagram</u></a>
+<br>
+</p>
+<blockquote>
 <p>Administrative Information</p>
 </blockquote>
 <p><a href="https://www.assumptionenglish.moe.edu.sg/useful-resources/for-students/administrative-information/textbooks-n-uniforms/" rel="noopener noreferrer nofollow" target="_blank"><u>Textbooks &amp; Uniforms</u></a>
@@ -25,14 +33,6 @@ description: ""
 <br><a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>DiscoveReads by NLB</u></a>
 <br><a href="https://libbyapp.com/library/nlb" rel="noopener nofollow" target="_blank">Libby App by NLB</a>
 <br><a href="https://aeshums-read.blogspot.com/" rel="noopener noreferrer nofollow" target="_blank"><u>HUMS Read</u></a>
-</p>
-<p></p>
-<blockquote>
-<p>Publication and Student Voices</p>
-</blockquote>
-<p><a href="https://www.assumptionenglish.moe.edu.sg/useful-resources/for-students/publications-and-student-voices/aes-e-manna/" rel="noopener noreferrer nofollow" target="_blank"><u>AES e-Manna</u></a>
-<br><a href="https://www.instagram.com/aes_sc/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>AES Student Council Instagram</u></a>
-<br><a href="https://www.instagram.com/aes_manna/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram (AES Manna)</u></a>
 </p>
 <p></p>
 <p></p>
