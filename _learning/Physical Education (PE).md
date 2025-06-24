@@ -68,9 +68,8 @@ and grow in all aspects of life.</p>
 <blockquote>
 <p>Secondary 3 OBS</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OBS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/OBS.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

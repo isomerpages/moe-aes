@@ -21,37 +21,36 @@ level students, art is all about discovery and exploring the world around
 them. Students are encouraged to participate in various art activities
 and competitions, and many can also showcase their talents in a range of
 school-based exhibitions and projects.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_visiting_exhibit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/Students_visiting_exhibit.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_painting_stones.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/Students_painting_stones.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Painting_exercise_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/Painting_exercise_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mural_painting_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/mural_painting_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mural_painting_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/mural_painting_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drawing_practice.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/Drawing_practice.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/digital_art_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/digital_art_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/digital_art_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/digital_art_2.jpg">
 </div>
 <h4><strong>Design &amp; Technology</strong></h4>
 <p>The focus is on areas of design communication, research, ideation and
@@ -85,12 +84,12 @@ journeys to relevant post-secondary institution and enrichment programmes.
 Through this, students are exposed to the area of food science and technology,
 as well as in the field of culinary science.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_ECG_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/NFS_ECG_LJ.jpg">
 </div>
 <p><em>Use of Padlet for student reflection on culinary experiences</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Padlet_sample.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Craft &amp; Technology/1_Padlet_sample.jpg">
 </div>
 <p><em>Experimenting with sweeteners in BBQ sauce for skewers</em>
 </p>

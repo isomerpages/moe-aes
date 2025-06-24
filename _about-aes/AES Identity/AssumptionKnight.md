@@ -1,6 +1,6 @@
 ---
 title: AssumptionKnight
-permalink: /assumptionknight/
+permalink: /about-aes/assumptions-identity/assumptionknight/
 variant: tiptap
 description: ""
 third_nav_title: AES Identity

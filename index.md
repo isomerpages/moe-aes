@@ -2,12 +2,12 @@
 layout: homepage
 title: Assumption English School
 description: Assumption English School
-image: /images/aes homepage logo.png
+image: /images/AES_MGEI_landscape.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_GIF.gif
+      background: /images/Homepage/Banner_GIF.gif
       key_highlights:
         - title: LATEST HAPPENINGS
           description: Check out our Instagram!
@@ -24,29 +24,33 @@ sections:
   - infopic:
       title: Legacy
       id: infopic
-      description: Currently, AES is the only co-educational Catholic secondary school
-        in the Western part of Singapore.
-      image: /images/IMG_4875_min.jpg
+      description: Established 1953 by the Montfort Brothers of St Gabriel, AES is
+        currently the only co-educational Catholic secondary school in the
+        Western part of Singapore.
+      image: /images/Homepage/IMG_4875_min.jpg
       alt: Legacy
   - infopic:
       title: Opportunities for All
       id: infopic
-      description: At AES, we believe education is a journey of self-discovery where
-        students discover their interests, strengths and talents.
-      image: /images/IMG_4987_min.jpg
+      description: At AES, we believe education is a journey of self-discovery. Our
+        various school programmes stretch students in their different interests,
+        strengths and talents.
+      image: /images/Homepage/IMG_4987_min.jpg
       alt: Opportunities for All
   - infopic:
       title: Values-Focused Education
       id: infopic
-      description: AES emphasises character and values education, inspired by our
-        patron saint, St Louis-Marie Grignion de Montfort.
-      image: /images/IMG_4919_min.jpg
+      description: “Those whom the world rejects, must move you the most”. AES
+        emphasises character education, inspired by our patron saint, St
+        Louis-Marie Grignion de Montfort.
+      image: /images/Homepage/IMG_4919_min.jpg
       alt: Values-Focused Education
   - infopic:
       title: Engaged Learning
       id: infopic
-      description: Teaching and learning is designed to nurture collaborative,
-        self-directed & future-ready students.
-      image: /images/IMG_4778_min.jpg
+      description: Authentic learning takes place in the classroom and beyond, enabled
+        by technology. This nurtures collaborative, self-directed, and
+        future-ready students.
+      image: /images/Homepage/IMG_4778_min.jpg
       alt: Engaged Learning
 ---

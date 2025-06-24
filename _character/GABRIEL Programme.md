@@ -106,11 +106,11 @@ character and leadership development.</p>
 <p>At its heart, the GABRIEL Programme empowers students to thrive – in school
 and beyond.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GP_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/GP_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GP_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/GP_2.jpg">
 </div>
 <h4>GABRIEL Programme (Cabin)</h4>
 <p>The Cabin is an after-school recreational space, open every Monday, Wednesday
@@ -125,19 +125,19 @@ social skills, and create lasting memories in a welcoming environment that
 feels like your home away from home.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GP_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/GP_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GP_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/GP_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GP_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/GP_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GABRIEL Programme/Gp_8.jpg">
 </div>
 <p></p>
 <p>

@@ -86,7 +86,7 @@ Modules&nbsp;(Geography, History and Literature)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Key programmes</u></strong></h4>
+<h4><strong><u>Key Programmes</u></strong></h4>
 <h5><strong>Lower Secondary Geographical Investigation</strong></h5>
 <p>In Geography, the Lower Secondary students were able to meaningfully examine
 the rainforest environment in Dairy Farm Nature Park and conduct site observation

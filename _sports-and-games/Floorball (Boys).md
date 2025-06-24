@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h4>About Us</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R9KWBzTMLGo?si=HV8724PdeoMCqQ31"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PrbshNxQnYQ?si=MA5U6u2f131XzcOp"></iframe>
+</div>
 <p>Floorball is a fast-paced, indoor team sport that combines elements of
 hockey, soccer, and basketball. Played with a lightweight ball and stick,
 floorball is easy to learn, fun to play, and accessible to people of all
@@ -79,16 +86,16 @@ more updates.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/CCA_Poster.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Div_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/B_Div_Team.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_Div_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/C_Div_Team.jpg">
 </div>
 <p></p>

@@ -37,56 +37,49 @@ and recording.</p>
 <blockquote>
 <p>Secondary 2</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_2__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_2__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2__3_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_2__3_.jpg">
 </div>
 <p></p>
 <blockquote>
 <p>Secondary 3</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_3__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_3__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_3__3_.jpg">
 </div>
 <p></p>
 <blockquote>
 <p>Secondary 4 &amp; 5</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_4__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_4__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_4__3_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA/Sec_4__4_.jpg">
 </div>
 <p></p>

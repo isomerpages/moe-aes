@@ -14,19 +14,19 @@ persuasive speeches to powerful performances, our members develop the skills
 to express themselves across different modes, styles, and settings.</p>
 <h4>Training Sessions</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/3_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/4.jpg">
 </div>
 <p>ELDDS meets every Tuesday, and occasionally on Thursdays, for focused,
 energising sessions in Drama or Debate.&nbsp;</p>
@@ -41,23 +41,23 @@ camaraderie, and character.</p>
 through hard work, we conquer all.</p>
 <h4>Competitions &amp; Performances</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/9.jpg">
 </div>
 <p><strong>Rooted in the Assumption values of <em>Compassion</em>, <em>Integrity</em>, and <em>Excellence</em>, we believe in lifting one another up. </strong>Regardless
 of background, personality, or starting point, no one gets left behind.

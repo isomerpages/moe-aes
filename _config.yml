@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3myect6qj1mic.amplifyapp.com
 prod: https://master.d3myect6qj1mic.amplifyapp.com
-shareicon: /images/aes homepage logo.png
+shareicon: /images/AES_MGEI_landscape.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

@@ -15,35 +15,29 @@ that strengthens their character and holistic development.</p>
 <p>AES Got Talent</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_AES_got_talent_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics Education/1_AES_got_talent_min.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_AES_got_Talent_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics Education/2_AES_got_Talent_min.jpg">
 </div>
-<p></p>
 <blockquote>
+<p></p>
 <p>Student Performances</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_concert_by_the_rance.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_concert_by_the_rance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics Education/3_concert_by_the_rance.jpg">
 </div>
 <p></p>
 <blockquote>
 <p>Music Education</p>
 </blockquote>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Guitar_learning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics Education/5_Guitar_learning.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Cahon_playing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics Education/6_Cahon_playing.jpg">
 </div>
 <p>
 <br>
