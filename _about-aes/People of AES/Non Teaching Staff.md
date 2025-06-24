@@ -171,3 +171,74 @@ third_nav_title: People of AES
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GUARDIAN___COUNSELLING_STAFF_S8R_GROUP.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>mr Desmond Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dolly Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Huan Ser Fee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ooi Su Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fadzilah Binte Martin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Audrey Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education &amp; Career Guidance Counsellor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
