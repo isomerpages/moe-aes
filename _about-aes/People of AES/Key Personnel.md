@@ -236,6 +236,14 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Level 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Zi Xin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,14 +280,6 @@ third_nav_title: People of AES
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Kai Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Level 1)</p>
 </td>
 </tr>
 </tbody>
