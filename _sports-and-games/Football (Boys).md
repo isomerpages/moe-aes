@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="B-Div Team" src="/images/B_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/B_Boys.jpg">
 </div>
 <p>B-Div Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="C-Div Team" src="/images/C_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/C_Boys.jpg">
 </div>
 <p>C-Div Team</p>
 <h4>About Us</h4>
