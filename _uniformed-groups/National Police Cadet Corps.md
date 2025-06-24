@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Current_Executive_Committee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Current_Executive_Committee.jpg">
 </div>
 <h4>About Us</h4>
 <p>The AES National Police Cadet Corps (NPCC) annually involves cadets in
@@ -35,7 +35,7 @@ experiences and module outcomes tailored to develop NPCC members holistically.</
 <p>Every Tuesday, 3pm to 5pm</p>
 <h4>Excerpts of Reflections from Graduating Cadets</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduating_Cadets__EXCO_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Graduating_Cadets__EXCO_.jpg">
 </div>
 <p>Rayan:&nbsp; I hope that all of you will continue to improve and aspire
 for higher standards in NPCC, and work towards upholding higher standards.</p>
@@ -65,27 +65,27 @@ we’ve shared, and the guidance from our teacher officers, honorary officers
 and cadet inspectors. Thank you all for being part of this incredible chapter
 of my journey in AES.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_Resilience_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Camp_Resilience_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_Resilience_2_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Camp_Resilience_2_min.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_Resilience_3_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Camp_Resilience_3_min.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_Resilience_4_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Camp_Resilience_4_min.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_Resilience_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Camp_Resilience_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Marshal_Duty___Road_Safety_Park.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Marshal_Duty___Road_Safety_Park.jpg">
 </div>
 <h4>Activities/Achievements</h4>
 <table style="minWidth: 50px">
