@@ -2,7 +2,7 @@
 layout: homepage
 title: Assumption English School
 description: Assumption English School
-image: /images/aes homepage logo.png
+image: /images/AES_MGEI_landscape.png
 permalink: /
 notification: ""
 sections:
