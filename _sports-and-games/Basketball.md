@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h4>About Us</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__AES_Basketball_Team__Write_Up_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/1__AES_Basketball_Team__Write_Up_.jpg">
 </div>
-<p></p>
 <h4>Opportunities</h4>
 <p>Both our boys and girls’ teams have done consistently well to finish among
 the top 8 positions in the West Zone National School Games (NSG) among
@@ -20,21 +19,20 @@ provide guidance to the primary school students.</p>
 <h4>Training Days and Timing</h4>
 <p>AES Basketball Team trains 2 to 3 times a week.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__AES_Basketball_Training_Dates.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/4__AES_Basketball_Training_Dates.png">
 </div>
 <p>You can find out more about the AES Basketball team by following us on
 our instagram page @assumptionbasketball .</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__2025_Group_Photo__CNY_Celebration_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/5__2025_Group_Photo__CNY_Celebration_.jpg">
 </div>
 <h4>What do our leaders think about the AES Basketball Team?</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Ariel_Ong.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Matthew_Lim.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/6__Ariel_Ong.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/7__Matthew_Lim.png">
+</div>
 <p></p>
