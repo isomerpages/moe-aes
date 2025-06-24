@@ -182,7 +182,7 @@ third_nav_title: People of AES
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>mr Desmond Chen</p>
+<p>Mr Desmond Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
