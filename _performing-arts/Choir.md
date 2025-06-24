@@ -25,31 +25,35 @@ like The Arts House and Tan Tock Seng Hospital as well as school performances
 for our Chinese New Year celebration and National Day celebration. AES
 choir holds choral masterclass for our choristers to improve their singing
 skills from highly regarded choral conductors.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Choir__whole__fun_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/1_Choir__whole__fun_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_CNY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/2_CNY.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Masterclass.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/3_Masterclass.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Sing_Intl_Chorale_Fest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/4_Sing_Intl_Chorale_Fest.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <h4>CCA Days &amp; Timings</h4>
 <p>AES Choir meets every Tuesday and Thursday, from 3.15pm to 5.45pm.</p>
 <h4>Happy Chorister, Happy Choir!</h4>
 <p>Let's hear from our chorister on how they feel about joining AES Choir.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Dayyan__Choir_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/5_Dayyan__Choir_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Sophia__Choir_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/6_Sophia__Choir_.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
