@@ -79,30 +79,31 @@ of naval operations and maritime affairs</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/ncc_2.jpg">
 </div>
 <p>A hallmark of the NCC (Sea) experience is participation in signature activities
 such as the 1-Star Kayaking Proficiency Course, Sea Challenge, and the
 Mini-Kayaking Expedition. These experiences not only build physical endurance
 and teamwork but also instill discipline and leadership.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/ncc_3.jpg">
 </div>
 <p>At AES, the NCC (Sea) continues to inspire cadets to grow into dependable
 and capable young men through meaningful training and character-building
 experiences.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/ncc_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/ncc_5.jpg">
 </div>
 <h4><strong>To serve with pride and dedication, NCC!</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_voice.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/Student_voice.png">
 </div>
 <p></p>
 <p>You may also follow AES NCC (SEA) Instagram for more happenings:</p>
