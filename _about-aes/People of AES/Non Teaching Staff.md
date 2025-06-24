@@ -174,6 +174,7 @@ third_nav_title: People of AES
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GUARDIAN___COUNSELLING_STAFF_S8R_GROUP.jpg">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -182,7 +183,7 @@ third_nav_title: People of AES
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>mr Desmond Chen</p>
+<p>Mr Desmond Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
