@@ -29,6 +29,8 @@ sections:
         Western part of Singapore.
       image: /images/Homepage/IMG_4875_min.jpg
       alt: Legacy
+      button: Click here
+      url: https://assumptionenglish.moe.edu.sg/legacy/
   - infopic:
       title: Opportunities for All
       id: infopic
@@ -37,6 +39,8 @@ sections:
         strengths and talents.
       image: /images/Homepage/IMG_4987_min.jpg
       alt: Opportunities for All
+      url: https://assumptionenglish.moe.edu.sg/opportunities-for-all/
+      button: click here
   - infopic:
       title: Values-Focused Education
       id: infopic
@@ -45,6 +49,8 @@ sections:
         Louis-Marie Grignion de Montfort.
       image: /images/Homepage/IMG_4919_min.jpg
       alt: Values-Focused Education
+      button: click here
+      url: https://assumptionenglish.moe.edu.sg/values-focused-education/
   - infopic:
       title: Engaged Learning
       id: infopic
@@ -53,4 +59,6 @@ sections:
         future-ready students.
       image: /images/Homepage/IMG_4778_min.jpg
       alt: Engaged Learning
+      url: https://assumptionenglish.moe.edu.sg/engaged-learning/
+      button: Click here
 ---
