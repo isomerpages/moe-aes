@@ -94,23 +94,30 @@ surveys at Bangkit Housing Estate for their investigations. The Secondary
 Two fieldwork process culminated with the design of their ‘Dream Neighbourhood’,
 enabling them to use their creativity and imagination to work towards better
 quality of life and town sustainability in their proposed neighbourhoods.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec%201%20gi%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_GI___Photo_1__Sec_1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_GI___Photo_2__Sec_1_.jpg">
 </div>
 <h5><strong>Lower Secondary Historical Investigation</strong></h5>
-<p>History came alive for the Lower Secondary students when they visited
-museums. The Secondary One students examined the lives of the immigrants
-from the early 1900s through their visit to the National Museum of Singapore,
-discovering the contributions and challenges of the early immigrants in
-Singapore. The immersive first-person views of the artefacts and exhibits
-also enabled the Secondary Two students to better understand the Japanese
-Occupation, and to empathise with the suffering that ensued during the
-visit to the Ford Factory of Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_3.jpg">
+</div>
 <h4><strong><u>Upper Secondary Humanities</u></strong></h4>
 <p>AssumptionKnights continue to use the Inquiry Model to guide their thought
 processes to articulate their opinions, whilst exercising empathy through
 active listening for other ideas shared.</p>
-<p></p>
 <p>For example, in History classrooms, AssumptionKnights develop empathy
 towards the different groups of people who lived during Hitler’s rule.
 For Social Studies, learners apply their learnt knowledge into the level
@@ -121,21 +128,32 @@ topics in Geography in Everyday Life, Climate and Tourism. Opportunities
 to exercise their analytical minds are created through more open Geographical
 Investigations at the upper secondary levels.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Upper Secondary Humanities" src="/images/S3%20HI%201.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Upper Secondary Humanities" src="/images/S3%20HI%202.jpeg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec%203%20hi%202.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI__8.jpg">
+</div>
 <h4><strong>G1 Humanities (including Humanities Exposure Modules (HEMs))</strong></h4>
 <p>The G1 Social Studies syllabuses are organised around broad issues which
 will anchor class discussions. In exploring the real-world societal issues
@@ -144,10 +162,10 @@ learn to extract, analyse and evaluate information whilst working with
 one another towards common Performance Tasks and HEMs (Geography, History
 and Literature). Through application, they develop collaborative skills,
 as well as deepen their understanding of society and the world they live
-in.</p>
-<p>
-<br>Click on the link below to access the Humanities Curriculum Site!</p>
-<p><strong><a href="https://go.gov.sg/aeshumanities" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/aeshumanities</u></a></strong>
+in.
+<br>
+<br>Click on the link below to access the Humanities Curriculum Site!
+<br><strong><a href="https://go.gov.sg/aeshumanities" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/aeshumanities</u></a></strong>
 </p>
 <h4><strong><u>Subjects offered</u></strong></h4>
 <p><u>Lower Secondary</u>
@@ -164,8 +182,21 @@ in.</p>
 </p>
 <p></p>
 <h4><strong>AES Humanities READ</strong></h4>
-<p>Click on the&nbsp;link below to access the Humanities Reading Site!</p>
-<p><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_4.jpg">
+</div>
+<p></p>
+<p>Click on the&nbsp;link below to access the Humanities Reading Site!
+<br><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
 </p>
 <p>
 <br>

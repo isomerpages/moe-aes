@@ -1,5 +1,5 @@
 ---
-title: Engaged learning
+title: Engaged Learning
 permalink: /engaged-learning/
 variant: tiptap
 description: ""
