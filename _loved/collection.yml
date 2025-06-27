@@ -1,5 +1,5 @@
 collections:
-  main-page:
+  loved:
     output: true
     order:
       - Legacy.md
