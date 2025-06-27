@@ -2,5 +2,6 @@ collections:
   loved:
     output: true
     order:
+      - Values Focused Education.md
       - Legacy.md
       - Opportunities for All.md
