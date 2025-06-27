@@ -195,8 +195,8 @@ in.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_4.jpg">
 </div>
 <p></p>
-<p>Click on the&nbsp;link below to access the Humanities Reading Site!</p>
-<p><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
+<p>Click on the&nbsp;link below to access the Humanities Reading Site!
+<br><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
 </p>
 <p>
 <br>
