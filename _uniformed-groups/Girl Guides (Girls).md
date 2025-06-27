@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="316" width="459" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXct5TnK2JlZRUsW4xwKtrIgSgsUkVKO9gCJ2Ecuo7vP4dehYDZnHDO3mq4dL22d0D1tNw1n8sb5zOWqSTTGJlgmuiWrgWzmaSOraPg2kDVa-XjPVa3vBcaAcWPtFm_qgBlJ_nh_fA?key=VVU8HL65BVzOdXjtXC6G4A">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_1.jpg">
 </div>
 <h4><strong>Motto:</strong></h4>
 <p>Be Prepared - as Guides, we will be ready to cope with anything that comes
@@ -14,6 +14,9 @@ our way.</p>
 <p>AES Girl Guides 1st COY is part of the international Girl Guiding and
 Girl Scouting Movement, governed by The World Association of Girl Guides
 and Girl Scouts (WAGGGS).&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_2.jpg">
+</div>
 <h4><strong>What do we do in AES:</strong></h4>
 <p>In AES, the Girl Guides focus on developing skills and values that empower
 them to serve their community and make a positive impact. Key activities
@@ -21,13 +24,13 @@ include World Thinking Day, West Division Fest, and West Division Campfire.
 We also collaborate with other Uniformed Groups (UG) in AES to organise
 events such as a combined UG camp, Passing-out Parade (POP), and the National
 Day Parade.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_3.jpg">
+</div>
 <p>Our weekly activities include outdoor cooking, learning essential outdoor
 skills like knot-tying, and earning various badges such as [First Aid,
 Dance, Sewing]. These activities help strengthen bonds, build life skills,
 enhance leadership, and promote teamwork and discipline.</p>
-<p>
-<br>
-</p>
 <h4>Activities/Achievements</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -87,6 +90,10 @@ enhance leadership, and promote teamwork and discipline.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_4.jpg">
+</div>
 <h4>Teachers/Coaches</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -115,7 +122,7 @@ enhance leadership, and promote teamwork and discipline.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Training Schedule:</strong></h4>
+<h4>CCA Training Schedule:</h4>
 <p>Tuesdays, 3.00 pm to 5.00 pm</p>
 <p>
 <br>
