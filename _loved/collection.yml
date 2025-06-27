@@ -2,4 +2,5 @@ collections:
   loved:
     output: true
     order:
+      - Opportunities for All.md
       - Legacy.md
