@@ -1,5 +1,5 @@
 collections:
-  aes-homepage-content:
+  main-page:
     output: true
     order:
       - Legacy.md
