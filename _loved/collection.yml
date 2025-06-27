@@ -2,6 +2,7 @@ collections:
   loved:
     output: true
     order:
+      - Engaged learning.md
       - Legacy.md
       - Opportunities for All.md
       - Values Focused Education.md
