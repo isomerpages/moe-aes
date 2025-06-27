@@ -1,0 +1,4 @@
+collections:
+  aes-homepage-content:
+    output: true
+    order: []
