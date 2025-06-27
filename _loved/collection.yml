@@ -1,0 +1,8 @@
+collections:
+  loved:
+    output: true
+    order:
+      - Legacy.md
+      - Opportunities for All.md
+      - Values Focused Education.md
+      - Engaged learning.md

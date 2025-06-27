@@ -2,7 +2,7 @@
 title: Monfortian Achievers' Programme (MAP)
 permalink: /character/character-n-citizenship-education-cce/monfortian-achievers-programme-map/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character & Citizenship
 variant: tiptap
 ---
 <h4>Character and Citizenship Education (CCE) in AES is also known as Montfortian Achievers’ Programme (MAP)</h4>

@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /character/cce/monfortian-achievers-programme-map/sexuality-education/
 description: ""
 variant: tiptap
-third_nav_title: CCE
+third_nav_title: Character & Citizenship
 ---
 <p><strong><u>MOE's Sexuality Education in Schools</u></strong>
 </p>
