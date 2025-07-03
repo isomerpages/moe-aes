@@ -172,14 +172,6 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Kok Bin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Infocomm Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Desmond Wong Wei Jie</p>
 </td>
 <td rowspan="1" colspan="1">
