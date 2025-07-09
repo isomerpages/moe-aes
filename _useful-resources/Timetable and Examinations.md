@@ -17,7 +17,7 @@ variant: tiptap
 <br><a href="/files/5__2025_Sec_5_WA1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 WA1 Schedule</a>
 </p>
 <p><strong>Timetable for Semester 1 (Term 2)</strong>
-<br><a href="/files/AES_2025_SEM1_CLASS_TIMETABLE_Term2__19Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">AES 2025 Semester 1 Term 2 Timetable </a>
+<br><a href="/files/AES_2025_SEM1_CLASS_TIMETABLE_Term2__19Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">AES 2025 Semester 1 Term 2 Timetable</a>
 </p>
 <p><strong>WA2 Letter to Parents</strong>
 <br><a href="/files/Sec_1_WA2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Letter to Parents</a>
@@ -28,7 +28,12 @@ variant: tiptap
 <p><strong>Timetable for Semester 2</strong>
 <br><a href="/files/AES_2025_SEM2_Final_26Jun_Class.pdf" rel="noopener nofollow" target="_blank">AES 2025 Semester 2 Timetable</a>
 </p>
-<p></p>
+<p><strong>N Levels Preliminary Examinations Schedule &amp; Topics</strong>
+<br><a href="/files/4NA_Prelims___Schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Prelims Schedule</a>
+<br><a href="/files/4NA_Prelims___Topics_and_Format.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Prelims Topics &amp; Format</a>
+<br><a href="/files/4NT_Prelims___Schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelims Schedule</a>
+<br><a href="/files/4NT_Prelims___Topics_and_Format.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelims Topics &amp; Format</a>
+</p>
 <p>
 <br>
 </p>
