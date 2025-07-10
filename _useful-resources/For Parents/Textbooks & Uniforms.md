@@ -42,8 +42,8 @@ streams are ticked in the booklist.</p>
 </div>
 <p><strong>Important Notes:</strong>
 <br>Bookshop accepts <strong>cash</strong> payments only.
-<br>Bookshop will be <strong>closed</strong> on 24 to 25 Dec (Eve of Public
-Holiday and Public Holiday) and 31 Dec (New Year's Eve).
+<br>Bookshop will be <strong>closed</strong> on 24 to 25 Dec 2024 (Eve of Public
+Holiday and Public Holiday) and 31 Dec 2024 (New Year's Eve).
 <br>For Primary 6 students, parents can order online after the posting results
-are in. Online orders will be closed on <strong>21 Dec @ 2359 hrs</strong>.
+are in. Online orders will be closed on <strong>21 Dec 2024 @ 2359 hrs</strong>.
 Available for walk-ins on the dates stated above.</p>
