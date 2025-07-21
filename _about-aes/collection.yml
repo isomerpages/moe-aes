@@ -2,6 +2,7 @@ collections:
   about-aes:
     output: true
     order:
+      - AES In the News.md
       - Principal's Message.md
       - AES Identity/.keep
       - AES Identity/Mission and Vision.md
