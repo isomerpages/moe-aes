@@ -4,7 +4,16 @@ permalink: /about-aes/aes-in-the-news/
 description: ""
 variant: tiptap
 ---
-<p><strong><a href="https://www.mewatch.sg/watch/Say-It-Right-S2-E2-518950" rel="noopener noreferrer nofollow" target="_blank"><u>Say It Right! 你在说什么? Season 2</u></a></strong>
+<p><strong><a href="https://www.straitstimes.com/life/entertainment/spore-teen-amasses-what-might-be-the-worlds-biggest-collection-of-galactus-comics-854-and-counting" rel="noopener noreferrer nofollow" target="_blank">S’pore teen amasses what might be the world’s biggest collection of Galactus comics – 854 and counting</a></strong>
+<br><strong><em>The Straits Times, 16 July 2025</em></strong>
+<br>Our AssumptionKnight, Lael Lee, has amassed what might be the world's
+largest collection of Galactus comics - 854 and counting!</p>
+<p>Lael's passion showcases amazing commitment and determination. He's invested
+over $16,000, saved his allowance, and even interned at a comic shop to
+fund his unique collection. His journey is a true testament to pursuing
+passions with unwavering focus!
+<br>
+<br><strong><a href="https://www.mewatch.sg/watch/Say-It-Right-S2-E2-518950" rel="noopener noreferrer nofollow" target="_blank"><u>Say It Right! 你在说什么? Season 2</u></a></strong>
 <br><strong><em>February 2025 </em>(Episode 2 was filmed at AES!)</strong>
 <br>The influencers face a pre-elimination round of battle at Assumption English
 School, where they become Chinese language relief teachers. They must use
