@@ -34,11 +34,16 @@ variant: tiptap
 <br><a href="/files/4NT_Prelims___Schedule.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelims Schedule</a>
 <br><a href="/files/4NT_Prelims___Topics_and_Format.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Prelims Topics &amp; Format</a>
 </p>
-<p>WA3 Letter and Schedule (Sec 1 to 3 Students Only)
+<p><strong>WA3 Letter and Schedule (Sec 1 to 3 Students Only) </strong>
 <br><a href="/files/Sec_1_WA3_letter_and_schedule.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA3 Letter and Schedule</a>
 <br><a href="/files/Sec_2_WA3_letter_and_schedule.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA3 Letter and Schedule</a>
 <br><a href="/files/Sec_3_WA3_letter_and_schedule.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3 Letter and Schedule</a>
 <br>
+</p>
+<p><strong>O Levels Preliminary Examinations Schedule &amp; Topics</strong>
+<br><a href="/files/1__2025_O_Preliminary_Examination___Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">O Level Prelims Letter to Parents</a>
+<br><a href="/files/2__2025_4E5N_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">O Level Prelims Schedule</a>
+<br><a href="/files/3__2025_O_Preliminary_Examination___Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">O Level Prelims Topics &amp; Format</a>
 </p>
 <p>
 <br>
