@@ -45,6 +45,35 @@ variant: tiptap
 <br><a href="/files/2__2025_4E5N_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">O Level Prelims Schedule</a>
 <br><a href="/files/3__2025_O_Preliminary_Examination___Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">O Level Prelims Topics &amp; Format</a>
 </p>
+<p><strong>End of Year Examinations Schedule</strong>
+<br><a href="/files/2025_S1__G1__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G1) EOY Exam Timetable</a>
+<br><a href="/files/2025_S1__G2__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G2) EOY Exam Timetable</a>
+<br><a href="/files/2025_S1__G3__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G3) EOY Exam Timetable</a>
+<br>
+<br><a href="/files/2025_S2__G1__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G1) EOY Exam Timetable</a>
+<br><a href="/files/2025_S2__G2__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G2) EOY Exam Timetable</a>
+<br><a href="/files/2025_S2__G3__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G3) EOY Exam Timetable</a>
+</p>
+<p><a href="/files/2025_S3__G1__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G1) EOY Exam Timetable</a>
+<br><a href="/files/2025_S3__G2__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G2) EOY Exam Timetable</a>
+<br><a href="/files/2025_S3__G3__EOY_Examination_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G3) EOY Exam Timetable</a>
+</p>
+<p><strong>End of Year Examinations Topics to be Assessed</strong>
+<br><a href="/files/Sec_1__G1__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G1) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_1__G2__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G2) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_1__G3__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 1 (G3) EOY Topics to be Assessed</a>
+</p>
+<p><a href="/files/Sec_2__G1__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G1) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_2__G2__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G2) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_2__G3__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 2 (G3) EOY Topics to be Assessed</a>
+</p>
+<p><a href="/files/Sec_3__G1__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G1) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_3__G2__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G2) EOY Topics to be Assessed</a>
+<br><a href="/files/Sec_3__G3__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G3) EOY Topics to be Assessed</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
