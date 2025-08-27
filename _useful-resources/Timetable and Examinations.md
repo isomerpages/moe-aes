@@ -71,9 +71,6 @@ variant: tiptap
 <br><a href="/files/Sec_3__G2__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G2) EOY Topics to be Assessed</a>
 <br><a href="/files/Sec_3__G3__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G3) EOY Topics to be Assessed</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p>
 <br>
 </p>
