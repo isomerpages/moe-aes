@@ -37,7 +37,7 @@ Respect, Integrity, Sense of Responsibility, and Trust.</p>
 <p><strong><u>Tier 1: Self Leadership: Learn to Serve</u></strong>
 </p>
 <p>Students begin by engaging in Values-in-Action (VIA) activities, developing
-a sense of responsibility and community service. VIA activiies are learning
+a sense of responsibility and community service. VIA activities are learning
 experiences that support students’ development as socially responsible
 citizens who contribute meaningfully to the community, through the learning
 and application of values, knowledge and skills.
