@@ -19,9 +19,6 @@ sections:
           description: Click HERE for more info!
           url: https://online.fliphtml5.com/hbup/joka/
   - infobar:
-      title: "AES: A most beLOVEd school in the West"
-      id: infobar
-  - infobar:
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
@@ -29,6 +26,9 @@ sections:
         src="https://www.youtube.com/embed/KD5-5heoyTg?si=T5VRqwFvPiQ8h3I7"
         height="315" width="560"></iframe>
       title: An Insight into Our School
+  - infobar:
+      title: "AES: A most beLOVEd school in the West"
+      id: infobar
   - infopic:
       title: Legacy
       id: infopic
