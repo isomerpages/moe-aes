@@ -20,11 +20,12 @@ sections:
           url: https://online.fliphtml5.com/hbup/joka/
   - infobar:
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
+      description: '<div style="text-align: center;"><iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
         src="https://www.youtube.com/embed/KD5-5heoyTg?si=T5VRqwFvPiQ8h3I7"
-        height="394" width="700"></iframe>
+        height="394" width="700"></iframe></div>'
       title: An Insight into Our School
   - infobar:
       title: "AES: A most beLOVEd school in the West"
