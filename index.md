@@ -24,7 +24,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/KD5-5heoyTg?si=T5VRqwFvPiQ8h3I7"
-        height="315" width="560"></iframe>
+        height="394" width="700"></iframe>
       title: An Insight into Our School
   - infobar:
       title: "AES: A most beLOVEd school in the West"
