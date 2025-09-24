@@ -19,6 +19,13 @@ sections:
           description: Click HERE for more info!
           url: https://online.fliphtml5.com/hbup/joka/
   - infobar:
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/KD5-5heoyTg?si=T5VRqwFvPiQ8h3I7"
+        height="315" width="560"></iframe>
+  - infobar:
       title: "AES: A most beLOVEd school in the West"
       id: infobar
   - infopic:
@@ -31,14 +38,6 @@ sections:
       alt: Legacy
       button: Click here
       url: https://assumptionenglish.moe.edu.sg/legacy/
-  - infobar:
-      id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/KD5-5heoyTg?si=T5VRqwFvPiQ8h3I7"
-        height="315" width="560"></iframe>
-      button: Button Text
   - infopic:
       title: Opportunities for All
       id: infopic
