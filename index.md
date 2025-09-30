@@ -15,9 +15,9 @@ sections:
         - title: Nourishing Minds, Enriching Souls
           description: Hear our STUDENT VOICES!
           url: https://go.gov.sg/aes-manna
-        - title: AES School Prospectus 2024
+        - title: AES School Prospectus 2025
           description: Click HERE for more info!
-          url: https://online.fliphtml5.com/hbup/joka/
+          url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""
