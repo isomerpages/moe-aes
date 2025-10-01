@@ -24,7 +24,7 @@ Catholic secondary school in the&nbsp; Western part of Singapore.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nOv1vuMszJI?si=Ehomj2nk_mD98Pn-"></iframe>
 </div>
-<p><em>Brother Dominic Yeo, Supervisor of Schools of the Montfortian Gabrielite Education Institutions, opens the chapel at AES as we celebrate our 72nd Founders’ Day.</em> 
+<p><em>Brother Dominic Yeo, Supervisor of Schools of the Montfortian Gabrielite Education Institutions, opens the chapel at AES as we celebrate our 72nd Founders’ Day.</em>
 </p>
 <p></p>
 <p></p>
