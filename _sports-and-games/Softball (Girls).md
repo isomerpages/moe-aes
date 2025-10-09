@@ -33,12 +33,4 @@ driven, and united; ready to give their all, together.</p>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
