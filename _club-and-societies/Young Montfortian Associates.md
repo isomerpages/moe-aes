@@ -26,9 +26,9 @@ School, to take part in community-building activities.</p>
 <p>YMA is a second CCA for all Secondary 1 Catholic students. During their
 first year in school, they will learn about the life and contributions
 of Saint Montfort. Towards the end of the year, they can choose to continue
-their journey and become a member of any of the 5 Ministries: Media, Art
-&amp; Drama, Music, Prayer Leaders and Lectors, Altar Servers &amp; Community
-Building.</p>
+their journey and become a member of any of the following Ministries: Media,
+Art &amp; Drama, Music, Prayer Leaders and Lectors, Altar Servers &amp;
+Community Building.</p>
 <p>The CCA provides a platform for the Catholic students to grow to become
 living witnesses of Christ, who live out their baptismal promises and share
 the spirituality of a total commitment to Jesus through Mary as proposed
