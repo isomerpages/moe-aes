@@ -7,66 +7,51 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dance%20syf.jpg">
 </div>
-<h3>About Us</h3>
-<p>AES Dance Ensemble (AESDE) is a team of dynamic individuals brought together
-by&nbsp; our love for dance.</p>
-<p>In AESDE, we work together as a team by relying on each other’s strengths
-to pull ourselves up. Our CCA encourages a warm and welcoming environment,
-creating a&nbsp; place that allows us to learn perseverance, determination
-and teamwork. We believe that it is alright to make mistakes as long as
-we try our best and learn from them. Together, we strive for excellence
-with our motto: “Don’t just dance, move the world.”</p>
-<h3>Activities/Achievements</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activities/ Achievements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2024</strong>
+<h4><strong>About Us</strong></h4>
+<p><strong>AES Dance Ensemble (AESDE)</strong> is a team of passionate individuals
+united by our love for dance.
+<br>In AESDE, we believe in lifting one another through teamwork and drawing
+strength from each member’s unique talents. Our CCA is more than just a
+place to dance — it is a welcoming community where we grow together, learning
+perseverance, determination, and the true meaning of collaboration. We
+embrace mistakes as opportunities to improve, knowing that every step brings
+us closer to becoming better dancers and stronger individuals.</p>
+<p>Guided by our motto, <strong><em>“Don’t just dance, move the world,”</em></strong> we
+strive for excellence both on and off the stage, leaving an impact that
+is felt beyond the stage.</p>
+<p><strong>Our Pledge:&nbsp;</strong>
+<br>We, AES Dance Ensemble,
+<br>Promise to always do our best.
+<br>100% till the end,
+<br>If we break, we will mend.
+<br>Stronger together, we give our all,
+<br>Even when we fall, we stand up tall.</p>
+<h4><strong>CCA Training Schedule</strong></h4>
+<p>Every Tuesday and Thursday, 3pm to 530pm</p>
+<h4><strong>Achievements and Performances</strong></h4>
+<ol>
+<li>
+<p>SYF - Certificate of Distinction (2023)</p>
+</li>
+<li>
+<p>SYF – Certificate of Accomplishment (2025)</p>
+</li>
+<li>
+<p>Visual Performing Arts (VPA) CCA Showcase: <em>Illumier </em>(March 2024)</p>
+</li>
+<li>
+<p>School band exchanges at Kranji Secondary School</p>
+</li>
+<li>
+<p>Internal school performances - Asian Youth Leaders in Human Fraternity,
+Racial Harmony Day concert, Teachers’ Day concert, AssumptionKnights’ Challenge.</p>
+</li>
+</ol>
+<blockquote>
+<p>Find us at IG! @aesdance
+<br><a href="https://www.instagram.com/aesdance/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/aesdance/?hl=en</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VPA Showcase (Lumiere): Into the Woods</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senja-Cashew Chinese New Year Celebration Performance</p>
-</td>
-</tr>
-</tbody>
-</table>
+</blockquote>
+<p></p>
+<p></p>
 <p></p>
