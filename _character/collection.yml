@@ -2,7 +2,6 @@ collections:
   character:
     output: true
     order:
-      - REAL Programme.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
       - Co Curricular Activities/.keep
@@ -15,6 +14,7 @@ collections:
       - Character & Citizenship/.keep
       - Character & Citizenship/Monfortian Achievers' Programme (MAP).md
       - Character & Citizenship/Sexuality Education.md
+      - REAL Programme.md
       - Student Management in AES.md
       - GABRIEL Programme.md
       - Guidance and Counselling Unit.md
