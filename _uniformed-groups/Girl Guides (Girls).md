@@ -48,6 +48,18 @@ enhance leadership, and promote teamwork and discipline.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Festival
+<br>- 1st for The Guiding Lens
+<br>- 2nd for Real to Reel Challenge
+<br>- 3rd for Badge of Escape
+<br>- 3rd for Recycled Pen Holder Challenge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
