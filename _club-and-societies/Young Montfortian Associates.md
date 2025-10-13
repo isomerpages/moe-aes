@@ -34,7 +34,13 @@ living witnesses of Christ, who live out their baptismal promises and share
 the spirituality of a total commitment to Jesus through Mary as proposed
 by Saint Louis de Montfort.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_YMA_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_YMA_2.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
