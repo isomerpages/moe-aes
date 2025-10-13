@@ -2,6 +2,7 @@ collections:
   character:
     output: true
     order:
+      - REAL Programme.md
       - Learning for Life Programme (LLP).md
       - Student Council.md
       - Co Curricular Activities/.keep
