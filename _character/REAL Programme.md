@@ -137,24 +137,94 @@ a series of team-building activities and challenges, students were placed
 in situations that required collaboration, empathy, and resilience. These
 shared experiences not only strengthened their class spirit, but also prepared
 them to serve together in the year ahead with love and purpose.</p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Dialogue_with_Time_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Dialogue_with_Time_3.jpg">
+</div>
+<p>Beyond caring for those closest to them, the POITIERS Programme also encouraged
+students to extend their compassion beyond the school community. As part
+of this, students visited the “Dialogue with Time” exhibition at the Science
+Centre—an interactive experience guided by seniors aged 60 and above. The
+exhibition invited students to explore the aging process, fostering open
+conversations about its biological and emotional aspects, as well as the
+societal perceptions that often accompany it. With Values-In-Action (VIA)
+projects on the horizon, this experience helped students better understand
+and empathise with the elderly they will be engaging with later in the
+year.</p>
+<p>To further support their journey in community service, SG Cares Volunteer
+Centre was invited to share ongoing volunteering opportunities. From small
+acts of kindness to committing time for larger causes, students were reminded
+that every effort counts. These experiences help students live out what
+Montfort so passionately believed: “Those whom the world rejects must move
+you the most.”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Class_Picnic_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Class_Picnic_3.jpg">
+</div>
+<p>The programme concluded with a class picnic at East Coast Park. Although
+wet weather disrupted plans for a full cohort telematch, the rain brought
+about its own kind of bonding. Gathered in cosy huts, students laid out
+picnic mats, shared food, sang songs, and played games—creating lasting
+memories with their new classmates. It was a fitting end to three meaningful
+days of learning, growth, and connection—marking not just the close of
+the Poitiers Programme, but the beginning of their Upper Secondary journey
+together.</p>
+<blockquote>
+<p><strong>CESSON Programme (Sec 4 &amp; 5)</strong>
+</p>
+</blockquote>
+<p>The CESSON Programme is a cornerstone initiative designed to guide our
+Secondary 4 and 5 students as they approach a significant milestone in
+their educational journey. Named in honour of the Cesson Bridge in France,
+where our founder, St. Louis Marie de Montfort, began his momentous journey
+to Paris, the programme symbolises the pivotal transition our students
+are about to undertake and a mental reminder to give their all in everything
+that they do. Its core objectives are to foster future-readiness, cultivate
+self-awareness regarding personal interests and career aspirations, clarify
+the various post-secondary education pathways, and equip students with
+essential skills for their future endeavours. Through a carefully structured
+series of activities, we aim to partner every student to make informed
+and confident decisions about their path ahead.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 4/01_SPH.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 4/03_CGH.jpg">
+</div>
+<p>The programme is packed with activities that build upon one another, starting
+with foundational self-discovery and exploration. On the first day, students
+engage in personality tests to better understand their strengths and inclinations,
+followed by briefings on the Direct School Admission (DSA) and Early Admissions
+Exercise (EAE) briefing. The day ends with a practical interview preparation
+workshop, laying the groundwork for future applications. The second day
+provides invaluable real-world exposure, featuring an engaging career talk
+on the cybersecurity industry by the Cyber Security Agency of Singapore
+(CSA) and one of the programme's key highlights: an industrial visit to
+various partner organisations, such as voco Orchard, Singapore Press Holdings
+(SPH) and Changi General Hospital (CGH), allowing students to witness firsthand
+the dynamics of a professional environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 4/02_Cesson_Bridge.jpg">
+</div>
+<p>The programme culminates in a highly anticipated mock interview session,
+which serves as a practical application of the skills and knowledge acquired
+over the previous days. Students dress in professional office wear and
+participate in simulated interviews, receiving constructive feedback to
+build their confidence and competence. The experience is designed to be
+as authentic as possible, preparing them for future scholarship, EAE, or
+job interviews. The entire journey is brought to a meaningful close with
+the "CESSON Bridge" crossing and debrief session, a final reflection that
+reinforces the programme's goal of empowering students to step boldly and
+preparedly into the next chapter of their education and career.
 <br>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
