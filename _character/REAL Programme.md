@@ -117,7 +117,29 @@ and purpose begins to take shape.</p>
 <p><strong>POITIERS Programme (Sec 3)</strong>
 </p>
 </blockquote>
+<p>The Sec 3 POITIERSProgramme is inspired by the story of Monfort in Poitiers,
+where Montfort displayed deep love and compassion for the unreached and
+destitute. In that same spirit, the POITIERS Programme seeks to cultivate
+in our students a heart for caring — beginning with those closest to them
+and extending outward to the wider community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Team_Bonding_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/REAL/Sec 3/Team_Bonding_3.jpg">
+</div>
+<p>Caring for those within starts by learning to love and embrace the people
+we journey with each day. With the formation of new classes this year,
+one of the programme’s key objectives was to help our Secondary 3 students
+bond with their classmates and build strong, positive relationships. Through
+a series of team-building activities and challenges, students were placed
+in situations that required collaboration, empathy, and resilience. These
+shared experiences not only strengthened their class spirit, but also prepared
+them to serve together in the year ahead with love and purpose.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
