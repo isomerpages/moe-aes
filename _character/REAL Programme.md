@@ -1,6 +1,6 @@
 ---
 title: REAL Programme
-permalink: /real-programme/
+permalink: /character/real-programme/
 variant: tiptap
 description: ""
 ---
