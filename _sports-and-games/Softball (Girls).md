@@ -2,23 +2,35 @@
 title: Softball (Girls)
 permalink: /character/ccas/sports-and-games/softball-girls/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![Softball 2024](/images/Softball_1.jpg)
-
-### About Us
-
-To a softball player, nothing can quite match the thrill of clinching a solid hit, or the excitement of stopping a drive rushing at you as fast as a car. But apart from the desire for an adrenaline rush, our softball girls also need the courage to stand their ground, the determination to train for hours in the sweltering heat, and the heart to work closely with each of their teammates.
-
-With competitions and activities back in full force this year, the AES Rangers were able to take to the field and play against rivals from other schools. After months of gruelling training, the girls were able to test their mettle on the pitch, and were not found wanting. With the grit and tenacity they showed in each of their games, the AES Rangers were able to come back to school with their heads held high.  
-
-The AES Rangers are thankful for the constant support from one another, their parents,  teachers and coach, and look forward to more fun and friendship both on and off the field. 
-
-
-
-| Year |  Activities/ Achievements |
-| -------- | -------- | 
-| **2024**    | Participated in NSG B and C Division     |
-| **2023**    | Participated in NSG B and C Division     | 
-| **2022**    | Participated in NSG B and C Division     | 
-| **2020**    | Participated in NSG B and C Division     |
+<p>For a softball player, few things match the rush of making solid contact
+with the bat or fielding a fast, driven ball. Beyond the action and adrenaline,
+our AES Rangers know that the sport demands something deeper: <strong><em>Courage, Discipline, and strong team spirit</em></strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Softball/Softball_1.jpg">
+</div>
+<p>Training under the hot sun, pushing past limits and showing up for one
+another have become second nature to the team. With competitions in full
+swing, our players had the opportunity to put their hard work into action,
+taking to the field against schools across the island.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Softball/Softball_2.jpg">
+</div>
+<p>No matter the outcome of each match, the Rangers continue to grow in skill
+and resilience. They are grateful for the unwavering support of their teammates,
+families, teachers, and coach, who stand with them through every pitch
+and play.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Softball/Softball_3.jpg">
+</div>
+<p>As they look ahead to the next season, the AES Rangers remain focused,
+driven, and united; ready to give their all, together.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Softball/Softball_4.jpg">
+</div>
+<p>
+<br>
+<br>
+<br>
+</p>
