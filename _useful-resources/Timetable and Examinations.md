@@ -72,8 +72,7 @@ variant: tiptap
 <br><a href="/files/Sec_3__G3__Topics_to_be_Assessed.pdf" rel="noopener nofollow" target="_blank">Sec 3 (G3) EOY Topics to be Assessed</a>
 </p>
 <p><strong>End of Year Examinations Script Check Timetable</strong>
-</p>
-<p><a href="/files/AES_2025_Scripts_Check_CLASS_TIMETABLE_13_16Oct_5Oct.pdf" rel="noopener nofollow" target="_blank">Script Check Timetable (13 October to 16 October)</a>
+<br><a href="/files/AES_2025_Scripts_Check_CLASS_TIMETABLE_13_16Oct_5Oct.pdf" rel="noopener nofollow" target="_blank">Script Check Timetable (13 October to 16 October)</a>
 </p>
 <p></p>
 <p></p>
