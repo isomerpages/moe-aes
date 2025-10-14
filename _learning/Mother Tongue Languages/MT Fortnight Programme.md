@@ -5,98 +5,88 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT3.JPG">
-</div>
-<p><strong>Secondary 1</strong> 
-<br><strong>Chinese Language</strong>
-<br>Chinese Paper Cutting Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT4.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Traditional Malay Handicraft and Weaving Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT5.JPG">
-</div>
-<p><strong>Secondary 2</strong> 
-<br><strong>Chinese Language</strong> 
-<br>Chinese Painting Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT6.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Learning Journey to Kampong Buangkok</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT7.JPG">
-</div>
-<p><strong>Secondary 3</strong> 
-<br><strong>Malay Language</strong> 
-<br>Learning Journey to Sri Warisan Performing Arts Studio</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT8.JPG">
-</div>
-<p><strong>Secondary 4&amp;5</strong> 
-<br><strong>Chinese Language</strong> 
-<br>Chinese Chess Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT9.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Traditional Malay ‘Upacara Raha Sehari’ Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT10.JPG">
-</div>
-<p>
-<br>
+<blockquote>
+<p>Festitive Celebrations</p>
+</blockquote>
+<p>The MTL department embraces the rich cultural tapestry of Singapore through
+our vibrant festive celebrations. Throughout the year, our Assumptionknights
+participate in meaningful celebrations of Chinese New Year, Hari Raya and
+Deepavali. These cultural events feature engaging performances including
+traditional songs and dances as well as drama skits that bring cultural
+stories to life.</p>
+<p><strong>Chinese New Year Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT11.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Festival_CNY_2.jpg">
 </div>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/2_1_CNY_Photo_3.jpg">
+</div>
+<p><strong>Hari Raya Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT12.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/HRC_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT13.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/HRC_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT14.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/HRC_3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT15.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/HRC_4.jpg">
 </div>
-<p>
-<br><strong>Hari Raya Aidilfitri Sharing &amp; Dikir Barat Performance</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT16.JPG">
-</div>
-<p>
-<br><strong>Deepavali Classroom Activity</strong>
-<br>Making Deepams, Rangolis and Thorans.
-<br>
+<p><strong>Deepavali Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT17.JPG">
 </div>
-<p>
-<br>
+<p><strong>‘Packing Love, Sharing Abundance’ Chinese New Year Food Donation Drive</strong>
 </p>
+<p>In the spirit of Chinese New Year, our students participate in this meaningful
+initiative to share blessings with the less fortunate in our community.
+Through collecting and packing essential food items, Assumptionknights
+learn valuable lessons about compassion, generosity, and social responsibility,
+while making a positive impact on those in need during the festive season.</p>
+<blockquote>
+<p>Extensive Reading Programme</p>
+</blockquote>
+<p>Our reading programme provides Assumptionknights with access to curated
+online reading materials, including e-books in their MTL. Through this
+programme, we aim to nurture a lifelong love for reading whilst strengthening
+our students' proficiency in their respective MTL. The programme extends
+beyond term time, enabling our students to engage in enriching reading
+activities during their school holidays, thereby fostering continuous learning.</p>
+<blockquote>
+<p>Conversational Chinese and Malay Programme (CCM)</p>
+</blockquote>
+<p>Our CCM Programme opens doors to cross-cultural communication by introducing
+Secondary 1 students to basic conversational skills in another Mother Tongue
+language. Students learn essential everyday phrases and expressions in
+either Chinese or Malay, enabling them to engage in simple conversations
+with their peers from different cultural backgrounds. Through this programme,
+we aim to foster cultural understanding and strengthen bonds within our
+diverse school community.</p>
+<blockquote>
+<p>Cultural Theatre Exposure Programme</p>
+</blockquote>
+<p>Our Cultural Theatre Exposure Programme brings MTL to life through immersive
+theatrical experiences. By attending professional cultural performances,
+students experience the vibrancy of their MTL beyond textbooks and classrooms.
+These enriching experiences help our students develop a deeper appreciation
+for both language and cultural arts.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT18.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Chinese_Theatre_Exposure_Programme_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Chinese_Theatre_Exposure_Programme_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
