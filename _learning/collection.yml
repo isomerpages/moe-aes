@@ -2,7 +2,7 @@ collections:
   learning:
     output: true
     order:
-      - Mathematics/Mathematics.md
+      - Mathematics/Overview.md
       - Mathematics/.keep
       - English Language & Literature/Overview.md
       - English Language & Literature/.keep
