@@ -90,6 +90,3 @@ that they learned in school in this competition.</p>
 </p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
