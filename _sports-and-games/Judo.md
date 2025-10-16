@@ -8,7 +8,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judo/B_Div___C_Div.jpg">
 </div>
-<h4><strong><u>About Us</u></strong></h4>
+<p></p>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>The AES Judo programme is designed to inculcate in our Judokas the values
 of self-discipline and respect for others, while also fostering the development
 of mental and physical resilience, quicker reflexes, improved body coordination,
@@ -52,11 +55,14 @@ a supportive community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judo/B___C_Div_with_Principal__Teachers_and_Parents.jpg">
 </div>
-<p><strong>What do our leaders think about the AES Judo Team?</strong>
-</p>
+<p></p>
+<blockquote>
+<h4><strong>What do our leaders think about the AES Judo Team?</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Judo/Captains__Reflections.png">
 </div>
+<p></p>
 <p><strong>Training sessions</strong>: Tuesdays, Thursdays and Fridays
 <br><strong>Come and follow us on our Instagram: aes_judo</strong>
 </p>
