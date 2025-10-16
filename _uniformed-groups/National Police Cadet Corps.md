@@ -7,20 +7,27 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Current_Executive_Committee.jpg">
 </div>
-<h4>About Us</h4>
+<p></p>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>The AES National Police Cadet Corps (NPCC) annually involves cadets in
 a challenging yet enjoyable programme. The NPCC curriculum emphasises on
 law enforcement, leadership, resilience, national education, and personal
 development, guided by the 6A framework (AWARE, ACQUIRE, ACTUATE, ASPIRE,
 ACHIEVE, and AIM). This structured approach ensures meaningful learning
 experiences and module outcomes tailored to develop NPCC members holistically.</p>
-<h4>Signature Programmes</h4>
+<blockquote>
+<h4><strong>Signature Programmes</strong></h4>
+</blockquote>
 <p>Camp Resilience
 <br>Crime Scene Investigation
 <br>Law and Enforcement
 <br>Revolver Shooting
 <br>Unarmed Tactics</p>
-<h4>Core Programmes</h4>
+<blockquote>
+<h4><strong>Core Programmes</strong></h4>
+</blockquote>
 <p>Drills
 <br>Campcraft
 <br>Road Safety
@@ -31,9 +38,13 @@ experiences and module outcomes tailored to develop NPCC members holistically.</
 <br>Civil Defence
 <br>Anti-Narcotics Course
 <br>Enrichment Courses</p>
-<h4>Training Day</h4>
+<blockquote>
+<h4><strong>Training Day</strong></h4>
+</blockquote>
 <p>Every Tuesday, 3pm to 5pm</p>
-<h4>Excerpts of Reflections from Graduating Cadets</h4>
+<blockquote>
+<h4><strong>Excerpts of Reflections from Graduating Cadets</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Graduating_Cadets__EXCO_.jpg">
 </div>
@@ -87,7 +98,10 @@ of my journey in AES.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/Marshal_Duty___Road_Safety_Park.jpg">
 </div>
-<h4>Activities/Achievements</h4>
+<p></p>
+<blockquote>
+<h4><strong>Activities/Achievements</strong></h4>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
