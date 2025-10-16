@@ -4,7 +4,9 @@ permalink: /character/ccas/performing-arts/choir/
 description: ""
 variant: tiptap
 ---
-<h4>About Us</h4>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>AES Choir offers students a unique opportunity to explore and develop
 their musical talents while fostering a sense of teamwork and artistic
 expression. We aim to develop individuals with a passion for music through
@@ -17,7 +19,9 @@ their appreciation for music and culture. Whether it’s singing in unison
 or mastering complex harmonies, participating in a choir offers a fulfilling
 and enriching experience that transcends the boundaries of traditional
 academic pursuits.</p>
-<h4>Student Opportunities</h4>
+<blockquote>
+<h4><strong>Student Opportunities</strong></h4>
+</blockquote>
 <p>AES Choir participates in both local competition such as the Singapore
 Youth Festival and international competition such as the Singapore International
 Chorale Festival. Other than competitions, we perform in public spaces
@@ -41,11 +45,13 @@ skills from highly regarded choral conductors.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/4_Sing_Intl_Chorale_Fest.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<h4>CCA Days &amp; Timings</h4>
+<blockquote>
+<h4><strong>CCA Days &amp; Timings</strong></h4>
+</blockquote>
 <p>AES Choir meets every Tuesday and Thursday, from 3.15pm to 5.45pm.</p>
-<h4>Happy Chorister, Happy Choir!</h4>
+<blockquote>
+<h4><strong>Happy Chorister, Happy Choir!</strong></h4>
+</blockquote>
 <p>Let's hear from our chorister on how they feel about joining AES Choir.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/5_Dayyan__Choir_.jpg">
