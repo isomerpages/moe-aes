@@ -4,29 +4,44 @@ permalink: /character/ccas/performing-arts/concert-band/
 description: ""
 variant: tiptap
 ---
-<h4><strong>About Us:</strong></h4>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>The AES Concert Band believes in giving students the opportunity to learn,
 perform and showcase their music talent. It also allows them to experience
 a holistic education with special emphasis in the development of their
 character and leadership qualities.</p>
-<h4><strong>Teachers:</strong></h4>
+<blockquote>
+<h4><strong>Teachers</strong></h4>
+</blockquote>
 <p>Ms Chan Zhi Jia Valerie
 <br>Miss Sharon Valerie C Co
 <br>Mr Foo Kok Jame
 <br>Ms Li Liliang Lilian&nbsp;</p>
-<h4><strong>Instructors:</strong></h4>
+<p></p>
+<blockquote>
+<h4><strong>Instructors</strong></h4>
+</blockquote>
 <p>Mr Joseph Chong Ze Bin
 <br>Mr Joey Aston Lim</p>
-<h4><strong>CCA Training Schedule:</strong></h4>
+<p></p>
+<blockquote>
+<h4><strong>CCA Training Schedule</strong></h4>
+</blockquote>
 <p>Every Tuesday and Thursday, 3:00pm – 5:30pm</p>
-<h4><strong>Student Leaders:</strong></h4>
+<p></p>
+<blockquote>
+<h4><strong>Student Leaders</strong></h4>
+</blockquote>
 <p>Secondary 3:
 <br>Iryan Danial Bin Abdul (3R) - Drum major
 <br>Cheah Cen Ning (3G) - Band major</p>
 <p>Secondary 4:
 <br>Joodi Faeezah Binte Fahizal (4/4) - Drum Major
 <br>Christine Chua Ying Suan (4/5) – Band Major</p>
-<h4><strong>Achievements &amp; Performances:</strong></h4>
+<blockquote>
+<h4><strong>Achievements &amp; Performances</strong></h4>
+</blockquote>
 <ol data-tight="true" class="tight">
 <li>
 <p>SYF – Certificate of Accomplishment (2023,2025)</p>
@@ -48,7 +63,9 @@ School</p>
 <p>Internal performances - AYLHF, National Day Celebrations</p>
 </li>
 </ol>
-<h4><strong><u>Write ups from our very own Band members:</u></strong></h4>
+<blockquote>
+<h4><strong>Write ups from our very own Band members</strong></h4>
+</blockquote>
 <p>I am Christine, the band major of my school’s band. In band, I have participated
 in several exchange programs with other schools, allowing me to gain valuable
 experience in playing pieces correctly and accurately. One of the most
