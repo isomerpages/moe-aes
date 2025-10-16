@@ -5,98 +5,75 @@ variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT3.JPG">
-</div>
-<p><strong>Secondary 1</strong> 
-<br><strong>Chinese Language</strong>
-<br>Chinese Paper Cutting Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT4.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Traditional Malay Handicraft and Weaving Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT5.JPG">
-</div>
-<p><strong>Secondary 2</strong> 
-<br><strong>Chinese Language</strong> 
-<br>Chinese Painting Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT6.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Learning Journey to Kampong Buangkok</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT7.JPG">
-</div>
-<p><strong>Secondary 3</strong> 
-<br><strong>Malay Language</strong> 
-<br>Learning Journey to Sri Warisan Performing Arts Studio</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT8.JPG">
-</div>
-<p><strong>Secondary 4&amp;5</strong> 
-<br><strong>Chinese Language</strong> 
-<br>Chinese Chess Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT9.JPG">
-</div>
-<p><strong>Malay Language</strong> 
-<br>Traditional Malay ‘Upacara Raha Sehari’ Workshop</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT10.JPG">
-</div>
-<p>
-<br>
+<p>The Mother Tongue Fortnight Programme is an enriching two-week celebration
+that immerses Assumptionknights in the vibrant cultures of their MTL. Through
+a diverse range of interactive activities, cultural workshops and engaging
+performances, students experience their MTL in meaningful ways beyond classroom
+learning.</p>
+<p>Students participate in hands-on cultural activities such as traditional
+arts and crafts, culinary demonstrations and cultural performances. These
+authentic experiences not only enhance their language skills but also deepen
+their appreciation of their cultural heritage. The programme creates an
+exciting platform for our students to actively use their MTL while discovering
+the rich traditions that shape their cultural identity.</p>
+<blockquote>
+<p>Chinese Programmes</p>
+</blockquote>
+<p><strong>Chinese Paper Cutting</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT11.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Chinese_Paper_cutting_1.jpg">
 </div>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Chinese_paper_cutting_2.jpg">
+</div>
+<p></p>
+<p><strong>Chinese Painting</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT12.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Chinese_painting_1.jpg">
 </div>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Chinese_painting_2.jpg">
+</div>
+<p></p>
+<blockquote>
+<p>Malay Programmes</p>
+</blockquote>
+<p><strong>Batik Painting</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT13.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Batik_Painting_1.jpg">
 </div>
-<p>
-<br>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/Batik_Painting_2.jpg">
+</div>
+<p></p>
+<p><strong>Learning Journey to Lorong Buangkok</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT14.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/LJ_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT15.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/LJ_2.jpg">
 </div>
-<p>
-<br><strong>Hari Raya Aidilfitri Sharing &amp; Dikir Barat Performance</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT16.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Fortnight/LJ_3.jpg">
 </div>
-<p>
-<br><strong>Deepavali Classroom Activity</strong>
-<br>Making Deepams, Rangolis and Thorans.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT17.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT18.JPG">
-</div>
-<p>
-<br>
-</p>
+<p></p>
+<blockquote>
+<p>Musical Instruments Assembly Programme</p>
+</blockquote>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
