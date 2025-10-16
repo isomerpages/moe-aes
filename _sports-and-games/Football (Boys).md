@@ -7,12 +7,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/B_Boys.jpg">
 </div>
-<p>B-Div Team</p>
+<p><strong><em>B-Div Team</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/C_Boys.jpg">
 </div>
-<p>C-Div Team</p>
-<h4>About Us</h4>
+<p><strong><em>C-Div Team</em></strong>
+</p>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>Assumption English School (AES) has been endorsed as one of the School
 Football Academy (SFA) schools. This school-based academy is part of the
 Unleash The Roar! (UTR!) national project which aims to unite Singaporeans
@@ -41,7 +45,9 @@ game and take pride in fair play;</p>
 <p>Keen sense of focus, commitment and respect for the sport.</p>
 </li>
 </ul>
-<h4>Activities/ Achievements</h4>
+<blockquote>
+<h4><strong>Activities/ Achievements</strong></h4>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,4 +117,6 @@ Boys</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
