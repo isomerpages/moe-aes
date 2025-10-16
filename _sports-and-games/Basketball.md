@@ -4,11 +4,16 @@ permalink: /character/ccas/sports-and-games/basketball/
 description: ""
 variant: tiptap
 ---
-<h4>About Us</h4>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/1__AES_Basketball_Team__Write_Up_.jpg">
 </div>
-<h4>Opportunities</h4>
+<p></p>
+<blockquote>
+<h4><strong>Opportunities</strong></h4>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PE3sTHc-9RA"></iframe>
 </div>
@@ -23,7 +28,10 @@ of the usual National School Games, the school also aims to provide more
 opportunities for our students to develop their talent via friendly matches
 or engaging in outreach activities where we work with primary schools to
 provide guidance to the primary school students.</p>
-<h4>Training Days and Timing</h4>
+<p></p>
+<blockquote>
+<h4><strong>Training Days and Timing</strong></h4>
+</blockquote>
 <p>AES Basketball Team trains 2 to 3 times a week.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/4__AES_Basketball_Training_Dates.png">
@@ -34,7 +42,10 @@ our instagram page @assumptionbasketball .</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/5__2025_Group_Photo__CNY_Celebration_.jpg">
 </div>
-<h4>What do our leaders think about the AES Basketball Team?</h4>
+<p></p>
+<blockquote>
+<h4><strong>What do our leaders think about the AES Basketball Team?</strong></h4>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/6__Ariel_Ong.png">
