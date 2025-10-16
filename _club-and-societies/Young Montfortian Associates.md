@@ -7,7 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YMA 2024" src="/images/7Bxv_YMA_1.jpg">
 </div>
-<h3>About Us</h3>
+<p></p>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>Young Montfortian Associates (YMA) was set up with the aim of forming
 our young Catholic students in the Spirituality of our Founder Saint, Louis
 Marie Grignion de Montfort.&nbsp;</p>
@@ -33,14 +36,20 @@ Community Building.</p>
 living witnesses of Christ, who live out their baptismal promises and share
 the spirituality of a total commitment to Jesus through Mary as proposed
 by Saint Louis de Montfort.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_YMA_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YMA_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c_YMA_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YMA_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YMA_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YMA_4.jpg">
+</div>
 <p></p>
 <p></p>

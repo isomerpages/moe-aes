@@ -4,15 +4,18 @@ permalink: /character/ccas/club-n-societies/english-language-drama-and-debate-so
 description: ""
 variant: tiptap
 ---
-<p><strong><em>“Speak with poise. Think with purpose. Grow with heart"</em></strong>
-</p>
+<blockquote>
+<h4><strong><em>“Speak with poise. Think with purpose. Grow with heart"</em></strong></h4>
+</blockquote>
 <p>At ELDDS, every voice matters. Whether you’re performing on stage or speaking
 from the floor, we believe that confidence, clarity, and conviction can
 be nurtured in each of our students.&nbsp;</p>
 <p><strong>Our CCA brings together two vibrant strands – <em>Drama</em> and <em>Debate</em> – each offering distinct training and opportunities.</strong> From
 persuasive speeches to powerful performances, our members develop the skills
 to express themselves across different modes, styles, and settings.</p>
-<h4>Training Sessions</h4>
+<blockquote>
+<h4><strong>Training Sessions</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/1.jpg">
 </div>
@@ -39,7 +42,9 @@ we cultivate not just performance and speaking skills – but resilience,
 camaraderie, and character.</p>
 <p>In all we do, we live out our school motto <em>Labor Omnia Vincit</em> –
 through hard work, we conquer all.</p>
-<h4>Competitions &amp; Performances</h4>
+<blockquote>
+<h4><strong>Competitions &amp; Performances</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS/5.jpg">
 </div>

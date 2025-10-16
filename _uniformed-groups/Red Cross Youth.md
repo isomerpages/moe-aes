@@ -4,7 +4,9 @@ permalink: /character/ccas/uniformed-groups/red-cross-youth/
 description: ""
 variant: tiptap
 ---
-<h4>About Us</h4>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>“Seldom seen but ever-present” – this remains the unofficial motto of
 the Red Cross Youth (RCY) Co-Curricular Activity (CCA) as we continue to
 serve the school and community quietly.</p>
@@ -22,7 +24,10 @@ Aid training for our cadets. We also had the privilege of sending all Secondary
 organised by Red Cross HQ.</p>
 <p>In everything we undertake, we strive to live out the Red Cross Youth
 motto: “Humanity in our hands”.</p>
-<h4>Activities/Achievements</h4>
+<p></p>
+<blockquote>
+<h4><strong>Activities/Achievements</strong></h4>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

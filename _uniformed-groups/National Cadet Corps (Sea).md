@@ -7,7 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ncc%20photo.jpg">
 </div>
-<h4>About Us</h4>
+<p></p>
+<blockquote>
+<h4><strong>About Us</strong></h4>
+</blockquote>
 <p>The AES National Cadet Corps (NCC) (Sea) is proud to be one of 15 sea
 units in Singapore, operating in close partnership with the Republic of
 Singapore Navy (RSN). As part of this elite group, our cadets benefit from
@@ -101,7 +104,10 @@ experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/ncc_5.jpg">
 </div>
+<p></p>
+<blockquote>
 <h4><strong>To serve with pride and dedication, NCC!</strong></h4>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC/Student_voice.png">
 </div>

@@ -7,17 +7,25 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_1.jpg">
 </div>
+<p></p>
+<blockquote>
 <h4><strong>Motto:</strong></h4>
+</blockquote>
 <p>Be Prepared - as Guides, we will be ready to cope with anything that comes
 our way.</p>
+<blockquote>
 <h4><strong>Objectives:</strong></h4>
+</blockquote>
 <p>AES Girl Guides 1st COY is part of the international Girl Guiding and
 Girl Scouting Movement, governed by The World Association of Girl Guides
 and Girl Scouts (WAGGGS).&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_2.jpg">
 </div>
+<p></p>
+<blockquote>
 <h4><strong>What do we do in AES:</strong></h4>
+</blockquote>
 <p>In AES, the Girl Guides focus on developing skills and values that empower
 them to serve their community and make a positive impact. Key activities
 include World Thinking Day, West Division Fest, and West Division Campfire.
@@ -31,7 +39,9 @@ Day Parade.</p>
 skills like knot-tying, and earning various badges such as [First Aid,
 Dance, Sewing]. These activities help strengthen bonds, build life skills,
 enhance leadership, and promote teamwork and discipline.</p>
-<h4>Activities/Achievements</h4>
+<blockquote>
+<h4><strong>Activities/Achievements</strong></h4>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -106,7 +116,10 @@ enhance leadership, and promote teamwork and discipline.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_4.jpg">
 </div>
-<h4>Teachers/Coaches</h4>
+<p></p>
+<blockquote>
+<h4><strong>Teachers/Coaches</strong></h4>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,7 +147,9 @@ enhance leadership, and promote teamwork and discipline.</p>
 </tr>
 </tbody>
 </table>
-<h4>CCA Training Schedule:</h4>
+<blockquote>
+<h4><strong>CCA Training Schedule</strong></h4>
+</blockquote>
 <p>Tuesdays, 3.00 pm to 5.00 pm</p>
 <p>
 <br>

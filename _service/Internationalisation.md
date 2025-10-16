@@ -38,20 +38,11 @@ for self-discovery, teamwork, and values-in-action.</p>
 <p>Cultural Exchange Programme with <strong>Montfort College, Chiangmai</strong>
 </p>
 </li>
-<li>
-<p>Cultural Exchange and Service Learning Programme in <strong>Vietnam</strong>
-</p>
-</li>
-<li>
-<p>Cultural Exchange and Service Learning Programme in <strong>Cambodia</strong>
-</p>
-</li>
 </ul>
-<p>These programmes not only strengthen ties with our Assumption network
-and regional partners, but also deepen our students’ appreciation for different
-cultures and the importance of service to others. We are confident that
-such experiences will empower Assumptionknights to grow as compassionate
-leaders and responsible global citizens.</p>
+<p>These trips deepen students' appreciation for diverse cultures and provide
+exposure to various industries, <strong>preparing them for the future of work in the region</strong>.
+We are confident that such experiences will empower Assumptionknights to
+grow as compassionate leaders and responsible global citizens.</p>
 <h4><u>Reflections from 2025's Overseas Trips</u></h4>
 <p>This year, our Secondary 3 students, joined by 16 teachers, embarked on
 two overseas Cultural and Immersion Programmes—one in Bangkok, Thailand
