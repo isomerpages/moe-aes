@@ -7,6 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dance%20syf.jpg">
 </div>
+<p></p>
 <blockquote>
 <h4><strong>About Us</strong></h4>
 </blockquote>
@@ -58,6 +59,31 @@ Racial Harmony Day concert, Teachers’ Day concert, AssumptionKnights’ Challe
 <br><a href="https://www.instagram.com/aesdance/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/aesdance/?hl=en</u></a>
 </p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/5.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
