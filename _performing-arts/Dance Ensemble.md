@@ -7,7 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dance%20syf.jpg">
 </div>
+<p></p>
+<blockquote>
 <h4><strong>About Us</strong></h4>
+</blockquote>
 <p><strong>AES Dance Ensemble (AESDE)</strong> is a team of passionate individuals
 united by our love for dance.
 <br>In AESDE, we believe in lifting one another through teamwork and drawing
@@ -26,9 +29,13 @@ is felt beyond the stage.</p>
 <br>If we break, we will mend.
 <br>Stronger together, we give our all,
 <br>Even when we fall, we stand up tall.</p>
+<blockquote>
 <h4><strong>CCA Training Schedule</strong></h4>
+</blockquote>
 <p>Every Tuesday and Thursday, 3pm to 530pm</p>
+<blockquote>
 <h4><strong>Achievements and Performances</strong></h4>
+</blockquote>
 <ol>
 <li>
 <p>SYF - Certificate of Distinction (2023)</p>
@@ -52,6 +59,31 @@ Racial Harmony Day concert, Teachers’ Day concert, AssumptionKnights’ Challe
 <br><a href="https://www.instagram.com/aesdance/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/aesdance/?hl=en</u></a>
 </p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance/5.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
