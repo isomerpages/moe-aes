@@ -2,11 +2,8 @@ collections:
   learning:
     output: true
     order:
-      - Mathematics/.keep
-      - Mathematics/Overview.md
-      - Mathematics/Talent Development.md
-      - English Language & Literature/Overview.md
       - English Language & Literature/.keep
+      - English Language & Literature/Overview.md
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/ALP Productions.md
       - English Language & Literature/Theatrical Experience.md
@@ -18,6 +15,9 @@ collections:
       - Mother Tongue Languages/MT Fortnight Programme.md
       - Mother Tongue Languages/Literature and Language Appreciation.md
       - Mother Tongue Languages/Talent Development.md
+      - Mathematics/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Talent Development.md
       - Science/.keep
       - Science/Overview.md
       - Science/Science Experiential Projects (SEP).md
