@@ -2,6 +2,5 @@ collections:
   administrative-information:
     output: true
     order:
-      - Textbooks & Uniforms.md
       - Graduation Day 2024.md
       - Secondary 1 Registration for 2025.md
