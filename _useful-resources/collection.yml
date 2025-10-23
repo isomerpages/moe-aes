@@ -2,6 +2,7 @@ collections:
   useful-resources:
     output: true
     order:
+      - Secondary 2 Subject Allocation Exercise 2024.md
       - Calendar and Happenings.md
       - For Students.md
       - For Parents/.keep
