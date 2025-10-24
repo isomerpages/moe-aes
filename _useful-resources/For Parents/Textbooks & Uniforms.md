@@ -1,6 +1,6 @@
 ---
 title: Textbooks & Uniforms
-permalink: /useful-resources/for-students/administrative-information/textbooks-n-uniforms/
+permalink: /useful-resources/for-parents/textbooks-n-uniforms/
 description: ""
 third_nav_title: For Parents
 variant: tiptap
@@ -11,7 +11,7 @@ variant: tiptap
 <br><strong>Monday to Friday</strong> 
 <br>9am to 3:00pm</p>
 <p><strong>FAS Redemption Period</strong> 
-<br>8 December 2025 to 13 December 2024</p>
+<br>8 December 2025 to 12 December 2025</p>
 <p>Pre-Ordering of Textbooks and Uniforms will commence on 13 November 2025
 and end on 14 December 2025 at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a></strong>
 </p>
