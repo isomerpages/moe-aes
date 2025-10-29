@@ -34,6 +34,14 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Emran Bin Yatim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr New Lam Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,14 +54,6 @@ third_nav_title: People of AES
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Emran Bin Yatim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -138,14 +138,6 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Mee Eng Sally</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr M Muniyandy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,14 +187,6 @@ third_nav_title: People of AES
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Huan Ser Fee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Flexi-Adjunct School Counsellor</p>
 </td>
 </tr>
 <tr>
