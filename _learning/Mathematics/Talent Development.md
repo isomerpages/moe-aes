@@ -28,9 +28,8 @@ renowned math educators. Students can apply their knowledge in Mathematics
 that they learned in school in this competition.</p>
 <p>Click to find out more: <a href="https://mathkangaroo.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Math Kangaroo Contest</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/SMKC_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/SMKC_2025.jpg">
 </div>
 <p></p>
 <p></p>
