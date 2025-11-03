@@ -25,8 +25,7 @@ media, construct arguments, present ideas, and engage with diverse audiences
 with the skills to express themselves effectively and responsibly in a
 digital and global world.</p>
 <blockquote>
-<p><strong>Signature Programme – SPEAK</strong>
-</p>
+<p>Signature Programme – SPEAK</p>
 </blockquote>
 <p>The department leads the school’s <strong>Applied Learning Programme (ALP)</strong>: <strong>SPEAK – SPeak English with grAce and Knowledge</strong>.</p>
 <p>Established in 2015, SPEAK provides students with authentic platforms

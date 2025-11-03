@@ -1,6 +1,6 @@
 ---
 title: Theatrical Experience
-permalink: /learning/english-language-and-literature/permalink/
+permalink: /learning/english-language-and-literature/theatrical-experience/
 description: ""
 third_nav_title: English Language & Literature
 variant: tiptap
