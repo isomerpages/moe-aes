@@ -5,187 +5,67 @@ description: ""
 third_nav_title: English Language & Literature
 variant: tiptap
 ---
-English Language and Literature Programme
------------------------------------------
-
-**Vision** <br>
-_To develop students’ competency in the English Language, cultivating a life-long habit of reading and the ability to communicate proficiency and confidently such that they not only become confident users of the language but also show appreciation and love for it._
-
-  
-
-The department runs the school’s Applied Learning Programme (ALP) titled&nbsp;**SP**eak&nbsp;**E**nglish with&nbsp;gr**A**ce and&nbsp;**K**nowledge (**SPEAK**). Established in 2015, the SPEAK programme aims to develop confident and eloquent communicators who can articulate their thoughts and opinions well.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Attachment%201%20-%20ALP%20Framework%202022%20white%20background.png" style="width:75%;">  
-	
-
-
-SPEAK Tier 1
-------------
-
-**Tier 1 programmes are for ALL students. They are integrated into the English Language Curriculum with clear learning outcomes for each level.**
-
-**Secondary 1: SPEAK Accurately** <br>
-Secondary One students learn to pronounce and articulate clearly through a series of learning tasks. They record voice-overs for the narrator and characters of their book trailer projects. Click on the following videos to watch their projects!
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/VIerY1wU42M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/AqWWeIkTYEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/c4dRobmymLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-**Secondary 2: SPEAK Confidently**
-
-Secondary Two students take on roles as news anchors and reporters to produce newscasts, gaining confidence in the process of rehearsing and filming. View their work by clicking on the following videos!
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/olNhHVKvNs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gfwv61b9DAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/puRgfPb9fEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-
-At this level, all students are also given the opportunity to read the news to the entire student body, sharing their opinions on current affairs.
-
-  
-
-**Secondary 3: SPEAK Persuasively** <br>
-Secondary Three students become convincing advocates for a variety of issues. They raise awareness for their selected campaigns and persuade their peers to support them in their cause.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/02%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
-  
-
+<p>At AES, every student has the chance to <strong>find their voice</strong>,
+practise it in a safe space, and shine with confidence wherever life takes
+them.</p>
+<blockquote>
+<h4><strong>Our Vision</strong></h4>
+</blockquote>
+<p>To nurture confident readers, writers, and speakers who love the English
+Language and Literature, and can express themselves with clarity and confidence.</p>
+<blockquote>
+<h4><strong>SPEAK Programme</strong></h4>
+</blockquote>
+<p><strong>SPeak English with grAce and Knowledge<br></strong>Our Applied
+Learning Programme helps students grow into eloquent, thoughtful communicators.
+The programme makes use of a spiral progression of skills approach in developing
+speaking skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/speak_framework_2.png">
+</div>
+<p></p>
+<p>The SPEAK Programme provides ample opportunities for all students to develop
+their speaking skills in an interactive and safe learning environment.
+These include projects at each level to showcase their speaking skills.
+For example, our Secondary 2 students take on the role of reporters to
+shed light on occupations that interest them.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v1lATfGkBas?si=9gZpHRpS_omZDp51"></iframe>
+</div>
+<p>Our Secondary 3 students put up campaigns on a topic they would like to
+be advocates for and present it during assembly or their lunch breaks.
+It is a daunting experience speaking to a live audience but our students
+have shown much courage and resilience in taking up the challenge and carrying
+themselves very well during the live presentations.&nbsp;</p>
+<p>This year, all our Secondary 4 &amp; 5 students embarked on a project
+to create a one-minute introductory clip of themselves to be included in
+their portfolios for tertiary education and beyond. They applied the skills
+learnt over the 4 – 5 years at AES and the introductory video clips were
+not only creative but also invigorating.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k6Xj1TNpzH4?si=Na-pTZQQ4bKDBZxn"></iframe>
+</div>
+<p>Students who show a flair for speaking can showcase their talents in oratorical
+contests and given student emcee roles at school events and programmes.
+We hope to continue building and enhancing students’ love for the language
+through the wide array of programmes we have.
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/03%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
-  
-
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/04%20Sec%203%20SPEAK.jpeg" alt="Secondary 3: SPEAK Persuasively" style="width:70%;">  
-  
-
-
-**Secondary 4: SPEAK Passionately**<br>
-Secondary Four and Five students share an introductory video clip about themselves. They can include snippets of their school life, lifestyle, hobbies, interests, and their strengths as
-well as talents.
-
-<br>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XjxHFAcH4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-<br>
-
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FuLyEMaCa_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-
-<br>
-
-SPEAK Tier 2
-------------
-
-**Tier 2 programmes are aimed at developing students’ talent and passion in speaking.**
-
-**Poetry Showdown** <br>
-Lower secondary AssumptionKnights prove their mettle as poets and choral reading performers in our very own AES Poetry Showdown.
-
-![](/images/poetry%20showdown%209.jpg)
-
-![](/images/poetry%20showdown%201.jpg)
-
-![](/images/poetry%20showdown%208.jpg)
-
-**Emcee Development Programme** <br>
-AssumptionKnights in Tier 2 are given opportunities to host various school events and functions.
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/13%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/14%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
-  
-
-<br>
-
-In 2019, Ms Vernetta Lopez, an alumni of the school, hosted the inaugural Emcee Development Workshop. She provided our budding emcees with useful tips on speaking and presenting to a live audience!
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/15%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/16%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
-  
-
-<br>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/17%20Emcee.jpeg" alt="Emcee Development Programme" style="width:70%;">  
-  
-
-<br>
-
-**External Competitions** <br>
-Selected AssumptionKnights represent the school in external competitions. These include oratorical contests such as the ACJC Orator’s Trophy and the YMCA Plain English Speaking Awards, as well as the National Schools Literature Festival.
-
-  <p></p>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
