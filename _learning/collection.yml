@@ -2,11 +2,11 @@ collections:
   learning:
     output: true
     order:
-      - English Language & Literature/Talent Development.md
       - English Language & Literature/.keep
       - English Language & Literature/Overview.md
       - English Language & Literature/Applied Learning Programme.md
       - English Language & Literature/Theatrical Experience.md
+      - English Language & Literature/Talent Development.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Overview.md
       - Mother Tongue Languages/MT Programme.md
