@@ -26,13 +26,13 @@ are designed to stretch students in different areas.</p>
 <p><strong>Global Appreciation</strong>
 <br><a href="https://www.assumptionenglish.moe.edu.sg/service/internationalisation/" rel="noopener nofollow" target="_blank">Internationalisation</a>
 </p>
-<p><strong>REAL Programme</strong>
+<p><a href="https://www.assumptionenglish.moe.edu.sg/character/real-programme/" rel="noopener nofollow" target="_blank">REAL Programme</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QSUJoYfFQmg?si=7-BR-RRCpe4irlFr"></iframe>
 </div>
-<p><em>The various programmes and strong teacher-student relationships at AES enable students to learn with joy and lead with purpose. Hear from our Principal, Mr Vincent Toh, our students and our alumni! </em>
+<p><em>The various programmes and strong teacher-student relationships at AES enable students to learn with joy and lead with purpose. Hear from our Principal, Mr Vincent Toh, our students and our alumni!</em>
 </p>
 <p>
 <br>
