@@ -23,10 +23,11 @@ school professional judgement.</p>
 </p>
 <p>(3.1) G1 Briefing slides for students (with Step-by-Step Guide for All
 Ears)&nbsp;
-<br><a href="https://drive.google.com/drive/folders/19y8g2RKlxgN-NOwKakmQVPMJPK9haGkX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/aes-subslides-g1</u></a>&nbsp;
+<br><a href="https://go.gov.sg/aes-subslides-g1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aes-subslides-g1</a>
 <br>(3.2) G2 &amp; G3 Briefing slides for students (with Step-by-Step Guide
 for All Ears)&nbsp;
-<br><a href="https://drive.google.com/drive/folders/19y8g2RKlxgN-NOwKakmQVPMJPK9haGkX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/aes-subslides-g2g3</u></a>&nbsp;</p>
+<br><a href="https://go.gov.sg/aes-subslides-g2g3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aes-subslides-g2g3</a>
+</p>
 <p>
 <br>
 </p>
