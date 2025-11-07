@@ -62,7 +62,7 @@ as well as in groups.</p>
 </blockquote>
 <p>(Elementary) Mathematics
 <br>Additional Mathematics (Secondary 3 and 4 G3)
-<br>Computer Applications (Secondary 3 and 4)
+<br>Computer Applications / Computing (Secondary 3 and 4)
 <br>Elements of Business Skills (Secondary 3 and 4 G1)</p>
 <p></p>
 <p>

@@ -12,7 +12,7 @@ third_nav_title: Mathematics
 <br>The objective of this Olympiad is to test the ingenuity and mathematical
 problem-solving ability of the students and to discover and encourage mathematical
 talents in secondary schools, high schools, and junior colleges in Singapore.</p>
-<p>Click to find out more: <a href="https://sms.math.nus.edu.sg/singapore-mathematical-olympiad-smo/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Mathematical Olympiad (SMO)</u></a>
+<p>Click to find out more: <a href="https://sms.math.nus.edu.sg/html/singapore-mathematical-olympiad-smo/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Mathematical Olympiad (SMO)</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/SMO_2025.png">
