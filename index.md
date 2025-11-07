@@ -18,6 +18,14 @@ sections:
         - title: AES School Prospectus 2025
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
+  - infopic:
+      title: Assumption English School Open House 2025
+      id: infopic
+      description: Don't let this date slip by - join us on 22 November for an
+        unforgettable Open House experience!
+      button: Click Here to Find out more!
+      url: https://assumptionenglish.moe.edu.sg/open-house-2025/
+      image: /images/Open_House_Banner_1.jpg
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""
