@@ -26,6 +26,7 @@ sections:
       button: Click Here to Find out more!
       url: https://assumptionenglish.moe.edu.sg/open-house-2025/
       image: /images/Open_House_Banner_1.jpg
+      alt: Open House Banner
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""
