@@ -21,8 +21,9 @@ sections:
   - infopic:
       title: Assumption English School Open House 2025
       id: infopic
-      description: Don't let this date slip by - join us on 22 November for an
-        unforgettable Open House experience!
+      description: Missed our Open House on 22 Nov? Fret not! We will be open the day
+        after PSLE results release, on 26 Nov, 9am-3pm. Come chat with us & tour
+        the school premises!
       button: Click Here to Find out more!
       url: https://assumptionenglish.moe.edu.sg/open-house-2025/
       image: /images/Open_House_Banner_1.jpg
