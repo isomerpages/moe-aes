@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif
       key_highlights:
-        - title: LATEST HAPPENINGS
-          description: Check out our Instagram!
-          url: https://www.instagram.com/assumptionenglishsch
-        - title: Nourishing Minds, Enriching Souls
-          description: Hear our STUDENT VOICES!
-          url: https://go.gov.sg/aes-manna
+        - title: What's up?
+          description: Follow our social media!
+          url: https://linktr.ee/assumptionenglishsch
+        - title: Have questions?
+          description: Check out our FAQs!
+          url: https://ask.gov.sg/aes
         - title: AES School Prospectus 2025
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
