@@ -53,8 +53,7 @@ groups/streams are indicated in the booklist.</p>
 </p>
 <p><strong>Important Notes:</strong>
 <br>For payment, bookshop accepts&nbsp;<strong>the following payment methods: Cash and/or Paynow</strong>
-</p>
-<p>
+<br>
 <br>Bookshop will be&nbsp;<strong>closed</strong>&nbsp;on 15 to 17 December
 2025, 24 to 25 December 2025 (Eve of Public Holiday and Public Holiday)
 and 31 December 2025 (New Year's Eve).
