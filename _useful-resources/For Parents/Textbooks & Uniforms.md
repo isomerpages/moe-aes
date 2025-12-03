@@ -45,8 +45,9 @@ groups/streams are indicated in the booklist.</p>
 <br><a href="/files/Booklist_AES_2026___Sec_5.pdf" rel="noopener nofollow" target="_blank">Assumption English School Booklist 2026 Sec 5</a>
 </p>
 <p>Kindly take note of the sales dates for each respective level:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop_Dates.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop_Dates_25.png">
 </div>
 <p><em>The dates for Secondary 1 are subjected to changes.</em>
 </p>
