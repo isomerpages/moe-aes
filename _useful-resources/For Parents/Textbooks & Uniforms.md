@@ -23,7 +23,7 @@ groups/streams are indicated in the booklist.</p>
 <blockquote>
 <h4>Secondary 1</h4>
 </blockquote>
-<p><em>Pending Updates</em>
+<p><a href="/files/Booklist_AES_2026___Sec_1.pdf" rel="noopener nofollow" target="_blank">Assumption English School Booklist 2026 Sec 1</a>
 </p>
 <p></p>
 <blockquote>
