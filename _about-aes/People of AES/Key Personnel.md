@@ -42,7 +42,7 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Tan Weiming</p>
+<p>Mr Jeffrey Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
@@ -98,7 +98,7 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Shi Han</p>
+<p>Ms Su Rui Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Character &amp; Citizenship Education</p>
@@ -118,6 +118,14 @@ third_nav_title: People of AES
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Infocomm Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Wong Wei Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +180,10 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Wong Wei Jie</p>
+<p>Mr John Goh Ming Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Management</p>
+<p>Subject Head Physical Education &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +239,15 @@ third_nav_title: People of AES
 <p>Ms Goh Kai Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Level 1)</p>
+<p>Assistant Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Lee Wei Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
