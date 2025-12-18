@@ -223,6 +223,17 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Tze Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level 2</p>
 </td>
 <td rowspan="1" colspan="1">
