@@ -4,10 +4,12 @@ permalink: /character/student-management-in-aes/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMT_Team.png">
 </div>
-<p>The Student Management Team (SMT) is part of the Student Development Team
+<p>
+<br>The Student Management Team (SMT) is part of the Student Development Team
 (SDT) in AES. On top of managing disciplinary issues, the SMT actively
 promotes a positive culture of care in school with the use of Restorative
 Practice and seeks to integrate the teaching of pro-social skills in our
