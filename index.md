@@ -19,15 +19,14 @@ sections:
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
   - infopic:
-      title: Assumption English School Open House 2025
+      title: Secondary 1 Registration
       id: infopic
-      description: Our Open House has concluded! Feel free to browse through our Open
-        House microsite if you'd like to see some of the virtual booths and
-        Principal's Talk slides!
+      description: We warmly welcome our new Secondary 1 Students and Parents. You can
+        find useful information in the link.
       button: Click Here to Find out more!
-      url: https://assumptionenglish.moe.edu.sg/open-house-2025/
-      image: /images/Open_House_Banner_1.jpg
-      alt: Open House Banner
+      url: https://assumptionenglish.moe.edu.sg/secondary-1-registration-2026/
+      image: /images/Welcome.jpg
+      alt: Welcome Banner
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""
