@@ -726,7 +726,7 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nor Mohammad Bin Isa</p>
+<p>Mr Lee Wung Yew</p>
 </td>
 </tr>
 <tr>
@@ -789,6 +789,22 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ras</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Chin Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
