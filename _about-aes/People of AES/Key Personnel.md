@@ -326,14 +326,6 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Lai Hoong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Emran Bin Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
