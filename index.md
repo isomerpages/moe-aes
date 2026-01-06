@@ -4,7 +4,7 @@ title: Assumption English School
 description: Assumption English School
 image: /images/AES_MGEI_landscape.png
 permalink: /
-notification: School will be closed on 31st December 2025 (Wednesday).
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif
