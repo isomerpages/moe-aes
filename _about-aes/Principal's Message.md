@@ -37,16 +37,16 @@ desire to serve and create meaningful impact. The AES Dinan Leadership
 Programme provides students with opportunities to develop their leadership
 capabilities through service learning.</p>
 <p>Students also build international friendships through our annual Asian
-Youth Leaders for Human Fraternity (AYLHF) programme. &nbsp;Students from
-Japan, Korea, Thailand, and Indonesia come together every year to celebrate
+Young Leaders for Human Fraternity (AYLHF) programme. &nbsp;Students from
+Japan, Korea, Thailand and Indonesia come together every year to celebrate
 cultural diversity and explore how we can work towards a better world for
 all.</p>
 <p><strong><u>Called to Love</u></strong>
 <br>Above all, God calls us to love.</p>
 <p>The Montfort Stories accompany each cohort throughout their AES journey,
 inspiring them to develop a heart for the Last, the Lost, and the Least.
-&nbsp;Through these experiences, students have opportunities to serve and
-draw closer to the purposes God has called them to in life.</p>
+Through these experiences, students have opportunities to serve and draw
+closer to the purposes God has called them to in life.</p>
 <p><strong><u>Stronger Together</u></strong>
 <br><strong>"</strong>And though one might prevail against another, two will
 withstand one. <strong>A threefold cord is not quickly broken</strong>."
