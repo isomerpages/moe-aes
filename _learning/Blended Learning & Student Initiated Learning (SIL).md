@@ -15,6 +15,9 @@ of the schooling experience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Objectives_of_BL__1_.png">
 </div>
 <p>AES will be embarking on Blended Learning every term.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Dates_2026_Sem_1.png">
+</div>
 <p><strong>The important links are as follows:</strong>
 </p>
 <ol data-tight="true" class="tight">
