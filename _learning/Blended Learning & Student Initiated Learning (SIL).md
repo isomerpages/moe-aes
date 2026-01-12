@@ -4,17 +4,23 @@ permalink: /learning/blended-learning/
 description: ""
 variant: tiptap
 ---
-<p>Blended Learning provides an educational experience for our students through
-the seamless blending of different modes of learning. One aspect of Blended
-Learning is the integration of home-based learning (HBL) as a regular feature
-of the schooling experience.</p>
+<p>Blended Learning offers students a cohesive and flexible learning experience
+either online or offline, by combining different modes of instruction.
+In Assumption English School, the traditional Home-Based Learning is known
+as Blended Learning Day. It is a regular part of the school programme,
+every fortnightly and allows students to learn independently from home
+while remaining connected to their lessons.</p>
 <p><strong>Objectives of Blended Learning:</strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Objectives_of_BL__1_.png">
-</div>
-<p>AES will be embarking on Blended Learning every term.</p>
+<br>- To nurture self-directed and independent learners as they explore concepts
+and conduct research.
+<br>- To equip our students with stronger abilities, dispositions and habits
+for independent and lifelong learning.
+<br>- To develop passionate and intrinsically motivated learners.
+<br>- To deepen digital literacies in learners.
+<br>- To develop learners who can apply knowledge of cyber wellness and cyber
+security to safeguard their online learning.</p>
+<p></p>
+<p>Please find the Blended Learning dates for Semester 1</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Dates_2026_Sem_1.png">
 </div>
