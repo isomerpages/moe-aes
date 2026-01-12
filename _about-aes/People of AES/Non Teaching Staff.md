@@ -191,7 +191,7 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fadzilah Binte Martin</p>
+<p>Mdm Fadzilah Binte Matin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
