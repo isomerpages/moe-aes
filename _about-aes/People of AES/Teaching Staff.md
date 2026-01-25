@@ -75,7 +75,7 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Chin Seng</p>
+<p>Ms Lim Tze Xin</p>
 </td>
 </tr>
 <tr>
@@ -219,17 +219,6 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Tay Hui En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 George</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Tze Xin</p>
 </td>
 </tr>
 <tr>
