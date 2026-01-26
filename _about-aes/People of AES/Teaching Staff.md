@@ -75,7 +75,7 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Chin Seng</p>
+<p>Ms Lim Tze Xin</p>
 </td>
 </tr>
 <tr>
@@ -219,17 +219,6 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Tay Hui En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 George</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Tze Xin</p>
 </td>
 </tr>
 <tr>
@@ -793,18 +782,10 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ras</p>
+<p>Mr Vellasamy Rasandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sng Chin Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -821,6 +802,14 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gear Up and Pastoral Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Madeline Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
 </td>
 </tr>
 </tbody>
