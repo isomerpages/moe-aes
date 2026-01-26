@@ -804,6 +804,14 @@ any one of the teachers.</p>
 <p>Gear Up and Pastoral Care</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Madeline Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
