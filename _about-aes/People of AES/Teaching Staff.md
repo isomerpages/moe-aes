@@ -782,18 +782,10 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ras</p>
+<p>Mr Vellasamy Rasandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sng Chin Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
 </td>
 </tr>
 <tr>
