@@ -4,7 +4,8 @@ title: Assumption English School
 description: Assumption English School
 image: /images/AES_MGEI_landscape.png
 permalink: /
-notification: ""
+notification: Dear Parents, 23rd Mar (Mon) is a designated off-in-lieu day. The
+  school will be closed, including the General Office.
 sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif
@@ -18,15 +19,6 @@ sections:
         - title: AES School Prospectus 2025
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
-  - infopic:
-      title: Secondary 1 Registration
-      id: infopic
-      description: We warmly welcome our new Secondary 1 Students and Parents. You can
-        find useful information in the link.
-      button: Click Here to Find out more!
-      url: https://assumptionenglish.moe.edu.sg/secondary-1-registration-2026/
-      image: /images/Welcome.jpg
-      alt: Welcome Banner
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""
