@@ -72,51 +72,52 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>Secondary 1</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S1__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2026_Sed.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S1__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2026_Sed__2_.png">
 </div>
 <p><strong>Secondary 2</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S2__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2026_Sed.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S2__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2026_Sed__2_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S2__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2026_Sed__3_.png">
 </div>
 <p><strong>Secondary 3</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S3__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_2026_Sed.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S3__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_2026_Sed__2_.png">
 </div>
 <p><strong>Secondary 4</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S4__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2026_Sed.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S4__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2026_Sed__2_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S4__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2026_Sed__3_.png">
 </div>
 <p><strong>Secondary 5</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexED_2026_S5__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5_2026_Sed.png">
 </div>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
 <p>8.&nbsp;<em>eTeens</em> is a programme that was developed by Health Promotion
@@ -136,8 +137,9 @@ their family, and the importance of responsible decision-making and seeking
 help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Assumption English School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eteens_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_teens.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
