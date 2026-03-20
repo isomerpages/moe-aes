@@ -34,6 +34,14 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Siti Suriati Binte Mohammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr New Lam Heng</p>
 </td>
 <td rowspan="1" colspan="1">
