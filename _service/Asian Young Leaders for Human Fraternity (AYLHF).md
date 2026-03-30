@@ -64,6 +64,10 @@ forms a delectable dish that pleases the palette of many. In addition,
 the mass assembly programme in the school hall showcases cultural performances
 by each school which all students enjoy!&nbsp;</p>
 <p>Find out more about AYLHF <strong><a href="https://go.gov.sg/aylhf-aes" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o_kRC26teBQ?si=a-0r4D1l1SH302mQ"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AYLHF/AYLHF___3.png">
 </div>
