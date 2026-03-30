@@ -4,8 +4,7 @@ title: Assumption English School
 description: Assumption English School
 image: /images/AES_MGEI_landscape.png
 permalink: /
-notification: Dear Parents, 23rd Mar (Mon) is a designated off-in-lieu day. The
-  school will be closed, including the General Office.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif
