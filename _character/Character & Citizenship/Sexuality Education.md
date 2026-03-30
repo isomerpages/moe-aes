@@ -71,6 +71,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2026_Sed.png">
 </div>
