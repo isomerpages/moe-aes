@@ -116,7 +116,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <p><strong>Secondary 5</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5_2026_Sed.png">
 </div>
@@ -138,7 +137,6 @@ their family, and the importance of responsible decision-making and seeking
 help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Assumption English School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_teens.png">
 </div>
@@ -157,4 +155,4 @@ at the start of the year and is also available <a href="https://form.gov.sg/6953
 form is to be submitted by 13/03/2026.</p>
 <p>13.&nbsp;Parents can contact the school at 65729100 or aes@moe.edu.sg
 for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+programme</p>
