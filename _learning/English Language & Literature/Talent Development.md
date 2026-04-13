@@ -21,6 +21,7 @@ magazine.</p><a class="isomer-image-wrapper" href="go.gov.sg/aes-manna"><img sty
 and festivals.</p>
 </li>
 </ul>
+<p></p>
 <blockquote>
 <h4><strong>National Schools Literature Festival 2025</strong></h4>
 </blockquote>
@@ -38,11 +39,11 @@ Singapore.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CQGSH8As7G8?si=i7-NZXbed1_9cYN1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CQGSH8As7G8?si=i7-NZXbed1_9cYN1"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/41_9jjPsXEY?si=YoDB8EF_gYAWGCAT"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/41_9jjPsXEY?si=YoDB8EF_gYAWGCAT"></iframe>
 </div>
 <p></p>
 <blockquote>
