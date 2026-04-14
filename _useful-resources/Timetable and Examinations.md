@@ -16,7 +16,16 @@ variant: tiptap
 <br><a href="/files/Sec_4_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 4 WA1 Schedule</a>
 <br><a href="/files/Sec_5_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 5 WA1 Schedule</a>
 </p>
-<p></p>
+<p><strong>WA2 Schedule</strong>
+<br><a href="/files/2026_Sec_1_WA2_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
+<br><a href="/files/2026_Sec_2_WA2_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2 Schedule</a>
+<br><a href="/files/2026_Sec_3_WA2_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 Schedule</a>
+<br><a href="/files/2026_Sec_4_WA2_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 WA2 Schedule</a>
+<br><a href="/files/2026_Sec_5_WA2_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 WA2 Schedule</a>
+</p>
 <p>
 <br>
 </p>
+<p></p>
+<p></p>
+<p></p>
