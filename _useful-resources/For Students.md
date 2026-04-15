@@ -10,6 +10,7 @@ description: ""
 <p><a href="https://www.instagram.com/assumptionenglishsch" rel="noopener nofollow" target="_blank">AES Official Instagram</a>
 <br><a href="https://go.gov.sg/aes-manna" rel="noopener noreferrer nofollow" target="_blank"><u>AES Manna: Nourishing Minds, Enriching Souls</u></a>
 <br><a href="https://www.instagram.com/aes_sc/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>AES Student Council Instagram</u></a>
+<br><a href="https://www.flickr.com/photos/aes-publicity-comm/albums/" rel="noopener nofollow" target="_blank">Caught on Camera: AES Edition (Official Flickr Photo Album)</a>
 <br>
 </p>
 <blockquote>
