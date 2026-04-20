@@ -249,7 +249,7 @@ Over the past years, we have nurtured and developed many outstanding Judokas
 who have represented our Singapore Schools Team as well as Team Singapore
 at the youth and national levels.</p>
 <p>Our ‘B’ Boys’ and ‘B’ Girls’ Divisions have emerged Top 3 positions in
-the National School Games Judo Championships in 2022 and 2023. Our Judokas
+the National School Games Judo Championships in 2022 to 2024. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
 <blockquote>
@@ -286,11 +286,9 @@ with the FAS provides our footballers the opportunity to be exposed to
 specialised training such as Goalkeeper Strength and Fitness as well as
 Sports Science training, with an emphasis on character development.</p>
 <p>AES Football boys’ teams compete actively at the National School Games
-(NSG) competitions. This year, our ‘B’ Division Boys team competes in League
-5 and ‘C’ Division Boys team competes in League 1. With a dedicated team
-of 5 teacher facilitators overseeing the weekly training sessions, the
-team adopts a developmental approach towards football development in our
-players.</p>
+(NSG) competitions. With a dedicated team of 5 teacher facilitators overseeing
+the weekly training sessions, the team adopts a developmental approach
+towards football development in our players.</p>
 <p>The Football programme at AES aims to instill in our players the following
 outcomes:</p>
 <p>• Good sportsmanship - AssumptionKnights who honour the rules of the game
