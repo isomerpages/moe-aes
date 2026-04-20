@@ -328,14 +328,12 @@ as a car. But apart from the desire for an adrenaline rush, our softball
 girls also need the courage to stand their ground, the determination to
 train for hours in the sweltering heat, and the heart to work closely with
 each of their teammates.</p>
-<p>After months of grueling training each year, the girls test their mettle
-on the pitch, and have never been found wanting. With the grit and tenacity
-they showed in their games, the AES Rangers are always able to come back
-to school with their heads held high.</p>
-<p>Join the AES Softball Rangers to be part of a team with more than 30 years
-of heritage, to develop fortitude and resilience through the sweat you
-put into practice on the field, and to learn mastery both of yourself and
-the sport.</p>
+<p>With competitions, the AES Rangers were able to take to the field and
+play against rivals from other schools. After months of grueling training,
+the girls were able to test their mettle on the pitch, and were not found
+wanting. With the grit and tenacity they showed in each of their games,
+the AES Rangers were able to come back to school with their heads held
+high.</p>
 <blockquote>
 <p><strong><a href="https://www.assumptionenglish.moe.edu.sg/learning/english-language-and-literature/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
 </p>
@@ -363,21 +361,6 @@ Students who show a flair for speaking can showcase their talents in debating
 and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
-<blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/learning-for-life-programme-llp/" rel="noopener nofollow" target="_blank">Community Youth Leadership</a></strong>
-</p>
-</blockquote>
-<p>Through the school’s "DINAN" Leadership Programme, students can learn
-the core principles of servant leadership, inspired by St. Louis Marie
-de Montfort's humility and compassion, understanding that genuine leadership
-grows from a foundation of service ("Learn to serve, Serve to lead, Lead
-to Inspire").</p>
-<p>The programme provides authentic service-learning opportunities for students
-to cultivate essential values, develop their capacity to serve effectively,
-and ultimately learn how to lead and inspire others within their school
-community, fostering personal growth, teamwork, and a deep understanding
-of the interconnectedness between serving and leading.</p>
-<p></p>
 <p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
 </p>
 <p><em>Should you have any queries about the school DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively, you can email your queries to: </em><strong><em><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></em></strong>
