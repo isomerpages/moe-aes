@@ -2,6 +2,7 @@ collections:
   0-example-folder:
     output: true
     order:
+      - Key Programmes.md
       - AES Open House 2024.md
       - folder-page.md
       - example-subfolder/.keep
