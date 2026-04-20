@@ -359,6 +359,20 @@ Students who show a flair for speaking can showcase their talents in debating
 and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
+<blockquote>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership</a></strong>
+</p>
+</blockquote>
+<p>Through the school’s "DINAN" Leadership Programme, students can learn
+the core principles of servant leadership, inspired by St. Louis Marie
+de Montfort's humility and compassion, understanding that genuine leadership
+grows from a foundation of service ("Learn to serve, Serve to lead, Lead
+to Inspire").</p>
+<p>The programme provides authentic service-learning opportunities for students
+to cultivate essential values, develop their capacity to serve effectively,
+and ultimately learn how to lead and inspire others within their school
+community, fostering personal growth, teamwork, and a deep understanding
+of the interconnectedness between serving and leading.</p>
 <p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
 </p>
 <p><em>Should you have any queries about the school DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively, you can email your queries to: </em><strong><em><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></em></strong>
