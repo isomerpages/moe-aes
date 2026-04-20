@@ -18,6 +18,14 @@ sections:
         - title: AES School Prospectus 2025
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
+  - infopic:
+      title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
+      id: infopic
+      description: Application starts from 6 May to 2 June
+      button: Details here
+      url: https://www.assumptionenglish.moe.edu.sg/others/direct-school-admission-dsa/
+      image: /images/2026_Direct_School_Admission_for_Secondary_Schools__DSA_Sec_.png
+      alt: Image alt text
   - infobar:
       id: infobar
       description: '<div style="text-align: center;"><iframe allowfullscreen=""

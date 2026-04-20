@@ -19,9 +19,7 @@ and non-academic achievements and talents.&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp; <strong>Interest and Passion</strong>
 </p>
 <p>Students who demonstrate an interest or passion in pursuing the chosen
-area may apply. All shortlisted applicants will have to submit a short
-write-up (no more than 200 words) about their interest and passion of the
-chosen DSA area.&nbsp;&nbsp;&nbsp;</p>
+area may apply.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Demonstrated Potential and Aptitude&nbsp;&nbsp;</strong>
 </p>
 <p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Girls &amp; Boys), Floorball (Boys), Football (Boys), Judo (Girls &amp; Boys) and Softball (Girls)</strong>
@@ -30,7 +28,7 @@ chosen DSA area.&nbsp;&nbsp;&nbsp;</p>
 participation in sports. Relevant experience such as representing their
 primary schools at the National School Games (NSG) level or representing
 their sport clubs/academy at external competitions are considered but not
-necessary.</p>
+necessary.&nbsp;&nbsp;</p>
 <p><strong>b.&nbsp;&nbsp;&nbsp; Public Speaking &amp; Debates (Boys &amp; Girls)</strong>
 </p>
 <p>Applicants should demonstrate potential in Public Speaking and/or Debating.
@@ -57,7 +55,7 @@ CCA and successful applicants are still expected to take up a CCA.</p>
 <p>Only shortlisted applicants will receive an invitation to attend a skills
 assessment/trial which will include an evaluation on specific skills related
 to the area applied for, as well as other attributes such as teamwork and
-a growth mind-set.&nbsp;</p>
+a growth mindset.&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interviews with School Key Personnel &amp; Teacher ICs</strong>
 </p>
 <p>The intent of the interview with school key personnel and teacher ICs
@@ -75,7 +73,7 @@ as the trial.</p>
 </p>
 <p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
-<p><u>Key Stages of DSA Application 2025</u>
+<p><u>Key Stages of DSA Application 2026</u>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -95,58 +93,55 @@ as the trial.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2025 (Wednesday)</strong>
+<p><strong>6 May 2026 (Wednesday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11am
-to 3 Jun 2025, 3pm. For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 June 2026, 4:30pm. For more details, please refer to MOE website –
+<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3 June 2025 (Tuesday)</strong>
+<p><strong>2 June 2026 (Tuesday)</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing date of DSA application at 3pm</strong>
+<p><strong>Closing date of DSA application at 4:30pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 3 July 2025 (Thursday)</strong>
+<p><strong>After 29 June 2026 (Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>You will receive notification from the school by 3 July if your child
-has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
-<p></p>
 <p>Shortlisted applicants will be notified and scheduled to attend a Skills
-Assessment &amp; Interview at a specific date.</p>
-<p></p>
-<p>The Skills Assessment &amp; Interview will be held in Assumption English
+Assessment &amp; Interview at a specific date.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>The Skills Assessment and Interview will be held at Assumption English
 School.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Between 25 Aug 2025 (Monday) to 4 Sep 2025 (Thursday)</strong>
+<p><strong>Between 17 August 2026 (Monday) to 28 August 2026 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Notification of DSA-Sec admission results by schools.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>All applicants will receive a letter on the selection outcome ie. Confirmed
-Offer, Waiting list or Unsuccessful between 25 Aug to 4 Sep 2025 from the
-school.</p>
+Offer, Waiting list or Unsuccessful from the school concern.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>27 Oct 2025 (Monday) – 31 Oct 2025 (Friday)</strong>
+<p><strong>19 October 2026 (Monday) – 23 October 2026 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,23 +155,92 @@ System (DSA-Sec IS) or at their primary schools.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Useful MOE Links</u></strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Useful MOE Links:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Main Page</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>DSA-Sec Main Webpage <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Mainstream students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
-<p>Instructions on Application (Mainstream students) <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Non-Mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<p>Instructions on Application (Non Mainstream Students) <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p>(to be accessible on 6 May 2026, 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
-<p>DSA-Sec iFAQs <a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
+<p>(to be accessible on 6 May 2026, 11am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
-<p>DSA-Sec School Finder <a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec iFAQs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec SchoolFinder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><u>More details on the DSA talent areas:</u></strong>
 </p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/judo/" rel="noopener noreferrer nofollow" target="_blank"><u>Judo</u></a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/ccas/sports-and-games/judo/" rel="noopener noreferrer nofollow" target="_blank"><u>Judo</u></a></strong>
 </p>
 </blockquote>
 <p>AES has put in place a good training and developmental programme to develop
@@ -189,7 +253,7 @@ the National School Games Judo Championships in 2022 and 2023. Our Judokas
 have also performed consistently well in other affiliated competitions
 organised by the Singapore Judo Federation.</p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/ccas/sports-and-games/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></strong>
 </p>
 </blockquote>
 <p>The AES Basketball programme aims to develop basketball players with the
@@ -208,7 +272,7 @@ players to turn every opportunity into an opportunity to shine.</p>
 in the West Zone National School Games (NSG) among over 40 other secondary
 schools, as well as at the National level.</p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/ccas/sports-and-games/football-boys/" rel="noopener noreferrer nofollow" target="_blank">Football</a></strong>
 </p>
 </blockquote>
 <p>AES has been endorsed as one of the School Football Academy (SFA) schools.
@@ -235,7 +299,7 @@ and take pride in fair play;</p>
 <p>• Keen sense of focus, commitment and respect for the sport.</p>
 <blockquote>
 <p></p>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/ccas/sports-and-games/floorball-boys/" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
 </blockquote>
 <p><strong>Our aim:</strong> To develop floorballers in character, leadership
@@ -255,7 +319,7 @@ for a fast-paced sport with lots of skills to develop you as a sportsperson
 and opportunities to forge lasting friendships with your teammates, Floorball
 is the CCA for you!</p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/ccas/sports-and-games/softball-girls/" rel="noopener noreferrer nofollow" target="_blank">Softball</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/character/ccas/sports-and-games/softball-girls/" rel="noopener noreferrer nofollow" target="_blank">Softball</a></strong>
 </p>
 </blockquote>
 <p>To a softball player, nothing can quite match the thrill of clinching
@@ -264,16 +328,14 @@ as a car. But apart from the desire for an adrenaline rush, our softball
 girls also need the courage to stand their ground, the determination to
 train for hours in the sweltering heat, and the heart to work closely with
 each of their teammates.</p>
-<p>After months of grueling training each year, the girls test their mettle
-on the pitch, and have never been found wanting. With the grit and tenacity
-they showed in their games, the AES Rangers are always able to come back
-to school with their heads held high.</p>
-<p>Join the AES Softball Rangers to be part of a team with more than 30 years
-of heritage, to develop fortitude and resilience through the sweat you
-put into practice on the field, and to learn mastery both of yourself and
-the sport.</p>
+<p>With competitions, the AES Rangers were able to take to the field and
+play against rivals from other schools. After months of grueling training,
+the girls were able to test their mettle on the pitch, and were not found
+wanting. With the grit and tenacity they showed in each of their games,
+the AES Rangers were able to come back to school with their heads held
+high.</p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/learning/english-language-and-literature/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
 </p>
 </blockquote>
 <p>AES prides itself for having a robust Debating and Public Speaking programme
@@ -299,21 +361,6 @@ Students who show a flair for speaking can showcase their talents in debating
 and oratorical contests and given student emcee roles at school events
 and programmes. We hope to continue building and enhancing students’ love
 for the language through the wide array of programmes we have.</p>
-<blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/student-development/learning-for-life-programme-llp/" rel="noopener nofollow" target="_blank">Community Youth Leadership</a></strong>
-</p>
-</blockquote>
-<p>Through the school’s "DINAN" Leadership Programme, students can learn
-the core principles of servant leadership, inspired by St. Louis Marie
-de Montfort's humility and compassion, understanding that genuine leadership
-grows from a foundation of service ("Learn to serve, Serve to lead, Lead
-to Inspire").</p>
-<p>The programme provides authentic service-learning opportunities for students
-to cultivate essential values, develop their capacity to serve effectively,
-and ultimately learn how to lead and inspire others within their school
-community, fostering personal growth, teamwork, and a deep understanding
-of the interconnectedness between serving and leading.</p>
-<p></p>
 <p><em>For more information about the DSA programme, you can read more&nbsp;</em><strong><em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">HERE</a></em></strong><em>.&nbsp; &nbsp;</em>
 </p>
 <p><em>Should you have any queries about the school DSA programme, please contact Mr Balbinder at Tel: 6572 9100. Alternatively, you can email your queries to: </em><strong><em><a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a></em></strong>
