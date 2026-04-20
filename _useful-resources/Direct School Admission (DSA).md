@@ -141,7 +141,7 @@ Offer, Waiting list or Unsuccessful from the school concern.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>19 October 2026 (Monday) – 23 October 2025 (Friday)</strong>
+<p><strong>19 October 2026 (Monday) – 23 October 2026 (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
