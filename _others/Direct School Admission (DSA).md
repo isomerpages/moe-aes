@@ -4,7 +4,7 @@ permalink: /others/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h3>Direct School Admission (DSA)</h3>
+<h3><u>Direct School Admission (DSA)</u></h3>
 <p>Dear Parents/Guardians and Primary 6 students,</p>
 <p>Direct School Admission for secondary schools (DSA-Sec) allows students
 to apply for a place in the school based on their talents and achievements.</p>
