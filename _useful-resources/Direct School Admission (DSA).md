@@ -218,7 +218,7 @@ System (DSA-Sec IS) or at their primary schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSA-Sec iFAQs</p>
+<p>DSA-Sec FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
