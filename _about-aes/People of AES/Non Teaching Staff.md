@@ -29,7 +29,7 @@ third_nav_title: People of AES
 <p>Mr Emran Bin Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ third_nav_title: People of AES
 <p>Ms Siti Suriati Binte Mohammad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -131,14 +131,6 @@ third_nav_title: People of AES
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jenny Boon Tai Jeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr M Muniyandy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
