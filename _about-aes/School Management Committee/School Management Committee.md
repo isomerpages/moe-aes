@@ -108,7 +108,7 @@ variant: tiptap
 <p>TEO CHEOW TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MEMBER</p>
+<p>MEMBER / FINANCE ADVISOR</p>
 </td>
 </tr>
 <tr>
