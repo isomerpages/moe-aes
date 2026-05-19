@@ -19,7 +19,7 @@ learning, which are essential attributes of all lifelong learners.&nbsp;</p>
 </p>
 </blockquote>
 <p>The strength of mind that enables an AssumptionKnight to encounter adversity
-with courage. It is a steadiness of will in doing food in spite of difficulties
+with courage. It is a steadiness of will in doing good in spite of difficulties
 faced.</p>
 <ul>
 <li>
