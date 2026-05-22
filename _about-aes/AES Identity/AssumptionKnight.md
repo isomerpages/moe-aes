@@ -9,7 +9,7 @@ third_nav_title: AES Identity
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AssumptionKnight_Mascot.jpg">
 </div>
-<h4><u>The AssumptionKnight</u></h4>
+<h4><u>The AssumptionKnight ACE</u></h4>
 <p>The AssumptionKnight serves as the official mascot of Assumption English
 School, representing the core student outcomes of Fortitude, Mastery, and
 Charity. All students of AES are affectionately referred to as AssumptionKnights,
