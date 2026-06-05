@@ -15,9 +15,12 @@ character and leadership qualities.</p>
 <h4><strong>Teachers</strong></h4>
 </blockquote>
 <p>Ms Chan Zhi Jia Valerie
+<br>Ms Li Liliang Lilian
 <br>Miss Sharon Valerie C Co
 <br>Mr Foo Kok Jame
-<br>Ms Li Liliang Lilian&nbsp;</p>
+<br>Ms Li Liliang Lilian&nbsp;
+<br>
+</p>
 <p></p>
 <blockquote>
 <h4><strong>Instructors</strong></h4>
