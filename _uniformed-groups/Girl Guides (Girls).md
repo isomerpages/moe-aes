@@ -8,6 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_2.jpg">
+</div>
 <p></p>
 <blockquote>
 <h4><strong>Motto:</strong></h4>
@@ -20,8 +23,13 @@ our way.</p>
 <p>AES Girl Guides 1st COY is part of the international Girl Guiding and
 Girl Scouting Movement, governed by The World Association of Girl Guides
 and Girl Scouts (WAGGGS).&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_4.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -33,13 +41,18 @@ include World Thinking Day, West Division Fest, and West Division Campfire.
 We also collaborate with other Uniformed Groups (UG) in AES to organise
 events such as a combined UG camp, Passing-out Parade (POP), and the National
 Day Parade.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_3.jpg">
-</div>
 <p>Our weekly activities include outdoor cooking, learning essential outdoor
 skills like knot-tying, and earning various badges such as [First Aid,
 Dance, Sewing]. These activities help strengthen bonds, build life skills,
 enhance leadership, and promote teamwork and discipline.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_6.jpg">
+</div>
+<p></p>
 <blockquote>
 <h4><strong>Activities/Achievements</strong></h4>
 </blockquote>
@@ -62,6 +75,7 @@ enhance leadership, and promote teamwork and discipline.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (Gold)</p>
 <p>West Division Festival
 <br>- 1st for The Guiding Lens
 <br>- 2nd for Real to Reel Challenge
@@ -114,10 +128,6 @@ enhance leadership, and promote teamwork and discipline.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_4.jpg">
-</div>
-<p></p>
 <blockquote>
 <h4><strong>Teachers/Coaches</strong></h4>
 </blockquote>
@@ -143,7 +153,8 @@ enhance leadership, and promote teamwork and discipline.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rossellini Tan
-<br>Ms Teo Sin En</p>
+<br>Ms Teo Sin En
+<br>Ms Mary Claire John</p>
 </td>
 </tr>
 </tbody>
@@ -151,11 +162,15 @@ enhance leadership, and promote teamwork and discipline.</p>
 <blockquote>
 <h4><strong>CCA Training Schedule</strong></h4>
 </blockquote>
-<p>Tuesdays, 3.00 pm to 5.00 pm</p>
+<p>Tuesdays, 3.15 pm to 5.15 pm</p>
 <p>
 <br>
 </p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_2.jpg">
+</div>
 <p></p>
