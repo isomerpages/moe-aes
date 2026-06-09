@@ -66,7 +66,8 @@ character and leadership qualities.</p>
 <blockquote>
 <h4><strong>Write ups from our very own Band members</strong></h4>
 </blockquote>
-<p>Being the Band Major has been one of the most meaningful experiences of
+<p><strong><em>Cheah Cen Ning, Class 4G</em></strong>
+<br>Being the Band Major has been one of the most meaningful experiences of
 my school life, alongside serving as a Student Councillor. Over time, I’ve
 learnt to understand and support others, realizing that everyone grows
 at their own pace. Balancing leadership with my studies and managing challenging
@@ -75,16 +76,18 @@ Although I once struggled with confidence, these experiences have helped
 me grow into a more capable leader. I am deeply grateful for the opportunity
 to lead the band and for the support of my juniors and friends. I hope
 the band continues to flourish with pride and passion.</p>
-<p>~ Cheah Cen Ning, Class 4G</p>
-<p>As the Drum major of the Band, I am entrusted with the responsibility
+<p></p>
+<p><strong><em>Iryan Danial Bin Abdul, Class 4R</em></strong>
+<br>As the Drum major of the Band, I am entrusted with the responsibility
 of guiding our band members on the right path. It is essential for me to
 lead in a way that makes everyone feel included and ensures we all have
 a great time together. Personally, I believe our band's spirit is fantastic,
 and our musical performance is quite strong. I took part in the Papal mass
 in 2024, exposing me to perform in front of a large audience. This made
 me learn how to be confident in my skills and helped me to improve overall.</p>
-<p>~ Iryan Danial Bin Abdul, Class 4R</p>
-<p>Taking up the role of Student Conductor of the Band has been one of the
+<p></p>
+<p><strong><em>Muhammad Farishta Bin Muhammad Fahmi, Class 4N</em></strong>
+<br>Taking up the role of Student Conductor of the Band has been one of the
 most meaningful experiences of my life. It has provided me with valuable
 opportunities to develop my leadership skills.. Through this journey, I
 have learnt to better understand others, communicate effectively, and step
@@ -97,8 +100,10 @@ and for the guidance and support from both teachers and fellow band members
 throughout the years. Their encouragement has played an important role
 in my growth, and I will always value the lessons I have learnt from this
 experience.
-<br>~ Muhammad Farishta Bin Muhammad Fahmi, Class 4N</p>
-<p>Being in the band gives me a sense of responsibility. This role requires
+<br>
+</p>
+<p><strong><em>Rex Low Yu Liang, Class 4V</em></strong>
+<br>Being in the band gives me a sense of responsibility. This role requires
 me to remain focused at all times and not be distracted by my surroundings.
 Through this experience, I have learned the importance of discipline, concentration,
 and leading by example.</p>
@@ -107,9 +112,7 @@ meaningful. I have grown not only as a musician, but also as an individual.
 The time spent with my bandmates and teachers has been truly memorable,
 and I deeply appreciate their guidance, support, and dedication.</p>
 <p>I am grateful for these experiences and will carry the lessons I have
-learned with me beyond my time in the band.</p>
-<p>~ Rex Low Yu Liang, Class 4V</p>
-<p>
+learned with me beyond my time in the band.
 <br>
 </p>
 <h4><strong><u>The AES Concert Band: A Harmonious Journey to SYF 2025 and Festival Winds</u></strong></h4>
