@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GG_Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls Guide/0__GG_Photo_1.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <h4><strong>Motto:</strong></h4>
