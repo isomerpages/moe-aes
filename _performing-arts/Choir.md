@@ -34,15 +34,11 @@ skills from highly regarded choral conductors.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/2_CNY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/Choir_CNY_2026.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/3_Masterclass.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/4_Sing_Intl_Chorale_Fest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/Choir_NWCDC.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -54,12 +50,11 @@ skills from highly regarded choral conductors.</p>
 </blockquote>
 <p>Let's hear from our chorister on how they feel about joining AES Choir.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/5_Dayyan__Choir_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/Student_Cheah_Bo_Yi_comment.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/6_Sophia__Choir_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir/Student_Arpita_comment.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
