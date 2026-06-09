@@ -44,6 +44,39 @@ motto: “Humanity in our hands”.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director’s Award - Warrant Officer Shanmugaraj Dhivyashree</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award - Silver Award (for 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Senior Team) - Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Aid Championship (Junior Team) - Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025</strong>
 </p>
 </td>
@@ -132,23 +165,6 @@ motto: “Humanity in our hands”.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>First Aid Championship (Senior Team) - Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Excellent Unit Award - Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Red Cross Youth Director's Award - Warrant Officer Nicole Helena Ong Ersando</p>
 </td>
 </tr>
 </tbody>
