@@ -4,7 +4,8 @@ title: Assumption English School
 description: Assumption English School
 image: /images/AES_MGEI_landscape.png
 permalink: /
-notification: ""
+notification: From 2nd to 26 Jun, the working hours for the School Bookshop will
+  be from 9am to 1230pm.
 sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif

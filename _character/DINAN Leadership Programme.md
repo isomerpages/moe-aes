@@ -1,6 +1,6 @@
 ---
-title: Learning for Life Programme (LLP)
-permalink: /character/learning-for-life-programme-llp/
+title: DINAN Leadership Programme
+permalink: /character/dinan-leadership/
 description: ""
 variant: tiptap
 ---

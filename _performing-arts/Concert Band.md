@@ -15,15 +15,16 @@ character and leadership qualities.</p>
 <h4><strong>Teachers</strong></h4>
 </blockquote>
 <p>Ms Chan Zhi Jia Valerie
+<br>Ms Li Liliang Lilian
 <br>Miss Sharon Valerie C Co
-<br>Mr Foo Kok Jame
-<br>Ms Li Liliang Lilian&nbsp;</p>
+<br>Mr Foo Kok Jame &nbsp;
+<br>Ms Karen Lim Yen Choon</p>
 <p></p>
 <blockquote>
 <h4><strong>Instructors</strong></h4>
 </blockquote>
-<p>Mr Joseph Chong Ze Bin
-<br>Mr Joey Aston Lim</p>
+<p>Mr Gavilan Neo
+<br>Mr Juan Maringka</p>
 <p></p>
 <blockquote>
 <h4><strong>CCA Training Schedule</strong></h4>
@@ -33,70 +34,87 @@ character and leadership qualities.</p>
 <blockquote>
 <h4><strong>Student Leaders</strong></h4>
 </blockquote>
-<p>Secondary 3:
-<br>Iryan Danial Bin Abdul (3R) - Drum major
-<br>Cheah Cen Ning (3G) - Band major</p>
 <p>Secondary 4:
-<br>Joodi Faeezah Binte Fahizal (4/4) - Drum Major
-<br>Christine Chua Ying Suan (4/5) – Band Major</p>
+<br>Iryan Danial Bin Abdul (4R) - Drum major
+<br>Cheah Cen Ning (4G) - Band major</p>
+<p>Secondary 3:
+<br>Matilda Kyrstie Tanuwidjaja (3G) - Drum Major
+<br>Clara Hee Yen Lin (3G) – Band Major</p>
 <blockquote>
 <h4><strong>Achievements &amp; Performances</strong></h4>
 </blockquote>
 <ol data-tight="true" class="tight">
 <li>
-<p>SYF – Certificate of Accomplishment (2023,2025)</p>
+<p>SYF – Certificate of Accomplishment (2023, 2025)</p>
 </li>
 <li>
 <p>Performance at Papal Mass (2024)</p>
 </li>
 <li>
-<p>Festival Winds (Dec 2023, 2024,2025)</p>
+<p>Festival Winds (Dec 2023, 2024, 2025)</p>
 </li>
 <li>
-<p>Visual Performing Arts (VPA) CCA Showcase: Illumier (March 2024)</p>
+<p>Visual Performing Arts (VPA) CCA Showcase: Jouons Ensemble! (April 2026)</p>
 </li>
 <li>
-<p>School band exchanges at Majusri Secondary School and Ahmad Ibrahim Secondary
-School</p>
+<p>School band exchanges at Compassvale Secondary School</p>
 </li>
 <li>
-<p>Internal performances - AYLHF, National Day Celebrations</p>
+<p>Internal performances - National Day Celebrations</p>
 </li>
 </ol>
 <blockquote>
 <h4><strong>Write ups from our very own Band members</strong></h4>
 </blockquote>
-<p>I am Christine, the band major of my school’s band. In band, I have participated
-in several exchange programs with other schools, allowing me to gain valuable
-experience in playing pieces correctly and accurately. One of the most
-memorable moments was performing during the Pope’s Mass. Although it was
-my first time performing in front of such a large audience, it was an incredible
-opportunity to collaborate with musicians from other schools and be part
-of such a significant event.</p>
-<p>Being in the band has taught me many important values. For example, I
-learnt the importance of taking care of my instrument and bringing it home
-for practice, as well as ensuring it is brought back on CCA days. Failing
-to do so would mean missing out on practice, ultimately wasting valuable
-time.
-<br>~Christine Chua Ying Suan, class 4/5</p>
-<p>Being in a band has been amazing! The friendships, love of music, and
-excitement of playing for performances have been so rewarding. Practices
-were tough, but they helped us get better and create something awesome.
-Playing performances, from school concerts to the Singapore Youth Festival,
-was electric. The crowd's energy and feeling connected with my bandmates
-made memories which l always treasure. Every show was a lesson, making
-us better and more confident. The good times were great, and the bad times
-taught us a lot. It was more than just music; it was a journey of growth
-and friendship.
-<br>~See Jing Jing, Class 4/4</p>
-<p>I’m Cen Ning from 3 George, and as a trumpet player in the AES Concert
-Band, I love sharing my passion for music. Through events like band exchanges
-and Festival Winds 2024, I’ve learned valuable skills, such as breath control
-and shaping musical phrases, by collaborating with other bands. Concert
-Band has also taught me dedication, perseverance and the joy of playing
-together. Ultimately, being part of a small band is about quality, not
-quantity, and our unity defines our success.
-<br>~ Cheah Cen Ning, Class 3G</p>
+<p><strong><em>Cheah Cen Ning, Class 4G</em></strong>
+<br>Being the Band Major has been one of the most meaningful experiences of
+my school life, alongside serving as a Student Councillor. Over time, I’ve
+learnt to understand and support others, realizing that everyone grows
+at their own pace. Balancing leadership with my studies and managing challenging
+situations taught me to confront problems maturely rather than avoid them.
+Although I once struggled with confidence, these experiences have helped
+me grow into a more capable leader. I am deeply grateful for the opportunity
+to lead the band and for the support of my juniors and friends. I hope
+the band continues to flourish with pride and passion.</p>
+<p></p>
+<p><strong><em>Iryan Danial Bin Abdul, Class 4R</em></strong>
+<br>As the Drum major of the Band, I am entrusted with the responsibility
+of guiding our band members on the right path. It is essential for me to
+lead in a way that makes everyone feel included and ensures we all have
+a great time together. Personally, I believe our band's spirit is fantastic,
+and our musical performance is quite strong. I took part in the Papal mass
+in 2024, exposing me to perform in front of a large audience. This made
+me learn how to be confident in my skills and helped me to improve overall.</p>
+<p></p>
+<p><strong><em>Muhammad Farishta Bin Muhammad Fahmi, Class 4N</em></strong>
+<br>Taking up the role of Student Conductor of the Band has been one of the
+most meaningful experiences of my life. It has provided me with valuable
+opportunities to develop my leadership skills.. Through this journey, I
+have learnt to better understand others, communicate effectively, and step
+out of my comfort zone to adapt to different environments—often working
+behind the scenes.</p>
+<p>These experiences have shaped me significantly, allowing me to grow not
+only as a leader, but also as a supportive peer and a more thoughtful individual.
+I am truly grateful for the opportunity to serve as Student Conductor,
+and for the guidance and support from both teachers and fellow band members
+throughout the years. Their encouragement has played an important role
+in my growth, and I will always value the lessons I have learnt from this
+experience.
+<br>
+</p>
+<p><strong><em>Rex Low Yu Liang, Class 4V</em></strong>
+<br>Being in the band gives me a sense of responsibility. This role requires
+me to remain focused at all times and not be distracted by my surroundings.
+Through this experience, I have learned the importance of discipline, concentration,
+and leading by example.</p>
+<p>Over the past four years, my journey with the band has been incredibly
+meaningful. I have grown not only as a musician, but also as an individual.
+The time spent with my bandmates and teachers has been truly memorable,
+and I deeply appreciate their guidance, support, and dedication.</p>
+<p>I am grateful for these experiences and will carry the lessons I have
+learned with me beyond my time in the band.
+<br>
+</p>
 <h4><strong><u>The AES Concert Band: A Harmonious Journey to SYF 2025 and Festival Winds</u></strong></h4>
 <p>The AES Concert Band has become a cornerstone of musical excellence, captivating
 audiences with their dynamic performances and dedication to the craft.
