@@ -4,16 +4,15 @@ permalink: /character/ccas/sports-and-games/football-boys/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/B_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/Football_B_Boys.jpg">
 </div>
-<p><strong><em>B-Div Team</em></strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/C_Boys.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football/Football_C_Boys.jpg">
 </div>
-<p><strong><em>C-Div Team</em></strong>
-</p>
+<p></p>
 <blockquote>
 <h4><strong>About Us</strong></h4>
 </blockquote>
@@ -64,6 +63,18 @@ game and take pride in fair play;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finished 3<sup>rd</sup> in Pool ‘C’ Round, 2<sup>nd</sup> in League 3 Group
+stage – ‘B’ Division Boys</p>
+<p>Finished 2<sup>nd</sup> in Pool ‘A’ Round, currently competing in League
+1 – ‘C’ Division Boys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025</strong>
 </p>
 </td>
@@ -104,15 +115,6 @@ Boys</p>
 <td rowspan="1" colspan="1">
 <p>Finished 5th in the group stages – ‘B’ Division Boys</p>
 <p>Finished 4th in the group stage – ‘C’ Division Boys</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) ‘B’ Division Boys -Qualified in League 3</p>
 </td>
 </tr>
 </tbody>
