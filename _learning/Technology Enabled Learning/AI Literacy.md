@@ -101,7 +101,9 @@ The <strong>AI-enabled features in SLS </strong>have additional guardrails
 to ensure a safe learning experience for students.</p>
 <p>Concurrently, teachers regularly participate in <strong>professional development (PD) sessions </strong>to
 discuss the impact of AI on teaching and learning.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI_In_SLS_Overview_2025.png">
+</div>
 <p></p>
 <p></p>
 <p>
