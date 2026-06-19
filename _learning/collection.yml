@@ -2,7 +2,7 @@ collections:
   learning:
     output: true
     order:
-      - Humanities/Humanities.md
+      - Humanities/Overview.md
       - Humanities/.keep
       - English Language & Literature/.keep
       - English Language & Literature/Overview.md
