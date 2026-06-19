@@ -13,13 +13,14 @@ carefully planned by AES teachers.
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="171" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcicNcmeP8Pp0HkkceRjjnZTwGY5dAqUcS9lbLw5ZxpCwqn5Cxl2wc51-07geYDMmWgJ8Tz4hJqLjCPM5htxL91dhCy1OZtlg8yvrhzKnaqdRUVcdAPLDr9TfpWEjx4zcAyYWHmYQ?key=9qfy30unSGPtN0n9ayxUZg">
 </div>
-<p>From 2025, the PLD bundle used by AES students is:</p>
+<p>From 2026, the PLD bundle used by AES students is:</p>
 <ul>
 <li>
-<p>Apple iPad 10.9” 10th Gen (64GB)</p>
+<p>Apple iPad 11-inch (A16)</p>
 </li>
 <li>
-<p>Accessories: Apple Pencil USB-C + Logitech Ruggedized Combo Keyboard</p>
+<p>Accessories: Apple Pencil USB-C + Logitech Rugged Combo 4 Keyboard + Matte
+Screen Protector</p>
 </li>
 </ul>
 <p><strong>iPads </strong>are chosen for their variety of affordances, including
