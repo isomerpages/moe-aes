@@ -5,15 +5,93 @@ description: ""
 variant: tiptap
 third_nav_title: Humanities
 ---
-<p><strong>Humanities@AES aims to be REAL and RELEVANT for all AssumptionKnights.</strong> 
-<br>In the constantly evolving world, we continue to help our learners stay
-abreast with current affairs in our classrooms, leveraging on the use of
-technology to bring the world closer to our learners, encouraging them
-to take on the hats of thoughtful Geographers, empathetic Historians and
-keen learners of Social Studies, so that they may become Men and Women
-who possess a heart for service and a mind that is ready to advocate for
-positive change.</p>
+<p>The Humanities Department in AES strives to bring about <strong>REAL </strong>and <strong>RELEVANT </strong>learning
+experiences for our learners. In a constantly evolving world, we continue
+to nurture habits of critical thought and perspectives, leveraging on the
+use of technology to bring the world closer to AssumptionKnights.&nbsp;</p>
+<p>AssumptionKnights are encouraged to take on the hats of thoughtful Geographers,
+empathetic Historians and be keen learners of Social Studies, so that they
+may become Men and Women who possess a heart for service, and a mind that
+is ready to advocate for positive change.</p>
+<blockquote>
+<p>Our Signature Programmes&nbsp;</p>
+</blockquote>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Humanities Investigation Projects based on Inquiry-based Approaches</strong>
+</p>
+</li>
+</ol>
+<p>Lessons and projects are carefully designed using the Inquiry Model to
+infuse real-life, authentic scenarios suited for each level of learners
+to explore issues at hand, encouraging deeper thought through socratic
+conversations and collaborative learning with peers.</p>
+<p>Lower Secondary learners go through various investigative projects to
+apply the concepts learnt and to demonstrate their learning and/or advocate
+for change/ improvements through creativity and imagination.</p>
+<p>Upper Secondary learners continue to exercise their analytical minds through
+more open Inquiry learning processes and a stronger emphasis on values
+such as empathy for others.</p>
+<p>Read more here about our Inquiry-Based Learning approaches</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Humanities READ Programme</strong>
+</p>
+</li>
+</ol>
+<p>To connect our learners to the real-world issues, relevant news articles
+aligned to the syllabuses are curated and published on our Humanities READ
+website, enabling AssumptionKnights to draw relevance from authentic situations
+to make connections to their learning in school.&nbsp;</p>
+<p>By promoting access to current affairs and injecting fun elements through
+our reflection questions, AssumptionKnights are encouraged to deepen their
+awareness and understanding of real-world issues, and nurture civic and
+global consciousness.</p>
+<p>Read more here about our department’s journey to advocate for REAL and
+RELEVANT Humanities Learning through current affairs.
+<br>
+</p>
+<blockquote>
+<p>Subjects Offered&nbsp;</p>
+</blockquote>
+<p><strong><u>Lower Secondary</u></strong>
+</p>
+<ul>
+<li>
+<p>Humanities Exposure Modules (HEMs)</p>
+</li>
+<li>
+<p>Geography</p>
+</li>
+<li>
+<p>History</p>
+</li>
+<li>
+<p>Literature</p>
+</li>
+</ul>
+<p><u>Upper Secondary</u>
+</p>
+<ul>
+<li>
+<p>Full Geography</p>
+</li>
+<li>
+<p>Full Literature</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Geography)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, History)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Literature)</p>
 <p></p>
+</li>
+</ul>
+<p><em>Please refer to the <a href="https://www.assumptionenglish.moe.edu.sg/learning/english-language-and-literature/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>English Language &amp; Literature</u></a> page for more information on Literature subjects.</em>
+</p>
 <h4><strong><u>Curriculum Structure</u></strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -87,119 +165,4 @@ Modules&nbsp;(Geography, History and Literature)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Key Programmes</u></strong></h4>
-<h5><strong>Lower Secondary Geographical Investigation</strong></h5>
-<p>In Geography, the Lower Secondary students were able to meaningfully examine
-the rainforest environment in Dairy Farm Nature Park and conduct site observation
-surveys at Bangkit Housing Estate for their investigations. The Secondary
-Two fieldwork process culminated with the design of their ‘Dream Neighbourhood’,
-enabling them to use their creativity and imagination to work towards better
-quality of life and town sustainability in their proposed neighbourhoods.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_GI___Photo_1__Sec_1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_GI___Photo_2__Sec_1_.jpg">
-</div>
-<h5><strong>Lower Secondary Historical Investigation</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Lower_Sec_HI_3.jpg">
-</div>
-<h4><strong><u>Upper Secondary Humanities</u></strong></h4>
-<p>AssumptionKnights continue to use the Inquiry Model to guide their thought
-processes to articulate their opinions, whilst exercising empathy through
-active listening for other ideas shared.</p>
-<p>For example, in History classrooms, AssumptionKnights develop empathy
-towards the different groups of people who lived during Hitler’s rule.
-For Social Studies, learners apply their learnt knowledge into the level
-Values-in-Action projects in conjunction with the school’s Empathy Week,
-evaluating if people with disabilities have sufficient support. Geography
-students also deepen their knowledge on physical-human interactions through
-topics in Geography in Everyday Life, Climate and Tourism. Opportunities
-to exercise their analytical minds are created through more open Geographical
-Investigations at the upper secondary levels.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI___7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Upper_Sec_HI__8.jpg">
-</div>
-<h4><strong>G1 Humanities (including Humanities Exposure Modules (HEMs))</strong></h4>
-<p>The G1 Social Studies syllabuses are organised around broad issues which
-will anchor class discussions. In exploring the real-world societal issues
-in the syllabuses using the inquiry-based learning model, our learners
-learn to extract, analyse and evaluate information whilst working with
-one another towards common Performance Tasks and HEMs (Geography, History
-and Literature). Through application, they develop collaborative skills,
-as well as deepen their understanding of society and the world they live
-in.
-<br>
-<br>Click on the link below to access the Humanities Curriculum Site!
-<br><strong><a href="https://go.gov.sg/aeshumanities" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/aeshumanities</u></a></strong>
-</p>
-<h4><strong><u>Subjects offered</u></strong></h4>
-<p><u>Lower Secondary</u>
-<br>Social Studies
-<br>Geography
-<br>History</p>
-<p><u>Upper Secondary</u>
-<br>Full Geography
-<br>Full Literature
-<br>Humanities (Social Studies, Geography)
-<br>Humanities (Social Studies, History)
-<br>Humanities (Social Studies, Literature)</p>
-<p><em>Please refer to English Language &amp; Literature for more information on Literature subjects.</em>
-</p>
-<p></p>
-<h4><strong>AES Humanities READ</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/HUMANS_READ_4.jpg">
-</div>
-<p></p>
-<p>Click on the&nbsp;link below to access the Humanities Reading Site!
-<br><strong><a href="http://go.gov.sg/aeshumsread" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/aeshumsread</a></strong>
-</p>
-<p>
-<br>
-</p>
 <p></p>
