@@ -55,8 +55,19 @@ planning how to enhance teaching and learning using technology.</p>
 enhance teaching and learning in the classroom. A few examples are highlighted
 below.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="156" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqkF91DCvEaBZqBQUiVrsnRxzhYfsg5Oqyg1yrA92WoWtJd_bCxVoqw2skLSQvdA0wy5LDuAPEP-uapnIpcxRABvjr3gUulFAnlg0S-L_7YCXUFeLfy21K1ijQB3ZtRz1LYargJQ?key=62aycsoHAgaAUdVy-_MnNg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech_tools_in_classroom__for_website_ICT_page__2026.jpg">
 </div>
+<p>The <strong>Singapore Student Learning Space (SLS) </strong>- MOE's core
+platform for teaching and learning - is used extensively at AES. By 2026, <strong><u>all AES teachers have completed the SLS certification</u></strong> -
+a certification by MOE’s Educational Technology Division to enhance teachers’
+proficiency in using SLS for teaching and learning.&nbsp; This highlights
+AES teachers’ strong competency in assigning SLS resources and authoring
+their own SLS modules.&nbsp;</p>
+<p>Additionally, AES students get the benefit of learning from <strong>exclusively-Apple apps</strong>,
+such as Goodnotes (for note-taking), SketchUp (for Design &amp; Technology)
+and GarageBand (for Music). This is only possible because the PLD used
+in AES is an <strong><u>iPad</u> </strong>(see page <a href="https://www.assumptionenglish.moe.edu.sg/learning/ict/personal-learning-devices-plds/" rel="noopener noreferrer nofollow" target="_blank"><u>“Personal Learning Devices (PLDs)</u></a> for
+more information).</p>
 <h4><strong>Hear from our students!</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="351" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfN-2TFwInm5Unn0OyfcwVcYWYHqdaxlE0aQCg-yJgRRyG-Q3Yskhf-dMPa86id5po9dQwIS0Q6pQHhx1VJK-gQ2_FoXIWyV6k8C4q15GdjQfSy4EZbtFW92dlQyINg79p6X3TV?key=62aycsoHAgaAUdVy-_MnNg">
