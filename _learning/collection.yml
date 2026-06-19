@@ -4,7 +4,7 @@ collections:
     order:
       - English Language & Literature/.keep
       - English Language & Literature/Overview.md
-      - English Language & Literature/Applied Learning Programme.md
+      - English Language & Literature/SPEAK Programme.md
       - English Language & Literature/Theatrical Experience.md
       - English Language & Literature/Talent Development.md
       - Mother Tongue Languages/.keep
@@ -20,7 +20,10 @@ collections:
       - Science/Overview.md
       - Science/Science Experiential Projects (SEP).md
       - Science/Young Scientists Programme (YSP).md
-      - Humanities.md
+      - Humanities/.keep
+      - Humanities/Overview.md
+      - Humanities/Inquiry Based Learning.md
+      - Humanities/Humanities READ Programme.md
       - Craft & Technology.md
       - Physical Education (PE).md
       - Technology Enabled Learning/.keep

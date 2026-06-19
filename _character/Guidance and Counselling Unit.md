@@ -24,8 +24,9 @@ educational needs by providing direct intervention through individual/small
 group intervention support or in-class support.</p>
 <p>You can schedule an appointment by approaching your form teacher or staff
 in the general office for a referral. Alternatively, you can email us directly.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guidance_and_Counselling_Department.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guidance___Counselling_Dept.png">
 </div>
 <h4><strong>Education and Career Guidance</strong></h4>
 <p>Please visit the following Google Site to access information on post-secondary
@@ -33,14 +34,14 @@ pathways and possibilities, and to find out about ECG-related activities:</p>
 <p><a href="https://for.edu.sg/aesmapresources" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/aesmapresources</a>
 <br><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
 <br><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> 
-<br><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a> 
+<br><a href="https://discover.nyc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://discover.nyc.gov.sg/</a>
 </p>
 <h4><strong>A Back-to-School Programme for Out-of-School Youths</strong></h4>
 <p>Project Starfish is an initiative run by Society of Starfish Singapore
 (SSS) and supported by Foundation of Rotary Clubs Singapore. This volunteer-run
 programme aims to support youths who are out of school but motivated to
 continue with their education and achieve an N-level certificate.
-<br><a href="https://societyofstarfishsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">https://societyofstarfishsingapore.com/</a> 
+<br><a href="https://societyofstarfishsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">https://societyofstarfishsingapore.com/</a>
 </p>
 <h4><strong>Youth Engagement</strong></h4>
 <p>HELP123 is a cyber-wellness and digital parenting platform by TOUCH Community

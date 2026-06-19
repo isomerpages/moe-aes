@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Leaders' Investiture 2025" src="/images/AES_Student_Leaders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/SL_2026_Grp_Photo.jpg">
 </div>
-<p></p>
 <h4>Our Vision</h4>
 <p>A vibrant community of respected leaders who lead with humility and serve
 with compassion.</p>
@@ -56,20 +55,22 @@ student leaders who embody these five core leadership practices:</p>
 </li>
 </ul>
 <h4>Key Events</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Empowering_Students_Through_Fostering_AES_Identity_and_School_Spirit.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/SL_2026_AES_identity.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enabling_Students__Voices_Through_Student_Initiated_Projects.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/SL_2026_Student_initiated_project.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Encouraging_Leadership_Through_Exhibiting_The_Spirit_of_Servant_Leadership_min.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/SL_2026_Servant_leadership__1_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Equipping_Leadership_Skills_Through_Training_and_Opportunities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/SL_2026_Leadership_training.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

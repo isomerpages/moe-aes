@@ -19,7 +19,7 @@ to school, community and nation.</p>
 <br>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
 development. Students will be recognised with levels of attainment in four
 domains: Participation, Achievement, Leadership and Service.</p>
-<p><strong><u>SUPPORTING YOUR CHILD</u></strong> 
+<p><strong><u>Supporting your child</u></strong> 
 <br>As parents, you play an important role in ensuring your child/ward’s holistic
 and balanced development. Your child/ward benefits most when the emphasis
 on developing values, life skills and your child/ward’s interests and strengths
@@ -48,20 +48,20 @@ when selecting his/her co-curricular activities:</p>
 </p>
 </li>
 </ul>
-<p><strong><u>PARTICIPATION</u></strong> 
+<p><strong><u>Participation</u></strong>
 <br>This domain recognises students’ participation in one school-based <u>Co-Curricular Activity (CCA) that is offered by the school</u>.
 Recognition is based on the number of years of participation and exemplary
 conduct and active contribution to the CCA. Sustained engagement in the
 same CCA allows for progressive development of character, skills, knowledge
 and friendships, and will be accorded higher recognition.</p>
-<p><strong><u>SERVICE</u></strong> 
+<p><strong><u>Service</u></strong> 
 <br>This domain recognises students’ development as socially responsible citizens
 who contribute meaningfully to the community. Every secondary school student
 will contribute at least 6 hours per school year to the community. They
 can choose to embark on a Values-In-Action (VIA) project. Students will
 be recognised for the time they put into planning, service and reflection,
 when participating in a VIA project.</p>
-<p><strong><u>LEADERSHIP</u></strong> 
+<p><strong><u>Leadership</u></strong> 
 <br>This domain recognises students’ leadership development. Recognition is
 accorded to students’ ability to take charge of personal development, work
 in a team and assume responsibilities in service of others. In addition
@@ -69,7 +69,7 @@ to formal leadership appointments, participation in student leadership
 modules/workshops, the National Youth Achievement Award (NYAA) and leadership
 positions in the school, CCA or student-initiated/student-led projects
 will also be recognised.</p>
-<p><strong><u>ACHIEVEMENT</u></strong> 
+<p><strong><u>Achievement</u></strong> 
 <br>This domain recognises students’ representation and accomplishment in
 co-curricular involvements beyond the classroom. Opportunities for representation
 and accomplishment present valuable learning experiences for students to
