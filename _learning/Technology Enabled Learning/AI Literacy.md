@@ -104,7 +104,8 @@ discuss the impact of AI on teaching and learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI_In_SLS_Overview_2025.png">
 </div>
-<p></p>
+<p><em><sup>Source: Educational Technology Division, MOE</sup></em>
+</p>
 <p></p>
 <p>
 <br>
