@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Humanities/.keep
       - English Language & Literature/.keep
       - English Language & Literature/Overview.md
       - English Language & Literature/SPEAK Programme.md
