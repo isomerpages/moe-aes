@@ -17,7 +17,7 @@ description: ""
 <p>Administrative Information</p>
 </blockquote>
 <p><a href="https://www.assumptionenglish.moe.edu.sg/useful-resources/for-parents/textbooks-n-uniforms/" rel="noopener noreferrer nofollow" target="_blank"><u>Textbooks &amp; Uniforms</u></a>
-<br><a href="/files/Student_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Student Handbook 2025</a>
+<br><a href="/files/Student_Handbook_2026__1_.pdf" rel="noopener nofollow" target="_blank">Student Handbook 2026</a>
 </p>
 <p></p>
 <blockquote>
