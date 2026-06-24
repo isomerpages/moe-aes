@@ -10,7 +10,7 @@ any one of the teachers.</p>
 <p>All enquiries should be emailed to the school's generic email: <a href="mailto:aes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aes@moe.edu.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_EDUCATION_OFFICERS_S8R_GROUP_FORMAL_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALL_EDUCATION__TEMP__S8R_GROUP_compress.jpg">
 </div>
 <h3>Lower Secondary Teachers</h3>
 <table style="minWidth: 75px">
@@ -506,17 +506,6 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Nabilah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Emmanuel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Dawn Loh Yu Xin</p>
 </td>
 </tr>
@@ -628,6 +617,17 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Yean Ha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur Nabilah</p>
 </td>
 </tr>
 <tr>
