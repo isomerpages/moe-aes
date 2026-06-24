@@ -5,8 +5,14 @@ description: ""
 variant: tiptap
 third_nav_title: People of AES
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXECUTIVE_COMMITTEE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S8R_GROUP___EXCO_compress.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
