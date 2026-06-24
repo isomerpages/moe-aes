@@ -6,7 +6,7 @@ third_nav_title: AES Heritage
 variant: tiptap
 ---
 <p>Inspired by our Spiritual Founder St. Louis Marie de Montfort, AES uses
-stories from his life to encourage AssumptionKnights</p>
+stories from his life to encourage AssumptionKnights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Story_of_Monfort_in_Dinan.jpg">
 </div>
@@ -25,5 +25,8 @@ night either praying or warming and nursing the sick man. Louis Marie saw
 in the poor the person of God Himself.</p>
 <p>This story reminds AssumptionKnights to serve the lost, the last and the
 least, by lending a helping hand to those in need whenever they can.</p>
-<p>“Those whom the world rejects must move you the most.”</p>
-<p>St. Louis Marie Grignion de Montfort</p>
+<p><em>“Those whom the world rejects must move you the most.”</em> - St. Louis
+Marie Grignion de Montfort</p>
+<p></p>
+<p></p>
+<p></p>
