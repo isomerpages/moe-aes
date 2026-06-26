@@ -27,10 +27,10 @@ variant: tiptap
 <p><strong>Bus Services:</strong> 
 <br>67, 170, 176, 178, 961, 961M, 963, 970</p>
 <p><strong>Nearest MRT Station:</strong> 
-<br>Cashew Station (Downtown Line 2)</p>
+<br>Cashew Station (Downtown Line)</p>
 <p><strong>Main Line:</strong> 
 <br>6572 9100 (General Office)</p>
 <p><strong>Fax:</strong> 
 <br>6763 6560</p>
 <p><strong>Email:</strong> 
-<br>aes@moe.edu.sg</p>
+<br>aes@moe.edu.</p>
