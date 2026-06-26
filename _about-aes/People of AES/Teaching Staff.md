@@ -75,6 +75,17 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Jia Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Tze Xin</p>
 </td>
 </tr>
@@ -234,6 +245,17 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yee Bin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,6 +344,17 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Yimeng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 John</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -406,6 +439,17 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Elise Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hin Huat</p>
 </td>
 </tr>
 </tbody>
