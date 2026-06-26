@@ -467,6 +467,17 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fasihah Bte Rahmat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Noel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -540,17 +551,6 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seet Yoke Chee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Adolphus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fasihah Bte Rahmat</p>
 </td>
 </tr>
 <tr>
