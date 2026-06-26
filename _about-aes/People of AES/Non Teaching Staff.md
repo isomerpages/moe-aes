@@ -7,9 +7,8 @@ third_nav_title: People of AES
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_STAFF_S8R_GROUP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS__TEMP__S8R_GROUP_compress.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,7 +68,7 @@ third_nav_title: People of AES
 <p>Ms Cheng Yingwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -155,16 +154,24 @@ third_nav_title: People of AES
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GUARDIAN___COUNSELLING_STAFF_S8R_GROUP.jpg">
-</div>
-<p></p>
+<p><strong><u>Allied Educators</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Desmond Chen</p>
