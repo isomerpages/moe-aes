@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>2026</strong></h3>
 <p>Dear Students, Please click the link below to access the following:</p>
 <p><strong>Timetable for Semester 2</strong>
-<br><a href="/files/AES2026_SEM2_Class_Timetables__v20_23Jun_.pdf" rel="noopener nofollow" target="_blank">AES 2026 Semester 2 Timetable </a>
+<br><a href="/files/AES_2026_SEM_2_CLASS_TIMETABLE__final_.pdf" rel="noopener nofollow" target="_blank">AES 2026 Semester 2 Timetable</a>
 </p>
 <p>
 <br><strong>WA1 Schedule</strong>

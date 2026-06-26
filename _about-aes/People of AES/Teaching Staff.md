@@ -75,6 +75,17 @@ any one of the teachers.</p>
 <p>Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Jia Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Lim Tze Xin</p>
 </td>
 </tr>
@@ -234,6 +245,17 @@ any one of the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yee Bin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,6 +340,17 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarah Ong Jia Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Raymond</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Yimeng</p>
 </td>
 </tr>
 <tr>
@@ -408,6 +441,17 @@ any one of the teachers.</p>
 <p>Ms Elise Eng</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hin Huat</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Upper Secondary Teachers</h3>
@@ -463,6 +507,17 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lilian Li Liliang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 George</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fasihah Bte Rahmat</p>
 </td>
 </tr>
 <tr>
@@ -540,17 +595,6 @@ any one of the teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seet Yoke Chee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Adolphus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fasihah Bte Rahmat</p>
 </td>
 </tr>
 <tr>
