@@ -40,7 +40,7 @@ were absorbed by St. Anthony's Primary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%;" height="auto" width="100%" alt="School History" src="/images/image%205.png">
 </div>
-<p>From 2013 to 2015 the school was rebuilt again under the PRIME scheme.
+<p>From 2013 to 2015, the school was rebuilt again under the PRIME scheme.
 The new school building was officially opened on 7th July 2017 by the Minister
 of Education (Schools), Mr Ng Chee Meng.</p>
 <div class="isomer-image-wrapper">
