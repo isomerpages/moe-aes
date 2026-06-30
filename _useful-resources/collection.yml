@@ -2,8 +2,9 @@ collections:
   useful-resources:
     output: true
     order:
-      - Edusave Character Award.md
       - Calendar and Happenings.md
+      - Timetable and Examinations.md
+      - Edusave Character Award.md
       - Secondary 2 Subject Allocation Exercise 2025.md
       - For Students.md
       - For Parents/.keep
@@ -18,5 +19,4 @@ collections:
         for Secondary 1 Students.md
       - For Teachers.md
       - For Alumni.md
-      - Timetable and Examinations.md
       - Direct School Admission (DSA).md
