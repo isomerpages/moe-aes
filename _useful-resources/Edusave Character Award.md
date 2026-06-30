@@ -1,6 +1,6 @@
 ---
 title: Edusave Character Award
-permalink: /edusave-character-award/
+permalink: /useful-resources/edusave-character-award/
 variant: tiptap
 description: ""
 ---
