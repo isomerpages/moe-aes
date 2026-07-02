@@ -121,6 +121,14 @@ third_nav_title: People of AES
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chur Hsing Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Poh Choo Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
