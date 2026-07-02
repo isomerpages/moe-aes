@@ -44,14 +44,16 @@ is felt beyond the stage.</p>
 <p>SYF – Certificate of Accomplishment (2025)</p>
 </li>
 <li>
-<p>Visual Performing Arts (VPA) CCA Showcase: <em>Illumier </em>(March 2024)</p>
+<p>Visual Performing Arts (VPA) CCA Showcase: <em>Jonons Ensemble (April 2026), Illumier (March 2024)</em>
+</p>
 </li>
 <li>
-<p>School band exchanges at Kranji Secondary School</p>
+<p>Internal School Performances - Asian Youth Leaders in Human Fraternity,
+Mother Tongue Language Fortnight Concert, National Day Concert, Lunchtime
+Concert</p>
 </li>
 <li>
-<p>Internal school performances - Asian Youth Leaders in Human Fraternity,
-Racial Harmony Day concert, Teachers’ Day concert, AssumptionKnights’ Challenge.</p>
+<p>External Performances - Senja Cashew CNY Dinner</p>
 </li>
 </ol>
 <blockquote>
