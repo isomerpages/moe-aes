@@ -19,10 +19,9 @@ for independent and lifelong learning.
 <br>- To deepen digital literacies in learners.
 <br>- To develop learners who can apply knowledge of cyber wellness and cyber
 security to safeguard their online learning.</p>
-<p></p>
-<p>Please find the Blended Learning dates for Semester 1</p>
+<p>Please find the Blended Learning dates for Semester 2.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_T2_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Dates_2026_Sem_2.png">
 </div>
 <p><strong>The important links are as follows:</strong>
 </p>

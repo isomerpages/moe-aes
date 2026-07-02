@@ -4,8 +4,7 @@ title: Assumption English School
 description: Assumption English School
 image: /images/AES_MGEI_landscape.png
 permalink: /
-notification: From 2nd to 26 Jun, the working hours for the School Bookshop will
-  be from 9am to 1230pm.
+notification: Dear All, the school will be closed on 6th July (Youth Day Holiday).
 sections:
   - hero:
       background: /images/Homepage/Banner_GIF.gif
@@ -19,6 +18,7 @@ sections:
         - title: AES School Prospectus 2025
           description: Click HERE for more info!
           url: https://www.canva.com/design/DAGzARGW1oE/rLrWwKyw3q1E1LUABl_1eg/view
+      variant: center
   - infopic:
       title: 2026 Direct School Admission for Secondary Schools (DSA-Sec)
       id: infopic
