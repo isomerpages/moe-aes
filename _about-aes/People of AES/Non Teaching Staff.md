@@ -201,7 +201,7 @@ third_nav_title: People of AES
 <p>Ms Ooi Su Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 </tr>
 <tr>
