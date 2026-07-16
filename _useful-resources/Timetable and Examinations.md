@@ -16,6 +16,9 @@ variant: tiptap
 <br><a href="/files/4NT_assessment_formats_and_topics_to_be_assessed.pdf" rel="noopener nofollow" target="_blank">4NT Assessment Formats &amp; Topics to be Assessed</a>
 </p>
 <p>
+<br><strong>4E5N Prelim Schedule</strong>
+<br><a href="/files/2026_O_Level_Prelim_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Schedule</a>
+<br><a href="/files/2026_O_Level_Prelim_Exam_Assessment_Formats___Topics_to_be_Assessed_xlsx___4_EXP_5NA.pdf" rel="noopener nofollow" target="_blank">4E5N Assessment Formats &amp; Topics to be Assessed</a>
 <br>
 </p>
 <p></p>
