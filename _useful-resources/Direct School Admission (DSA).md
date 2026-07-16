@@ -333,7 +333,7 @@ wanting. With the grit and tenacity they showed in each of their games,
 the AES Rangers were able to come back to school with their heads held
 high.</p>
 <blockquote>
-<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/learning/english-language-and-literature/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
+<p><strong><a href="https://www.assumptionenglish.moe.edu.sg/learning/english-language-and-literature/speak-programme/" rel="noopener noreferrer nofollow" target="_blank">Public Speaking &amp; Debates</a></strong>
 </p>
 </blockquote>
 <p>AES prides itself for having a robust Debating and Public Speaking programme
