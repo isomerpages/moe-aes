@@ -14,11 +14,19 @@ variant: tiptap
 <br><a href="/files/4NA_assessment_formats_and_topics_to_be_assessed.pdf" rel="noopener nofollow" target="_blank">4NA Assessment Formats &amp; Topics to be Assessed</a>
 <br><a href="/files/4NT_Prelim_Exam_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4NT Prelim Schedule</a>
 <br><a href="/files/4NT_assessment_formats_and_topics_to_be_assessed.pdf" rel="noopener nofollow" target="_blank">4NT Assessment Formats &amp; Topics to be Assessed</a>
-</p>
-<p>
+<br>
 <br><strong>4E5N Prelim Schedule</strong>
 <br><a href="/files/2026_O_Level_Prelim_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Schedule</a>
 <br><a href="/files/2026_O_Level_Prelim_Exam_Assessment_Formats___Topics_to_be_Assessed_xlsx___4_EXP_5NA.pdf" rel="noopener nofollow" target="_blank">4E5N Assessment Formats &amp; Topics to be Assessed</a>
+<br>
+<br><strong>Secondary 1 to 3 WA3 Schedule</strong>
+<br><a href="/files/2026_Sec_1_WA3_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA3 Schedule</a>
+<br><a href="/files/2026_Sec_2_WA3_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA3 Schedule</a>
+<br><a href="/files/2026_Sec_3_WA3_Schedule__for_students_.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3 Schedule</a>
+</p>
+<p>
+<br>
+<br>
 <br>
 </p>
 <p></p>
